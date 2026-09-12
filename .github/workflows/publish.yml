@@ -1,0 +1,41 @@
+name: Validate and publish question catalog
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'questions-*/**'
+      - 'scripts/**'
+      - '.github/workflows/publish.yml'
+permissions:
+  contents: read
+concurrency:
+  group: question-catalog
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate packages and sign manifest
+        env:
+          QUESTION_SIGNING_PRIVATE_KEY: ${{ secrets.QUESTION_SIGNING_PRIVATE_KEY }}
+          CATALOG_OUTPUT: ${{ runner.temp }}/catalog
+        run: node scripts/publish-catalog.cjs
+      - name: Publish immutable catalog release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release create "catalog-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}" \
+            "$RUNNER_TEMP/catalog/release-manifest.json" \
+            "$RUNNER_TEMP/catalog/release-manifest.sig" \
+            --target "$GITHUB_SHA" --title "Question catalog ${GITHUB_RUN_NUMBER}" \
+            --notes "Validated question catalog. Files are pinned to the signed repository commit." --latest
