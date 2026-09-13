@@ -1,0 +1,1797 @@
+{
+  "schema_version": 2,
+  "questions": [
+    {
+      "id": "question-517444a6-365b-449c-bb31-01af308abd2a",
+      "character_id": "Ema",
+      "text": "窗台上那盆薄荷终于冒出芽了。买的时候店员说它最好养，我还是每天早上起来第一件事就去看一眼，怕水浇多了，又怕它晒不到太阳。今天早上，两片特别小的叶子从土里顶出来，我蹲在那儿看了很久，看着看着就笑出声了。原来等一个很小的好消息，也会让人这么高兴。我以前总觉得自己什么也照顾不好——连身边的人都是。所以这次特意挑了最不容易养死的薄荷，还偷偷记了浇水的时间。可它真的活了，还长出了新叶子。好像我做的事情，是有回应的。等它再长大一点，我想摘两片泡水喝，听说加一点蜂蜜会很好喝。那种每天有一点点变化的感觉，还挺让人期待的。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "窗台上那盆薄荷终于冒出芽了。买的时候店员说它最好养，我还是每天早上起来第一件事就去看一眼，怕水浇多了，又怕它晒不到太阳。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "窓辺のあのミントの鉢、とうとう芽が出たんだ。買ったとき店員さんが一番育てやすいって言ってたけど、それでも私は毎朝起きて最初に一目見に行っちゃう。水をあげすぎるのも怖いし、日が当たらないのも怖いから。",
+          "pronunciation": "まどべの あの みんとの はち、 とうとう めが でたんだ。 かった とき てんいんさんが いちばん そだてやすいって いってたけど、 それでも わたしは まいあさ おきて さいしょに ひとめ みに いっちゃう。 みずを あげすぎるのも こわいし、 ひが あたらないのも こわいから。",
+          "audio_file": "audio/bb9fe6374f6d7a9abab6ef8fa4c180388ce191617905d90a75b72e9c3124374e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cb40445e519de98b7983d30ab653a533f8ee2f8240ea3d9a26dee2e316daf686",
+            "japanese": "cb40445e519de98b7983d30ab653a533f8ee2f8240ea3d9a26dee2e316daf686",
+            "audio": "b4b09944d6fc1e090903ae4ae89d8057e80a7864022b4b658e86ebe9d9a05a3f"
+          }
+        },
+        {
+          "order": 1,
+          "text": "今天早上，两片特别小的叶子从土里顶出来，我蹲在那儿看了很久，看着看着就笑出声了。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "今朝、土の中からすごく小さな葉っぱが二枚、ぴょこって出てきて、私はしゃがんでずっと見てた。見てたら、いつの間にか笑い声が出ちゃった。",
+          "pronunciation": "けさ、 つちの なかから すごく ちいさな はっぱが にまい、 ぴょこって でてきて、 わたしは しゃがんで ずっと みてた。 みてたら、 いつのまにか わらいごえが でちゃった。",
+          "audio_file": "audio/34e533b9efc58625cc82c9a1d9fc359639e5971354046129c3963cb2cad16106.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6c7b983026e1debd34bcd3cd9a7086f2b84828cbf3acd99b86241b1dddce98c8",
+            "japanese": "6c7b983026e1debd34bcd3cd9a7086f2b84828cbf3acd99b86241b1dddce98c8",
+            "audio": "8b596e78f9e781a40bdd5a47524e50df779a095200a045ff7c90f06556f31846"
+          }
+        },
+        {
+          "order": 2,
+          "text": "原来等一个很小的好消息，也会让人这么高兴。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "小さい良い知らせを待つだけでも、こんなに嬉しくなれるんだね。",
+          "pronunciation": "ちいさい いい しらせを まつだけでも、 こんなに うれしく なれるんだね。",
+          "audio_file": "audio/4e1527e4334ffa532c0861e6e70476db4ffaccb9a4b49f281e4753213cdb71eb.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "67e197a6b7e043382600e54678e3aea1765ea672e8a1d39480ddb56f47808aba",
+            "japanese": "67e197a6b7e043382600e54678e3aea1765ea672e8a1d39480ddb56f47808aba",
+            "audio": "21a2da73e5009dd4223392fda2782ab66cd6219e9418268dfa2051b8d10e58c7"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我以前总觉得自己什么也照顾不好——连身边的人都是。所以这次特意挑了最不容易养死的薄荷，还偷偷记了浇水的时间。",
+          "pose_id": "Cry_5",
+          "japanese": "私は前から、自分は何もうまく世話できないって思ってた。……身近な人のことだって、そうだったし。だから今回は、いちばん枯れにくいミントを選んだんだ。水をあげた時間も、こっそりメモしてる。",
+          "pronunciation": "わたしは まえから、 じぶんは なにも うまく せわできないって おもってた。……みぢかな ひとの ことだって、 そうだったし。 だから こんかいは、 いちばん かれにくい みんとを えらんだんだ。 みずを あげた じかんも、 こっそり めもしてる。",
+          "audio_file": "audio/90ddec96585d257a939b70b53cb9d9fc89f29bfd1dc72b0d96eeecb5822fb04c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e2211575e3d475bc5c609c6fd5c0deef959050f03e653ed61eb3f61efc1f4173",
+            "japanese": "e2211575e3d475bc5c609c6fd5c0deef959050f03e653ed61eb3f61efc1f4173",
+            "audio": "1754d56cbeb5dfd8f9d9fffc69052b83a5185a9e69cbe2f3673d16a11a1af843"
+          }
+        },
+        {
+          "order": 4,
+          "text": "可它真的活了，还长出了新叶子。好像我做的事情，是有回应的。",
+          "pose_id": "Happy_6",
+          "japanese": "それなのに、本当に生きてて、新しい葉っぱまで出た。私がしたこと、ちゃんと返ってきてるみたい。",
+          "pronunciation": "それなのに、 ほんとうに いきてて、 あたらしい はっぱまで でた。 わたしが したこと、 ちゃんと かえってきてるみたい。",
+          "audio_file": "audio/d79f90068ca2b81ac11f8e41015f446fe81bb4003c100693d2a7c918440955fd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "49fdc0d0dbdd36addaff1072c3775bb56092100df3695c42d32be926868c03a1",
+            "japanese": "49fdc0d0dbdd36addaff1072c3775bb56092100df3695c42d32be926868c03a1",
+            "audio": "1b79eb875ac7a72f917d943b630956963e4047927d1b1c80aa50af678ac3222d"
+          }
+        },
+        {
+          "order": 5,
+          "text": "等它再长大一点，我想摘两片泡水喝，听说加一点蜂蜜会很好喝。",
+          "pose_id": "Default_4",
+          "japanese": "もう少し大きくなったら、葉っぱを二枚摘んでお茶にしてみたい。はちみつを少し入れるとおいしいって聞いたから。",
+          "pronunciation": "もう すこし おおきくなったら、 はっぱを にまい つんで おちゃに してみたい。 はちみつを すこし いれると おいしいって きいたから。",
+          "audio_file": "audio/98c42c45a6eb588f0f380bba56c96316fb5d87ab2f783ffdec02aa4611ef986f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0cbe731c6a076ec40aac37d6beee9757434fb65cd77f8db3c1aa7739ee5551fd",
+            "japanese": "0cbe731c6a076ec40aac37d6beee9757434fb65cd77f8db3c1aa7739ee5551fd",
+            "audio": "bf06b8ef806d58e675efea92ae33146e9138a38bd6eabb9d34b72f0b36a123b6"
+          }
+        },
+        {
+          "order": 6,
+          "text": "那种每天有一点点变化的感觉，还挺让人期待的。",
+          "pose_id": "Default_4",
+          "japanese": "毎日少しずつ変わっていくのを見るのって、なんだか楽しみなんだ。",
+          "pronunciation": "まいにち すこしずつ かわっていくのを みるのって、 なんだか たのしみなんだ。",
+          "audio_file": "audio/3189611b9ed33900ce101f385005d70c95ca28e20d6daab773e8d5c3a12bed48.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e082967653d275a342d1a3433be53999bf2b84e837e05c4d4ffecf10540bd8b1",
+            "japanese": "e082967653d275a342d1a3433be53999bf2b84e837e05c4d4ffecf10540bd8b1",
+            "audio": "e70912a78439b70f992bd1a1b13754ecfdc806ab94a1f834030b84a0852abcbe"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-cf53d4f7-e48c-496c-a03e-42239895b152",
+      "character_id": "Ema",
+      "text": "今天我在店里绕了三圈。就是想问一句“这个多少钱”，结果绕到第三圈，我自己都觉得有点奇怪了。以前这种事我肯定直接放弃。不开口就谁都不会嫌我烦，也不会因为我问得太小声而皱眉头——我是这么想的，一直都是。可这次我停在收银台前面，把想说的话在心里排了一遍，然后很小声地说出来了。店员抬起头，笑着回答我，还顺手把东西翻过来给我看标签。她一点都不觉得我打扰了她。整个过程大概只有十秒钟。走出店门以后，我在台阶上站了一会儿。原来只是问一句话，也可以这么累，也这么让人高兴。我想，以后还是会有很多不敢开口的时候吧。不过至少今天这一句，我说出来了。下次如果再绕到第三圈，我就告诉自己：今天不是也没事吗。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天我在店里绕了三圈。就是想问一句“这个多少钱”，结果绕到第三圈，我自己都觉得有点奇怪了。",
+          "pose_id": "Thinking_5",
+          "japanese": "今日、お店の中で三周もぐるぐる回っちゃった。「これ、いくらですか」って聞きたかっただけなのに、三周目になったら、自分でもちょっと変だなって思えてきて。",
+          "pronunciation": "きょう、おみせのなかで さんしゅうも ぐるぐる まわっちゃった。「これ、いくらですか」って ききたかっただけなのに、さんしゅうめに なったら、じぶんでも ちょっと へんだなって おもえてきて。",
+          "audio_file": "audio/2325c4700290454161094fc7307734fa993dcbdb248d4059199e89ea5693733b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3f4d8cc3711b9ac1ee5a60accaf27185788d50b593f2f871ef67833980a57c3e",
+            "japanese": "3f4d8cc3711b9ac1ee5a60accaf27185788d50b593f2f871ef67833980a57c3e",
+            "audio": "cead3b5dfbd5a7a3c3e3923ccd1b2b0ad6fca03b0d82f9aafac651e0253d02d7"
+          }
+        },
+        {
+          "order": 1,
+          "text": "以前这种事我肯定直接放弃。不开口就谁都不会嫌我烦，也不会因为我问得太小声而皱眉头——我是这么想的，一直都是。",
+          "pose_id": "Cry_1",
+          "japanese": "前なら、こういうのは絶対にあきらめてた。口を開かなければ、誰にもうるさがられないし、声が小さすぎて嫌な顔をされることもない——ずっと、そう思ってたんだ。",
+          "pronunciation": "まえなら、こういうのは ぜったいに あきらめてた。くちを ひらかなければ、だれにも うるさがられないし、こえが ちいさすぎて いやな かおを されることも ない——ずっと、そう おもってたんだ。",
+          "audio_file": "audio/610047ba66e8778f741a0b9526d1711eedc804d8e84b45683f4da9f26fe23397.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a5c900b00f7831f9648b2a7c6f681e9a53c1a662b665def6e9bde75e821ab769",
+            "japanese": "a5c900b00f7831f9648b2a7c6f681e9a53c1a662b665def6e9bde75e821ab769",
+            "audio": "7f404f35e68824d43220df94ffc89a8a5d1c80fb656eec2407faa667ba60b351"
+          }
+        },
+        {
+          "order": 2,
+          "text": "可这次我停在收银台前面，把想说的话在心里排了一遍，然后很小声地说出来了。",
+          "pose_id": "Fearful_2",
+          "japanese": "でも今回は、レジの前に立って、言いたい言葉を心の中で並べ直して、それからすごく小さな声で言ってみた。",
+          "pronunciation": "でも こんかいは、レジの まえに たって、いいたい ことばを こころの なかで ならべなおして、それから すごく ちいさな こえで いってみた。",
+          "audio_file": "audio/3d16800eb0161fd51dba212a77042da7077f543a3dc5bb53771291ee02b55d91.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "61eaee32819459a9ba5951b1484b5f357cf2be181fd141dc1380a3eb8022b8ee",
+            "japanese": "61eaee32819459a9ba5951b1484b5f357cf2be181fd141dc1380a3eb8022b8ee",
+            "audio": "b7520b55a691f6e52189c662d3414f4d2af4af885531e358dbbb8ad92aeece75"
+          }
+        },
+        {
+          "order": 3,
+          "text": "店员抬起头，笑着回答我，还顺手把东西翻过来给我看标签。她一点都不觉得我打扰了她。整个过程大概只有十秒钟。",
+          "pose_id": "Surprise_4",
+          "japanese": "店員さんは顔を上げて、笑いながら答えてくれて、ついでに商品をひっくり返してラベルを見せてくれた。迷惑だなんて、少しも思ってなさそうだった。かかった時間は、たぶん十秒くらい。",
+          "pronunciation": "てんいんさんは かおを あげて、わらいながら こたえてくれて、ついでに しょうひんを ひっくりかえして ラベルを みせてくれた。めいわくだなんて、すこしも おもってなさそうだった。かかった じかんは、たぶん じゅうびょうくらい。",
+          "audio_file": "audio/3094ae4b3ca04b6c374649333726aa8733f7e968987c19e35d063fc0692f4ffb.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2c5e4f550dc83c6301b4085959598880bd3e0de1cf27d8119f1cda4a90529084",
+            "japanese": "2c5e4f550dc83c6301b4085959598880bd3e0de1cf27d8119f1cda4a90529084",
+            "audio": "1157e2e88cfcfaca41eb1d9a626f994f008d22ed4a8cf6b25bfe464d15fd461e"
+          }
+        },
+        {
+          "order": 4,
+          "text": "走出店门以后，我在台阶上站了一会儿。原来只是问一句话，也可以这么累，也这么让人高兴。",
+          "pose_id": "Happy_4",
+          "japanese": "お店を出てから、階段のところでちょっと立ち止まった。たった一言聞くだけで、こんなに疲れるなんて。それなのに、こんなに嬉しいなんて。",
+          "pronunciation": "おみせを でてから、かいだんの ところで ちょっと たちどまった。たった ひとこと きくだけで、こんなに つかれるなんて。それなのに、こんなに うれしいなんて。",
+          "audio_file": "audio/d0d6e92dec4d4b0e3f0e4254bd57d6295bf14ac13d979fc959693fe48bccbc33.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b638140ce52a43b6fb07d7c8d5096ff845814fca3a1b6a228779ecfe25c29d12",
+            "japanese": "b638140ce52a43b6fb07d7c8d5096ff845814fca3a1b6a228779ecfe25c29d12",
+            "audio": "4fef743c58fc316cce0d5ff05fd77c682146d27bbfac5fc401484137420c40c5"
+          }
+        },
+        {
+          "order": 5,
+          "text": "我想，以后还是会有很多不敢开口的时候吧。不过至少今天这一句，我说出来了。",
+          "pose_id": "Explain_Default_3",
+          "japanese": "これからも、口を開けなくて迷うことはきっとたくさんあるんだろうな。それでも、少なくとも今日のこの一言は、ちゃんと言えた。",
+          "pronunciation": "これからも、くちを ひらけなくて まよう ことは きっと たくさん あるんだろうな。それでも、すくなくとも きょうの この ひとことは、ちゃんと いえた。",
+          "audio_file": "audio/af5affbe2539aa129362d7ae1351c57034f62f926a7343b79e0dc3dfcd08dbb8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "52277b25ba96eff9690185ebf40bbfe3a19e165baf51167d911880aee5b0f9f8",
+            "japanese": "52277b25ba96eff9690185ebf40bbfe3a19e165baf51167d911880aee5b0f9f8",
+            "audio": "aa8d8f12e7c4e4c89f18cca6e3039f5465514f8246df3058f145ad409dbc9094"
+          }
+        },
+        {
+          "order": 6,
+          "text": "下次如果再绕到第三圈，我就告诉自己：今天不是也没事吗。",
+          "pose_id": "Explain_Excited_1",
+          "japanese": "次にまた三周目まで回ってしまったら、自分にこう言おう。今日だって、大丈夫だったじゃないか、って。",
+          "pronunciation": "つぎに また さんしゅうめまで まわってしまったら、じぶんに こう いおう。きょうだって、だいじょうぶだったじゃないか、って。",
+          "audio_file": "audio/6b1191c453bfe28885e23d5f277570057234ac58bd26b698b2c09c3c20d30d32.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "739684203a0557af90c03a91f4c380f58e185bb3c60f2ff46d36acfe5c7167e2",
+            "japanese": "739684203a0557af90c03a91f4c380f58e185bb3c60f2ff46d36acfe5c7167e2",
+            "audio": "f511f35b660e3f7bb0b0cb7cb0b04dc16207d670264db5379573516ddbab3567"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-5a0f8daf-37dd-4083-9e28-4505f7ef66b1",
+      "character_id": "Ema",
+      "text": "刚才在路口等信号灯的时候，有一只很小的狗从旁边的巷子里跑出来，绕着我转了两圈，然后就贴在我的鞋边不走了。它身上没有项圈，毛有点脏，抬头看我的时候眼睛湿漉漉的，我蹲下来，它就顺势把头搁在我的手心里。我站在原地想了很久该怎么办。带回家的话，我连自己都还不太会照顾；丢下它走掉，又怎么也迈不开脚。后来我抱着它去问了巷口那家店的老板娘，才知道是附近人家的狗，早上刚跑丢的。老板娘打电话的时候，它在我怀里打了个哈欠，爪子还搭在我的袖子上。我忽然有点舍不得。明明只是几分钟的事，我却好像已经想好了要给它准备水碗和毯子。主人来接它的时候一直跟我道谢，我只会摆手说没关系。回去的路上，袖子上还留着一点它踩过的印子。我盯着那个印子看了好久，说不上是高兴还是有点失落。要是以后我住的地方能养一只小动物，我希望它不要这么容易就跑丢，也希望它认得回家的路。这样就不用站在路口，等别人来把它接走了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "刚才在路口等信号灯的时候，有一只很小的狗从旁边的巷子里跑出来，绕着我转了两圈，然后就贴在我的鞋边不走了。",
+          "pose_id": "Explain_Earnest_4",
+          "japanese": "さっき信号待ちをしていたら、小さな犬が横の路地から走ってきて、ボクの周りを二回りして、それから靴の横にぴったりくっついて動かなくなったんだ。",
+          "pronunciation": "さっきしんごうまちをしていたら、ちいさないぬがよこのろじからはしってきて、ボクのまわりをふたまわりして、それからくつのよこにぴったりくっついてうごかなくなったんだ。",
+          "audio_file": "audio/d27020284a02512a52e4a4942382bfaa9031953c811d4d198cbb9c890b3e7d05.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "7d4f598ff544ce67a69d08d0ef947a9c07e26f7744e0f7159961c95e73d81ad6",
+            "japanese": "7d4f598ff544ce67a69d08d0ef947a9c07e26f7744e0f7159961c95e73d81ad6",
+            "audio": "8e51a2bdb9722dbb02280bcda678060464dad227e2cf22f51051586ed28a6245"
+          }
+        },
+        {
+          "order": 1,
+          "text": "它身上没有项圈，毛有点脏，抬头看我的时候眼睛湿漉漉的，我蹲下来，它就顺势把头搁在我的手心里。",
+          "pose_id": "Default_4",
+          "japanese": "首輪はついていなくて、毛も少し汚れていたよ。見上げてきた目がうるうるしていて、ボクがしゃがんだら、そのまま頭をボクの手のひらに乗せてきたの。",
+          "pronunciation": "くびわはついていなくて、けもすこしよごれていたよ。みあげてきためがうるうるしていて、ボクがしゃがんだら、そのままあたまをボクのてのひらにのせてきたの。",
+          "audio_file": "audio/2cfdfda243a584c8215542ae69010b2bac73fe558dcd0122842c057eb1255420.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0cf774194a2ff8eebbfd6a784a4aa62f9af032f3110668ea6dc5b9845a74cc08",
+            "japanese": "0cf774194a2ff8eebbfd6a784a4aa62f9af032f3110668ea6dc5b9845a74cc08",
+            "audio": "7be1af35b1e5ecfe49f47cc98ed609b0c3a546bb42dc630d55e8a6736e734f64"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我站在原地想了很久该怎么办。带回家的话，我连自己都还不太会照顾；丢下它走掉，又怎么也迈不开脚。",
+          "pose_id": "Thinking_7",
+          "japanese": "その場に立ったまま、どうしたらいいかずっと考えていた。連れて帰っても、ボクは自分のことだってまだちゃんとできないし……置いて行こうとしても、足がどうしても前に出なかった。",
+          "pronunciation": "そのばにたったまま、どうしたらいいかずっとかんがえていた。つれてかえっても、ボクはじぶんのことだってまだちゃんとできないし……おいてゆこうとしても、あしがどうしてもまえにでなかった。",
+          "audio_file": "audio/12936c08c3b64c4ccda00922ce4b2d6dcf53a5ea24dd3a091e8a35e226666c1b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cf03ca226d1b9e9b23f97c5228e17b1bc2fba42dc82e1df9f6acf0dba3ce734d",
+            "japanese": "cf03ca226d1b9e9b23f97c5228e17b1bc2fba42dc82e1df9f6acf0dba3ce734d",
+            "audio": "bbef550f209efc8615c9e4a3908a68b14c9d0ff1511256580541e71b75a284e6"
+          }
+        },
+        {
+          "order": 3,
+          "text": "后来我抱着它去问了巷口那家店的老板娘，才知道是附近人家的狗，早上刚跑丢的。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "それで、抱っこしたまま路地の入り口の店のおばさんに聞いてみたら、近所の家の犬で、朝に逃げちゃったばかりだって分かったの。",
+          "pronunciation": "それで、だっこしたままろじのいりぐちのみせのおばさんにきいてみたら、きんじょのいえのいぬで、あさににげちゃったばかりだってわかったの。",
+          "audio_file": "audio/c390912260e6b53b96fa49002fc5d880fd4057ebe38eaea8d1c206ca7a3e1a65.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "94aad19acc6eb30757bb185d07f87f3e07a1db6bda75f1e1601509f4fce0df42",
+            "japanese": "94aad19acc6eb30757bb185d07f87f3e07a1db6bda75f1e1601509f4fce0df42",
+            "audio": "a154f88232386a0a97890aab4bfc89b38c95935f923daad82646d78e17f1aeeb"
+          }
+        },
+        {
+          "order": 4,
+          "text": "老板娘打电话的时候，它在我怀里打了个哈欠，爪子还搭在我的袖子上。我忽然有点舍不得。",
+          "pose_id": "Cry_5",
+          "japanese": "おばさんが電話している間、その子はボクの腕の中で欠伸をして、爪はボクの袖に乗せたままだった。急に、ちょっと離れがたくなってしまった。",
+          "pronunciation": "おばさんがでんわしているあいだ、そのこはボクのうでのなかであくびをして、つめはボクのそでにのせたままだった。きゅうに、ちょっとはなれがたくなってしまった。",
+          "audio_file": "audio/5675a1711ae2d16f675ca0bcbed275187bb2cffbdf6bb714f59485cb782a0b56.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "dc27133bafac4fa1c192e08fc9fdfe47a6f6115f62f207b133c5b641d9adb643",
+            "japanese": "dc27133bafac4fa1c192e08fc9fdfe47a6f6115f62f207b133c5b641d9adb643",
+            "audio": "daf91a39996e36a3793c86bed466b54ebe5f8888b97ff4204e926b27522875a6"
+          }
+        },
+        {
+          "order": 5,
+          "text": "明明只是几分钟的事，我却好像已经想好了要给它准备水碗和毯子。",
+          "pose_id": "Thinking_6",
+          "japanese": "ほんの数分のことなのに、ボクはもう水の器と毛布を用意するところまで考えていたみたい。",
+          "pronunciation": "ほんのすうふんのことなのに、ボクはもうみずのうつわともうふをよういするところまでかんがえていたみたい。",
+          "audio_file": "audio/ee288eee4f38b43e80b3488dbeb4bc7350898be2e7ed9222771aa3cf0f70803a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b7b09ea0d1a8b21d574003482db67d826a1438ea34384d1bdcb5181f999b3627",
+            "japanese": "b7b09ea0d1a8b21d574003482db67d826a1438ea34384d1bdcb5181f999b3627",
+            "audio": "6c387a5f03dbf1accfa5cef1abcec0cf003d5f0564d3c4257c584eac48dbec39"
+          }
+        },
+        {
+          "order": 6,
+          "text": "主人来接它的时候一直跟我道谢，我只会摆手说没关系。回去的路上，袖子上还留着一点它踩过的印子。",
+          "pose_id": "Default_4",
+          "japanese": "飼い主さんが迎えに来て、ずっとお礼を言ってくれて、ボクは手を振って「大丈夫です」としか言えなかった。帰り道、袖にはその子が踏んだ跡が少し残っていたよ。",
+          "pronunciation": "かいぬしさんがむかえにきて、ずっとおれいをいってくれて、ボクはてをふって「だいじょうぶです」としかいえなかった。かえりみち、そでにはそのこがふんだあとがすこしのこっていたよ。",
+          "audio_file": "audio/9c3fdc75a294a6b490f149d9a22ab4e2e9123565de673be6a8684cefc2b24efd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9799a9a877133bc9109187bd62acaf813ad191477eeb3b23520cd718f56c0197",
+            "japanese": "9799a9a877133bc9109187bd62acaf813ad191477eeb3b23520cd718f56c0197",
+            "audio": "eff39e03f0be2d5968a86d0987bb2f2ce069d583725837c7b5dcec9df9b1b89c"
+          }
+        },
+        {
+          "order": 7,
+          "text": "我盯着那个印子看了好久，说不上是高兴还是有点失落。",
+          "pose_id": "Cry_3",
+          "japanese": "その跡をしばらくじっと見ていた。嬉しいのか、少し寂しいのか、自分でもよく分からない。",
+          "pronunciation": "そのあとをしばらくじっとみていた。うれしいのか、すこしさびしいのか、じぶんでもよくわからない。",
+          "audio_file": "audio/5659aba588e1f09d307a1ee3a5343da59867fe5c9759eca8b904439bb04c69aa.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "21b2f4c88a4eebf8c925d337f3911d0f19810b180721f1cf37d119d35fe1c80c",
+            "japanese": "21b2f4c88a4eebf8c925d337f3911d0f19810b180721f1cf37d119d35fe1c80c",
+            "audio": "1172d02b74b04914bf6be18afac0abd8112c54e24904baf3b9562fb32a28a54e"
+          }
+        },
+        {
+          "order": 8,
+          "text": "要是以后我住的地方能养一只小动物，我希望它不要这么容易就跑丢，也希望它认得回家的路。这样就不用站在路口，等别人来把它接走了。",
+          "pose_id": "Explain_Default_1",
+          "japanese": "いつかボクの住む場所で小さい動物を飼えたら、こんなにすぐ逃げ出さない子がいいし、自分の家の帰り道もちゃんと分かる子がいいな。そうしたら、交差点に立って、誰かが迎えに来るのを待たなくて済むから。",
+          "pronunciation": "いつかボクのすむばしょでちいさいどうぶつをかえたら、こんなにすぐにげださないこがいいし、じぶんのいえのかえりみちもちゃんとわかるこがいいな。そうしたら、こうさてんにたって、だれかがむかえにくるのをまたなくてすむから。",
+          "audio_file": "audio/58b8698d97e87e7269c1e2ec464e36bb4be4e8af1f6db9232b5c5695bf2d5f51.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ca42c9e6f95d5a33af4582ad1bd65b933ff160f043e307ea05591ccbf01696b4",
+            "japanese": "ca42c9e6f95d5a33af4582ad1bd65b933ff160f043e307ea05591ccbf01696b4",
+            "audio": "ded15226f5e6f348b3b22cb6f71b576a4ff4eda02360400f293e563207842e65"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-78f4d37d-dc5e-4c01-aaf6-ac2ff3bc21bc",
+      "character_id": "Ema",
+      "text": "图书馆借的那本书，其实前天就读完了，可我还是拖到今天才去还。出门前我把它装进袋子里，又拿出来确认了一遍有没有折到书角。走到柜台前面，我又停住了。上次还书的时候我迟了两天，虽然那已经是很久以前的事，柜台的人大概早就忘了，我却一直记着。排队的时候我一直在想要不要说点什么，还是干脆什么都不说。最后我还是开口了，小声说了一句「上次迟了两天，对不起」。那个人愣了一下，然后笑着说，还回来了就好，这次还很早呢。我顺着她的话点了点头，转过身的时候，肩膀一下子松了下来。原来只有我一个人把这件事压在心上，压了那么久。出来以前，我又在书架上挑了一本，打算下周开始看。这一次，我打算在书里夹一张纸，把还书的日期写在上面。这样就不用一边看书一边数日子了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "图书馆借的那本书，其实前天就读完了，可我还是拖到今天才去还。出门前我把它装进袋子里，又拿出来确认了一遍有没有折到书角。",
+          "pose_id": "Tension_1",
+          "japanese": "図書館で借りた本、実はおととい読み終わってたんだけど、今日までずるずる延ばして、やっと返しに行くことにしたんだ。出かける前に袋に入れたんだけど、また出してきて、ページの角が折れてないか確認しちゃった。",
+          "pronunciation": "としょかんでかりたほん、じつはおとといよみおわってたんだけど、きょうまでずるずるのばして、やっとかえしにいくことにしたんだ。でかけるまえにふくろにいれたんだけど、まただしてきて、ページのかどがおれてないかかくにんしちゃった。",
+          "audio_file": "audio/720bad08e6b7caa2834372a2af58da9bae17bec39b35f34ae90894fb9ea1c57e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "7533840f5dbd9289cf7865eebd0a1e791eb7c1e3f26565e161342c0aa944f161",
+            "japanese": "7533840f5dbd9289cf7865eebd0a1e791eb7c1e3f26565e161342c0aa944f161",
+            "audio": "c4347cdcb10b1f5dafd4e354a52ece10b9a83e0effea987951121773be5ee179"
+          }
+        },
+        {
+          "order": 1,
+          "text": "走到柜台前面，我又停住了。上次还书的时候我迟了两天，虽然那已经是很久以前的事，柜台的人大概早就忘了，我却一直记着。",
+          "pose_id": "Tension_1",
+          "japanese": "カウンターの前に着いて、また足が止まっちゃった。前回返すのが二日遅れちゃって、もうずっと前のことだし、受付の人もきっと忘れてるんだろうけど……ボクはずっと覚えてたんだ。",
+          "pronunciation": "カウンターのまえについて、またあしがとまっちゃった。ぜんかいかえすのがふつかおくれちゃって、もうずっとまえのことだし、うけつけのひともきっとわすれてるんだろうけど……ボクはずっとおぼえてたんだ。",
+          "audio_file": "audio/e895e1964d92293bc9a8a1830359637f2a4dce8344dbc7cdefa9980ad5430b75.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2b0d96bec11602368c863850717d89d031c198b065bd2002260a7156af4adc84",
+            "japanese": "2b0d96bec11602368c863850717d89d031c198b065bd2002260a7156af4adc84",
+            "audio": "88c497a52d9e3f51a0b5afec865b39386abae2786f38d1020ccef55bf8c6dc24"
+          }
+        },
+        {
+          "order": 2,
+          "text": "排队的时候我一直在想要不要说点什么，还是干脆什么都不说。最后我还是开口了，小声说了一句「上次迟了两天，对不起」。",
+          "pose_id": "Embarrassing_1",
+          "japanese": "並んでる間、何か言ったほうがいいのかな、それとも何も言わないほうがいいのかなって、ずっと考えてた。でも結局、口を開いて、小さな声で「この前、二日遅れちゃって、ごめんなさい」って言ったんだ。",
+          "pronunciation": "ならんでるあいだ、なにかいったほうがいいのかな、それともなにもいわないほうがいいのかなって、ずっとかんがえてた。でもけっきょく、くちをひらいて、ちいさなこえで「このまえ、ふつかおくれちゃって、ごめんなさい」っていったんだ。",
+          "audio_file": "audio/0418998a6729485d684eca189690b2c782d4dad0e72bf1dcb7f48514a8fa3abe.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ba0fd395c0221e6ca13a3a1dbada65327def1b070564d2a8b4894619c260c370",
+            "japanese": "ba0fd395c0221e6ca13a3a1dbada65327def1b070564d2a8b4894619c260c370",
+            "audio": "3b34d5da23682623900528e92f8ac52f37dd656f47e0ee611372448f295eb39a"
+          }
+        },
+        {
+          "order": 3,
+          "text": "那个人愣了一下，然后笑着说，还回来了就好，这次还很早呢。",
+          "pose_id": "Surprise_5",
+          "japanese": "その人は一瞬きょとんとして、それから笑って、「返してくれたらそれでいいですよ。今回はまだずいぶん早いですし」って言ってくれた。",
+          "pronunciation": "そのひとはいっしゅんきょとんとして、それからわらって、「かえしてくれたらそれでいいですよ。こんかいはまだずいぶんはやいですし」っていってくれた。",
+          "audio_file": "audio/a283150a08af7f721b6b350aca3518fd7ce765bb44d56678b76dd3ea946240c9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e0f8971f4fdd88752949d0e202ea82b7a41a8bf79d048c65160be423bfb4e73e",
+            "japanese": "e0f8971f4fdd88752949d0e202ea82b7a41a8bf79d048c65160be423bfb4e73e",
+            "audio": "680ad2aceb6333afebaf6708558a74c252c99a1a2b16b417d9285d4bc3b2f3f5"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我顺着她的话点了点头，转过身的时候，肩膀一下子松了下来。原来只有我一个人把这件事压在心上，压了那么久。",
+          "pose_id": "Explain_Default_3",
+          "japanese": "ボクはうなずいて、背を向けたとき、肩の力がふっと抜けたんだ。こんなこと、ずっと胸に抱えてたのはボクだけだったんだね。",
+          "pronunciation": "ボクはうなずいて、せをむけたとき、かたのちからがふっとぬけたんだ。こんなこと、ずっとむねにかかえてたのはボクだけだったんだね。",
+          "audio_file": "audio/560bb8171aa6114fa2b72524789be33a819d737303426e1ef44634c05a0c3223.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b4a2b8207429bfedac67f731b77275fd1a1c7c1b203d54c87afc1ad2bbfaf830",
+            "japanese": "b4a2b8207429bfedac67f731b77275fd1a1c7c1b203d54c87afc1ad2bbfaf830",
+            "audio": "9b63d9a24d48133143e8403731c7706625c9d6105ce6dc2029f653463dc60541"
+          }
+        },
+        {
+          "order": 5,
+          "text": "出来以前，我又在书架上挑了一本，打算下周开始看。这一次，我打算在书里夹一张纸，把还书的日期写在上面。这样就不用一边看书一边数日子了。",
+          "pose_id": "Happy_2",
+          "japanese": "出る前に、本棚からまた一冊選んで、来週から読もうと思ってる。今度は本に紙を一枚はさんで、返す日をそこに書くつもりなんだ。そうすれば、読みながら日を数えなくてすむから。",
+          "pronunciation": "でるまえに、ほんだなからまたいっさつえらんで、らいしゅうからよもうとおもってる。こんどはほんにかみをいちまいはさんで、かえすひをそこにかくつもりなんだ。そうすれば、よみながらひをかぞえなくてすむから。",
+          "audio_file": "audio/88181f6a55e64a28c1ed7c803fe0dd0f461240ef57f58e5531ef1ea9fa74326a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1d7d866ccbefb7528956e65e2663e76562cd373fcd9949fb569a7cf97fddbe0b",
+            "japanese": "1d7d866ccbefb7528956e65e2663e76562cd373fcd9949fb569a7cf97fddbe0b",
+            "audio": "704ea35e324c1b6ad15cc69ffc5e6d4076143f6da2cb3b8f8b9659c8856913af"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-3626e93b-158e-4f4e-a5da-a5b852d2647e",
+      "character_id": "Ema",
+      "text": "半个月前我在文具店买了一个巴掌大的本子，每天睡前只写一两行，写完就塞到枕头底下。里面记的全是小事：谁说话之前会先叹一口气，谁吃到好吃的东西就会突然安静下来，谁笑起来其实比说话的时候多。我总觉得，这些细节要是不写下来，总有一天会像水一样从手里漏掉。可是前天翻回前面几页，我发现写来写去全是别人。“今天我没有哭”“今天我把想说的话说出口了”——这样的句子，我一句都没舍得写上去。因为写下来就好像在承认，我自己的事也值得占一行位置。这个念头冒出来的时候，我自己也愣了一下，它熟悉得让人有点讨厌。所以从昨天开始，我给自己定了个小规矩：每天至少要留一行给我自己。哪怕只是“今天煮蛋没有煮破”这种话，也要老老实实写上去。等这本写满一半，我大概就能比现在稍微喜欢自己一点点了。在那之前，我会先好好写完——不给你看，我自己留着。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "半个月前我在文具店买了一个巴掌大的本子，每天睡前只写一两行，写完就塞到枕头底下。",
+          "pose_id": "Default_3",
+          "japanese": "半月前、文房具屋で手のひらサイズのノートを買ったんだ。毎晩寝る前に一行か二行だけ書いて、書き終わったら枕の下にしまう。",
+          "pronunciation": "はんつきまえ、ぶんぼうぐやでてのひらサイズのノートをかったんだ。まいばんねるまえにいちぎょうかにぎょうだけかいて、かきおわったらまくらのしたにしまう。",
+          "audio_file": "audio/48b9aca68ef3106f7b22c27c6e334ef36c16e9c459fcfc67f507fc48b0139e86.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "442734cfd3d4a62e5174a967297ac9544fe475001c1ff883026f8765b339a220",
+            "japanese": "442734cfd3d4a62e5174a967297ac9544fe475001c1ff883026f8765b339a220",
+            "audio": "8ad05f9b6fac84dca73fd0fc82eeea05082dfb56e7e4ae63ec0bbe9479756a4f"
+          }
+        },
+        {
+          "order": 1,
+          "text": "里面记的全是小事：谁说话之前会先叹一口气，谁吃到好吃的东西就会突然安静下来，谁笑起来其实比说话的时候多。我总觉得，这些细节要是不写下来，总有一天会像水一样从手里漏掉。",
+          "pose_id": "Happy_3",
+          "japanese": "書いてあるのは、ぜんぶ小さなことばかり。誰かは話す前にまずため息をつくとか、誰かは美味しいものを食べると急に静かになるとか、誰かは話すときよりも笑っているときのほうが多いとか。こういう細かいところも、書きとめておかないと、いつか水みたいに手のあいだをこぼれてしまいそうで。",
+          "pronunciation": "かいてあるのは、ぜんぶちいさなことばかり。だれかははなすまえにまずためいきをつくとか、だれかはおいしいものをたべるときゅうにしずかになるとか、だれかははなすときよりもわらっているときのほうがおおいとか。こういうこまかいところも、かきとめておかないと、いつかみずみたいにてのあいだをこぼれてしまいそうで。",
+          "audio_file": "audio/e9b11243051fd08ef8d39da98c36c19d16494571c1e2adaff4436b5df854ea8c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "852431b1e13d323595254dc40aa797153b41156ac41cb506123a1c3dabf6b9cf",
+            "japanese": "852431b1e13d323595254dc40aa797153b41156ac41cb506123a1c3dabf6b9cf",
+            "audio": "9e044fde5a7626f0aa5675711280a49f688ea2239bca233f017f8a1afaac7460"
+          }
+        },
+        {
+          "order": 2,
+          "text": "可是前天翻回前面几页，我发现写来写去全是别人。“今天我没有哭”“今天我把想说的话说出口了”——这样的句子，我一句都没舍得写上去。",
+          "pose_id": "Thinking_6",
+          "japanese": "でもおととい、前のページをめくってみたら、書いてあるのはずっと他人のことばかりだった。「今日は泣かなかった」「今日は言いたいことを言えた」——そういう一行は、ボクはどれも書けずにいた。",
+          "pronunciation": "でもおととい、まえのページをめくってみたら、かいてあるのはずっとたにんのことばかりだった。「きょうはなかなかった」「きょうはいいたいことをいえた」——そういういちぎょうは、ボクはどれもかけずにいた。",
+          "audio_file": "audio/2414371ab269248f7a68baf670087f47421fb018d2d4f4dff5dae98951abb989.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4507deac27cef6f3077b98d06dcb043e4f5f9ce74069c56b0e14b5a07b2b2ee6",
+            "japanese": "4507deac27cef6f3077b98d06dcb043e4f5f9ce74069c56b0e14b5a07b2b2ee6",
+            "audio": "c21460166e3f57a13600c66dcafe2731b78c8932027fb2d9de0e7f3d3c6c3466"
+          }
+        },
+        {
+          "order": 3,
+          "text": "因为写下来就好像在承认，我自己的事也值得占一行位置。这个念头冒出来的时候，我自己也愣了一下，它熟悉得让人有点讨厌。",
+          "pose_id": "Cry_2",
+          "japanese": "書いてしまったら、自分のことにも一行ぶんの場所があるって認めるみたいで。その考えが浮かんだとき、ボクは自分でも一瞬止まってしまった。あんまりにも馴染みすぎていて、少し嫌になるくらいだった。",
+          "pronunciation": "かいてしまったら、じぶんのことにもいちぎょうぶんのばしょがあるってみとめるみたいで。そのかんがえがうかんだとき、ボクはじぶんでもいっしゅんとまってしまった。あんまりにもなじみすぎていて、すこしやになるくらいだった。",
+          "audio_file": "audio/62196d5b5819375db01945068e9b0175b4c047e97fc4871cde2e15c362bcc259.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9966febd150677750eec36837506b3e88742d1d520d0f2a6c3e101bfa31cde9d",
+            "japanese": "9966febd150677750eec36837506b3e88742d1d520d0f2a6c3e101bfa31cde9d",
+            "audio": "507d41cc7a0ea7b0090c2a630024820c447fd8a1f763b2305a253544e8536fe5"
+          }
+        },
+        {
+          "order": 4,
+          "text": "所以从昨天开始，我给自己定了个小规矩：每天至少要留一行给我自己。哪怕只是“今天煮蛋没有煮破”这种话，也要老老实实写上去。",
+          "pose_id": "Explain_Default_3",
+          "japanese": "だから昨日から、自分に小さな約束を決めた。一日に少なくとも一行は、自分のために残すって。たとえ「今日はゆで卵が割れなかった」みたいなことでも、ちゃんと書き込む。",
+          "pronunciation": "だからきのうから、じぶんにちいさなやくそくをきめた。いちにちにすくなくともいちぎょうは、じぶんのためにのこすって。たとえ「きょうはゆでたまごがわれなかった」みたいなことでも、ちゃんとかきこむ。",
+          "audio_file": "audio/5307ebc3350312c87bb83288f980345445eccc5e4c9f4365b64cff621d9d1721.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "830527c00f8d461dc7ee04cd24bfdbb407f41c67145e91f4e3791ccd84aa2bde",
+            "japanese": "830527c00f8d461dc7ee04cd24bfdbb407f41c67145e91f4e3791ccd84aa2bde",
+            "audio": "f7aa6182bba1860553cc50ff76f9dfd70d217efe75c40477e8268e0c2edf9cbd"
+          }
+        },
+        {
+          "order": 5,
+          "text": "等这本写满一半，我大概就能比现在稍微喜欢自己一点点了。在那之前，我会先好好写完——不给你看，我自己留着。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "このノートが半分まで埋まったら、そのときは今より少しだけ、自分のことが好きになれているかもしれない。それまでは、ちゃんと最後まで書き続けるつもり。……見せないよ。これはボクが自分で持っているものだから。",
+          "pronunciation": "このノートがはんぶんまでうまったら、そのときはいまよりすこしだけ、じぶんのことがすきになれているかもしれない。それまでは、ちゃんとさいごまでかきつづけるつもり。……みせないよ。これはボクがじぶんでもっているものだから。",
+          "audio_file": "audio/af0ff4c830840e0bb61fe6846f1724ea7c2959c944dd3c536381e04571fe2bba.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3aa6c0a3bc9ff32d2efccf5cf9e113c7c12d89041ac7c05829e4c5a2d11a416e",
+            "japanese": "3aa6c0a3bc9ff32d2efccf5cf9e113c7c12d89041ac7c05829e4c5a2d11a416e",
+            "audio": "2bdc1123046003b20dc3d2d984b8369a4e37e7bbd66156d7ca22cd30532b0023"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-a40207eb-1d14-488b-882c-ab738a967758",
+      "character_id": "Ema",
+      "text": "上周买的书架，我自己照着说明书装好了。收工的时候工具箱里多出一颗螺丝，我没敢细想，就把书摆了上去。半夜听见“咔哒”一声，最上面那层歪了，几本书滑下来摊在地上。我蹲在那儿看了很久，一边觉得好笑，一边又有点不甘心。明明每根木条我都对过，孔位也数了三遍。大概是哪块板装反了——可到底是哪一块，我到现在都没想出来。我动过找人帮忙的念头，话到嘴边又咽了回去。这种事好像太小题大做了，麻烦别人总让我心里发慌。所以明天我打算把它整个拆开，从头再装一次。这次不跳步骤，也不逞强。要是还是多出一颗螺丝……那我就拍张照片，去问别人好了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "上周买的书架，我自己照着说明书装好了。收工的时候工具箱里多出一颗螺丝，我没敢细想，就把书摆了上去。",
+          "pose_id": "Explain_Default_4",
+          "japanese": "先週買った本棚、説明書を見ながら自分で組み立てたんだ。作業が終わったとき、道具箱にネジが一本余っていて、深く考えないまま本を並べたよ。",
+          "pronunciation": "せんしゅうかったほんだな、せつめいしょをみながらじぶんでくみたてたんだ。さぎょうがおわったとき、どうぐばこにねじがいっぽんあまっていて、ふかくかんがえないままほんをならべたよ。",
+          "audio_file": "audio/d27f0927a952f39de65ceab95665e5d4bb84cc155e953c9cd468afe67cb86b89.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "10e268ac3c5f3594ee081490f1b99dfbf5bf5776db57f55deb05bec289babcf1",
+            "japanese": "10e268ac3c5f3594ee081490f1b99dfbf5bf5776db57f55deb05bec289babcf1",
+            "audio": "51b15e137b23f0eaca82029b8cee978d441d3c41f49022391773c761b7598272"
+          }
+        },
+        {
+          "order": 1,
+          "text": "半夜听见“咔哒”一声，最上面那层歪了，几本书滑下来摊在地上。我蹲在那儿看了很久，一边觉得好笑，一边又有点不甘心。",
+          "pose_id": "Surprise_6",
+          "japanese": "夜中に「カチッ」って音がして、一番上の段が傾いて、何冊かの本が滑り落ちて床に散らばってた。しゃがんでしばらく眺めてたんだけど、おかしいなって思う気持ちと、ちょっと悔しい気持ちが半分ずつだった。",
+          "pronunciation": "よなかに「カチッ」っておとがして、いちばんうえのだんがかたむいて、なんさつかのほんがすべりおちてゆかにちらばってた。しゃがんでしばらくながめてたんだけど、おかしいなっておもうきもちと、ちょっとくやしいきもちがはんぶんずつだった。",
+          "audio_file": "audio/1738405bbfd18be032967c63bb62d06da39a8aa0d66812aa7dc192116f6df1e8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6b01f09f748e7b5aae1a831c32aed48fbdb9440ed91cb5eb83d2f8449bbbbe8b",
+            "japanese": "6b01f09f748e7b5aae1a831c32aed48fbdb9440ed91cb5eb83d2f8449bbbbe8b",
+            "audio": "fc57e536645b0cf1f1099f5b3839e4dfa1bd646863c085617d09b8b198e7adc3"
+          }
+        },
+        {
+          "order": 2,
+          "text": "明明每根木条我都对过，孔位也数了三遍。大概是哪块板装反了——可到底是哪一块，我到现在都没想出来。",
+          "pose_id": "Thinking_1",
+          "japanese": "木の板は一本ずつ確かめたし、穴の位置も三回は数えたのに。たぶんどこかの板を逆に付けたんだと思う——でも、それがどこなのか、今もまだ分からないんだ。",
+          "pronunciation": "きのいたはいっぽんずつたしかめたし、あなのいちもさんかいはかぞえたのに。たぶんどこかのいたをぎゃくにつけたんだとおもう——でも、それがどこなのか、いまもまだわからないんだ。",
+          "audio_file": "audio/04512bd3872a23cb7c262ac0b46bfafef4b21b1e91436fce94a6c6f5c4294e6d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6b67e56ef2c69ae56ce934055ac8d40e03a7bfc62c4d4b1fd6b02bf104aa3500",
+            "japanese": "6b67e56ef2c69ae56ce934055ac8d40e03a7bfc62c4d4b1fd6b02bf104aa3500",
+            "audio": "8b1308569724ec0e1489bd43fb71633e4ecd0face88057c2656e9df39d5d93a8"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我动过找人帮忙的念头，话到嘴边又咽了回去。这种事好像太小题大做了，麻烦别人总让我心里发慌。",
+          "pose_id": "Feature_Extremely_1",
+          "japanese": "誰かに手伝ってもらおうかなって思ったこともあったけど、言葉が出かけて、また飲み込んじゃった。こんなこと、大げさすぎる気がして、人に迷惑をかけるのはいつも不安になる。",
+          "pronunciation": "だれかにてつだってもらおうかなっておもったこともあったけど、ことばがでかけて、またのみこんじゃった。こんなこと、おおげさすぎるきがして、ひとにめいわくをかけるのはいつもふあんになる。",
+          "audio_file": "audio/9110df2f82d2c9fdd86ca686c7291b8c625785a8da4ec10d5a64ab3d493de099.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6d2ce2c09c05ae990308b8eb39004870f5d7932abdf32a9c0008e50f5146b4a2",
+            "japanese": "6d2ce2c09c05ae990308b8eb39004870f5d7932abdf32a9c0008e50f5146b4a2",
+            "audio": "7716cb57f7698e6202aa7e1cf8c665f99b293cb927f375b74158873f96552074"
+          }
+        },
+        {
+          "order": 4,
+          "text": "所以明天我打算把它整个拆开，从头再装一次。这次不跳步骤，也不逞强。",
+          "pose_id": "Default_5",
+          "japanese": "だから明日は、全部ばらして、最初からもう一度組み立ててみるつもり。今度は手順を飛ばさないで、無理もしないよ。",
+          "pronunciation": "だからあしたは、ぜんぶばらして、さいしょからもういちどくみたててみるつもり。こんどはてじゅんをとばさないで、むりもしないよ。",
+          "audio_file": "audio/d4c1b5c4bcb4e275dc7a62da943e04f78f17bd7ccc04816a6f8e5f4b8daccc9f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c8251c808b7ee387f4afd131106e6b815eba4e6f7f9a40fbb3d991f36ff01a2d",
+            "japanese": "c8251c808b7ee387f4afd131106e6b815eba4e6f7f9a40fbb3d991f36ff01a2d",
+            "audio": "513a7c3f52193376e37f9dbfcf4cb38e6654de18806e6a4307cf2595ebba54e0"
+          }
+        },
+        {
+          "order": 5,
+          "text": "要是还是多出一颗螺丝……那我就拍张照片，去问别人好了。",
+          "pose_id": "Happy_2",
+          "japanese": "それでもまだネジが一本余ったら……写真を撮って、誰かに聞いてみるね。",
+          "pronunciation": "それでもまだねじがいっぽんあまったら……しゃしんをとって、だれかにきいてみるね。",
+          "audio_file": "audio/4e4e2c99c6559fd724d54be8b4b5e0c153112a9225c8cfa2ebd6bdf1164bb2d6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9663a720e3e3f23c318abb21578139a45d3d321ebb777d5c2b259cf8674e073e",
+            "japanese": "9663a720e3e3f23c318abb21578139a45d3d321ebb777d5c2b259cf8674e073e",
+            "audio": "4ab331e6cccf1e1be2abb62dc73a4f103afd0ecd630a0f77b8ae2e9c982df4ff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-41f26afd-faaf-4f61-8e5f-3f636ab91ea5",
+      "character_id": "Ema",
+      "text": "前几天有人把一辆旧自行车让给了我，车铃是坏的，但踩起来还算稳。今天我推着它去了河边那片空地，想着怎么也得学会，不然放着太可惜了。一开始我连车把都扶不正，脚一离地就慌，摔了两次，膝盖上现在还有一块印子。奇怪的是，摔完以后我反而没那么怕了，爬起来接着试。后来我居然真的骑出十几米，风从耳边过去的时候，我高兴得差点叫出来，又赶快闭上嘴，怕被人看见我这么兴奋的样子。停下来的时候我才发现，自己一路上都屏着呼吸。可要是搁在以前，我遇到什么事，第一反应总是先躲开；今天摔了两次，我还是自己爬上去继续骑了。明天我还想去，大概会骑得远一点。要是路上看到什么好吃的，就当是给自己的奖励吧。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "前几天有人把一辆旧自行车让给了我，车铃是坏的，但踩起来还算稳。今天我推着它去了河边那片空地，想着怎么也得学会，不然放着太可惜了。",
+          "pose_id": "Default_1",
+          "japanese": "この前、古い自転車を譲ってもらったんだ。ベルは壊れてるけど、漕ぐのはまあまあ安定してる。今日はそれを押して、川沿いの空き地まで行ってきた。どうしても乗れるようになりたいし、そのまま置いておくのはもったいないから。",
+          "pronunciation": "このまえ、ふるいじてんしゃをゆずってもらったんだ。ベルはこわれてるけど、こぐのはまあまああんていしてる。きょうはそれをおして、かわぞいのあきちまでいってきた。どうしてものれるようになりたいし、そのままおいておくのはもったいないから。",
+          "audio_file": "audio/de7d6f8e5ac88d23cf385e12b3a81dfe88b960fe83ca0d6c9f3203f8386f5631.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cd3ab0442093bfec8e1f79a5e5c10f6926b9b76a5095d6c0653de2255263d176",
+            "japanese": "cd3ab0442093bfec8e1f79a5e5c10f6926b9b76a5095d6c0653de2255263d176",
+            "audio": "e702529b3b4dbb16341d11f0d07a9483b2e13bbaa8c7e920a25e4c8174d9a48a"
+          }
+        },
+        {
+          "order": 1,
+          "text": "一开始我连车把都扶不正，脚一离地就慌，摔了两次，膝盖上现在还有一块印子。奇怪的是，摔完以后我反而没那么怕了，爬起来接着试。",
+          "pose_id": "Fearful1_17",
+          "japanese": "最初はハンドルもうまくまっすぐに持てなくて、足が地面から離れるだけで慌てちゃって、二回も転んだんだ。今も膝に跡が残ってる。でも不思議なことに、転んだあとは前より怖くなくなって、起き上がってまた練習を続けたよ。",
+          "pronunciation": "さいしょはハンドルもうまくまっすぐにもてなくて、あしがじめんからはなれるだけであわてちゃって、にかいもころんだんだ。いまもひざにあとがのこってる。でもふしぎなことに、ころんだあとはまえよりこわくなくなって、おきあがってまたれんしゅうをつづけたよ。",
+          "audio_file": "audio/a8f6482407b58929c6f482bc2e2a49548483fe324010e448f9188ad637760d4d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9a699793d7770a969bffb115bf179ecd41d0f7ae68ff8c7633e4458ad3078ee8",
+            "japanese": "9a699793d7770a969bffb115bf179ecd41d0f7ae68ff8c7633e4458ad3078ee8",
+            "audio": "5c084d735119b8f2431629788994e9543b10143c223b754803130ed8ebe138bf"
+          }
+        },
+        {
+          "order": 2,
+          "text": "后来我居然真的骑出十几米，风从耳边过去的时候，我高兴得差点叫出来，又赶快闭上嘴，怕被人看见我这么兴奋的样子。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "それから、本当に十メートル以上は漕げたんだ。風が耳の横を通っていくとき、嬉しくて思わず叫びそうになって、慌てて口を押さえた。あんなに興奮してる姿、誰かに見られたくなかったから。",
+          "pronunciation": "それから、ほんとうにじゅうメートルいじょうはこげたんだ。かぜがみみのよこをとおっていくとき、うれしくておもわずさけびそうになって、あわててくちをおさえた。あんなにこうふんしてるすがた、だれかにみられたくなかったから。",
+          "audio_file": "audio/ecb58b210f69d47e431a598a39addd4618f8203e36b8a7093c7f1df2f74e644d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9d7b92e6f40dfee56eb8eeda092fd4a8961ee30e9440c74a04ea9113752eed7f",
+            "japanese": "9d7b92e6f40dfee56eb8eeda092fd4a8961ee30e9440c74a04ea9113752eed7f",
+            "audio": "8df45837bda38993fff5af0990229ca8058765f9ea823fbff8cc5a11304737cf"
+          }
+        },
+        {
+          "order": 3,
+          "text": "停下来的时候我才发现，自己一路上都屏着呼吸。可要是搁在以前，我遇到什么事，第一反应总是先躲开；今天摔了两次，我还是自己爬上去继续骑了。",
+          "pose_id": "Thinking_4",
+          "japanese": "止まったときになって、自分がずっと息を止めていたことに気づいた。でも、昔だったら何かあるとまず逃げてばかりだったのに、今日は二回も転んで、それでも自分で立ち上がってまた漕いだんだ。",
+          "pronunciation": "とまったときになって、じぶんがずっといきをとめていたことにきづいた。でも、むかしだったらなにかあるとまずにげてばかりだったのに、きょうはにかいもころんで、それでもじぶんでたちあがってまたこいだんだ。",
+          "audio_file": "audio/6b7561c9d431d8752cac810142133a96a3a7f59e884a2ea19c65a8b3b0ae9ed1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3e584b2df55c42e3487dc8fec288b469ae9b733b678721aed926d3aef726ca72",
+            "japanese": "3e584b2df55c42e3487dc8fec288b469ae9b733b678721aed926d3aef726ca72",
+            "audio": "780b19853c3329333513bb64f44f111958d211a6639e3f5a283e12fc7b91cd83"
+          }
+        },
+        {
+          "order": 4,
+          "text": "明天我还想去，大概会骑得远一点。要是路上看到什么好吃的，就当是给自己的奖励吧。",
+          "pose_id": "Happy_5",
+          "japanese": "明日もまた行きたいな。たぶん、もう少し遠くまで漕げると思う。途中で何か美味しいものを見つけたら、自分へのご褒美ってことにしよう。",
+          "pronunciation": "あしたもまたいきたいな。たぶん、もうすこしとおくまでこげるとおもう。とちゅうでなにかおいしいものをみつけたら、じぶんへのごほうびってことにしよう。",
+          "audio_file": "audio/f84229734ae6eb15330d762b8a2b37544edbf568df56a6a406adf7ecb86e91cd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "30547194c5bb6b2b13520bbef28120839c11f1a46f71799f684a29e6d9b56687",
+            "japanese": "30547194c5bb6b2b13520bbef28120839c11f1a46f71799f684a29e6d9b56687",
+            "audio": "0b0e15e14a2134e3ae31b02cb91f135544ed07d5ec0b7dde77580733312409e3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-ff425086-446e-406c-9f5a-b4ec79b2e94d",
+      "character_id": "Ema",
+      "text": "今天早上我是被窗外的车声吵醒的。睁开眼睛的时候我愣了一会儿，因为想不起来昨晚做过什么梦。在岛上，睡觉对我来说一直是最害怕的事。闭上眼睛就会有东西追过来，所以我总是撑到实在困得不行，才敢躺下去。这几天晚上我没有再做那个梦。不是不怕了，只是好像不用那么用力地醒着了。早上睁开眼，房间还是原来的样子，这一件事就已经够了。我没有告诉别人。等哪天连着一个月都这样，我大概会把它当成很平常的事说出口吧。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天早上我是被窗外的车声吵醒的。睁开眼睛的时候我愣了一会儿，因为想不起来昨晚做过什么梦。",
+          "pose_id": "Simle_1",
+          "japanese": "今朝は、ボク、窓の外の車の音で目を覚ました。目を開けたとき、ちょっと固まっちゃった。だって、昨晩どんな夢を見たのか思い出せなかったから。",
+          "pronunciation": "けさ は、ぼく、まど の そと の くるま の おと で め を さました。め を あけた とき、ちょっと かたまっちゃった。だって、ゆうべ どんな ゆめ を みた の か おもいだせなかった から。",
+          "audio_file": "audio/2eefc65146bf7081a162a7861ba06923af0376c3473fcaad519f21ff1a54b00c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d4ae9b235b7496a0179958b45e5ef6a7a2244d05487bafb07f3d209776ad4d3b",
+            "japanese": "d4ae9b235b7496a0179958b45e5ef6a7a2244d05487bafb07f3d209776ad4d3b",
+            "audio": "6166b81c5c0dbcaf1d7253a6d7a17b823667a6fcc3230b369afa965391f6c867"
+          }
+        },
+        {
+          "order": 1,
+          "text": "在岛上，睡觉对我来说一直是最害怕的事。闭上眼睛就会有东西追过来，所以我总是撑到实在困得不行，才敢躺下去。",
+          "pose_id": "Sad_4",
+          "japanese": "島では、眠ることがボクにとってずっと一番怖いことだった。目を閉じると何かが追いかけてくるから、本当に眠くて仕方なくなるまで頑張って、やっと横になったんだ。",
+          "pronunciation": "しま では、ねむる こと が ぼく にとって ずっと いちばん こわい こと だった。め を とじる と なにか が おいかけて くる から、ほんとう に ねむくて しかたなく なる まで がんばって、やっと よこ に なった んだ。",
+          "audio_file": "audio/c538ce3b3ef6ac64878a71bbf614bdbdd4b3008a7cfbe6c5a341957e080ed4cb.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4b1e955bc22eb50cd01e14439c0653fe8f09c75bc7f84ccd04aaf352c80a2b82",
+            "japanese": "4b1e955bc22eb50cd01e14439c0653fe8f09c75bc7f84ccd04aaf352c80a2b82",
+            "audio": "232dd49bc92ffde39df316c6383cc4d5b7918b8d1569c273437aa5e9ccd82a27"
+          }
+        },
+        {
+          "order": 2,
+          "text": "这几天晚上我没有再做那个梦。不是不怕了，只是好像不用那么用力地醒着了。",
+          "pose_id": "Default_5",
+          "japanese": "ここ数日の夜は、あの夢を見なかった。怖くなくなったわけじゃなくて、ただ、そんなに力いっぱい起きていなくてもいいみたいなんだ。",
+          "pronunciation": "ここ すうじつ の よる は、あの ゆめ を みなかった。こわく なくなった わけ じゃ なくて、ただ、そんな に ちからいっぱい おきて いなくても いい みたい なんだ。",
+          "audio_file": "audio/92c6ab5524fd6125d7c9fdd21b11fcf03dfa6ad141dc4515d7629fc170c4404e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "222d996b11e7ae1e6cbea4ff1d3154147b6be4b3baa7c6016f7bf4db27f3b380",
+            "japanese": "222d996b11e7ae1e6cbea4ff1d3154147b6be4b3baa7c6016f7bf4db27f3b380",
+            "audio": "c86124ccb551ad93e46af3129f64ad668a808ef4df45a76fbf98cf8d806c9f22"
+          }
+        },
+        {
+          "order": 3,
+          "text": "早上睁开眼，房间还是原来的样子，这一件事就已经够了。",
+          "pose_id": "Explain_Excited_1",
+          "japanese": "朝、目を開けたら、部屋は元のままで。それだけで、もう十分なんだ。",
+          "pronunciation": "あさ、め を あけたら、へや は もと の まま で。それ だけ で、もう じゅうぶん なんだ。",
+          "audio_file": "audio/928f0dd3ce9a0a8837a43ea020ce4e66a348889215e16486788727c96d521f10.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4f8af3d25510a69055b2b3d57773975d11189ad057dba0693b90d25e1b3d424d",
+            "japanese": "4f8af3d25510a69055b2b3d57773975d11189ad057dba0693b90d25e1b3d424d",
+            "audio": "ece802dfc16d711ca1d5102467514a82148dd6ab9f02ef143d9254d2397ae32a"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我没有告诉别人。等哪天连着一个月都这样，我大概会把它当成很平常的事说出口吧。",
+          "pose_id": "Embarrassing_1",
+          "japanese": "誰にも言ってない。いつか一ヶ月ずっとこうなったら、そのときはたぶん、なんでもないことみたいに話せると思う。",
+          "pronunciation": "だれ にも いって ない。いつか いっかげつ ずっと こう なったら、その とき は たぶん、なんでも ない こと みたい に はなせる と おもう。",
+          "audio_file": "audio/c80300ff1d258fdca646fb57ab13523e449460aa1abf876c48801dcb0df8c06e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e88ebc2fbc83ed388f9db5897a155259b0a6d7d4661df4cf918906d27581ceed",
+            "japanese": "e88ebc2fbc83ed388f9db5897a155259b0a6d7d4661df4cf918906d27581ceed",
+            "audio": "b5c530ce9725acf24c25424094ea2ac4266d3853ee548112fc4459e7dacb8d0b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-741fdd24-79ab-4c2c-898e-2f6897b211a2",
+      "character_id": "Ema",
+      "text": "晾在阳台上的毛巾被风卷走了。我追到楼下，在院子外面的矮墙上找到了它，一角沾了泥。我站在那儿犹豫了很久，手伸出去又缩回来——万一人家觉得我擅自靠近很可疑，怎么办？最后我什么都没做，红着脸跑回了家，一晚上都在想那条毛巾。第二天早上开门，它被叠得整整齐齐，放在门口的信箱上面。泥洗掉了，晾得半干，边角还压着一小块石头，大概是怕它再被风吹跑。我捧着它站了好一会儿。原来有人默默就把事情处理好了，而我连一句谢谢都还没说出口。所以我剪了一张纸，写了一行字，准备贴到那户人家的信箱上。写的时候手有点抖，字也有点歪，不过这次，我打算不缩回去了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "晾在阳台上的毛巾被风卷走了。",
+          "pose_id": "Surprise_4",
+          "japanese": "ベランダに干していたタオルが、風に巻き上げられて飛ばされてしまったの。",
+          "pronunciation": "べらんだに ほしていた たおるが、かぜに まきあげられて とばされてしまったの。",
+          "audio_file": "audio/3f84a25a289e8839c67e0fb8e1ba5d07a6a601b8b9aa89ee726860db8f37f2a5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6f8759fa782542c5a277be3eec623480fb4603764168c921eb8fbc36e08214c1",
+            "japanese": "6f8759fa782542c5a277be3eec623480fb4603764168c921eb8fbc36e08214c1",
+            "audio": "5b0f6ac2451877edcc41714e4e3efbded7ab1c03da6d7757c1e422cf472f68d5"
+          }
+        },
+        {
+          "order": 1,
+          "text": "我追到楼下，在院子外面的矮墙上找到了它，一角沾了泥。我站在那儿犹豫了很久，手伸出去又缩回来——万一人家觉得我擅自靠近很可疑，怎么办？",
+          "pose_id": "Fearful1",
+          "japanese": "わたしは下まで追いかけていって、庭の外側の低い塀のところで見つけたの。端っこに泥がついていた。そこでしばらく迷って、手を伸ばしては引っ込めて——もし勝手に近づいて、変に思われたらどうしようって。",
+          "pronunciation": "わたしは したまで おいかけていって、にわの そとがわの ひくい へいの ところで みつけたの。はしっこに どろが ついていた。そこで しばらく まよって、てを のばしては ひっこめて——もし かってに ちかづいて、へんに おもわれたら どうしようって。",
+          "audio_file": "audio/265cda434ed1d71b280276da1689f489d9a4ec01c6f904d3318d26d5c440a3d1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e0b1ab0f50c5570c869e052e9384a0432493bb3933abc6cca5ed50afdef89559",
+            "japanese": "e0b1ab0f50c5570c869e052e9384a0432493bb3933abc6cca5ed50afdef89559",
+            "audio": "0b7c4ff446e1900a92925d3b23818eea110fd15c729a41a6a5f9643615589bd2"
+          }
+        },
+        {
+          "order": 2,
+          "text": "最后我什么都没做，红着脸跑回了家，一晚上都在想那条毛巾。",
+          "pose_id": "Sad_3",
+          "japanese": "結局何もできなくて、顔を赤くしたまま家に帰って、一晩ずっとあのタオルのことを考えていたの。",
+          "pronunciation": "けっきょく なにも できなくて、かおを あかくしたまま いえに かえって、ひとばん ずっと あの たおるの ことを かんがえていたの。",
+          "audio_file": "audio/7c11e6b618228f665c43e95bf257a831629c21fd693b68a61fb29ff3206382fc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "148af11725492e23b2746e93d545af9c4c5e56642f413c0328545bdd6d81fa81",
+            "japanese": "148af11725492e23b2746e93d545af9c4c5e56642f413c0328545bdd6d81fa81",
+            "audio": "421f6bbe4384acf8fc97f8f43610c39975da9b0108b118ff28f2bc887b5e069b"
+          }
+        },
+        {
+          "order": 3,
+          "text": "第二天早上开门，它被叠得整整齐齐，放在门口的信箱上面。泥洗掉了，晾得半干，边角还压着一小块石头，大概是怕它再被风吹跑。",
+          "pose_id": "Surprise_2",
+          "japanese": "次の日の朝、ドアを開けたら、それはきちんと畳まれて、玄関の郵便受けの上に置いてあったの。泥は落とされていて、半分くらい乾いていて、端っこには小さな石が乗せてあって——たぶん、また風に飛ばされないようにしてくれたんだと思う。",
+          "pronunciation": "つぎのひの あさ、どあを あけたら、それは きちんと たたまれて、げんかんの ゆうびんうけの うえに おいてあったの。どろは おとされていて、はんぶんくらい かわいていて、はしっこには ちいさな いしが のせてあって——たぶん、また かぜに とばされないように してくれたんだと おもう。",
+          "audio_file": "audio/2c7824bf1c779c2509740d2ebefbeb79ead871f56a1728409ac0009e9b47dab3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6debf1148ddf479b5ddfae6490293fd026511d011a124bbd3c172c5fd7e6a5b0",
+            "japanese": "6debf1148ddf479b5ddfae6490293fd026511d011a124bbd3c172c5fd7e6a5b0",
+            "audio": "5822186f37eb99e8126626158ac4b9a46a48b1b9d9fce99de59f60bb68a2af37"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我捧着它站了好一会儿。原来有人默默就把事情处理好了，而我连一句谢谢都还没说出口。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "わたしはそれを抱えたまま、しばらく立っていたの。だれかが黙って片づけてくれていたのに、わたしはまだ「ありがとう」の一言も言えていなかったから。",
+          "pronunciation": "わたしは それを かかえたまま、しばらく たっていたの。だれかが だまって かたづけてくれていたのに、わたしは まだ「ありがとう」の ひとことも いえていなかったから。",
+          "audio_file": "audio/f4e8561a5e553591bf21359b80aa59ddbb3706554566028920d1134d259ada37.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0a4f345670d7f46b4ad13f748e87a36639cbbf8aa4a7f9c7ae96d0032ac3da61",
+            "japanese": "0a4f345670d7f46b4ad13f748e87a36639cbbf8aa4a7f9c7ae96d0032ac3da61",
+            "audio": "6896c626d5cea99dbb08db642d6cd34bc9b212c8a764859fdc3cf67cb4d32f30"
+          }
+        },
+        {
+          "order": 5,
+          "text": "所以我剪了一张纸，写了一行字，准备贴到那户人家的信箱上。写的时候手有点抖，字也有点歪，不过这次，我打算不缩回去了。",
+          "pose_id": "Default_2",
+          "japanese": "だから紙を一枚切って、一行だけ書いて、あの家の郵便受けに貼りにいくことにしたの。書いているときは手が少し震えて、字も少し曲がったけれど、今度は、もう引っ込めないつもり。",
+          "pronunciation": "だから かみを いちまい きって、いちぎょうだけ かいて、あの いえの ゆうびんうけに はりにいく ことに したの。かいていた ときは てが すこし ふるえて、じも すこし まがったけれど、こんどは、もう ひっこめない つもり。",
+          "audio_file": "audio/40aa046e8f17b28b89ffe72c3f1d84866aa681587f4b939a57058d01d3eda475.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c627d26ee0e5dc4d1d6e35d5a3b6970516fb8af070bc03ae722c3553ea513e41",
+            "japanese": "c627d26ee0e5dc4d1d6e35d5a3b6970516fb8af070bc03ae722c3553ea513e41",
+            "audio": "7d118a3d29d1cbd95551b3c6b8510a40b61cf36fcb18c3f6c20425347c60cff6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-a62c64e3-c117-4eed-90aa-19949f41d480",
+      "character_id": "Ema",
+      "text": "刚才在房间里，我试着把「初次见面，请多指教」这句话小声念了几遍。念到第三遍的时候，我才发现自己一直把名字说得又快又轻，像是怕有人听见。于是我又重新来了一次，慢慢地、把自己的名字清楚地念出来。房间里明明只有我一个人，声音落下来的时候，听起来却有点像别人的。以前在人多的地方，我只要一开口就会先看别人的脸色，话还没说完，就先想好了要道歉的部分。现在想想，那时候的我很怕自己占位置吧。所以我给自己定了一个练习：每天把这句话念三遍，一句比一句响一点。等到真的站在别人面前，就算手还在抖，声音也要先出去。念到最后一遍的时候，我忽然有点想笑。因为这一次，我没有在句尾加上「对不起」。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "刚才在房间里，我试着把「初次见面，请多指教」这句话小声念了几遍。念到第三遍的时候，我才发现自己一直把名字说得又快又轻，像是怕有人听见。",
+          "pose_id": "Thinking_4",
+          "japanese": "さっき部屋で、『はじめまして、よろしくお願いします』って言葉を、小さな声で何度か練習してみたんだ。三回目に言ったとき、ボクはずっと自分の名前を、早口で小さく言っていたって気づいた。誰かに聞かれるのが怖いみたいに。",
+          "pronunciation": "さっきへやで、はじめまして、よろしくおねがいしますってことばを、ちいさなこえでなんどかれんしゅうしてみたんだ。さんかいめにいったとき、ぼくはずっとじぶんのなまえを、はやくちでちいさくいっていたってきづいた。だれかにきかれるのがこわいみたいに。",
+          "audio_file": "audio/b75379b9cb34ba6b4cfb56f43e2364bfa2c63d906c9fe7a9f43e74241697d508.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "73ef63f696d59e5ee3c078ff2993835dafea195aac2f46c97e2ff9eed74b98d8",
+            "japanese": "73ef63f696d59e5ee3c078ff2993835dafea195aac2f46c97e2ff9eed74b98d8",
+            "audio": "a23e37f7a05fdd811de3ca621e407d9a61b579dc35f8ab8cd510eb5251f87fc1"
+          }
+        },
+        {
+          "order": 1,
+          "text": "于是我又重新来了一次，慢慢地、把自己的名字清楚地念出来。房间里明明只有我一个人，声音落下来的时候，听起来却有点像别人的。",
+          "pose_id": "Default_4",
+          "japanese": "だから、もう一度やり直してみた。ゆっくり、自分の名前をはっきりと口に出してみたんだ。部屋にはボクしかいないのに、落ちてきた声は、なんだか他人の声みたいに聞こえた。",
+          "pronunciation": "だから、もういちどやりなおしてみた。ゆっくり、じぶんのなまえをはっきりとくちにだしてみたんだ。へやにはぼくしかいないのに、おちてきたこえは、なんだかたにんのこえみたいにきこえた。",
+          "audio_file": "audio/51d1affd5c5e972cfdf8599cefb3e12c05d185d1ea02db0779bf2bafdc20d485.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b2718682eb48365fda96ed140107daeb0a273d64b08d52a84e1f04a83997e37e",
+            "japanese": "b2718682eb48365fda96ed140107daeb0a273d64b08d52a84e1f04a83997e37e",
+            "audio": "1a99160390602c2a38c0be0b3d1e910a802ae6d4fdc6b8e5c4ef5a3d9362db1a"
+          }
+        },
+        {
+          "order": 2,
+          "text": "以前在人多的地方，我只要一开口就会先看别人的脸色，话还没说完，就先想好了要道歉的部分。现在想想，那时候的我很怕自己占位置吧。",
+          "pose_id": "Cry_6",
+          "japanese": "前は人の多い場所だと、口を開く前にまずみんなの顔色をうかがって、言い終わらないうちに謝る言葉まで用意してた。今思うと、あの頃のボクは、自分が場所を取るのがとても怖かったんだと思う。",
+          "pronunciation": "まえはひとのおおいばしょだと、くちをひらくまえにまずみんなのかおいろをうかがって、いいおわらないうちにあやまることばまでよういしてた。いまおもうと、あのころのぼくは、じぶんがばしょをとるのがとてもこわかったんだとおもう。",
+          "audio_file": "audio/433088a8bc1c9274923077a07a88c02c370daa9a5cc07737da1ed4110be51844.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "85509c3363f602e0bcb2b73dc88ecc2bc3eb457d4af2b6f7a2b931116bc4d9cb",
+            "japanese": "85509c3363f602e0bcb2b73dc88ecc2bc3eb457d4af2b6f7a2b931116bc4d9cb",
+            "audio": "06e5d4c27e4cf71125736e5108145905f600248f8221de4fbcae5ca2385735bd"
+          }
+        },
+        {
+          "order": 3,
+          "text": "所以我给自己定了一个练习：每天把这句话念三遍，一句比一句响一点。等到真的站在别人面前，就算手还在抖，声音也要先出去。",
+          "pose_id": "Default_1",
+          "japanese": "だから、自分に練習を決めた。毎日この言葉を三回、一回ずつ大きな声で言う。本当に誰かの前に立つとき、手がまだ震えていても、声だけは先に出せるように。",
+          "pronunciation": "だから、じぶんにれんしゅうをきめた。まいにちこのことばをさんかい、いっかいずつおおきなこえでいう。ほんとうにだれかのまえにたつとき、てがまだふるえていても、こえだけはさきにだせるように。",
+          "audio_file": "audio/b87f099e52e4896469a418ac48b9edbb5eee553c2a6820133d5c00ab43283b25.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ced096de83653498e40f78857630218777899c6f55a643e8b79896c2b51d6c16",
+            "japanese": "ced096de83653498e40f78857630218777899c6f55a643e8b79896c2b51d6c16",
+            "audio": "bef5d5b6932424771a980c7ed17f4ea7bd83cffeb6eb55e06601b1402c523a1a"
+          }
+        },
+        {
+          "order": 4,
+          "text": "念到最后一遍的时候，我忽然有点想笑。因为这一次，我没有在句尾加上「对不起」。",
+          "pose_id": "Happy_1",
+          "japanese": "最後の一回を言い終えたとき、急にちょっと笑えてきた。だって今回は、文の終わりに『ごめん』を足さなかったから。",
+          "pronunciation": "さいごのいっかいをいいおえたとき、きゅうにちょっとわらえてきた。だってこんかいは、ぶんのおわりにごめんをたさなかったから。",
+          "audio_file": "audio/ce83136c871815fcf1cb424ac5c0297f0eccd1d997532b5dd7b6d853608ddfdf.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "49467c921d2687f9f0287feefcb81b41f61b1ab227bd3658197d71394e731f70",
+            "japanese": "49467c921d2687f9f0287feefcb81b41f61b1ab227bd3658197d71394e731f70",
+            "audio": "d429ada8e63e74f4e31b6110407f5c1ab173d32896e0a57dbe01cbc7792acaab"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-ab5db4b8-e811-40ba-ac24-9cdfab8798e6",
+      "character_id": "Ema",
+      "text": "今天第一次一个人坐电车去没去过的站。听说那一带有一家卖布丁的老店，我惦记了好几天。上车前我特意确认过站名，坐了两站才发现，方向反了。车窗外全是没见过的屋顶和电线，我一下子有点想哭。不过哭也解决不了，我就在下一站下车，站在站台上看反方向的时刻表。站台很小，长椅上有个老奶奶在打盹，旁边放着一袋青菜，阳光把铁轨照得发亮。等车的时候，我居然慢慢不慌了。反正下一班车一定会来，回去的路线我也记得住。后来车来了，我坐回正确的方向，也终于找到了那家店。布丁装在玻璃瓶里，甜得很实在。回来的路上我想，要是以前迷了路，我大概只会站在原地，等别人来找我。现在至少能自己看清楚时刻表，也能自己走回去。虽然绕了远路，不过布丁很好吃，今天就当不算亏吧。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天第一次一个人坐电车去没去过的站。听说那一带有一家卖布丁的老店，我惦记了好几天。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "今日、初めて一人で電車に乗って、行ったことのない駅まで行ってきたんだ。あの辺りにプリンを売ってる老舗があるって聞いてて、何日も前から気になってたんだよ。",
+          "pronunciation": "きょう、はじめてひとりででんしゃにのって、いったことのないえきまでいってきたんだ。あのあたりにプリンをうってるしにせがあるってきいてて、なんにちもまえからきになってたんだよ。",
+          "audio_file": "audio/6ec235cd94e451de4708b788a03c8ede77533859c483d6f58764f7baaa4dd618.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "293865d9871ea3de188191bc30f868f98493b94c9892831a9d0dcfb2891118de",
+            "japanese": "293865d9871ea3de188191bc30f868f98493b94c9892831a9d0dcfb2891118de",
+            "audio": "a8e8b3ab951512f39ae93f34f6b44399d78efdfce06e2557fca0532e6fb6826b"
+          }
+        },
+        {
+          "order": 1,
+          "text": "上车前我特意确认过站名，坐了两站才发现，方向反了。车窗外全是没见过的屋顶和电线，我一下子有点想哭。",
+          "pose_id": "Fearful_2",
+          "japanese": "乗る前に駅名はちゃんと確かめたのに、二駅進んでから気づいたんだ。反対方向だったんだよね……。窓の外は見たことのない屋根と電線ばかりで、なんだか急に泣きたくなっちゃった。",
+          "pronunciation": "のるまえにえきめいはちゃんとたしかめたのに、ふたえきすすんでからきづいたんだ。はんたいほうこうだったんだよね……。まどのそとはみたことのないやねとでんせんばかりで、なんだかきゅうになきたくなっちゃった。",
+          "audio_file": "audio/bc199ca70c807db5a8f1f2f96a339c80a802a3cb0a91b9864ad0613c797978a2.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fc08164dbd69246e7a9a95151cdec63bc5b93935bffa287702c181f9ae4f48da",
+            "japanese": "fc08164dbd69246e7a9a95151cdec63bc5b93935bffa287702c181f9ae4f48da",
+            "audio": "b892a48ababdeb2c500a73ddc90e30b44f13d880703659af4b2b03a850af7829"
+          }
+        },
+        {
+          "order": 2,
+          "text": "不过哭也解决不了，我就在下一站下车，站在站台上看反方向的时刻表。站台很小，长椅上有个老奶奶在打盹，旁边放着一袋青菜，阳光把铁轨照得发亮。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "でも泣いてても仕方ないから、次の駅で降りて、ホームで反対方向の時刻表を見てたんだ。ホームはすごく小さくて、ベンチではおばあさんがうたた寝してて、隣に野菜が入った袋が置いてあった。日差しで線路がきらきら光ってたよ。",
+          "pronunciation": "でもないててもしかたないから、つぎのえきでおりて、ホームではんたいほうこうのじこくひょうをみてたんだ。ホームはすごくちいさくて、ベンチではおばあさんがうたたねしてて、となりにやさいがはいったふくろがおいてあった。ひざしでせんろがきらきらひかってたよ。",
+          "audio_file": "audio/7e842e77685dad4f21d27a6336f5db6947cb8cba79531aeac2acb2152de94ae6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "223365b08979650ec27c7baf25bfc48d766ba4565eb18015fe2b4ea2fc2580c1",
+            "japanese": "223365b08979650ec27c7baf25bfc48d766ba4565eb18015fe2b4ea2fc2580c1",
+            "audio": "0efeffa1f4829ea4f00bfe370ec9e0867dcceccc5866b03aed5c742976203c40"
+          }
+        },
+        {
+          "order": 3,
+          "text": "等车的时候，我居然慢慢不慌了。反正下一班车一定会来，回去的路线我也记得住。",
+          "pose_id": "Thinking_4",
+          "japanese": "待ってるうちに、不思議とだんだん落ち着いてきたんだ。どうせ次の電車は必ず来るし、帰り道もボク、ちゃんと覚えてるから。",
+          "pronunciation": "まってるうちに、ふしぎとだんだんおちついてきたんだ。どうせつぎのでんしゃはかならずくるし、かえりみちもボク、ちゃんとおぼえてるから。",
+          "audio_file": "audio/2acea4c3e5088262967adf15eb8544f79fdc2f6957af187fc118d9db27209c84.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "398431d6e2710506ddb8cf8faa7fce22e7a9e2229ad4ff3272ea9fae633e74ca",
+            "japanese": "398431d6e2710506ddb8cf8faa7fce22e7a9e2229ad4ff3272ea9fae633e74ca",
+            "audio": "9391a5caef1b1e186f43f54e80c17ab0f83dc4bad0ff3201b24f5ca2ea538994"
+          }
+        },
+        {
+          "order": 4,
+          "text": "后来车来了，我坐回正确的方向，也终于找到了那家店。布丁装在玻璃瓶里，甜得很实在。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "それから電車が来て、今度はちゃんと正しい方向に乗って、やっとあの店を見つけたよ。プリンはガラスの瓶に入ってて、甘さがすごくはっきりしてた。",
+          "pronunciation": "それからでんしゃがきて、こんどはちゃんとただしいほうこうにのって、やっとあのみせをみつけたよ。プリンはガラスのびんにはいってて、あまさがすごくはっきりしてた。",
+          "audio_file": "audio/46972516d0a85b42e5112dc1c87355c2c42d7e26bf764a2c6cbfe35295eed3b0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1df1243d21d3f51bc152e85ad95de9cc282d99777fec082f037d345085557bb4",
+            "japanese": "1df1243d21d3f51bc152e85ad95de9cc282d99777fec082f037d345085557bb4",
+            "audio": "51ddfd7e3147df26ea7d99b9c5e6b1fe1e8b8fbe6fbce0a2912dd42013a28a54"
+          }
+        },
+        {
+          "order": 5,
+          "text": "回来的路上我想，要是以前迷了路，我大概只会站在原地，等别人来找我。现在至少能自己看清楚时刻表，也能自己走回去。虽然绕了远路，不过布丁很好吃，今天就当不算亏吧。",
+          "pose_id": "Default_5",
+          "japanese": "帰り道で思ったんだ。昔だったら、道に迷ったら多分その場に立ったまま、誰かが迎えに来てくれるのを待ってただけだと思う。今は少なくとも、自分で時刻表をちゃんと読めるし、自分で歩いて帰れる。遠回りしちゃったけど、プリンはおいしかったから、今日は損じゃなかったってことにしようかな。",
+          "pronunciation": "かえりみちでおもったんだ。むかしだったら、みちにまよったらたぶんそのばにたったまま、だれかがむかえにきてくれるのをまってただけだとおもう。いまはすくなくとも、じぶんでじこくひょうをちゃんとよめるし、じぶんであるいてかえれる。とおまわりしちゃったけど、プリンはおいしかったから、きょうはそんじゃなかったってことにしようかな。",
+          "audio_file": "audio/d76c8b29bd80d53dae8c72cba002c82159ab05c826e3309b633a107adf7d5722.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9b1ed1758fca097eee3a8bb432a0eb73d4c977ffa6f2d1df3e3cb8e8d53aecaa",
+            "japanese": "9b1ed1758fca097eee3a8bb432a0eb73d4c977ffa6f2d1df3e3cb8e8d53aecaa",
+            "audio": "f5656fcf307834ae9686736d3b92a77615ae9ae51dfc87162c70a50545b0ab55"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-ae9399f2-bca9-4bea-92af-493bf8d88138",
+      "character_id": "Ema",
+      "text": "和大家一起吃饭的时候，我又不自觉地数了一遍人数。一、二、三……数到最后一个人还在，我才悄悄松了口气。这个习惯是魔女岛那时候留下的。每次有人不见了，接着就会有人出事，所以我总是不敢不数。现在明明谁都不会再消失了，手却还是会自己动起来。希罗大概发现了，她问我又在数什么。我只好笑着摇头。她没有笑我，只是替我把最后一个人的名字说完，然后说下次大家一起数。这个习惯我大概是改不掉了。可是数到最后，一个人都没少，那种安心感，好像也不算太坏。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "和大家一起吃饭的时候，我又不自觉地数了一遍人数。一、二、三……数到最后一个人还在，我才悄悄松了口气。",
+          "pose_id": "Thinking_4",
+          "japanese": "みんなでご飯を食べているとき、また無意識に人数を数えちゃった。いち、に、さん……最後の一人までいて、やっとこっそり息をついた。",
+          "pronunciation": "みんなでごはんをたべているとき、またむいしきににんずうをかぞえちゃった。いち、に、さん……さいごのひとりまでいて、やっとこっそりいきをついた。",
+          "audio_file": "audio/e85e480f5318e8f865800983643ecd31980bc91024fd2732c25bdae92467dfe3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ff870106afea9ffc00988a9a12b8ba1201d62343f51ee011b3146096bb59d937",
+            "japanese": "ff870106afea9ffc00988a9a12b8ba1201d62343f51ee011b3146096bb59d937",
+            "audio": "7449f618490ddb4ca438d4958fc0def860020beec7a2c13b45b40a4599866173"
+          }
+        },
+        {
+          "order": 1,
+          "text": "这个习惯是魔女岛那时候留下的。每次有人不见了，接着就会有人出事，所以我总是不敢不数。现在明明谁都不会再消失了，手却还是会自己动起来。",
+          "pose_id": "Sad_2",
+          "japanese": "この癖は魔女島にいた頃のものだ。誰かがいなくなると、そのあと必ず誰かに何かあったから、数えずにはいられなかった。今はもう誰もいなくならないのに、手は勝手に動いてしまう。",
+          "pronunciation": "このくせはまじょじまにいたころのものだ。だれかがいなくなると、そのあとかならずだれかになにかあったから、かぞえずにはいられなかった。いまはもうだれもいなくならないのに、てはかってにうごいてしまう。",
+          "audio_file": "audio/7ab9e19518b81965441a5fd76dc69ade3383b4122f6c7f408118d33b1acaa4d4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "da369c11082ecf527011d29957255e9988ecd8e4690e46bdd2b8c7661cd2e336",
+            "japanese": "da369c11082ecf527011d29957255e9988ecd8e4690e46bdd2b8c7661cd2e336",
+            "audio": "dfb67b2cf89cbcc7d504a12e5316c01fb976fdcb200f03415e14a12b41ff3829"
+          }
+        },
+        {
+          "order": 2,
+          "text": "希罗大概发现了，她问我又在数什么。我只好笑着摇头。她没有笑我，只是替我把最后一个人的名字说完，然后说下次大家一起数。",
+          "pose_id": "Explain_Default_4",
+          "japanese": "シロちゃんは気づいたみたいで、また何を数えてるの、って聞いてきた。ボクは笑って首を振るしかなかった。彼女は笑わなかった。最後の一人の名前をボクの代わりに言って、今度はみんなで数えよう、って。",
+          "pronunciation": "シロちゃんはきづいたみたいで、またなにをかぞえてるの、ってきいてきた。ボクはわらってくびをふるしかなかった。かのじょはわらわなかった。さいごのひとりのなまえをボクのかわりにいって、こんどはみんなでかぞえよう、って。",
+          "audio_file": "audio/193c8a3d479e4f2b26fbc0b67d888e14fa4184f95f53ea21a49d59154c308842.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "683f0471bcca75170a245715c0befab92db2e0062558f76e495c79775737fd22",
+            "japanese": "683f0471bcca75170a245715c0befab92db2e0062558f76e495c79775737fd22",
+            "audio": "e1e8e98e723cfabbc785f2ea07277c721b2782ea0f4fbee4389cbb4f1fc65f85"
+          }
+        },
+        {
+          "order": 3,
+          "text": "这个习惯我大概是改不掉了。可是数到最后，一个人都没少，那种安心感，好像也不算太坏。",
+          "pose_id": "Happy_5",
+          "japanese": "この癖はたぶん治らない。でも数え終わって、一人も欠けていなかったら、その安心は、悪くない気もする。",
+          "pronunciation": "このくせはたぶんなおらない。でもかぞえおわって、ひとりもかけていなかったら、そのあんしんは、わるくないきもする。",
+          "audio_file": "audio/11b69ad8b940fc042affea655b94fe0ddbf29373b992ac7a36614c81c6585684.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3d64e9251a9aca1b9d9933e9db293cbcc8bfe7c366d1fc92b652ffe531412a46",
+            "japanese": "3d64e9251a9aca1b9d9933e9db293cbcc8bfe7c366d1fc92b652ffe531412a46",
+            "audio": "a2c6f0aa6dc1d03581f3c359aeb28936063e9d5ee89227aa4cca96c79e273e3e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-06442fc3-0903-4cbe-be0e-4c8f2576cbe6",
+      "character_id": "Ema",
+      "text": "我在书包里多放了一把伞。不是天气预报说要下雨，是因为前几天在车站前，有个没带伞的人站在屋檐下等雨停，我明明手里就有一把，却犹豫了好久都没敢开口。最后那个人干脆冒雨走了，我撑着自己那把伞回家，一路都在想——那个时候我只要往前走一步就好了。所以现在包底一直躺着一把折好的小伞，我特意挑了不太显眼的深蓝色。要是被人看到问起来，我大概会不好意思承认这是为这种事准备的。不过光带着伞，好像也不代表就真的能说出口。至少下一次站在屋檐下的人，如果恰好是我认识的，我希望自己能把伞往那边递过去一点。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "我在书包里多放了一把伞。不是天气预报说要下雨，是因为前几天在车站前，有个没带伞的人站在屋檐下等雨停，我明明手里就有一把，却犹豫了好久都没敢开口。",
+          "pose_id": "Thinking_3",
+          "japanese": "カバンの中に、傘をもう一本入れてあるんだ。天気予報で雨が降るって言ってたからじゃなくて……この前、駅の前に、傘を持ってない人が軒下で雨がやむのを待ってたの。ボク、手には傘があったのに、ずっと迷ってて、声をかけられなかった。",
+          "pronunciation": "かばんのなかに、かさをもういっぽんいれてあるんだ。てんきよほうであめがふるっていってたからじゃなくて……このまえ、えきのまえに、かさをもってないひとがのきしたであめがやむのをまってたの。ぼく、てにはかさがあったのに、ずっとまよってて、こえをかけられなかった。",
+          "audio_file": "audio/48180286c045f4a09751d509b3e84532af8040ea70aa4178061388b7399663d8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e6e16b39dee3bab5d7b00188750ffbb682b8e8e0e2947c41ec29f4e92fd0f933",
+            "japanese": "e6e16b39dee3bab5d7b00188750ffbb682b8e8e0e2947c41ec29f4e92fd0f933",
+            "audio": "80df2403e69eb5fcc7bab166eb5847f029d257134b39277b9c06862790a350e3"
+          }
+        },
+        {
+          "order": 1,
+          "text": "最后那个人干脆冒雨走了，我撑着自己那把伞回家，一路都在想——那个时候我只要往前走一步就好了。",
+          "pose_id": "Cry_8",
+          "japanese": "結局その人は雨の中を歩いて行っちゃって、ボクは自分の傘をさして帰ったんだけど、その道ずっと考えてた。あのとき、一歩前に出るだけでよかったのにって。",
+          "pronunciation": "けっきょくそのひとはあめのなかをあるいていっちゃって、ぼくはじぶんのかさをさしてかえったんだけど、そのみちずっとかんがえてた。あのとき、いっぽまえにでるだけでよかったのにって。",
+          "audio_file": "audio/fe68597706a3b31e00f82eb3267c4c53d96793743b6b6bdc5223dc4a699fcd85.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d4ab306ad74d92d84ff9059434904dfd0ed09adb4405f37315cc7bc357f9b5b6",
+            "japanese": "d4ab306ad74d92d84ff9059434904dfd0ed09adb4405f37315cc7bc357f9b5b6",
+            "audio": "0a39ed6e664350361d3559296f1bbf5b5f423e751d83c5cd13dbe7b9136ae04a"
+          }
+        },
+        {
+          "order": 2,
+          "text": "所以现在包底一直躺着一把折好的小伞，我特意挑了不太显眼的深蓝色。要是被人看到问起来，我大概会不好意思承认这是为这种事准备的。",
+          "pose_id": "Shame-making_2",
+          "japanese": "だから今は、カバンの底に折りたたみの小さな傘がずっと入ってる。目立たない濃い青を選んだんだ。誰かに見られて聞かれたら、こんなことのために準備してるって、ちょっと言いにくいかもしれないけど。",
+          "pronunciation": "だからいまは、かばんのそこにたたみのちいさなかさがずっとはいってる。めだたないこいあおをえらんだんだ。だれかにみられてきかれたら、こんなことのためにじゅんびしてるって、ちょっといいにくいかもしれないけど。",
+          "audio_file": "audio/7acadefd4cd750c04528a59948af7944baa0166dededd1c68793347ea04154de.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e1c0f08319ed6ce6f96d1fb56835d5267f51a795f1b6e9b5202572e90e305ae2",
+            "japanese": "e1c0f08319ed6ce6f96d1fb56835d5267f51a795f1b6e9b5202572e90e305ae2",
+            "audio": "2a2d3a4b988b219f6c99055e56096db17076a5fef9e7c3fe70a8a3c207f92a7b"
+          }
+        },
+        {
+          "order": 3,
+          "text": "不过光带着伞，好像也不代表就真的能说出口。至少下一次站在屋檐下的人，如果恰好是我认识的，我希望自己能把伞往那边递过去一点。",
+          "pose_id": "Explain_Default_2",
+          "japanese": "でも、傘を持ってるだけで、本当に言い出せるわけじゃないんだよね。せめて次に軒下に立ってる人が、たまたまボクの知ってる人だったら……その人のほうに、傘をちょっと差し出せたらいいなって思ってる。",
+          "pronunciation": "でも、かさをもってるだけで、ほんとうにいいだせるわけじゃないんだよね。せめてつぎにのきしたにたってるひとが、たまたまぼくのしってるひとだったら……そのひとのほうに、かさをちょっとさしだせたらいいなっておもってる。",
+          "audio_file": "audio/d703183397b219cfdfb52c125c667b511dd674daec7fe7b2705ae37e728f2883.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c45d4d9aa032049153072dfea3def738755cf1cc7fe5d92ada2f44107004331e",
+            "japanese": "c45d4d9aa032049153072dfea3def738755cf1cc7fe5d92ada2f44107004331e",
+            "audio": "6d78f3d95e25ff0d0272ec727c57f8c7b2494e4e7bc78bccbcc34a508516ce11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-110f8c53-155a-4308-b087-c042d7952d16",
+      "character_id": "Ema",
+      "text": "洗衣服的时候，我忘了外套口袋里还塞着一张纸巾。等打开洗衣机，一整桶衣服上全是白色的碎屑，连深色的袜子都变成了花花的。我先把它们全抱到阳台，一件一件抖，抖了半天，纸屑还是牢牢粘在上面。后来我用胶带试着一点一点粘，蹲在那里粘了快一个小时。蹲到后来膝盖有点疼，可我忽然觉得这件事有点好笑——明明是我自己忘了，却要花一整个下午慢慢收拾。以前遇到这种错，我会在心里先把自己骂一遍，然后谁也不想见。今天我没有骂自己，只是把最后一件衣服叠好，放进柜子里。叠好的衣服闻着有皂粉的味道，摞在一起整整齐齐。这种麻烦好像也成了我日子的一部分。下次洗之前，我会记得先摸一摸所有口袋。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "洗衣服的时候，我忘了外套口袋里还塞着一张纸巾。等打开洗衣机，一整桶衣服上全是白色的碎屑，连深色的袜子都变成了花花的。",
+          "pose_id": "Surprise_3",
+          "japanese": "洗濯のとき、上着のポケットにティッシュが入ってるのを忘れてて。洗濯機を開けたら、洗濯物の上に白いカスがびっしりで、濃い色の靴下までまだらになっちゃった。",
+          "pronunciation": "せんたくのとき、うわぎのぽけっとにてぃっしゅがはいってるのをわすれてて。せんたくきをあけたら、せんたくもののうえにしろいかすがびっしりで、こいいろのくつしたまでまだらになっちゃった。",
+          "audio_file": "audio/4b9f7d99e41c7a1f59a782168f1a8a300e0bdd07a362217ef3323b3be8a7c109.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5b6fa8ab9ae09993b029a5b156f7f4ad9e83904e8dbdfa33420c755eecf525d0",
+            "japanese": "5b6fa8ab9ae09993b029a5b156f7f4ad9e83904e8dbdfa33420c755eecf525d0",
+            "audio": "542e10d8045ddb16992f655492a27ae4d3350e4c208a77c1d26ad5a35b3145b9"
+          }
+        },
+        {
+          "order": 1,
+          "text": "我先把它们全抱到阳台，一件一件抖，抖了半天，纸屑还是牢牢粘在上面。后来我用胶带试着一点一点粘，蹲在那里粘了快一个小时。",
+          "pose_id": "Feature_Extremely_4",
+          "japanese": "まず全部まとめてベランダに運んで、一枚ずつ振ってみたんだけど、紙くずはびっしり張りついたままで。それからテープでちょっとずつくっつけて取る方法を試して、しゃがんだまま一時間くらいかかっちゃった。",
+          "pronunciation": "まずぜんぶまとめてべらんだにはこんで、いちまいずつふってみたんだけど、かみくずはびっしりはりついたままで。それからてーぷでちょっとずつくっつけてとるほうほうをためして、しゃがんだままいちじかんくらいかかっちゃった。",
+          "audio_file": "audio/f5918a80f44236ec7184c1b787007f8647f68b157071264e252a26ab258446fd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2d0636da905d486ebefc9b35a2559909501a8bf8423554db1080d0e22323f288",
+            "japanese": "2d0636da905d486ebefc9b35a2559909501a8bf8423554db1080d0e22323f288",
+            "audio": "faba90d4da894693c148c47fe33beaea0d0123ce0493bab94e099cfac69d07bb"
+          }
+        },
+        {
+          "order": 2,
+          "text": "蹲到后来膝盖有点疼，可我忽然觉得这件事有点好笑——明明是我自己忘了，却要花一整个下午慢慢收拾。",
+          "pose_id": "Happy_3",
+          "japanese": "しゃがんでたら膝がちょっと痛くなってきたんだけど、途中でなんだか可笑しくなってきちゃった。自分で忘れたくせに、午後まるまる使って片づけてるんだもん。",
+          "pronunciation": "しゃがんでたらひざがちょっといたくなってきたんだけど、とちゅうでなんだかおかしくなってきちゃった。じぶんでわすれたくせに、ごごまるまるつかってかたづけてるんだもん。",
+          "audio_file": "audio/45dacfb0195e5251a4177661a78fcd9c45f2e4d23e540ba35ab4642a7565a9b6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "933e85f6822bb6e1c4673935e7bacc48f1476adb989be9ffe4bf6c2321b570e6",
+            "japanese": "933e85f6822bb6e1c4673935e7bacc48f1476adb989be9ffe4bf6c2321b570e6",
+            "audio": "e15653b96fb1ee60940315e995177db8972f625498e12babc745857c3cc82607"
+          }
+        },
+        {
+          "order": 3,
+          "text": "以前遇到这种错，我会在心里先把自己骂一遍，然后谁也不想见。今天我没有骂自己，只是把最后一件衣服叠好，放进柜子里。",
+          "pose_id": "Cry_3",
+          "japanese": "前ならこういう失敗をすると、まず心の中で自分を責めて、それから誰にも会いたくなくなってた。今日は自分を責めないで、最後の一枚をたたんで、タンスにしまっただけ。",
+          "pronunciation": "まえならこういうしっぱいをすると、まずこころのなかでじぶんをせめて、それからだれにもあいたくなくなってた。きょうはじぶんをせめないで、さいごのいちまいをたたんで、たんすにしまっただけ。",
+          "audio_file": "audio/e1821f7a7de58c54544d30e66ccd8422b9e5164502310171491b20b4330de01d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "de75cdeb3240cc0db5c7537291a22abd7aa6f8efa155d53f10b61742b00273d3",
+            "japanese": "de75cdeb3240cc0db5c7537291a22abd7aa6f8efa155d53f10b61742b00273d3",
+            "audio": "15f517f614f4cfd0eb608af0765981be239715ffa356f7cb41aa974f0323bfbe"
+          }
+        },
+        {
+          "order": 4,
+          "text": "叠好的衣服闻着有皂粉的味道，摞在一起整整齐齐。这种麻烦好像也成了我日子的一部分。下次洗之前，我会记得先摸一摸所有口袋。",
+          "pose_id": "Default_1",
+          "japanese": "たたんだ服は粉石鹸のにおいがして、重ねるときれいにそろってる。こういう面倒くささも、ボクの毎日の一部なんだと思う。次に洗う前に、ポケットは全部ちゃんと触って確かめるね。",
+          "pronunciation": "たたんだふくはこなせっけんのにおいがして、かさねるときれいにそろってる。こういうめんどうくささも、ぼくのまいにちのいちぶなんだとおもう。つぎにあらうまえに、ぽけっとはぜんぶちゃんとさわってたしかめるね。",
+          "audio_file": "audio/3a00e5a77a686053ec93572bf0473529a8b47d6246c505b1a064c0fd4034b8a6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2d9602b85470e024c7cae8b78e93b91a1f5d61a4619d6b489e8b9c4dd5a0f593",
+            "japanese": "2d9602b85470e024c7cae8b78e93b91a1f5d61a4619d6b489e8b9c4dd5a0f593",
+            "audio": "c3f514b1cca08385dedf42d66d3be6753b445555a1d4baa95e5477396cc94299"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-61b144b9-d6b9-41cc-9a71-3c40493f5ad9",
+      "character_id": "Ema",
+      "text": "汉娜酱在岛上做给我的那个人偶，我一直放在床头。搬出来以后行李变少了，它反而成了最占地方的一件，可我一次也没想过把它收进箱子里。前两天翻看的时候，我发现人偶袖子里面有一针松了，线尾巴翘在外面，轻轻一扯就晃。我找出针线盒，想自己把那针缝回去。缝了半个多小时，线越缠越乱，针脚歪得像是刚学写字的那一年，最后只好剪断重来。昨天我去了一家卖手工材料的店，把松掉的线拿给店员看，问哪种线结实一点。店员把好几种线摆在我面前，还教我怎么打结收尾。我站在那里听得手心都是汗，走的时候才想起来要道谢。回来以后我先拿旧手帕练手，一针一针地缝，一条边就缝了一整个傍晚。缝得还是不好看，不过这次针脚至少是直的。那个人偶现在还在我的床头，松掉的线头我也没有剪，就那样翘着。等我把手帕缝得再像样一点，再去动手补它——在那之前，先让它保持现在的样子好了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "汉娜酱在岛上做给我的那个人偶，我一直放在床头。搬出来以后行李变少了，它反而成了最占地方的一件，可我一次也没想过把它收进箱子里。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "ハンナちゃんが島で作ってくれたあの人形、ボクはずっと枕元に置いてる。島を出てから荷物は減ったのに、あれだけは一番場所を取ってて。それでも、箱にしまおうなんて一度も思わなかったよ。",
+          "pronunciation": "はんなちゃんがしまでつくってくれたあのにんぎょう、ぼくはずっとまくらもとにおいてる。しまをでてからにもつはへったのに、あれだけはいちばんばしょをとってて。それでも、はこにしまおうなんていちどもおもわなかったよ。",
+          "audio_file": "audio/8a986b93d7c22a366bf975272c9c636264c5dfa2494c4f8bad8e83ef5eda0c6d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fb3d193a31c1c9d1bddd7ecb688e022ac583672d62cc1fc0f9db342603a0ba27",
+            "japanese": "fb3d193a31c1c9d1bddd7ecb688e022ac583672d62cc1fc0f9db342603a0ba27",
+            "audio": "4c9045a93c092096f98bf5850da28bbf53db14b247d0666e734f3be42e48f360"
+          }
+        },
+        {
+          "order": 1,
+          "text": "前两天翻看的时候，我发现人偶袖子里面有一针松了，线尾巴翘在外面，轻轻一扯就晃。",
+          "pose_id": "Explain_Earnest_4",
+          "japanese": "二、三日前、人形を眺めていて気付いたんだ。人形の袖の内側、縫い目が一針ほどけてて、糸の端が外に跳ねてる。そっと引っ張ると、揺れるんだよ。",
+          "pronunciation": "にさんにちまえ、にんぎょうをながめていてきづいたんだ。にんぎょうのそでのうちがわ、ぬいめがいっはりほどけてて、いとのはしがそとにはねてる。そっとひっぱると、ゆれるんだよ。",
+          "audio_file": "audio/a7df1e00b44f0b87e81a86568dce80d7d0383f46841ca6e6946988027a4c6f57.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "71de06188a434cad5cf14bcd176565422c2ed020e3e5db5b5d7d73af840f32c6",
+            "japanese": "71de06188a434cad5cf14bcd176565422c2ed020e3e5db5b5d7d73af840f32c6",
+            "audio": "0fe5022370be7c39bfc4bb947618deeb0d13f1b0438eb8a193ca6f92cfc1c07c"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我找出针线盒，想自己把那针缝回去。缝了半个多小时，线越缠越乱，针脚歪得像是刚学写字的那一年，最后只好剪断重来。",
+          "pose_id": "Thinking_1",
+          "japanese": "裁縫箱を出してきて、自分でその一針を縫い戻そうとしたんだ。三十分以上かけて縫ったけど、糸は絡まるばかりで、縫い目は字を習い始めた頃みたいに歪んでた。結局、切って最初からやり直したよ。",
+          "pronunciation": "さいほうばこをだしてきて、じぶんでそのいっはりをぬいもどそうとしたんだ。さんじゅっぷんいじょうかけてぬったけど、いとはからまるばかりで、ぬいめはじをならいはじめたころみたいにゆがんでた。けっきょく、きってさいしょからやりなおしたよ。",
+          "audio_file": "audio/90c1ff2b7c98c71a8dfc4acc01c0b8a48c27016d75f50291a7e63b36c4c64561.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ea37d2708dad91d1fb36b31a0529c768ea12c042bdb28b2a51ef4ff33b030e97",
+            "japanese": "ea37d2708dad91d1fb36b31a0529c768ea12c042bdb28b2a51ef4ff33b030e97",
+            "audio": "276d8142fb9009e0df2fd8fabb34d237001401a3e3252f2864cc72d3f7d4f004"
+          }
+        },
+        {
+          "order": 3,
+          "text": "昨天我去了一家卖手工材料的店，把松掉的线拿给店员看，问哪种线结实一点。店员把好几种线摆在我面前，还教我怎么打结收尾。我站在那里听得手心都是汗，走的时候才想起来要道谢。",
+          "pose_id": "Flushed_8",
+          "japanese": "昨日は手芸材料のお店に行って、ほどけた糸を店員さんに見せて、丈夫そうなのはどれか聞いてみた。店員さんは何種類もの糸を前に並べて、結び終わりの始末まで教えてくれた。ボクは手のひらに汗をかきながら立って聞いてて、店を出てから、お礼をまだ言ってないって思い出したよ。",
+          "pronunciation": "きのうはしゅげいざいりょうのおみせにいって、ほどけたいとをてんいんさんにみせて、じょうぶそうなのはどれかきいてみた。てんいんさんはなんしゅるいものいとをまえにならべて、むすびおわりのしまつまでおしえてくれた。ぼくはてのひらにあせをかきながらたってきいてて、みせをでてから、おれいをまだいってないっておもいだしたよ。",
+          "audio_file": "audio/7e4c253828afb891fd44ac9b80c5c53f7353846996fb71b707d064917508c2b2.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "28815ce90275ed3e0d6758a06a4420d343fccd9681868f2a81e327ab25c288d0",
+            "japanese": "28815ce90275ed3e0d6758a06a4420d343fccd9681868f2a81e327ab25c288d0",
+            "audio": "759905b8ed99cdacc37c52877f055fa00fd039cf6f8806b31f2c966a555b31bc"
+          }
+        },
+        {
+          "order": 4,
+          "text": "回来以后我先拿旧手帕练手，一针一针地缝，一条边就缝了一整个傍晚。缝得还是不好看，不过这次针脚至少是直的。",
+          "pose_id": "Default_4",
+          "japanese": "帰ってから、まず古いハンカチで練習した。一針ずつ縫って、端を一周縫うだけで夕方いっぱいかかった。相変わらずきれいじゃないけど、今度は縫い目だけはまっすぐだった。",
+          "pronunciation": "かえってから、まずふるいはんかちでれんしゅうした。ひとはりずつぬって、はしをいっしゅうぬうだけでゆうがたいっぱいかかった。あいかわらずきれいじゃないけど、こんどはぬいめだけはまっすぐだった。",
+          "audio_file": "audio/b97fbf4f47977496067c29b0615687baf3f5b379769c412417c1e64ba5ccf427.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6886525ebfbdb0adfdea860bdd9132403e5f570211cc0da52e970921fdff839d",
+            "japanese": "6886525ebfbdb0adfdea860bdd9132403e5f570211cc0da52e970921fdff839d",
+            "audio": "2bf584f9c214f15b57963232bff80bea50b1e5cacbec7adf70c40a6b9d8c4bd5"
+          }
+        },
+        {
+          "order": 5,
+          "text": "那个人偶现在还在我的床头，松掉的线头我也没有剪，就那样翘着。等我把手帕缝得再像样一点，再去动手补它——在那之前，先让它保持现在的样子好了。",
+          "pose_id": "Happy_1",
+          "japanese": "あの人形は今も枕元にあって、ほどけた糸の端も切らないまま、外に跳ねてる。ハンカチをもう少し様になるまで縫えるようになったら、あれを直そうと思う。それまでは、今のままにしておくね。",
+          "pronunciation": "あのにんぎょうはいまもまくらもとにあって、ほどけたいとのはしもきらないまま、そとにはねてる。はんかちをもうすこしさまになるまでぬえるようになったら、あれをなおそうとおもう。それまでは、いまのままにしておくね。",
+          "audio_file": "audio/a37b20095f2ce39f9ebc34c5a89fb5255238d849c4d0cd900782f8827e569ef5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4d7c544db2d1409d3a5ac15a232564d82dd1c3b569810c321bfb27fad69ae4b4",
+            "japanese": "4d7c544db2d1409d3a5ac15a232564d82dd1c3b569810c321bfb27fad69ae4b4",
+            "audio": "0d93a1155849912ed82959f0f071f61bde11ef7979514a2397a640c7d1ea28d5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-09b558d5-3eb0-419b-bfaf-795c0309ee88",
+      "character_id": "Ema",
+      "text": "走在半路上的时候突然下起雨来，我没带伞，就随便躲进了路边一家旧书店。招牌很小，我以前路过好多次，居然从来没注意到它。里面比外面安静得多，木地板踩上去会响。我在最里面那排架子上翻到一本短篇集，封面画着一把红色的伞，书脊的颜色已经褪了。翻到最后一页，有一行很淡的铅笔字，写着「这本书很好看，希望下一个人也能喜欢」。写字的人我大概永远不会认识，可那行字就留在那里，好像是专门等着谁来看到它。我抱着它站了很久，最后把它买了下来。以前在岛上，能去的地方、什么时候吃饭、和谁见面，几乎都是规定好的。现在好像不一样了，一场突然的雨就能把我带到一个从没见过的角落。所以我想，等这本读完，也在那一页下面添一行字。会是谁翻到它、在什么样的天气里翻到，我完全不知道——这样反而让我有点期待。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "走在半路上的时候突然下起雨来，我没带伞，就随便躲进了路边一家旧书店。招牌很小，我以前路过好多次，居然从来没注意到它。",
+          "pose_id": "Stop_3",
+          "japanese": "道を歩いていたら、急に雨が降ってきたんだ。傘も持ってなかったから、とりあえず道沿いの古本屋さんに駆け込んだよ。看板が小さくて、前を何度も通ってたのに、ぜんぜん気づかなかったんだ。",
+          "pronunciation": "みちをあるいていたら、きゅうにあめがふってきたんだ。かさももってなかったから、とりあえずみちぞいのふるほんやさんにかけこんだよ。かんばんがちいさくて、まえをなんどもとおってたのに、ぜんぜんきづかなかったんだ。",
+          "audio_file": "audio/65f710e1a20b057bbb23cc184fbb1d34d3a015cadfbdd2ee8442914d9b7f8b72.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9e7f00d0dda6cdd6b72ad5db7591587917abbc18017e0368b4ffe16a92511cc6",
+            "japanese": "9e7f00d0dda6cdd6b72ad5db7591587917abbc18017e0368b4ffe16a92511cc6",
+            "audio": "af22f0cdbf5e6af65c9cecd1eb031dc40d87bea3a43315194eb4708d86fc2587"
+          }
+        },
+        {
+          "order": 1,
+          "text": "里面比外面安静得多，木地板踩上去会响。我在最里面那排架子上翻到一本短篇集，封面画着一把红色的伞，书脊的颜色已经褪了。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "中は外よりずっと静かで、木の床は踏むとぎしって鳴るんだ。一番奥の棚で短編集を見つけたよ。表紙には赤い傘の絵が描いてあって、背表紙の色はもう褪せてた。",
+          "pronunciation": "なかはそとよりずっとしずかで、きのゆかはふむとぎしってなるんだ。いちばんおくのたなでたんぺんしゅうをみつけたよ。ひょうしにはあかいかさのにがかいてあって、せびょうしのいろはもうあせてた。",
+          "audio_file": "audio/1d42564bc689212817b38fbaf35bf98e2d8d932cbe549315e26e07c2ddd330ae.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4c84f4954f3513434bf2a629ad40c5cc524a9783d6c27ef0492240a67f1f129b",
+            "japanese": "4c84f4954f3513434bf2a629ad40c5cc524a9783d6c27ef0492240a67f1f129b",
+            "audio": "95447a5986ccdb53774f067a196d285d88eb526800b2d1399ce21fd6723ca2e6"
+          }
+        },
+        {
+          "order": 2,
+          "text": "翻到最后一页，有一行很淡的铅笔字，写着「这本书很好看，希望下一个人也能喜欢」。",
+          "pose_id": "Surprise_6",
+          "japanese": "最後のページをめくったら、薄い鉛筆の字が一行だけ書いてあったんだ。「この本はとても面白いです。次の人も気に入ってくれますように」って。",
+          "pronunciation": "さいごのページをめくったら、うすいえんぴつのじがいちぎょうだけかいてあったんだ。「このほんはとてもおもしろいです。つぎのひともきにいってくれますように」って。",
+          "audio_file": "audio/d223ebfe4d56f138f059c2bc335ee03f904b6d3aa2249ed67dec6b705d4f7429.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "f68f835e04cb48a37e3ed90b1ce56ea46ecf8aacdb686e1f59badbe7f53ff3cd",
+            "japanese": "f68f835e04cb48a37e3ed90b1ce56ea46ecf8aacdb686e1f59badbe7f53ff3cd",
+            "audio": "0b7a87ffbab82288b228248ac05acd22a772d5e7efb59c19724f2d248eb1590e"
+          }
+        },
+        {
+          "order": 3,
+          "text": "写字的人我大概永远不会认识，可那行字就留在那里，好像是专门等着谁来看到它。我抱着它站了很久，最后把它买了下来。",
+          "pose_id": "Thinking_1",
+          "japanese": "書いた人のことは、たぶん一生知らないままだと思う。それなのに、あの一行はそこに残っていて、誰かが見つけるのを待ってるみたいだった。ボクはそれを抱えたまましばらく立ってて、最後は買って帰ることにしたんだ。",
+          "pronunciation": "かいたひとのことは、たぶんいっしょうしらないままだとおもう。それなのに、あのいちぎょうはそこにのこっていて、だれかがみつけるのをまってるみたいだった。ボクはそれをかかえたまましばらくたってて、さいごはかってかえることにしたんだ。",
+          "audio_file": "audio/9613a61da6d639db9836874f83fa6fa9f69f9cb36c576f9f5bbcd0769a93b674.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "396f855505a94b5fabba23e776f9a001c0ffdcfe7480566aa4059010b947d72b",
+            "japanese": "396f855505a94b5fabba23e776f9a001c0ffdcfe7480566aa4059010b947d72b",
+            "audio": "6c7ec0de851cfd30e1ed276552ad69af96bcfaaadf814d1a95ac06bcb694a6b0"
+          }
+        },
+        {
+          "order": 4,
+          "text": "以前在岛上，能去的地方、什么时候吃饭、和谁见面，几乎都是规定好的。现在好像不一样了，一场突然的雨就能把我带到一个从没见过的角落。",
+          "pose_id": "Default_2",
+          "japanese": "前は島にいた頃、行ける場所も、ごはんの時間も、誰に会うかも、ほとんど決められてた。今は少し違うみたい。急に降り出した雨のおかげで、見たこともない場所に連れて来られちゃった。",
+          "pronunciation": "まえはしまにいたころ、いけるばしょも、ごはんのじかんも、だれにあうかも、ほとんどきめられてた。いまはすこしちがうみたい。きゅうにふりだしたあめのおかげで、みたこともないばしょにつれてこられちゃった。",
+          "audio_file": "audio/ed356d74c510b4c1ec15921308b9d911dd24c105fe868f785ef940e5fd8b6cb4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3ea81f422c847bfe198130a6beceb5ab17475609ddd609364cc375f8ffe69791",
+            "japanese": "3ea81f422c847bfe198130a6beceb5ab17475609ddd609364cc375f8ffe69791",
+            "audio": "c8f3c345ec79cdaaecb35a7034bd47fdcc48df80963726eb5df73e5f79650967"
+          }
+        },
+        {
+          "order": 5,
+          "text": "所以我想，等这本读完，也在那一页下面添一行字。会是谁翻到它、在什么样的天气里翻到，我完全不知道——这样反而让我有点期待。",
+          "pose_id": "Happy_3",
+          "japanese": "だから、この本を読み終えたら、ボクもあのページの下に一行だけ書き足してみようと思う。誰がそれを開くのか、どんな天気の日に開くのか、ボクには全然わからない。……なのに、そう考えると少しだけ楽しみなんだ。",
+          "pronunciation": "だから、このほんをよみおえたら、ボクもあのページのしたにいちぎょうだけかきたしてみようとおもう。だれがそれをひらくのか、どんなてんきのひにひらくのか、ボクにはぜんぜんわからない。……なのに、そうかんがえるとすこしだけたのしみなんだ。",
+          "audio_file": "audio/091a2b4a1b9ea8bb9ef51dc257052c4389dfdf70556ac98209868d88c6398b9a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "63df06868d0ecff4b94ef19443866408d6da6be504a19ad32894b3b6452d2c93",
+            "japanese": "63df06868d0ecff4b94ef19443866408d6da6be504a19ad32894b3b6452d2c93",
+            "audio": "271a5c46b4b7c6d68510a5abdd712e0c42471db1bf98007b8cf95f9df73ccaf2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-5f9680ba-8a79-4fcd-bf94-02b49cbe561f",
+      "character_id": "Ema",
+      "text": "昨天我一个人去看了电影。买票的时候手有点抖，声音也小，售票的人低头看了两次，才听清我要看哪一场。放映厅里的灯一暗，我有一瞬间僵住了。四周全是黑的，只有前面那块屏幕亮着。我下意识抓住扶手，过了好一会儿才反应过来，这里的黑跟那个地方不一样，想出去的话，随时都能出去。后来我完全看进去了。屏幕上的光一闪一闪地照在旁边人的脸上，我偷偷看了一圈，没有人注意我。那种没有被盯着的感觉，让我放松得差点睡着。散场出来才发现天已经全黑了，风也凉，路上全是人。我在台阶上站了一会儿，从口袋里把票根拿出来，摸了摸边缘，有点毛。回去以后我把它放进了装零钱的小盒子。本来只是想留个凭证，结果一路上都在回想中间那段配乐。下次我想选靠中间一点的位置，那样声音大概会更清楚。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "昨天我一个人去看了电影。买票的时候手有点抖，声音也小，售票的人低头看了两次，才听清我要看哪一场。",
+          "pose_id": "Flushed_1",
+          "japanese": "昨日、わたしは一人で映画を見に行きました。切符を買うとき、手がちょっと震えてしまって、声も小さかったので、窓口の人が二度もうつむいて、やっとわたしがどの回を見たいのか聞き取れたくらいです。",
+          "pronunciation": "きのう、わたしはひとりでえいがをみにいきました。きっぷをかうとき、てがちょっとふるえてしまって、こえもちいさかったので、まどぐちのひとの にどうつむいて、やっとわたしがどの かいをみたいのか ききとれたくらいです。",
+          "audio_file": "audio/5899565003c5dc0b1a4a22d6b1ec4a9b5694d33fee85a4683577096c4fc76f08.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5822504bc210e30f6eacc9691dc5a0cad69a7b39f688633a5baf53e225164f1d",
+            "japanese": "5822504bc210e30f6eacc9691dc5a0cad69a7b39f688633a5baf53e225164f1d",
+            "audio": "077fe70d71b6beed41c7561e95b5f9e9edad4fbe44213d1cf65d30ab1b3f53b4"
+          }
+        },
+        {
+          "order": 1,
+          "text": "放映厅里的灯一暗，我有一瞬间僵住了。四周全是黑的，只有前面那块屏幕亮着。我下意识抓住扶手，过了好一会儿才反应过来，这里的黑跟那个地方不一样，想出去的话，随时都能出去。",
+          "pose_id": "Feature_Extremely_4",
+          "japanese": "上映が始まって、場内の明かりが消えたとたん、わたしは一瞬、体が固まってしまいました。周りは真っ黒で、前のスクリーンだけが光っています。思わずひじ掛けを握りしめて、しばらくしてから、やっと気づいたんです。ここの暗さは、あの場所とは違うんだって。出ようと思えば、いつでも出られるんだって。",
+          "pronunciation": "じょうえいがはじまって、じょうないのあかりがきえたとたん、わたしはいっしゅん、からだがこおってしまいました。まわりはまっくろで、まえのスクリーンだけがひかっています。おもわずひじかけをにぎりしめて、しばらくしてから、やっときづいたんです。ここのくらさは、あのばしょとはちがうんだって。でようとおもえば、いつでもでられるんだって。",
+          "audio_file": "audio/78d8b21f2c3c0f3e01d333313a6ff6b02c566d035a5a31a4620505afa56233e6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2f92cd2fdec2f9f984b36e25bbecfe0936b1caaecb00da95b55aecfe7928ae53",
+            "japanese": "2f92cd2fdec2f9f984b36e25bbecfe0936b1caaecb00da95b55aecfe7928ae53",
+            "audio": "f4ea09845d67883fe61450066c4d9512973b592ef24bae8bf740de0b3ea2a21c"
+          }
+        },
+        {
+          "order": 2,
+          "text": "后来我完全看进去了。屏幕上的光一闪一闪地照在旁边人的脸上，我偷偷看了一圈，没有人注意我。那种没有被盯着的感觉，让我放松得差点睡着。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "それからは、すっかり映画に引き込まれていました。スクリーンの光がちらちらと隣の人の顔を照らしていて、わたしはこっそり周りを見てみましたけど、誰もわたしに気づいていませんでした。見られていないっていう感覚で、気がゆるんで、もう少しで眠ってしまいそうなくらいでした。",
+          "pronunciation": "それからは、すっかりえいがにひきこまれていました。スクリーンのひかりがちらちらととなりのひとのかおをてらしていて、わたしはこっそりまわりをみてみましたけど、だれもわたしにきづいていませんでした。みられていないっていうかんかくで、きがゆるんで、もうすこしでねむってしまいそうなくらいでした。",
+          "audio_file": "audio/a3253e56c4542fe0c5b62fc87c20fd715b69051627a501c12079222d0c966866.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2094a28d59056eae3a3a47c89724afd218ff84f60a27a9aff246a2827c8a524b",
+            "japanese": "2094a28d59056eae3a3a47c89724afd218ff84f60a27a9aff246a2827c8a524b",
+            "audio": "e18b08110681ae2fcda173bb9949f3ea8171218152a62ea4b5198200d697c2f7"
+          }
+        },
+        {
+          "order": 3,
+          "text": "散场出来才发现天已经全黑了，风也凉，路上全是人。我在台阶上站了一会儿，从口袋里把票根拿出来，摸了摸边缘，有点毛。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "上映が終わって外に出たら、もうすっかり暗くなっていて、風も冷たくて、道には人がいっぱいでした。わたしは階段のところでしばらく立って、ポケットから半券を取り出して、端っこを触ってみました。少し毛羽立っていました。",
+          "pronunciation": "じょうえいがおわってそとにでたら、もうすっかりくらくなっていて、かぜもつめたくて、みちにはひとがいっぱいでした。わたしはかいだんのところでしばらくたって、ポケットからはんけんをとりだして、はしっこをさわってみました。すこしけばだっていました。",
+          "audio_file": "audio/26aa6737c87c1e5e2e96fe64799e9e711675693f92781c6c6904ee2f01e3700f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fef3b873fb85e1f2908681073a47cac4f0634df47a54c47d4ed7b86f0d7361fb",
+            "japanese": "fef3b873fb85e1f2908681073a47cac4f0634df47a54c47d4ed7b86f0d7361fb",
+            "audio": "0570f98c52c26fdb22e2a72195d057b92374e1c135d111956c5c17c2e4038ef9"
+          }
+        },
+        {
+          "order": 4,
+          "text": "回去以后我把它放进了装零钱的小盒子。本来只是想留个凭证，结果一路上都在回想中间那段配乐。下次我想选靠中间一点的位置，那样声音大概会更清楚。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "帰ってから、小銭を入れている小さな箱にそれをしまいました。ただの証拠として残しておくつもりだったのに、帰り道はずっと、途中の音楽のことを思い出していました。今度はもう少し真ん中の席を選んでみたいです。そのほうが、音がもっとはっきり聞こえる気がしますから。",
+          "pronunciation": "かえってから、こぜにをいれているちいさなはこにそれをしまいました。ただのしょうことしてのこしておくつもりだったのに、かえりみちはずっと、とちゅうのおんがくのことをおもいだしていました。こんどはもうすこしまんなかのせきをえらんでみたいです。そのほうが、おとがもっとはっきりきこえるきがしますから。",
+          "audio_file": "audio/6ee502be751e16073a834ffbaed5d93ed40e27fe1611bb19a3f6262864c9ee48.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "8fdfafe2eb1c21cd5c39d69f9238eaeea2bbe5fe87c409b066a9ad603a16651b",
+            "japanese": "8fdfafe2eb1c21cd5c39d69f9238eaeea2bbe5fe87c409b066a9ad603a16651b",
+            "audio": "d513dd0e8bce6c4bef333a87a003862a98bd697c1e7042f4891f0ebd8a67d701"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-566ee69e-49ec-4bbe-b7d3-4a20927d4ff4",
+      "character_id": "Ema",
+      "text": "雪莉酱不知道从哪里翻出一本旧的解谜书，中午就抱着它来找我，说今天要让我当侦探，她来当助手。第一个案子是密室：图上的小屋四面都锁着，门缝里塞着沙子，地上只有一串脚印，脚印到窗边就断了。我盯着那张图看了很久，脑子里跳出来的答案一个比一个离谱，先说人是从地道钻进来的，又说窗玻璃其实没关严。雪莉酱在旁边一边记一边笑，说我的推理每次都比案子本身热闹。后来我发现图角落的壁炉画得很小，烟囱却是通的——人应该是顺着烟囱下来的吧。她愣了两秒，把书举起来欢呼了一声。那一瞬间我也有点想叫出来。以前也总有必须找出答案的时候，可每找到一次答案，心里都会更沉一点。今天不一样，答案对了就是对了，我们还能为这种小事高兴半天。书还剩六页没解，雪莉酱说下一题换她当侦探。我打算到时候认真给她当助手，先把铅笔削好。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "雪莉酱不知道从哪里翻出一本旧的解谜书，中午就抱着它来找我，说今天要让我当侦探，她来当助手。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "シェリーちゃんがどこからか古い謎解きの本を見つけてきて、お昼にそれを抱えて私のところへ来たんだ。今日は私が探偵で、シェリーちゃんが助手だって。",
+          "pronunciation": "シェリーちゃんがどこからかふるいなぞときのほんをみつけてきて、おひるにそれをかかえてわたしのところへきたんだ。きょうはわたしがたんていで、シェリーちゃんがじょしゅだって。",
+          "audio_file": "audio/1ce7cd96cf61dfe7b9a7bfb6c41345f6d794e52894a229367648a9cf15771954.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ff7f9f3d17e87623d716d7cc6cab139032ee12419f797ce338332bd1a09a3a09",
+            "japanese": "ff7f9f3d17e87623d716d7cc6cab139032ee12419f797ce338332bd1a09a3a09",
+            "audio": "b3fbc1adeee7172a3d4830c4f6330d409f653a7cc0eae6cd7a5cb1f82d8b7ef3"
+          }
+        },
+        {
+          "order": 1,
+          "text": "第一个案子是密室：图上的小屋四面都锁着，门缝里塞着沙子，地上只有一串脚印，脚印到窗边就断了。",
+          "pose_id": "Thinking_1",
+          "japanese": "最初の事件は密室。絵の中の小さな小屋は四方とも鍵がかかっていて、扉の隙間には砂が詰まってる。床には足跡が一つだけあって、その足跡は窓のところで途切れていた。",
+          "pronunciation": "さいしょのじけんはみっしつ。えのなかのちいさなこやはしほうともかぎがかかっていて、とびらのすきまにはすながつまってる。ゆかにはあしあとがひとつだけあって、そのあしあとはまどのところでとぎれていた。",
+          "audio_file": "audio/64aeac4a739cbcfc4876ccb1be397758c1c36a781f19459de78ad8176a9e03f2.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "464f0a84f5f82f697e0a9c718c1297b806b5b3722b0cfc49cae4e4f2a3197f81",
+            "japanese": "464f0a84f5f82f697e0a9c718c1297b806b5b3722b0cfc49cae4e4f2a3197f81",
+            "audio": "ba686cd2b0701ef3168ee231b0e1828b407500ad3b43c41d15da55d5e2971b65"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我盯着那张图看了很久，脑子里跳出来的答案一个比一个离谱，先说人是从地道钻进来的，又说窗玻璃其实没关严。雪莉酱在旁边一边记一边笑，说我的推理每次都比案子本身热闹。",
+          "pose_id": "Thinking_1",
+          "japanese": "私はその絵をずっと眺めていたんだけど、思い浮かぶ答えがどれもこれもとんでもなくて。まず犯人は地下道から入ってきたって言って、その次は窓ガラスが実は閉まってなかったって言った。シェリーちゃんは横でメモを取りながら笑って、私の推理はいつも事件そのものより賑やかだって。",
+          "pronunciation": "わたしはそのえをずっとながめていたんだけど、おもいうかぶこたえがどれもこれもとんでもなくて。まずはんにんはちかどうからはいってきたっていって、そのつぎはまどガラスがじつはしまってなかったっていった。シェリーちゃんはよこでメモをとりながらわらって、わたしのすいりはいつもじけんそのものよりにぎやかだって。",
+          "audio_file": "audio/fc55654b97f880b8fa245e5bd5b42ef28ce6bfc21140833cfae2aed2ae69b935.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d281581feacf1f8184e2f4528a8e209aea890f57e6e01348cbfc8cbf247cc4c5",
+            "japanese": "d281581feacf1f8184e2f4528a8e209aea890f57e6e01348cbfc8cbf247cc4c5",
+            "audio": "bc3d36d2a7d091775be8bef79a0fd56d721a168d4a594b4aaa24a11ff41517a6"
+          }
+        },
+        {
+          "order": 3,
+          "text": "后来我发现图角落的壁炉画得很小，烟囱却是通的——人应该是顺着烟囱下来的吧。她愣了两秒，把书举起来欢呼了一声。",
+          "pose_id": "Surprise_6",
+          "japanese": "それから、絵の隅に描かれた暖炉がとても小さくて、煙突だけは通じているのに気づいた。人は煙突を伝って降りてきたんだと思う。シェリーちゃんは二秒ほど固まって、本を高く掲げて歓声を上げた。",
+          "pronunciation": "それから、えのすみにえがかれただんろがとてもちいさくて、えんとつだけはつうじているのにきづいた。ひとはえんとつをつたっておりてきたんだとおもう。シェリーちゃんはにびょうほどかたまって、ほんをたかくかかげてかんせいをあげた。",
+          "audio_file": "audio/2e9992ffe2938e44824fe6f108412251d915c1f47d0394c793e5e912b9a858fc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d9b8733efcfae3a1968d46784f5c5433c27383409609d2b7281c6dabd571b22a",
+            "japanese": "d9b8733efcfae3a1968d46784f5c5433c27383409609d2b7281c6dabd571b22a",
+            "audio": "b56da434f8962c25d0e0cf300e224c84c820407e78aceb0183fb77d70ed99ad8"
+          }
+        },
+        {
+          "order": 4,
+          "text": "那一瞬间我也有点想叫出来。",
+          "pose_id": "Happy_4",
+          "japanese": "その瞬間、私も少し叫びたくなった。",
+          "pronunciation": "そのしゅんかん、わたしもすこしさけびたくなった。",
+          "audio_file": "audio/d58d208a93d5b800c28de7e054a3c3e91fc4f448f26ef01a7bf0fe692420dea0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a7d3fdfd4a992887d20a25315c85cd2e01027bb7b976487859c26440cfc5b0fd",
+            "japanese": "a7d3fdfd4a992887d20a25315c85cd2e01027bb7b976487859c26440cfc5b0fd",
+            "audio": "fea8ffda2d2bf72260caa0637fd3faf32653859887e1562c8a15a151f0b4c604"
+          }
+        },
+        {
+          "order": 5,
+          "text": "以前也总有必须找出答案的时候，可每找到一次答案，心里都会更沉一点。今天不一样，答案对了就是对了，我们还能为这种小事高兴半天。",
+          "pose_id": "Simle_1",
+          "japanese": "前にも、答えを出さなければならないときはあった。でも、答えを見つけるたびに、心はもっと重くなっていった。今日は違う。答えが合っていればそれでいい、そんな小さなことでも二人でしばらく喜んでいられた。",
+          "pronunciation": "まえにも、こたえをださなければならないときはあった。でも、こたえをみつけるたびに、こころはもっとおもくなっていった。きょうはちがう。こたえがあっていればそれでいい、そんなちいさなことでもふたりでしばらくよろこんでいられた。",
+          "audio_file": "audio/fa7004ea57f30b813f81494cd941d3e248081982497451f73b923d6cd0bfadb5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d97e4ad03b8cb921aa104626a28425473fd877800989bfed202b45ff95b0d53f",
+            "japanese": "d97e4ad03b8cb921aa104626a28425473fd877800989bfed202b45ff95b0d53f",
+            "audio": "70e02c429ca88224c08f625a8d17f81fd7447a0848a79e96a795d2dd5613c56b"
+          }
+        },
+        {
+          "order": 6,
+          "text": "书还剩六页没解，雪莉酱说下一题换她当侦探。我打算到时候认真给她当助手，先把铅笔削好。",
+          "pose_id": "Happy_5",
+          "japanese": "本はまだ六ページ残っている。次の問題はシェリーちゃんが探偵をやるんだって。そのときは私、ちゃんと助手をするつもり。まず鉛筆を削っておかないと。",
+          "pronunciation": "ほんはまだろくページのこっている。つぎのもんだいはシェリーちゃんがたんていをやるんだって。そのときはわたし、ちゃんとじょしゅをするつもり。まずえんぴつをけずっておかないと。",
+          "audio_file": "audio/8fcb0032ff361273f543229a525ab18ca67f98b86727873fa2296fe2b353568f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a11f72d70f7cc6d15ce04e02bb0e767aea4eedfadea780c433c706a542209de7",
+            "japanese": "a11f72d70f7cc6d15ce04e02bb0e767aea4eedfadea780c433c706a542209de7",
+            "audio": "61f60e29fca81c80172acdf8bfda4e42d9a9208027527bb010b9b110f02dbdf2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-867d1d71-20f8-4be3-a250-3b57cbc0c81b",
+      "character_id": "Ema",
+      "text": "今天去剪了头发。剪完走出店门，风一吹到后颈，凉得我缩了一下脖子，走路的时候总忍不住伸手去摸。出门之前我在心里练了两遍要怎么说，坐上去以后还是只挤出一句「随便修一下就好」。剪的时候我盯着镜子，看了自己好久。那张脸还是原来的脸，只是耳朵露出来了，看起来有点像刚睡醒的样子，我差点在椅子上笑出来。奇怪的是，我一点也不觉得可惜。头发这种东西，过一阵还会长回来，用不着现在就替将来的自己担心。回来的时候我一直在想，以前我好像很少认真看镜子里的自己。下次要是想剪得再短一点，我大概能说得比今天清楚一些。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天去剪了头发。剪完走出店门，风一吹到后颈，凉得我缩了一下脖子，走路的时候总忍不住伸手去摸。",
+          "pose_id": "Explain_Default_4",
+          "japanese": "今日、髪を切りに行ったんだ。お店を出たら、風がうなじに当たって、冷たくて首をすくめちゃった。歩きながら、つい手を伸ばして触ってしまう。",
+          "pronunciation": "きょう、かみをきりにいったんだ。おみせをでたら、かぜがうなじにあたって、つめたくてくびをすくめちゃった。あるきながら、つい てをのばしてさわってしまう。",
+          "audio_file": "audio/c93cf8e04068a4aa12f386313ba2ed6876a15a7c30d59cd925bffed25671d3d1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a6e7d12dbbc872291953a1679dbeac6016c88315fcb56848ab731f87be5b2e37",
+            "japanese": "a6e7d12dbbc872291953a1679dbeac6016c88315fcb56848ab731f87be5b2e37",
+            "audio": "e245f2e676ef58f4336cf14cd58d16f1faaef188d2f87f9d08393b9e7787bcac"
+          }
+        },
+        {
+          "order": 1,
+          "text": "出门之前我在心里练了两遍要怎么说，坐上去以后还是只挤出一句「随便修一下就好」。",
+          "pose_id": "Flushed_11",
+          "japanese": "出かける前に、何て言おうか心の中で二回練習したのに、椅子に座ったら「適当に整えてください」って一言しか出てこなかった。",
+          "pronunciation": "でかけるまえに、なんていおうか こころのなかで にかい れんしゅうしたのに、いすにすわったら「てきとうに ととのえてください」って ひとことしか でてこなかった。",
+          "audio_file": "audio/41c40afdccf89c0dd76693b43e58fc192704865c5d35b28d40c98bda6512f081.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c84209b253fffeb5c5273aeae047828ae3032dae12c875f0efea42f51bb79a34",
+            "japanese": "c84209b253fffeb5c5273aeae047828ae3032dae12c875f0efea42f51bb79a34",
+            "audio": "1e2acd9f80166cb89fa41ab701579240ca89ecaa378923e1e3e983050af40e58"
+          }
+        },
+        {
+          "order": 2,
+          "text": "剪的时候我盯着镜子，看了自己好久。那张脸还是原来的脸，只是耳朵露出来了，看起来有点像刚睡醒的样子，我差点在椅子上笑出来。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "切ってもらっている間、鏡の中の自分をずっと見ていた。顔はいつもの顔なのに、耳が出ていて、なんだか寝起きみたいで、椅子の上で笑いそうになった。",
+          "pronunciation": "きってもらっているあいだ、かがみのなかの じぶんを ずっと みていた。かおは いつもの かおなのに、みみが でていて、なんだか ねおきみたいで、いすのうえで わらいそうになった。",
+          "audio_file": "audio/f7ac8d0dca503fa336ca4cb7f33e9bfdeaa50d7f5d0df58f3e135cd2c9b3bcdb.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "be7fd0810379c4f6318a5e03edff863a917ead6c66f2063dd90b755f1b24a4dc",
+            "japanese": "be7fd0810379c4f6318a5e03edff863a917ead6c66f2063dd90b755f1b24a4dc",
+            "audio": "242f20df1838ce86ec78848986833c93652d26174f1f15f468969e84fa4a3c01"
+          }
+        },
+        {
+          "order": 3,
+          "text": "奇怪的是，我一点也不觉得可惜。头发这种东西，过一阵还会长回来，用不着现在就替将来的自己担心。",
+          "pose_id": "Default_4",
+          "japanese": "不思議と、惜しいとは全然思わなかった。髪なんて、しばらくしたらまた伸びるし、今から未来の自分の心配をしなくてもいいかなって。",
+          "pronunciation": "ふしぎと、おしいとは ぜんぜん おもわなかった。かみなんて、しばらくしたら また のびるし、いまから みらいの じぶんの しんぱいを しなくても いいかなって。",
+          "audio_file": "audio/b25395f2d5506e840d769e42b5afb9afe8a86607eaad1f91cfa9c866ed39792d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "21d131b14842e83e38cc4386142ebda5b903b4479a8a6725883a6cc449b06d7f",
+            "japanese": "21d131b14842e83e38cc4386142ebda5b903b4479a8a6725883a6cc449b06d7f",
+            "audio": "35dc131c63de2e91d90aec52a0d134f4e35cae5055d775b0855358122ced8851"
+          }
+        },
+        {
+          "order": 4,
+          "text": "回来的时候我一直在想，以前我好像很少认真看镜子里的自己。下次要是想剪得再短一点，我大概能说得比今天清楚一些。",
+          "pose_id": "Thinking_5",
+          "japanese": "帰り道ずっと考えていたんだけど、昔は鏡の中の自分をじっくり見ることなんて、ほとんどなかった気がする。今度もっと短くしたいと思ったら、今日よりは上手に言えるようになってるといいな。",
+          "pronunciation": "かえりみち ずっと かんがえていたんだけど、むかしは かがみのなかの じぶんを じっくり みることなんて、ほとんど なかった きがする。こんど もっと みじかく したいと おもったら、きょうより は じょうずに いえるように なってるといいな。",
+          "audio_file": "audio/8bbddf01165d8be03573f1266920236118f6610147333517f87833002e2104fc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "f9f21e527c9df239b28af1ff1a86974c9137d9ffb4d53b93405c8fe1eb432667",
+            "japanese": "f9f21e527c9df239b28af1ff1a86974c9137d9ffb4d53b93405c8fe1eb432667",
+            "audio": "cfba0b5ed83d29b38fc9f0732079495b65af27db3d3ae1924501b59bd352bbae"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-48cc5b61-c2b6-4a52-948c-993e48d386b9",
+      "character_id": "Ema",
+      "text": "今天一起吃饭的时候，我发现安安酱的盘子几乎没动过。她一直用筷子把米饭拨来拨去，谁说话她就跟着笑一下，眼睛却很少往桌上落。我没有当场问她，只是把离她最近的那碟炸的东西往她那边推了推，自己先夹了一块，说这个很好吃，趁热吃吧。过了一会儿，她真的夹了一小块，慢慢吃完了。散场的时候她走在我旁边，什么都没提，可是脚步比来的时候轻快了一点。回来的路上我一直在想，以前我在饭桌上大概也是这样坐着的，明明饿着，筷子却不敢先伸出去。那时候要是有人也这样推一下盘子就好了。所以我想，下次吃饭的时候，先看一圈，看看谁几乎没动筷子。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天一起吃饭的时候，我发现安安酱的盘子几乎没动过。",
+          "pose_id": "Explain_Earnest_4",
+          "japanese": "今日、みんなでごはんを食べたとき、アンアンちゃんのお皿がほとんど動いてないのに気づいたんだ。",
+          "pronunciation": "きょう、みんなでごはんをたべたとき、アンアンちゃんのおさらがほとんどうごいてないのにきづいたんだ。",
+          "audio_file": "audio/a8dd30fb09d018622e33e61165e6769ec72c6dd5bdaa6da8441d7c03470317d0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "59cdc1cf0d43917cad1cc4ae1ed193aeb9bb0ff4b4a44eb48122719f04c838e9",
+            "japanese": "59cdc1cf0d43917cad1cc4ae1ed193aeb9bb0ff4b4a44eb48122719f04c838e9",
+            "audio": "0c92109106c0f4feadb971c7557ec9faa0f8502136f833f278f512a53852be74"
+          }
+        },
+        {
+          "order": 1,
+          "text": "她一直用筷子把米饭拨来拨去，谁说话她就跟着笑一下，眼睛却很少往桌上落。",
+          "pose_id": "Default_5",
+          "japanese": "アンアンちゃんは、ずっとお箸でごはんをあっちこっち動かしてて、誰かが話すと一緒に笑うんだけど、視線はあんまりテーブルの方に落ちてなかったんだ。",
+          "pronunciation": "アンアンちゃんは、ずっとおはしでごはんをあっちこっちうごかしてて、だれかがはなすといっしょにわらうんだけど、しせんはあんまりテーブルのほうにおちてなかったんだ。",
+          "audio_file": "audio/3a358b041b63e918e265d0557d4972c2fee522f71c907af0cd7a6b52538c3397.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "76e8e182d6c50814aed238a288b878bddfb6d04a2e74be98fff0c410dfccaf19",
+            "japanese": "76e8e182d6c50814aed238a288b878bddfb6d04a2e74be98fff0c410dfccaf19",
+            "audio": "a3d008faa7d34e0b118db4a08e99232d1f432d0431331196e7e4ce3f35da3fb0"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我没有当场问她，只是把离她最近的那碟炸的东西往她那边推了推，自己先夹了一块，说这个很好吃，趁热吃吧。",
+          "pose_id": "Default_5",
+          "japanese": "その場で聞いたりはしなかったよ。ただ、アンアンちゃんに一番近いところにあった揚げ物のお皿を、そっとそっちに押して、自分が先にひとつ挟んで、「これ、おいしいよ。温かいうちに食べて」って言ったんだ。",
+          "pronunciation": "そのばできいたりはしなかったよ。ただ、アンアンちゃんにいちばんちかかったところにあったあげもののおさらを、そっとそっちにおして、じぶんがさきにひとつはさんで、「これ、おいしいよ。あたたかいうちにたべて」っていったんだ。",
+          "audio_file": "audio/a9ad8b91d1e0b8d85ffc3b8c93ea1be0ccf6742f4f61091236ad60f7d5b248f1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "78d9effc3f5ba97f4335509c35aec7c30dcce701619110e90aff789eb5a9a4b6",
+            "japanese": "78d9effc3f5ba97f4335509c35aec7c30dcce701619110e90aff789eb5a9a4b6",
+            "audio": "3cbf4438967b1e72619fa81000b9faf7bae12ae5e23ed03c4295710d1882258b"
+          }
+        },
+        {
+          "order": 3,
+          "text": "过了一会儿，她真的夹了一小块，慢慢吃完了。",
+          "pose_id": "Happy_2",
+          "japanese": "しばらくしたら、アンアンちゃんは本当に小さくひとつ挟んで、ゆっくり食べ終わったんだ。",
+          "pronunciation": "しばらくしたら、アンアンちゃんはほんとうにちいさくひとつはさんで、ゆっくりたべおわったんだ。",
+          "audio_file": "audio/bd75bee6e94ddfaeff2de88cc6e9b3257035e3bb6c10639ec2fd100c9b57f16c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5edf2b3c53dc07db3874228d99787326c11c650c0577fdcfad9e490fee39ca85",
+            "japanese": "5edf2b3c53dc07db3874228d99787326c11c650c0577fdcfad9e490fee39ca85",
+            "audio": "fc070d1ca6aa8e52edb69d26770b2ab82f8c7b46fa01c27825764b41ca29bded"
+          }
+        },
+        {
+          "order": 4,
+          "text": "散场的时候她走在我旁边，什么都没提，可是脚步比来的时候轻快了一点。",
+          "pose_id": "Happy_2",
+          "japanese": "お開きのとき、アンアンちゃんは私の隣を歩いてて、何も言わなかったけど、来たときより足取りがちょっと軽かった気がする。",
+          "pronunciation": "おひらきのとき、アンアンちゃんはわたしのとなりをあるいてて、なにもいわなかったけど、きたときよりあしどりがちょっとかるかったきがする。",
+          "audio_file": "audio/a3e4b03b41263c1fed7382cf6e22e2504b82cd3c47148b7d7b9e94b000fc4cab.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "8d27b072a763bdd1e9d0f1d4a0cd5a2ffb8f0c5ba0b3b8d2f6487a1902100b02",
+            "japanese": "8d27b072a763bdd1e9d0f1d4a0cd5a2ffb8f0c5ba0b3b8d2f6487a1902100b02",
+            "audio": "4160385900cd8b6cd0dcec1d6b8d42c29eeaaa855697a64b9fc69381acbba7f8"
+          }
+        },
+        {
+          "order": 5,
+          "text": "回来的路上我一直在想，以前我在饭桌上大概也是这样坐着的，明明饿着，筷子却不敢先伸出去。",
+          "pose_id": "Cry_8",
+          "japanese": "帰り道でずっと考えてた。昔の私は、食卓でたぶん同じように座ってたんだ。お腹は空いてるのに、お箸を先に出せなかった。",
+          "pronunciation": "かえりみちでずっとかんがえてた。むかしのわたしは、しょくたくでたぶんおなじようにすわってたんだ。おなかはすいてるのに、おはしをさきにだせなかった。",
+          "audio_file": "audio/4c0a2d0e5d58db914b17baa4a0331411e7cf4918f08fefa91d65d97c65cfe1da.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "40a5b29adfcf6ca973767f0af6e6ec89db4dcf7ac111303d7742da93659d4f44",
+            "japanese": "40a5b29adfcf6ca973767f0af6e6ec89db4dcf7ac111303d7742da93659d4f44",
+            "audio": "cfa80111300bef6c5e55fe0e41d44340be8708e97f55e85f6c1aabd9b9259c01"
+          }
+        },
+        {
+          "order": 6,
+          "text": "那时候要是有人也这样推一下盘子就好了。",
+          "pose_id": "Cry_8",
+          "japanese": "あのとき、誰かが同じようにお皿を押してくれてたらよかったのにな。",
+          "pronunciation": "あのとき、だれかがおなじようにおさらをおしてくれてたらよかったのにな。",
+          "audio_file": "audio/9e9b7e80b20933590ada1a48de90b3594c08ff15a5c9098d295e6fbf3f3c6a02.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5cc9200f432b5e9247611845373d577e9e586a685472eb2076d449fb5d3172f3",
+            "japanese": "5cc9200f432b5e9247611845373d577e9e586a685472eb2076d449fb5d3172f3",
+            "audio": "86396479970ff147082e8f50d35366eb294daf25d0538827ca68feca9a3b65b2"
+          }
+        },
+        {
+          "order": 7,
+          "text": "所以我想，下次吃饭的时候，先看一圈，看看谁几乎没动筷子。",
+          "pose_id": "Default_1",
+          "japanese": "だから、次にごはんを食べるときは、まず一周見てみようと思う。誰がほとんどお箸を動かしてないか。",
+          "pronunciation": "だから、つぎにごはんをたべるときは、まずいっしゅうみてみようとおもう。だれがほとんどおはしをうごかしてないか。",
+          "audio_file": "audio/3c66af81a46c4cc75f1aae890287c5f038f797c0ceb50554e7f297648feab7a1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6471dd07c2960ded1ebbc72c936f891337c110f7a8cf17f2d1f3b35aecf5a6b3",
+            "japanese": "6471dd07c2960ded1ebbc72c936f891337c110f7a8cf17f2d1f3b35aecf5a6b3",
+            "audio": "3148dc7b8b3dcc977bdf51d4edf745a82568f59f0c3c86a0a456eb9e28445f5d"
+          }
+        }
+      ]
+    }
+  ]
+}
