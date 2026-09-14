@@ -1,0 +1,4049 @@
+{
+  "schema": 1,
+  "kind": "MahoTrialsBoxApplication",
+  "channel": "stable",
+  "platform": "win32-x64",
+  "progress_schema": 1,
+  "engine_version": "37.4.0",
+  "version": "0.1.0",
+  "minimum_version": "0.1.0",
+  "files": [
+    {
+      "path": "chrome_100_percent.pak",
+      "size": 167282,
+      "sha256": "4474d496b4eb082073fb439133728eed72da35f4519505c1c246ef2b9552cf49"
+    },
+    {
+      "path": "chrome_200_percent.pak",
+      "size": 258304,
+      "sha256": "3e815b1223026c0bdfffcee62a58885e0ccd99d77f0b950778d109832e38e9cc"
+    },
+    {
+      "path": "d3dcompiler_47.dll",
+      "size": 4916728,
+      "sha256": "289767b49dc8525bce262ea06fee4ef9fced2e131a55b25654ce871c1f0498b2"
+    },
+    {
+      "path": "ffmpeg.dll",
+      "size": 3035648,
+      "sha256": "9bff4787396de49acc98070bff3a7f0b0a95ea84d263de384880182c8ab1450d"
+    },
+    {
+      "path": "icudtl.dat",
+      "size": 10467680,
+      "sha256": "5070de99fbd8a48378543511fb7a072f85bf36f94b4f4e1d420d54be1435d6f1"
+    },
+    {
+      "path": "libEGL.dll",
+      "size": 502784,
+      "sha256": "37b817a55734d004d8d0b47aa55807aa1fbeffe950334569b432c4b297ef5c4a"
+    },
+    {
+      "path": "libGLESv2.dll",
+      "size": 8048128,
+      "sha256": "1c490f0cddcf1e0dff3151167ba9a61b37d6396ff7e34141f8944e075a5dd17a"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1096,
+      "sha256": "5154e165bd6c2cc0cfbcd8916498c7abab0497923bafcd5cb07673fe8480087d"
+    },
+    {
+      "path": "LICENSES.chromium.html",
+      "size": 15270663,
+      "sha256": "0af5dd50b3675106fbcb6727fb757a58d57fd77b7bbc671e3bb0b1c87cbbd9ba"
+    },
+    {
+      "path": "locales/af.pak",
+      "size": 560034,
+      "sha256": "5f3f662f860d0f319027e68d4fb1e68933b2bc3d1beff05bbcfd13f490623bab"
+    },
+    {
+      "path": "locales/am.pak",
+      "size": 908048,
+      "sha256": "e079807603c86d15f5f9ee7d59176c344160346ee513d5e6072cc144eca1e1ae"
+    },
+    {
+      "path": "locales/ar.pak",
+      "size": 1002528,
+      "sha256": "8710b45d7db8ea86a1ec047e53013ba7fa5811f69592360150c2ccd8287097ea"
+    },
+    {
+      "path": "locales/bg.pak",
+      "size": 1036184,
+      "sha256": "5907a91c11524603f87bf474825d2f30562a89fd9a8e2595f2fb9003106e6201"
+    },
+    {
+      "path": "locales/bn.pak",
+      "size": 1337729,
+      "sha256": "0a88efecf87d216bbb081d3d26f8ac91656642ab52a66ff9d91ee8e61673d7c0"
+    },
+    {
+      "path": "locales/ca.pak",
+      "size": 630581,
+      "sha256": "74c25c05829be034b1ae6469205f07830f9733e28989a3e500322493536f0279"
+    },
+    {
+      "path": "locales/cs.pak",
+      "size": 651882,
+      "sha256": "99c7c41f25c2f32868a6e870f9119a8d96c65c2c7a392593e84abd6a80aff657"
+    },
+    {
+      "path": "locales/da.pak",
+      "size": 587846,
+      "sha256": "a0ca8f63d4365d2d2e2850f7e8038ca64e9b1f6186c3a7fff62e62f7b98a86b7"
+    },
+    {
+      "path": "locales/de.pak",
+      "size": 629780,
+      "sha256": "ae28e9e71aaf424c0323f2949f7426405ccf7509a2568c93bfe29690a7302094"
+    },
+    {
+      "path": "locales/el.pak",
+      "size": 1137891,
+      "sha256": "a19b4a94347a90b60a95bd58d1ad3d7145eed6fcf2fd3867c5a201fff0bc279a"
+    },
+    {
+      "path": "locales/en-GB.pak",
+      "size": 510140,
+      "sha256": "2565bfd2216dd922c6d099e276c9c098cbbc0bb65d089c191b253ba592e74cec"
+    },
+    {
+      "path": "locales/en-US.pak",
+      "size": 515663,
+      "sha256": "b9a2cccc13d7dac53210e37248dd70df32dbec43bd33d2c663c6290155fb751e"
+    },
+    {
+      "path": "locales/es-419.pak",
+      "size": 620939,
+      "sha256": "c6012bde7397516f7b78d4860fd803ff3b389c3e3771499370c9d6a83d26ab63"
+    },
+    {
+      "path": "locales/es.pak",
+      "size": 619376,
+      "sha256": "99853e552eacb64eb318273ad2082eab2ac86b70ae193ab10af9a83b8fa9aaa4"
+    },
+    {
+      "path": "locales/et.pak",
+      "size": 564292,
+      "sha256": "9cd5b8bb0b75abd40bbb33adeab62a4a811eb5ce2d9e1c09ebef132bf8a8c5ec"
+    },
+    {
+      "path": "locales/fa.pak",
+      "size": 928998,
+      "sha256": "e165c3a4eabead448c2c7e5d83a9fdb4d50120d4d6c104118053f661810cd11a"
+    },
+    {
+      "path": "locales/fi.pak",
+      "size": 575761,
+      "sha256": "e8ee33a17b25b64ba25c55d688eabb90f49d8f3ca29daed0d54ef693bab9bca0"
+    },
+    {
+      "path": "locales/fil.pak",
+      "size": 652091,
+      "sha256": "5c2ec565f41cf4b2664054d52dfdf8db1782a13b97b5e227917941e7c5ae8887"
+    },
+    {
+      "path": "locales/fr.pak",
+      "size": 671760,
+      "sha256": "3ea78693e69ae4f2f876e24bad2937db060e9098a682c2bd9c15b1894d41ee6e"
+    },
+    {
+      "path": "locales/gu.pak",
+      "size": 1320451,
+      "sha256": "89ce115c7b2c5c4eba2640fcd5b11355224e1faaf3950d7a16de203db4b8ae08"
+    },
+    {
+      "path": "locales/he.pak",
+      "size": 815680,
+      "sha256": "657ed7bbb970416009c71c92a3150fd7119b4f0db6b8d025e80bff55595748d6"
+    },
+    {
+      "path": "locales/hi.pak",
+      "size": 1396030,
+      "sha256": "d82cb0203d79fa265da43b97c0109c5dc7b89bc93a9fb3164818ec0cccec7612"
+    },
+    {
+      "path": "locales/hr.pak",
+      "size": 628530,
+      "sha256": "49c87146bf5822ef622876a53221f0f0079a880897551d99d639f3d681c9a355"
+    },
+    {
+      "path": "locales/hu.pak",
+      "size": 674397,
+      "sha256": "484a56e14cd1fdc0933f6c1b94a57af6f5fd774c729e100f10ff3406740d5184"
+    },
+    {
+      "path": "locales/id.pak",
+      "size": 556374,
+      "sha256": "91cb6812b4e995189b1e2b61ae0565b92dac4ab3c34efd6e0920591dc005d82a"
+    },
+    {
+      "path": "locales/it.pak",
+      "size": 610953,
+      "sha256": "b49aa8fd235049a6cbfce5cdb267add7f384264bcc98a2260751e1f2e0e25f29"
+    },
+    {
+      "path": "locales/ja.pak",
+      "size": 744450,
+      "sha256": "30a10162ef5b90e31fe708e7de992622b659c13e5fc4b7c691142fb3d959cc7d"
+    },
+    {
+      "path": "locales/kn.pak",
+      "size": 1510483,
+      "sha256": "18039e3c612950d43ddfb2a06fccc8401182e29eaf9db109a8936e7481c5eb24"
+    },
+    {
+      "path": "locales/ko.pak",
+      "size": 630276,
+      "sha256": "7fb148270752339fa97e477f2c442a721d7b7b375fd9f0d68a671d2a72e3df4a"
+    },
+    {
+      "path": "locales/lt.pak",
+      "size": 682188,
+      "sha256": "953bf20a5c1eb1be8628c3a1b876a9bd377b455e2d01abcb45e3e487f0770995"
+    },
+    {
+      "path": "locales/lv.pak",
+      "size": 680484,
+      "sha256": "224cb0bbe5d251dff0fc62540a7599ea97c9720221f95d1c127332a5965a32b5"
+    },
+    {
+      "path": "locales/ml.pak",
+      "size": 1564544,
+      "sha256": "603699b9503c7298e0469096696108776191f89de1b0ac8d7cb35b95f220d238"
+    },
+    {
+      "path": "locales/mr.pak",
+      "size": 1292337,
+      "sha256": "b197cd0eb14fffdba87de15eebf05b9808bbd977c9fc76a49810f81b843b9e51"
+    },
+    {
+      "path": "locales/ms.pak",
+      "size": 584723,
+      "sha256": "f6aa70dcbbb89f312cf7a23ea3dc68374ecd8ee3ef8298ceb74896ad6c194194"
+    },
+    {
+      "path": "locales/nb.pak",
+      "size": 564306,
+      "sha256": "9e07114a8af5fa52da20ca6e96b6a6fed245213e23975dbb74bc5c8b3d9b7c15"
+    },
+    {
+      "path": "locales/nl.pak",
+      "size": 585798,
+      "sha256": "85bbe91e6c50df92336f361276f206dff88af354758f99e03734f054538a2cba"
+    },
+    {
+      "path": "locales/pl.pak",
+      "size": 653224,
+      "sha256": "fa5431960bee5431328d017268d1e7fef6f52bfb012dafe110a676f920368c88"
+    },
+    {
+      "path": "locales/pt-BR.pak",
+      "size": 612287,
+      "sha256": "93338671eb493fecff060dfd77f880423a5ba1e7767d0dcb34759308c59cf095"
+    },
+    {
+      "path": "locales/pt-PT.pak",
+      "size": 616016,
+      "sha256": "f4319cf0dc850783ff240997a1cec423721652b79e66dd8e6048437e89b8094a"
+    },
+    {
+      "path": "locales/ro.pak",
+      "size": 638739,
+      "sha256": "5094807f7e9fa04fb9eeb451c09542587e48ec432dde00c13ed3135b72df2309"
+    },
+    {
+      "path": "locales/ru.pak",
+      "size": 1057189,
+      "sha256": "8387e4d3d5029c689d19ac6e2e230434747f8908c3e190b3febbf0b930701570"
+    },
+    {
+      "path": "locales/sk.pak",
+      "size": 663410,
+      "sha256": "84d538f58d3dc6f866593ee030ed1e4a7a728ed2c6928b8e81fecb9c4bcf10db"
+    },
+    {
+      "path": "locales/sl.pak",
+      "size": 635815,
+      "sha256": "7ec96bb71941a4e73f5844a0dc051e6504c26c97b93432a06c16a963bec21f76"
+    },
+    {
+      "path": "locales/sr.pak",
+      "size": 979447,
+      "sha256": "10dbedd64c119e4e7a4dedacfdc67de8c5444eb34d755814586cbdd8e58bbfef"
+    },
+    {
+      "path": "locales/sv.pak",
+      "size": 568736,
+      "sha256": "5e44c6ff9d4f432696c747fda111a7ad99df0b818254bbf251e578952ae06d36"
+    },
+    {
+      "path": "locales/sw.pak",
+      "size": 600811,
+      "sha256": "71e4d0e6da3d1246b818d022d2e3f2e2fde6bab47a221b52b599f5ab3c58dfbc"
+    },
+    {
+      "path": "locales/ta.pak",
+      "size": 1553692,
+      "sha256": "ca560534ff3ca837cbcbbfc240af7dae12a82466bc16e99e7b79376cd102e342"
+    },
+    {
+      "path": "locales/te.pak",
+      "size": 1437149,
+      "sha256": "cdff0d30e03b05cef3847c7e66f772d0d458adc9f05b1f54f05c622c9751ee11"
+    },
+    {
+      "path": "locales/th.pak",
+      "size": 1206530,
+      "sha256": "ff3393db7ee70b0d81217c7830afcb4e5c51bc26189d50acf8fab1e76eb135be"
+    },
+    {
+      "path": "locales/tr.pak",
+      "size": 611557,
+      "sha256": "8d3703f3a1a3e5ea4d324d045b816ee0ee14dd3aad12d1b13daa969c41bf660d"
+    },
+    {
+      "path": "locales/uk.pak",
+      "size": 1060309,
+      "sha256": "fc5901318b912a9997bea9e1914ec62639d169a1704ae81eee195c2b91cbabd0"
+    },
+    {
+      "path": "locales/ur.pak",
+      "size": 920185,
+      "sha256": "0f3cc59fd6c706ae8d84a0cc50301a4929ea1f0204ad5e48250f1a354d6613e7"
+    },
+    {
+      "path": "locales/vi.pak",
+      "size": 726361,
+      "sha256": "5185dfffaade90ba3211aacee6894102452b4e576343c79f82aacce233b20221"
+    },
+    {
+      "path": "locales/zh-CN.pak",
+      "size": 520873,
+      "sha256": "13eee461d50e948a9ecd87d5936f0bd7729c41d199005384bcdad5005228dda9"
+    },
+    {
+      "path": "locales/zh-TW.pak",
+      "size": 515298,
+      "sha256": "f9a52c98596818103180ae292c95fe0c7359d3065ae17ffd9a343e748d80595f"
+    },
+    {
+      "path": "MahoTrialsBox.exe",
+      "size": 205569536,
+      "sha256": "1979ebbc80866cf838119c72797741e18e513f6e9558ecc050b4e870719e9b64"
+    },
+    {
+      "path": "README-Release.txt",
+      "size": 1012,
+      "sha256": "755051a0dbfc183075da252251998ae77075d8eb06e23b9b1fa5c45263a886eb"
+    },
+    {
+      "path": "resources/app/desktop/app-updater.cjs",
+      "size": 7857,
+      "sha256": "cb9a85455a10c3f2b6c5aaa00f72fab49d74f0a81ba78680f6e52e2ca43a0797"
+    },
+    {
+      "path": "resources/app/desktop/assets/about/author-bilibili.png",
+      "size": 77792,
+      "sha256": "ead8c5b9d19fce36f2578c73fab22170ca0a914fe70ae6cb273b0e4074a28055"
+    },
+    {
+      "path": "resources/app/desktop/assets/app-icon/app.ico",
+      "size": 131077,
+      "sha256": "af890262f2697a89506939368c7ddb986cf0aa2998b3de593c70d33709f4f290"
+    },
+    {
+      "path": "resources/app/desktop/assets/app-icon/tray.png",
+      "size": 2376,
+      "sha256": "c6941ac88459be98a654873bbacdb447a3a3509c52ab431d506ccc84dc97ab63"
+    },
+    {
+      "path": "resources/app/desktop/assets/audio/scene-notice.wav",
+      "size": 208048,
+      "sha256": "eef7184a5b3168d427c86ac44ebe4959b310dd6ac7d459b7c8c931da64a8d128"
+    },
+    {
+      "path": "resources/app/desktop/assets/ui/ema-dialogue-v1.png",
+      "size": 1435012,
+      "sha256": "5c36b2e21d770673e743c968368546fce2cd288a962e8f633c974e84dd1a2565"
+    },
+    {
+      "path": "resources/app/desktop/assets/ui/hiro-input-approved-transparent.png",
+      "size": 1383948,
+      "sha256": "0758007dafd696e1bc0dcc0a6c0f8210dfdbead549cfb1c14e908c949a23e413"
+    },
+    {
+      "path": "resources/app/desktop/assets/ui/input-indicator-original.png",
+      "size": 3878,
+      "sha256": "923badad606ac2947538c97b9e8d8a5bc92edbc88beb8babe4c2ac1e89cb6099"
+    },
+    {
+      "path": "resources/app/desktop/control-pages.css",
+      "size": 1788,
+      "sha256": "c60e44d5c101a3cdd0d853dfc553d9ebf4a57d0d373357617eab0c9847fbe9d2"
+    },
+    {
+      "path": "resources/app/desktop/control-pages.js",
+      "size": 12616,
+      "sha256": "51d4aee1e1879b3e9ac7854a920685472a722697fd127735e066ca2087a0c7b1"
+    },
+    {
+      "path": "resources/app/desktop/control.html",
+      "size": 4099,
+      "sha256": "647562305bc5c9ba60458ce8bfd92934aababf3922e64825e5359179a8672fce"
+    },
+    {
+      "path": "resources/app/desktop/control.js",
+      "size": 10459,
+      "sha256": "de61cdcb108da5bdbec6e3afd180af6072977dfece217af28eb393e66c74fd71"
+    },
+    {
+      "path": "resources/app/desktop/core-compat.cjs",
+      "size": 719,
+      "sha256": "af6c6e43639183687c0b25b696d900ee763d5e95e8d8b5c248991555d67a65ca"
+    },
+    {
+      "path": "resources/app/desktop/core-launch.cjs",
+      "size": 1739,
+      "sha256": "8e32e34b7557f1383a9bbc91843b5d6fa67c4f1f25ec388e2792683cf5ac3d54"
+    },
+    {
+      "path": "resources/app/desktop/curtain-physics.cjs",
+      "size": 1814,
+      "sha256": "45f01b3d15990ff916c9be7f9a4573c069d9a5437a402365059df81fda0907aa"
+    },
+    {
+      "path": "resources/app/desktop/curtain.css",
+      "size": 125,
+      "sha256": "a6722945e28731b27a8388a088b9df9f5a17be7d2049691d9a87dea09bea2994"
+    },
+    {
+      "path": "resources/app/desktop/curtain.js",
+      "size": 8659,
+      "sha256": "62674bd932800b6ba9b73ac9ba401b9490e826570989dd6a12e4eaac9d3690a4"
+    },
+    {
+      "path": "resources/app/desktop/data-path.cjs",
+      "size": 759,
+      "sha256": "b6d4b82431af7fb407b7b1b5c365e28721d23434315fbd5c6a7f172c84115a8a"
+    },
+    {
+      "path": "resources/app/desktop/embedding-ui.js",
+      "size": 6678,
+      "sha256": "bd64ea320ba5c8f7be5a8f948869eef2f7cf4a9cf1bbbd2061edebe5ab3350a8"
+    },
+    {
+      "path": "resources/app/desktop/github-fetch.cjs",
+      "size": 1682,
+      "sha256": "4051fcf18681900895b0cf45257a3e4b0a72f0e979ed1c82579a2cd4af726611"
+    },
+    {
+      "path": "resources/app/desktop/idle-live2d.js",
+      "size": 5363,
+      "sha256": "7f4a4694de2f699308ac2d10fab246c75d71c9b3b92804e0a04a760e23e2bb95"
+    },
+    {
+      "path": "resources/app/desktop/idle-motion.cjs",
+      "size": 2369,
+      "sha256": "1509cba95998fc597993601437ea72321f6a152ba0fe78fdf3973d53387caf09"
+    },
+    {
+      "path": "resources/app/desktop/knowledge-package.cjs",
+      "size": 1698,
+      "sha256": "a9e376e798e5a618a04a3220682fc85be00c67003db89a6bca58698aa9b266e3"
+    },
+    {
+      "path": "resources/app/desktop/knowledge-trust.json",
+      "size": 173,
+      "sha256": "e02a312a42301cc04dc510b550c59674311901aa3bc6ed21b945b6f2eda544f2"
+    },
+    {
+      "path": "resources/app/desktop/knowledge-ui.css",
+      "size": 287,
+      "sha256": "392ba689a5fe5165fcc8130e93b4ff28ed9237f0f73a73f5e50c0d0dbe853ae7"
+    },
+    {
+      "path": "resources/app/desktop/knowledge-ui.js",
+      "size": 3068,
+      "sha256": "efa88ef96d336d4c8e254c997f937d6dea45366a6ced3349dee10a9d4f517afe"
+    },
+    {
+      "path": "resources/app/desktop/layout-store.cjs",
+      "size": 1660,
+      "sha256": "99f4cac37d9233c4f33fa5e74457a6261718e27f13bc98724c1c8a1188852437"
+    },
+    {
+      "path": "resources/app/desktop/layout-ui.js",
+      "size": 2074,
+      "sha256": "cd98147ea269463e4c285a6cc851c0868abb7a5c226be31002a4ad7eff3c949c"
+    },
+    {
+      "path": "resources/app/desktop/live2d.css",
+      "size": 424,
+      "sha256": "c5a8ab9ebca6de4fbc73ca1aa0be344639e8ec704465d7ef0b35a828482d3221"
+    },
+    {
+      "path": "resources/app/desktop/login-startup.cjs",
+      "size": 1297,
+      "sha256": "a86960b4b7edcd33b984d2e7c0c63d1f06e04d24dba058b13d19486786a2f511"
+    },
+    {
+      "path": "resources/app/desktop/main.cjs",
+      "size": 38926,
+      "sha256": "472fcfa60095ad76926908f13db99141ce185f996646e2fd3e8dbe4761b52615"
+    },
+    {
+      "path": "resources/app/desktop/model-env.cjs",
+      "size": 846,
+      "sha256": "bc037ee436663d8b0815113bc4518f34af3fb599c79795051d3eb9d2dc25cc66"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/@pixi/unsafe-eval/dist/browser/unsafe-eval.min.js",
+      "size": 3884,
+      "sha256": "94bb4bfdbd015087772ee03bc4117e253c326e8ca73a61646bd331b22f6847ad"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/@pixi/unsafe-eval/LICENSE",
+      "size": 1091,
+      "sha256": "ef9ae15b5a2b39f6e1445fb1e12ade9f000ebb19c173fb1e505879ba215d9c9d"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/buffer-crc32/index.js",
+      "size": 4517,
+      "sha256": "f673ad9729984769996849030def1cb0b8da721d492a3b9beedfe36dbc6be117"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/buffer-crc32/LICENSE",
+      "size": 1085,
+      "sha256": "14895b82e3367b66bdb127fe91505f8615491f2a23eb1c0b7d8f7c54be67f57a"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/buffer-crc32/package.json",
+      "size": 892,
+      "sha256": "f94d0f0c1be8f8714670c5fee03899bdb6485d430236d81726e24012a3696e6e"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/fd-slicer/index.js",
+      "size": 7756,
+      "sha256": "05f02afe3e105f97af8c5c6c1b29dc388d7ff71c9801c1495a13dc34dbe115f0"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/fd-slicer/LICENSE",
+      "size": 1057,
+      "sha256": "176d95320d565cb034d8323797b6cd6160238f625453687f98aad2085c46c3b3"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/fd-slicer/package.json",
+      "size": 1047,
+      "sha256": "c765386ed427fcadd9ffd7ae1c7748d7127685098fdb85cde3d98df7e931ed2d"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pend/index.js",
+      "size": 1101,
+      "sha256": "4b991290680d9027dd786493c6e816900355956d88afb6ae4d97b5ac5a3ee0f5"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pend/LICENSE",
+      "size": 1082,
+      "sha256": "7e64acffcb0d20d33f5a86949ffd4a99ae045b10c7332a9c3a58635876c16880"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pend/package.json",
+      "size": 410,
+      "sha256": "1e4f01d39cc13c261f7ab81d0509d36bd98d8eceaf9ed75f2ab274286f3c3920"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pixi-live2d-display/dist/cubism4.min.js",
+      "size": 119922,
+      "sha256": "af1267e6d52759b245766c578d905bfa025b532d5c3cc727c370957c4409e21b"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pixi-live2d-display/LICENSE",
+      "size": 1061,
+      "sha256": "8ccace668a041e78ed525d091b0b5daf8b623ff447f912616de535415e4f302f"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pixi.js/dist/browser/pixi.min.js",
+      "size": 460333,
+      "sha256": "403f2f2ee8145fa17f60c5c89403056efe2680e5096ec2762036486914ed19c5"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/pixi.js/LICENSE",
+      "size": 1092,
+      "sha256": "536a16e090f0b6c1454a7c0b47ee8414a39a2f1724a154f10ca1edc750a2dcfd"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/yauzl/index.js",
+      "size": 33069,
+      "sha256": "583c4554718cbaee5189d0e28dbd7480a0766e785304e3bcd2acad80b2cb6497"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/yauzl/LICENSE",
+      "size": 1077,
+      "sha256": "b303783d5eb7ca50b853ffa5f145e4e7998fab339831d848f507ca6cd970577a"
+    },
+    {
+      "path": "resources/app/desktop/node_modules/yauzl/package.json",
+      "size": 881,
+      "sha256": "9119ac0c70d33b16e3c69dbc5cdeab71eb513124a04d961f2c9e7402c9fec8eb"
+    },
+    {
+      "path": "resources/app/desktop/package.json",
+      "size": 340,
+      "sha256": "d8a3d6b3f4a5a50a39dd4fb706e77f7fc6c613823b6dcaea186faf356efb5823"
+    },
+    {
+      "path": "resources/app/desktop/pet-layout.cjs",
+      "size": 830,
+      "sha256": "11088faea94deb4054448d61247e271f8dd58ec4705b1c671864b3bfe301681c"
+    },
+    {
+      "path": "resources/app/desktop/pet-layout.js",
+      "size": 282,
+      "sha256": "c5941adbb3c68e68bcbf1ad03b4e891fdc7b18076d0f7cf7b7d7019e8e40a079"
+    },
+    {
+      "path": "resources/app/desktop/pet-theme.css",
+      "size": 5285,
+      "sha256": "df8a9aeff5b8a3c666696af31b7ae6fc1ecd049eb47fe6425e94771a3f4d6624"
+    },
+    {
+      "path": "resources/app/desktop/pet.html",
+      "size": 3007,
+      "sha256": "d04aed0069b75402b0428a424da8475921b770f01b05da36cc1a95093d33f431"
+    },
+    {
+      "path": "resources/app/desktop/pet.js",
+      "size": 17791,
+      "sha256": "d299acb80a055c259b9a9f83f46b71db1202dc9c149d8defadca0320254bd64e"
+    },
+    {
+      "path": "resources/app/desktop/preload.cjs",
+      "size": 3099,
+      "sha256": "de34e079965f4183ff2e57a3a8e04338c2e01fb5abe284610b66066faa5bcaa4"
+    },
+    {
+      "path": "resources/app/desktop/question-catalog.cjs",
+      "size": 1539,
+      "sha256": "5e7d6d64b424cbb1da59148883da6b93257156543734a0b73d129171729f030d"
+    },
+    {
+      "path": "resources/app/desktop/question-updater.cjs",
+      "size": 5966,
+      "sha256": "83d794823aad348adfabc8270f002d96282c6817a50b56b4637fdea9b01c75fa"
+    },
+    {
+      "path": "resources/app/desktop/recovery.css",
+      "size": 418,
+      "sha256": "be98b0d7844e21bf61240472203080bee6d3e39028a88b891dcff0a9a82675b0"
+    },
+    {
+      "path": "resources/app/desktop/release-config.json",
+      "size": 352,
+      "sha256": "a9fb65a3bed26773c4eba4e47c95dc309ba59cc9901582e008cabc4f903be6eb"
+    },
+    {
+      "path": "resources/app/desktop/resource-location.cjs",
+      "size": 4882,
+      "sha256": "33899818a2134e990a9df195847bff23aa85d9535ba74295bf44a4eab0e94ccb"
+    },
+    {
+      "path": "resources/app/desktop/scene-audio.cjs",
+      "size": 4109,
+      "sha256": "b222f60b176efeb5a21e86de5910cdbce8a61e28bdc5bc5679467ef76604e286"
+    },
+    {
+      "path": "resources/app/desktop/scene-voice.cjs",
+      "size": 842,
+      "sha256": "dd23c862ec7ae4806788b672c6f37e52a0173630c645eb152dd344545c2ba713"
+    },
+    {
+      "path": "resources/app/desktop/style.css",
+      "size": 2452,
+      "sha256": "a1f36e7c40fa8399af2c5227cf4d26719f2059643ac8ab85ff972e21c79a784b"
+    },
+    {
+      "path": "resources/app/desktop/vendor/live2d/live2dcubismcore-5.3.min.js",
+      "size": 228042,
+      "sha256": "8741f739779b5d5210872bd3d7d99f0f1e56e6c87409e7d26d6bb4b80aa1ef47"
+    },
+    {
+      "path": "resources/app/desktop/vendor/live2d/README.md",
+      "size": 844,
+      "sha256": "ae8341438a94e6e9d2424a7b3e6460ed2a3e0f00c9818db022986c1535ca05c9"
+    },
+    {
+      "path": "resources/app/desktop/voice-deployment-ui.js",
+      "size": 5007,
+      "sha256": "61dcadec292186c343a5b2513de4429a45e87cb55f36c37e7c1c0a02fba20dd7"
+    },
+    {
+      "path": "resources/app/desktop/voice-health.cjs",
+      "size": 1185,
+      "sha256": "73f4feee1cc84d7e876923aa97183df7363eb89537ae812f5f165fec923a5461"
+    },
+    {
+      "path": "resources/app/package.json",
+      "size": 102,
+      "sha256": "7d20cf507ed782c4dd5851ceb17c1682670e27c18e5d41a1ab27d1a517e20e66"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.4096/texture_00.png",
+      "size": 2389809,
+      "sha256": "66ad9798312924a24e0337b18bc2312f8eb3f0c2f9cc7d82ebd3890132a7dd54"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.cdi3.json",
+      "size": 2708,
+      "sha256": "f9ef855a25e0ce7a2da78b3571ceaa2f0bbaff7a15bd977218aa04d3d8afceab"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.moc3",
+      "size": 105792,
+      "sha256": "ad366466de4ed770787287c2f74a9b3a972fd90b0c1422e63be84f23676384c8"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.model3.json",
+      "size": 318,
+      "sha256": "efa1fbba84901bc1b1d27a79ebdcbf5d01a2b6461559b7096d34617d4656dcfd"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_default/Ema_default.8192/texture_00.png",
+      "size": 10837276,
+      "sha256": "b6477e108c4049b54ee3295d734d121f869ffcd2c1fd6985083c506e233b0447"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_default/Ema_default.cdi3.json",
+      "size": 2756,
+      "sha256": "36b39d151ac73c1a88843fcc00869ed65bcce8d5d2c4488415933df3d0aeb6bc"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_default/Ema_default.moc3",
+      "size": 120384,
+      "sha256": "09ffc83d343ef7af770dd1a478ba31beed593fb21f1b251473720e52b3e97924"
+    },
+    {
+      "path": "resources/app/recovery_resourc/Ema_models/Ema_default/Ema_default.model3.json",
+      "size": 327,
+      "sha256": "396626c31906fd094dae4319c3eedeec9212c8cbfe644178f61a0fab6da5660f"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Angry_1.png",
+      "size": 1107501,
+      "sha256": "3f7787f86bac0131e5ed9b1753a2f8dfd891eaf1493bec509976613c6f632919"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Angry_2.png",
+      "size": 1037033,
+      "sha256": "4d877d3630d28743a57f41d769a976133ed65ee86f28f25fe9a2fb96ecd38ff3"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Angry_3.png",
+      "size": 1111308,
+      "sha256": "dd4636563666e4e758c1d6a748f977887bb85cbc4793dc198d1a6cefbf7d601b"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Angry_4.png",
+      "size": 1005443,
+      "sha256": "2bebaa5ab070a8b43563a080a12c4fada3ca15bbc4fa3a8909cc4639aa2607de"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Angry_5.png",
+      "size": 1084069,
+      "sha256": "1103aa3ac6b3e7abae0770899899abf933f9e7e28dec843de3de2482e706315c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Angry_6.png",
+      "size": 1205743,
+      "sha256": "cd44402d7410974224d49b039e184e92b4c0aaf0505b0196cc429dcd82dc2ba6"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Comforted_1.png",
+      "size": 1106070,
+      "sha256": "321f20cde37ed0f9ba224b8fcaf0a72ba710bc07fc9f45eacac0aa607743e489"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_1.png",
+      "size": 1036496,
+      "sha256": "82f7a20f692100d602351065d4bed772ff365622d30e724c3fb1da1a386f9176"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_2.png",
+      "size": 1006555,
+      "sha256": "ef70dac6d7c11a3a8aa8fff680dc84fb2ccb65578e3b1650dcf03d850f39c96b"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_3.png",
+      "size": 1018515,
+      "sha256": "d05a660c0c9bf2dad7f1a6d3612f6c06466e571f8640f3857568bb9345a02e63"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_4.png",
+      "size": 1085252,
+      "sha256": "181036bdeb1075f1487bd017748d4715d739babddbd2554f4db5c71686107c29"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_5.png",
+      "size": 1140125,
+      "sha256": "7449dd2bebccefd23e32ca2dba3edd3c522b3d8814adcf83c280317b96237b94"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_6.png",
+      "size": 1141859,
+      "sha256": "0d6187397e04e026af9a1b15969cc142ef672e13fd45e0f1e0f8f0262015d568"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_7.png",
+      "size": 1063443,
+      "sha256": "dea0d962b89bcd94d49966985497b25270ab945787f1410e97b29c6e06e8cd33"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_8.png",
+      "size": 1058015,
+      "sha256": "1042164fa0f5f3be761c2b971f7dc22759e08bea6d92ce39e4008ff7e01aaac5"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Cry_And_Angry.png",
+      "size": 1209234,
+      "sha256": "5262d097746cd7e1e9db6bcb734120ad24058bc5f381681e887ead611bd4e88c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Decline_With_Embarrasing_1.png",
+      "size": 1028533,
+      "sha256": "5b22223aef1bbcf046f11bfae32ca92a8c517e5de1d8bcf1bbb460b9f537086d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Decline_With_Nervous_1.png",
+      "size": 1057834,
+      "sha256": "d13d2a4e2f059bbe385a3298d12ef831ddf6e03d7c1756fa7a7387a23889a094"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Decline_With_Nervous_2.png",
+      "size": 1036989,
+      "sha256": "389345788297b127b4c074514438cac0d14e8e6e4b31594fe3f1e222103c0422"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Decline_With_Smile_1.png",
+      "size": 1034647,
+      "sha256": "216267ce6782299b3358cfc1fb866f385af7e506a5f3d0dcbfac09f87ff281fd"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Default_1.png",
+      "size": 1032736,
+      "sha256": "4516d9a1efa207e17b54d8e9499ccfb3fcf404ab4247e010c86ace7823d12113"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Default_2.png",
+      "size": 1109326,
+      "sha256": "d9b6e6815fccd63b38f2fa37646c082d84db07180be6b1c562a87ad96aa56b1d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Default_3.png",
+      "size": 1106638,
+      "sha256": "a2676b4302b9079133fb581559868dd458278ee6699a345cbb7004609bc9199a"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Default_4.png",
+      "size": 1003673,
+      "sha256": "ee4d4da7c122d5506a576e65ebf2fe7cbe449c3787c73e53c4d9a6d0d730b4e5"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Default_5.png",
+      "size": 1111537,
+      "sha256": "a0b47eab047fc494a0027cf09f2806f7f0b71da2d6f876455090e8dc8fe38630"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2.png",
+      "size": 1005646,
+      "sha256": "7dc2ecf0f07341a86875eca6c013814d66d8793b274ebb2eafabde860d49b40c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2_12.png",
+      "size": 1085613,
+      "sha256": "092fd968525d732d93f3ff0aceea86938c5905579bb68d9a26a17cd1c4ed5d74"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2_19.png",
+      "size": 1189925,
+      "sha256": "efaf325291097913e435b1790c874259727d94d2b79e3d128319ce697d04d8f0"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2_28.png",
+      "size": 1016126,
+      "sha256": "84d96fe0924ace9bfe403bccbe11a5ef37392fc6ef132a119335f31725a4874b"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2_3.png",
+      "size": 1083994,
+      "sha256": "647a22efdea7e96337eae8bb548bb7da88c78a4e1717dd930de8185c22f2bf41"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2_5.png",
+      "size": 1107720,
+      "sha256": "b59a5d4fbcc5f0c1bf96df637252359a93298da94a65c69d38231b9e67caa59e"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Determined2_8.png",
+      "size": 1114316,
+      "sha256": "c9120fb35dc7391547809e356b264cb7e2b61242082ba932d7708bce309b3de7"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Embarrassing_1.png",
+      "size": 1083062,
+      "sha256": "db8fd2039534b3f15e56338da6b4eae3c1f9d75a21f308769283b359df20c664"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Embarrassing_2.png",
+      "size": 1105275,
+      "sha256": "2908d50f4721f276ef037fc10f530efb0a2a7955222442913293349e5000b0d0"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Default_1.png",
+      "size": 1111336,
+      "sha256": "3103c3119d5fab285e465a6295bc4c94f818ab72ca55da50b0643586e1ecd1fd"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Default_2.png",
+      "size": 1111445,
+      "sha256": "6d0dfd1f867c01b229733c4e21808a96b854dea305e748f403c9b9fd5b9f2970"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Default_3.png",
+      "size": 1088363,
+      "sha256": "b47379c29892c6de9603b3e0776b9f4082c4d73168d42046ff4b329c149fb4c5"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Default_4.png",
+      "size": 1036798,
+      "sha256": "32122ea07ffec3a208786912122b60a31e26bf7857977727ac7f490905686fad"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Default_5.png",
+      "size": 1050895,
+      "sha256": "0e8fd7f35ceb4ec4452a0b64dab062086c9257a6468422cf152bd2d9b603ccbb"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Default_6.png",
+      "size": 1054973,
+      "sha256": "22acd0b33f35f5b40acdc7f17adb918d011180f3fb62639d3b9bd251377fde09"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Earnest_1.png",
+      "size": 1067125,
+      "sha256": "74d49e1bae0a1cdc80b66337b9b172a34a717dea5a52e0beca76e7fcec73ceae"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Earnest_2.png",
+      "size": 1067460,
+      "sha256": "dbf2cadc5b31cd6750535ae83510efb2b3ea1f8700f325ad2331284ddf8e491e"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Earnest_3.png",
+      "size": 1042866,
+      "sha256": "0706230206172fc88be9bfb4eebbebd8f66a07b378d099c4d192eee3a7fc887e"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Earnest_4.png",
+      "size": 1071224,
+      "sha256": "fb177996e5e468c5673f558852964a94208308efef03a6670a9d0f78fc6d1985"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Excited_1.png",
+      "size": 1208167,
+      "sha256": "3ca075f0a2c554927ded242d0d469e6fce754b21a82576c799522461648a05f5"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Excited_2.png",
+      "size": 1111980,
+      "sha256": "d0cb4fe8d3b5273c2883103f1cecd57f881a20f32d5105d28677cb3bcaedb508"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Narrowly_1.png",
+      "size": 1102284,
+      "sha256": "c7400a9ea3b83a671458846dc458ca87ef05690f3b4eaea0d94682871c6a599b"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Narrowly_2.png",
+      "size": 1136749,
+      "sha256": "7dab31dde961c4b1f929c7525280bec701bbd4ab21cb6d0e2fbbc1d89fb4c45c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Explain_Narrowly_3.png",
+      "size": 1030640,
+      "sha256": "17b21a5c9b265cba30e5d5c5c2c5389ece4e100209c9cbb63e72f73fb02e67f1"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Fearful1.png",
+      "size": 1082731,
+      "sha256": "61b599a5c03672339e418bcfe7965f6c6b131cd70a62fdbb66dd99cf799612fe"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Fearful1_17.png",
+      "size": 1027837,
+      "sha256": "04b637c9232be238c67abfa746bc8c41d19eb650f5cf24714af51a0a3e655a8a"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Fearful_2.png",
+      "size": 1035863,
+      "sha256": "e2f70cf3cbe644696d4108787bc9ad69208f1f92f907afdf1fb152f323a9e755"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Feature_Extremely_1.png",
+      "size": 1133620,
+      "sha256": "cc2b78d9067f7378601067ebe41f4d615c59f9396d29afc290369ab316a1935d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Feature_Extremely_2.png",
+      "size": 1140189,
+      "sha256": "6452295bec28c43c75696d6f8f868cd93c1fff31b6d25ff415769778ba4a8cea"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Feature_Extremely_3.png",
+      "size": 1062108,
+      "sha256": "619ae98e4826e6149486ea33d9152e43281315c160a6174c357f57f9ad902a09"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Feature_Extremely_4.png",
+      "size": 1142028,
+      "sha256": "9387d189675d88c46cfb35aa0aca242073f637a18c47b44ed423a84a80505d8c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Feature_Extremely_5.png",
+      "size": 1000856,
+      "sha256": "4fa75652448fe806b3c6b260811b2cc16041a4ed87f6f72b6dadeb64254d387f"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_1.png",
+      "size": 1074916,
+      "sha256": "c5a4d5bbf8d8a859b1de1f92e2fc85c167babc207d53dfd1a544d1a674f4af07"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_10.png",
+      "size": 1112554,
+      "sha256": "ecbd2971989577179bd28726e5eb36b020cfa5cfbe3ec045a160b308ab09b0cc"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_11.png",
+      "size": 1071846,
+      "sha256": "12bba599d7d3a0af9d0969d0bc3c2f22031e1bb163f6668f86c74a1c91ce9041"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_2.png",
+      "size": 1074918,
+      "sha256": "97014d2fc717b878650e20c01a9e67265d78b4d36688b1d2c448172454c0ad7f"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_3.png",
+      "size": 1010908,
+      "sha256": "ded21d87a483fb386982dfbd9da7d4bf91ae73307605cadf3b9b558067f331bb"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_4.png",
+      "size": 1075205,
+      "sha256": "d77e7744c526c98c9dbce27bfe1b1151d1f8c50575b06187c340a38e49ceb165"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_5.png",
+      "size": 1076477,
+      "sha256": "4ca12c14bd2cf1532f91c0321ecfda45104ed36d87823b8b607768b637976cf2"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_6.png",
+      "size": 1076473,
+      "sha256": "b00c6de9c419178cdffeebebb7f04d1df9f4956925bfd9771475349c39b3c4ba"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_7.png",
+      "size": 1070385,
+      "sha256": "63a313374475f9da83019c84b8a505ef74e84697cdf13c4f30b8e17109cc53c8"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_8.png",
+      "size": 1071655,
+      "sha256": "97c26909f55f67649c0609a46185230bc82843ae856322c3a99516fb947ae5bf"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Flushed_9.png",
+      "size": 1071870,
+      "sha256": "ef5f0e7e33f12dbf9a4ea080cbc94acf70a990d6333b68b42f0c8db853ebe538"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Happy_1.png",
+      "size": 1138928,
+      "sha256": "255a4418f2dafa1dbc4161ecf21285df9ce52c46e8a7ef5f1b71ce67c95a5917"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Happy_2.png",
+      "size": 1051384,
+      "sha256": "861403d89e8a2cb61534f4cb56b3db2731a860289154297de1a4cbb434a68f79"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Happy_3.png",
+      "size": 1068621,
+      "sha256": "f3c416b64e07aaf367534c24d261214940ef9460764c313f0295aa3b27ec9259"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Happy_4.png",
+      "size": 1045886,
+      "sha256": "4564f64cef8206284e1e64e0232f1bb9c70400937ad4b823f90043910ffe5139"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Happy_5.png",
+      "size": 1030642,
+      "sha256": "5136e164c16779709025c98488c4683cc4b2cc6777a39f4fa212affb33eafb0b"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Happy_6.png",
+      "size": 989286,
+      "sha256": "c2220044581285ec928cbe60fee0382d1793985c3f0905384b28afe115548e4b"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Sad_1.png",
+      "size": 1068404,
+      "sha256": "1f53a66b4521c2fd1580a8846297edcbb5063cba1b68abea1dcf517a7fa0490c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Sad_2.png",
+      "size": 1130827,
+      "sha256": "a7f8ea822a9cf536500d8a0090fa3f89aaeb543e8d5dd849cb238a53fc7cc5b6"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Sad_3.png",
+      "size": 1136048,
+      "sha256": "7940c6f6b1ecf378b7088f03988dacdd58402f31a6633e5c28ec06cae4d1e625"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Sad_4.png",
+      "size": 1104982,
+      "sha256": "a6b62274364c74c0e2e37751bf6966593603fca092c195261584cdf7bb20b9e5"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Shame-making_1.png",
+      "size": 1003395,
+      "sha256": "e1f39d9a313afb1ee15d7681f8ed60010f3588a29fec6e74eee23ea969536b3e"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Shame-making_2.png",
+      "size": 997328,
+      "sha256": "8f4d69c3d00a66f3afb638a498b07ecc9ec4eb91d62576435217979afc85c0de"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Shame-making_3.png",
+      "size": 1105779,
+      "sha256": "93b97bb4fa1a97fec613e297d641c1a285357224748a454fc96d1eea8c243df8"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Shame-making_4.png",
+      "size": 1106886,
+      "sha256": "28ed2203292bfdf7a221289ddb831843b15754951f25a88a41023d15e875310e"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Simle_1.png",
+      "size": 1082232,
+      "sha256": "c0d4a892e3cdf847bcdd98d605f38503b86a3de0a580d180ae80f245093e2a38"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Smile_Embarrassing_1.png",
+      "size": 1077977,
+      "sha256": "febe31296bb773215383ffa9724f4377d73f95f3285b958d7cb40c169db60563"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Stop_1.png",
+      "size": 1038951,
+      "sha256": "a93e73f8c06d936338c6e49ffcce02de9bca584bc0dd8d597e6cefdc6ed614a8"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Stop_2.png",
+      "size": 1039837,
+      "sha256": "df041ddfe685f240fdc6628f5bfbd1ca264fee0ff2734468f2556a9b15512355"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Stop_3.png",
+      "size": 1029123,
+      "sha256": "53a21bfc39dbc45827ac3069f30ba7aa6ba757792434a61f3d1205086ad94e90"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Suprise_Slight.png",
+      "size": 1084430,
+      "sha256": "2b682522ef358766192f5c427c630b30808d950edcc0bcae8b7eab642463b565"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Surprise_1.png",
+      "size": 1007021,
+      "sha256": "b8c43ea836bbae55219691bf40bed16b5e2e62fd7a9cbe3c164b1d29445d511c"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Surprise_2.png",
+      "size": 1086422,
+      "sha256": "35975c82def58eb35e5978c565a9f8ba948d771cf57b7af945d7b28ca3689cc5"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Surprise_3.png",
+      "size": 1097702,
+      "sha256": "78f3408497f1d50c7fe2a4b32abcbc4572773916950394cfd84153e5d6f3a89d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Surprise_4.png",
+      "size": 1122403,
+      "sha256": "f2faf588c8dd9683b5e5594b5bce651cec38504dbce102e021458c7257883d5d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Surprise_5.png",
+      "size": 1059556,
+      "sha256": "222ed4cdd0d7f1534c90cc19c6741fea595fb89105c67ec35462bf83107f8366"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Surprise_6.png",
+      "size": 1096449,
+      "sha256": "530b8f88327d95480da9ee288d822f8ee0fd64737bfdc53b2b55e5977014cab9"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Tension_1.png",
+      "size": 1084662,
+      "sha256": "66de3fb32599afbe56dfd085a9188b30aae48873801f5e12b9849586eb3dc44d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_1.png",
+      "size": 1005343,
+      "sha256": "efedb2c9a1d1a064db506677442a9bd20158e3d9fc1fde7376891968c0f58fb9"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_2.png",
+      "size": 1005307,
+      "sha256": "38331ce5df1c620d70469a3c0e40e6ef44327f0f6b931f891da2af49ea2feaa9"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_3.png",
+      "size": 1005468,
+      "sha256": "3a51711024070f7c359a63b4af2a85220716a8d700495f296c1fd3f8adf8dcc1"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_4.png",
+      "size": 1004816,
+      "sha256": "659a7389304e106814cc8edd2c911e1f67792ee18d8574c37fdbf68e9ae6981d"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_5.png",
+      "size": 1007076,
+      "sha256": "d6777e9a409f89bf754c915a467ae5889d0821c40a550e8bced3157ffa406f4a"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_6.png",
+      "size": 986489,
+      "sha256": "33ea830007a5e14b39b8fb18115cd92876320a1012b5e840809da6eadee2d712"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Thinking_7.png",
+      "size": 993300,
+      "sha256": "50f30becc06ab4891cf202f7bef8d0864839b2462194f5522ad2aa07151d1506"
+    },
+    {
+      "path": "resources/app/recovery_resourc/knowledge/场景对话立绘/Wish_1.png",
+      "size": 1005146,
+      "sha256": "8aa63441c0895882b66be38900d9d3eaea459c9c27415fac26d69a3f2751dfc2"
+    },
+    {
+      "path": "resources/app/resources/knowledge/knowledge-manifest.json",
+      "size": 167,
+      "sha256": "31ca3e16f6c03e60f3e2a32f73cdcac16fb16bb24384cccebd66853dec55cf19"
+    },
+    {
+      "path": "resources/app/resources/knowledge/knowledge-manifest.sig",
+      "size": 64,
+      "sha256": "60d2a14c0f28659b9aa71fc1683932443e37e818df6dd39485d606e2d1f7130b"
+    },
+    {
+      "path": "resources/app/resources/knowledge/knowledge.mtbk",
+      "size": 2013737,
+      "sha256": "86ad6a59c5b0c1417e586a29eeaac570898bab16a07e774401bc1832fe9e7cd0"
+    },
+    {
+      "path": "resources/app/runtime/core/maho-core.exe",
+      "size": 13078615,
+      "sha256": "626dcc32fe59de77f9a20d4a7d7f15db31b659481ec3fa43a438c0fd77af4878"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-console-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "015bd08815c7b934a8952c3a7578e9ce59f21136e8a880d42bbd414bec2c6058"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-datetime-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "5534812cdbdae94ba45cb216e5eb9af686b853948df54365103555abbbaf9d9a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-debug-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "837d2b1b2cd03e03fc6ccb050698b6b5763af17c201304872342a5eae9e0a2d2"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "de43b165f568c276c00e95acd454e3092f352a18e95874595f4f4658c06d2ec7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-fibers-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "3cebc45bf479ad74cfabf2c6bfd4994d7ad639ed1221025981d19cedf9ce0416"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-fibers-l1-1-1.dll",
+      "size": 22872,
+      "sha256": "5ef70308bcca628ce6b0e2856b15b1c7ae340c3f9bbbc4c1071d8c191a34a5c3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-file-l1-1-0.dll",
+      "size": 27008,
+      "sha256": "250ac829f2617bcac1c6e5b8c4f630462e20765863ba573526a3e11bbfb94a9a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-file-l1-2-0.dll",
+      "size": 22888,
+      "sha256": "ae14079a114733f60ce87b92cba42acd8083c2cd67594e53bc37dc0b97a4b465"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-file-l2-1-0.dll",
+      "size": 22912,
+      "sha256": "914bf26a298713119477ea0a8e7bd43171b91344ebe24fb47ad77c49686e3d87"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-handle-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "ab5489955e371b15f77906c08ec3c7affe2c7a46a08c514ca628768b4478974b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-heap-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "c70f9644d8377fa39c5b71f2e9734c1400d7598904fdeb772e8502099982dcb7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-interlocked-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "f8129710188e407bb0e6f46d30aeba277d67b947ece5fe09e883fde2323f3ae6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+      "size": 22888,
+      "sha256": "5200b16cb2ddc61cfc07373a9a84aa85a3ab50806ca96c879c883275832944c1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "48786fb88b001dcd1f63acea903d3ca9cc0b3060d5a325e3f2f3cbc3bfd53166"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-localization-l1-2-0.dll",
+      "size": 22872,
+      "sha256": "9ec3898f7eba91faa28b51616c211a2689e3a13aeef8de6e13cb674e49d689eb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-memory-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "3a6cbc524c99e1cd80d5368f5601402a37ad602528b1ab628093573ef638eb3b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "97145ef89c44949fcf0f04ac834a8bc7d687ef49ee73ae9fc32f3c11136b7201"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "8bc7c10b1851aea644e9c9f381cdb935e091fee6b0be3d3aedc6fffaac96adb7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-processthreads-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "d8030b777617c71f0f94564607699dbf7561487d779db9756aed378c5675213f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-processthreads-l1-1-1.dll",
+      "size": 22872,
+      "sha256": "f5e676713340f73a03a3d41a6ec9883b431da7d16c7f07bd0a920fb80e6c0753"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-profile-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "f023d47e44d3eea6b0743580f57e8c6ba81e79d5ebfa7da26250076c647b980e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "9746d8930704153578a628c010638a5f818ffe5a927e25591b108e256dc6afca"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-string-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "7c53ae24c982d16ffd1bf7f918d115b11b7f30e57bc7feaa18cb9781e4abb926"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-synch-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "56d9d62ca5dba79a6581b8d574a7d8b2a64a5ecb71e47dcf06ed0285708b1859"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-synch-l1-2-0.dll",
+      "size": 22888,
+      "sha256": "f6482bbec5612c39ecb4822787a333f2b7570f7a5f922a4059be41ba957bb372"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "272d02765fdd3582618236c2d309abba069642f9bc1062ede069d0c144e17007"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-sysinfo-l1-2-0.dll",
+      "size": 22912,
+      "sha256": "8a0900788859d0eb51c2f48f50cc6ed376a120b518100fa20e11d7702ccde260"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-timezone-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "ff35de6c03812b332e140f17dade25c5dd4775156da9eeb1eaae3fddd27236ec"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-core-util-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "191ef3e98641a57296f19d572d8eb62489470ff1ef6030d136af170c2f835173"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-conio-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "54ee5ec719a051496ff60aa00dbeaa94b9a7d2cdac27fe9b7317f1a666b6a2aa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-convert-l1-1-0.dll",
+      "size": 26992,
+      "sha256": "8b94662429171019fcd63c70bbf2095a075170599704a5e7dcdbe3da13f3a429"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-environment-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "39e5929593709e8af3bc9e0a75ec1155778d6f4a247f4cdfc58928ad6db88434"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "5a8ecebac32edf4e1f3c5c6c1c8ea1a1add6cda4f9c9cb26f752fb295bea6865"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-heap-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "c71080cbcb43bf1f8f3e391deb12a582eb0abefc80946f340675a2c616e4feb4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-locale-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "6c68648e524187e03c4ad9aaa4a99113c6ee9f29fb39cc0ed93f951975138e63"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-math-l1-1-0.dll",
+      "size": 31064,
+      "sha256": "d4fbcccbe29371cbce431e43b2eb4f7ba9a6f04a3d740a071f02457a505e9dc8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-private-l1-1-0.dll",
+      "size": 76120,
+      "sha256": "29bf3d90617d3781d19b332d6ceb9f20ba5ce082ec74bf6c34d5d4aee56e48a1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-process-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "47c1935942e3ac0812e4dcf18c0e265e565f0194a3349111c299712f5565f7ac"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-runtime-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "72adc1b3677e0814d9c4ebf0964000e84bb2acf67336c8963061665e44f78029"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-stdio-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "900afc3989673c9bb1a687ed38c192f46db9e6ba6d11a668898a539e7fc23798"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-string-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "fcf12466cc12fd3b73611fc0763a5a1f9d44e90349513c34a0c83b0f36421793"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-time-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "886e57c4a6adb299b38f02945369f590a67da4e79a798359fc60aaa067212d7c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/api-ms-win-crt-utility-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "5f8f26b216ade615b67a41f6fbbb910972fc6153315a65bb8f09912be50215b1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/licenses/LICENSE",
+      "size": 1109,
+      "sha256": "882115c95dfc2af1eeb6714f8ec6d5cbcabf667caff8729f42420da63f714e9f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/METADATA",
+      "size": 8754,
+      "sha256": "4cd40e690f23bf37cbcad34efd6758e062df1df07c86833f7e3ce95bf1fa38cc"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/RECORD",
+      "size": 3643,
+      "sha256": "2ee46bdceec39649a98fff1ed8c58f90bff1082abf96db5a2b1691608bcb602f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/WHEEL",
+      "size": 87,
+      "sha256": "41c708c5adba6e097513ab8ccb9f1d7865a2fb469e22491a9e01dcc64da459fc"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/base_library.zip",
+      "size": 1333490,
+      "sha256": "e39f4cc30ae85e1899a99aefbe168f57239cceaf80976fe90238f8363b734223"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/bcrypt/_bcrypt.pyd",
+      "size": 305152,
+      "sha256": "898d1fe05e287d66bd379f26eb49d27a260f14666c7dc8b1719dae8c489abff0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/certifi/cacert.pem",
+      "size": 240216,
+      "sha256": "9cc2a774b5198dcff14d9be1e66091f538975d867ce029a96bce15a55dfd730f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/certifi/py.typed",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/charset_normalizer/cd.cp312-win_amd64.pyd",
+      "size": 117248,
+      "sha256": "71ffb046452b819770538cb59fd25694c0a8e9b08af4b8b71f26dac85dcff062"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/charset_normalizer/md.cp312-win_amd64.pyd",
+      "size": 193536,
+      "sha256": "c53a0a481bbcef6a88492bd113b6293997900f4a17a1a5055776d76256d720f9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/async_api.py",
+      "size": 27013,
+      "sha256": "a7f29c0470b49361f5575c4a1d9bc0c028377f299e32bf7507eb52dda96e71fe"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/async_client.py",
+      "size": 18759,
+      "sha256": "111e24f7bc34ee38e36b8a89fea425c7274817ba357ab2d260594242ef875cd1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/async_fastapi.py",
+      "size": 29065,
+      "sha256": "909984d63b623cb8e9cd119eefd3264802fbbbb8449c24c28755900be06c85df"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/base_http_client.py",
+      "size": 5411,
+      "sha256": "6c14036177c77b8a7a61e10d2433f7907ea4f2b2e44871514be5574e85697ffb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/client.py",
+      "size": 24583,
+      "sha256": "a272efd3fa1b951e53851f9f621b481f9e1b853bdc583e1ee3da6e1c054fbb42"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/collection_configuration.py",
+      "size": 32905,
+      "sha256": "637790ae1bad759830f79e97040c2e401e5cad81b4713229c62cb998ebf87ca6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/configuration.py",
+      "size": 15583,
+      "sha256": "0b198be86d3c6a0ea03e5b321ff3c889c6d237adfee0d9ea0cb192ccec5a2b74"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/fastapi.py",
+      "size": 32000,
+      "sha256": "277ba8ec8c63fc7290471d3548003086553f0875a47d726ec3781af006d8ccd2"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/functions.py",
+      "size": 1023,
+      "sha256": "14ab0e74a5642efd51220acc52816e5373f2fe93e3157a2eeaf9f563df32fef7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/models/AsyncCollection.py",
+      "size": 22223,
+      "sha256": "acd873dc1616cd41d0f742495054faffea0c6c8a745f531e5420886b7e70f974"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/models/AttachedFunction.py",
+      "size": 4717,
+      "sha256": "c609c890fd34d60e05ae25dc9f5aee23b430c65783f73da1e8db566cfd1413db"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/models/Collection.py",
+      "size": 24700,
+      "sha256": "be838966503761390cab49ee97a30aed0c83362f23b5fa5aa5a9061cb74e3915"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/models/CollectionCommon.py",
+      "size": 37378,
+      "sha256": "036fd044fce5939fd25a7f0ce7001bc1ce2402d0d9f29736e1318cf6c3efed3b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/rust.py",
+      "size": 23549,
+      "sha256": "ba6da39ae81c6e7e31b1283dacfdcfcf4c0341f9ac2c22589e27c7dbdd84fc7e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/segment.py",
+      "size": 40009,
+      "sha256": "b8ef9ca3fee5ac4296ca87f7a9c983e4d39c62cbeaaec3c6dcd03f07d2c90a6c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/shared_system_client.py",
+      "size": 7606,
+      "sha256": "ea828b47d0027910e042ff9dd680dbd7777f2cdd19f21520f26d02066a5b54c9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/types.py",
+      "size": 113803,
+      "sha256": "fd6c328974f32a1ff050b11883a83d4353b60b151e60b2126e090d9cedf1fdf5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/api/__init__.py",
+      "size": 29833,
+      "sha256": "f8272243b0194dd71afb5fc1f761cf2dfe9d770a2aee376ece8ce314c27d0deb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/app.py",
+      "size": 175,
+      "sha256": "076455cb09dc3086536a35f7afda0e939dd4ebff0c19094b6f8b86bd5d8b3abc"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/auth/basic_authn/__init__.py",
+      "size": 5238,
+      "sha256": "01be902cb57d7ef146aa698841a288d17b4004c8c9066f83c89125a5b605619d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/auth/simple_rbac_authz/__init__.py",
+      "size": 2718,
+      "sha256": "e720e0ad2f15d4f0a49b8621cb487293ebd1e1f2da99a3185a627d327080254d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/auth/token_authn/__init__.py",
+      "size": 8563,
+      "sha256": "33997bfdd7226c15dafa9dbe12f32e97b89206bea8300b657b732d2b72290233"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/auth/utils/__init__.py",
+      "size": 3813,
+      "sha256": "dd995f9bc1a2db1fe2bb4737b960c3059d74febb469138902fa691daa419261f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/auth/__init__.py",
+      "size": 8388,
+      "sha256": "808d84c62c886159a367bb880e83a096a11ae6fa2b70a91a9e7faa3d59180aec"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/base_types.py",
+      "size": 6149,
+      "sha256": "7001fa294299a4c054c6ffe773462c75aa52e79f617d05de0f781df0d6d0f8f7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/chromadb_rust_bindings.pyi",
+      "size": 6149,
+      "sha256": "0f11ea2f4790619c89fc962c21fb8fb9cf4604b3216001ceea9be1d837b99e74"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/cli/cli.py",
+      "size": 1549,
+      "sha256": "06a5e020658d7e4893570c10b9c27eff89d90926c1b6a01b33700d2348259132"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/cli/utils.py",
+      "size": 1287,
+      "sha256": "033c4d817fc6b605d4dc3bd9570150f27ba1d3fbac778bfafedb4e0781de64b4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/cli/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/config.py",
+      "size": 19001,
+      "sha256": "d3b5e4fb4218ae95e48ab4d1273599840cdfd88e121915319f1da57fcceba59e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/base.py",
+      "size": 5945,
+      "sha256": "36c7d2acd7e8d349c296317d38bbd86db64549128d68926fa2c3ca3ada7c58c4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/impl/grpc/client.py",
+      "size": 20943,
+      "sha256": "69988e3cc4790a15dd8cfb2875fe9bda828fc2d634858d1537cab674955e3450"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/impl/grpc/server.py",
+      "size": 21226,
+      "sha256": "d9ead7faff7ad4a2769e5a12621de9ce728a3c54a75ed67a9f9f197e9064d5ae"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/impl/sqlite.py",
+      "size": 9703,
+      "sha256": "d1ae5dbe2baceb47f6e2a9c297420594fbfcd5e2b4113b237d7cc3c92a28251c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/impl/sqlite_pool.py",
+      "size": 5535,
+      "sha256": "8c66c57902fdf5e436b727fe121f58b996b2ceb2d27194c4b118b1e77da643fa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/impl/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/migrations.py",
+      "size": 9906,
+      "sha256": "05ea4e2522fc038763a66791d75b532a274eb5b9fec76752173d906dd65d4cd3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/mixins/embeddings_queue.py",
+      "size": 19832,
+      "sha256": "b08c25e8f2486497244db99990748895701818d0774ddbdf109fcb1eda8f291e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/mixins/sysdb.py",
+      "size": 37941,
+      "sha256": "6c7fc56647bf0607560abfff5fb6b9dcfafaa0683cac3089b5a6b13cdfc9cd96"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/system.py",
+      "size": 6396,
+      "sha256": "55547fc5047f859c077604cc7c8d1bb4a00693b7d018d6a0a1f92d5094a951a1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/db/__init__.py",
+      "size": 3162,
+      "sha256": "b40347c2b17368adf51d6e0379e1dbb7e7a766d3cc5682af1a2ad6215c400c21"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/errors.py",
+      "size": 4212,
+      "sha256": "60ccdd3a036abe833beb9f4c1bdef473d929dddc96efafaf1f784034685b37e3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/executor/abstract.py",
+      "size": 489,
+      "sha256": "745ce1ee38bd121a88736888dec884c988a95e1455118ffaab8290ddc930904e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/executor/distributed.py",
+      "size": 9277,
+      "sha256": "030b49181f5d3fe6e973a25737c0b300beba32e4b043093f6a9cc6ea0810cfe9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/executor/local.py",
+      "size": 7725,
+      "sha256": "3c4a59358932cb12ac87a3e4515c0417faf4cd767ac313d3c27407a1bf43135e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/expression/operator.py",
+      "size": 53651,
+      "sha256": "31fb7b1a7511a3bd58123190644ea99caf722e1c99c94bc3086a49f785c07aa4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/expression/plan.py",
+      "size": 9895,
+      "sha256": "33ecee9dd97dbf000c04eb944e7e7449856c7bb03ebf813721f727083c74636b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/expression/__init__.py",
+      "size": 1459,
+      "sha256": "fe7160f284bd194cb8eb7593db1fc297a91a9d909c5dfbbe1a93f28a4bbea456"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/execution/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/experimental/density_relevance.ipynb",
+      "size": 369242,
+      "sha256": "92cf12483d631fc0a18df4bd7e605e30a5e3a4d1e717c85e17d8ee591b839bca"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/ingest/impl/utils.py",
+      "size": 1882,
+      "sha256": "360b140b444fadde4b40c9350615515c313fc62110e99f128c076b6e3ce5914c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/ingest/__init__.py",
+      "size": 4420,
+      "sha256": "69129f0a48d6ab39027a9f57a682118d1c61bbb9fc3be7da128d9699c7c4172b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/logservice/logservice.py",
+      "size": 6051,
+      "sha256": "3195b8e6fea683b6dc48e9e330f1c722c24954d8c04e6e4bc4c370fb94a1239d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/log_config.yml",
+      "size": 958,
+      "sha256": "cba94333b80235c4a6b6e00bea7224693359bddc2c233e982efa1ea789e446e0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/embeddings_queue/00001-embeddings.sqlite.sql",
+      "size": 271,
+      "sha256": "c977a02d25f5af29aa9c340d7e1856527cdffcfef6e1a95dbaab85055cc649c0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/embeddings_queue/00002-embeddings-queue-config.sqlite.sql",
+      "size": 99,
+      "sha256": "e29b35cd15db683db2aa07dc4f4c05a3df407e2d692b530f90066975ccdd5124"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/metadb/00001-embedding-metadata.sqlite.sql",
+      "size": 624,
+      "sha256": "0d21565f0d1a43ee4ef9eaf50f08c6d6e592d6014ad54dfe22b31dcf2daa3022"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/metadb/00002-embedding-metadata.sqlite.sql",
+      "size": 339,
+      "sha256": "0e477c2b1446f11da930928d8c598be2d244d9479572622fd2c6ff00d3915606"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/metadb/00003-full-text-tokenize.sqlite.sql",
+      "size": 239,
+      "sha256": "f7480365ff580c600b9676f2bab127f93f0cb070e4c0d0609f14700d955cfc4b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/metadb/00004-metadata-indices.sqlite.sql",
+      "size": 390,
+      "sha256": "9d52864d8a9436a2cac68d31dc6aad0488676c069ea3a1399180ab016f2fb1c6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/metadb/00005-max-seq-id-int.sqlite.sql",
+      "size": 1476,
+      "sha256": "ec8133a9f3cf01a2d2d8245f6d70fae4c715a85c108560500e71d01061d3eb1f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00001-collections.sqlite.sql",
+      "size": 370,
+      "sha256": "22d0e8c7f89bee4f5d9e0aa26d43523d546d1e5b6bce722b55aa1701d979018c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00002-segments.sqlite.sql",
+      "size": 401,
+      "sha256": "3221357667374942498b250b3c72d641d7c0e5bccefa3dbb8cc0d4afe37361ab"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00003-collection-dimension.sqlite.sql",
+      "size": 55,
+      "sha256": "a105eaa536ca3bd9825e8b45a51104a0afa92b6c91291a745ee30a0a42ce58df"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00004-tenants-databases.sqlite.sql",
+      "size": 1257,
+      "sha256": "fa7972bf453afeb5dd6cf924b865786703046b7c1677a9c2d015ddc3bee4de10"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00005-remove-topic.sqlite.sql",
+      "size": 156,
+      "sha256": "16ca5659b42ed2b27c595f427360e8cd54eda342f1887c97a4353b4028455e11"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00006-collection-segment-metadata.sqlite.sql",
+      "size": 402,
+      "sha256": "01f43d5e5627f106f1117af410c60e1d9a9f1e21b4f5feb9a551497241d0f51c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00007-collection-config.sqlite.sql",
+      "size": 108,
+      "sha256": "462d83c41f2221c9f1c6536d5ccdac1d97a5dda6cbe3cfe9bee48d877d0c228b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00008-maintenance-log.sqlite.sql",
+      "size": 255,
+      "sha256": "985555682beb90edfd57ca8a5b1776313ed00a2c9ca19816a9982dbd0d638f30"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/sysdb/00009-segment-collection-not-null.sqlite.sql",
+      "size": 338,
+      "sha256": "8ac0babe0dbc6990e9a712d811134805c96ec888b08cab31271f9c006c47df8b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/migrations/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/proto/.gitignore",
+      "size": 26,
+      "sha256": "4acf519d65ca4645c619128e3d1932778103860bf765fb2c789d9f6a24e20548"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/proto/convert.py",
+      "size": 27307,
+      "sha256": "00b383445d35ecb2665a0a5f2de15bc6b509799a0548739341df15307274557c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/proto/utils.py",
+      "size": 2638,
+      "sha256": "bebdfbc0f8086ec75ed51475d5fbe8340cea55954b234fe39a456b0cf72e8126"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/proto/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/py.typed",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/quota/simple_quota_enforcer/__init__.py",
+      "size": 1549,
+      "sha256": "721527e1fe646235c2748faa1b5c1ac012ae2cc1a6c3397358434b2d7e847823"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/quota/__init__.py",
+      "size": 1888,
+      "sha256": "65d50288c3c64c0f37975a26821c34e377199ccddbd358e2a9effcb06f00c30f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/rate_limit/simple_rate_limit/__init__.py",
+      "size": 1219,
+      "sha256": "4ba309a11f66ac255c09429201f04d5a2b24f6798228f724f230ba944affa7cd"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/rate_limit/__init__.py",
+      "size": 925,
+      "sha256": "6213f25aa5eabe91691e74ea780ff63ee05135f45da646193dd237e67debf600"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/distributed/__init__.py",
+      "size": 2783,
+      "sha256": "716a6c329a38b909cf31555f94c2f50b7244e2348142a599e99c217d482efe43"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/distributed/segment_directory.py",
+      "size": 13730,
+      "sha256": "782ffc8b6df96010cc6ca34b0557733efef031414141761f10b0330c723a9d7b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/manager/cache/cache.py",
+      "size": 3554,
+      "sha256": "7fa4e30af5a491ed8d1fa2caf6ad87be1005ace9a131b3c0848470a91b1c9d1c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/manager/cache/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/manager/distributed.py",
+      "size": 3083,
+      "sha256": "01812019ff0a957a6d436cc9f911c6eebebeef0d5e11eb87f15c0bb18ec49deb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/manager/local.py",
+      "size": 10862,
+      "sha256": "a6c5542e037a85f52ffe340f029d9cdb3d7cece1aa58dc2199a0ad57a3ee5bea"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/manager/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/metadata/sqlite.py",
+      "size": 26509,
+      "sha256": "40fe1185e11f5d3372f6450203d8caedbc820229cdcece4cc917d179f2da9abb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/vector/batch.py",
+      "size": 4319,
+      "sha256": "d2e7299742f83350989348a197b9a8211447afeda2e1d43742b4e214637bbde0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/vector/brute_force_index.py",
+      "size": 5571,
+      "sha256": "834dd90f565a55f52b8c506538ffd7a0360c7f9632cc9e8e06e1ba0953e9b206"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/vector/hnsw_params.py",
+      "size": 3250,
+      "sha256": "a0970730d901fcfc23a7d9776b25f3a58a1b0198a40595559fcaa84106c6862f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/vector/local_hnsw.py",
+      "size": 12378,
+      "sha256": "f9ad14e0255d8e5d748c706dbe5d4f9a13c4ccd2694941a4b8b91404525346da"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/vector/local_persistent_hnsw.py",
+      "size": 22692,
+      "sha256": "c8c16d33a7fc00a8f2329f6531d63be14aff1612c7f343ad21956da199e0b739"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/impl/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/segment/__init__.py",
+      "size": 4145,
+      "sha256": "78e0df6e7f4d160c2c9f3565c8cb606d5e1db44549b85d9eb28b48ad61e334b8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/serde.py",
+      "size": 1552,
+      "sha256": "a2d4a4d1787d875808cde8175179defe47b6c3d717341e28e1dc40ab47c025b5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/server/fastapi/types.py",
+      "size": 2645,
+      "sha256": "13ef33915e29e868485bdd72f1e00bcbae821318044dea54bc727d0aad4ef414"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/server/fastapi/__init__.py",
+      "size": 78297,
+      "sha256": "e633ad01e6fcee409ba783cb7d1d972dbe610d38fd4d8ab5d8efb6e429b3e3c5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/server/__init__.py",
+      "size": 181,
+      "sha256": "fd56ce19c871326325482d59f12cdc2fa27bc3ab8e7a5a95f97f2f47850f2afe"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/opentelemetry/fastapi.py",
+      "size": 415,
+      "sha256": "f0b16cc4971ab92cd1df03b1d5c14394d86f788fba44d2b0daea5b96f9d5595c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/opentelemetry/grpc.py",
+      "size": 3826,
+      "sha256": "0439643370caa37adb0f4370a5ac32babd83bfcc2dbd0759323bb678264eb78a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/opentelemetry/__init__.py",
+      "size": 6208,
+      "sha256": "6476f596c39e820b5dae2cff19be1cec15bf0b62fc7d447b57ae9622a72803f7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/product/events.py",
+      "size": 8921,
+      "sha256": "6da8ca61bc6b7138395479a926a47fe8d930d7f92837d092ce500ff038b1fec3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/product/posthog.py",
+      "size": 269,
+      "sha256": "e253dbae7571caf33e95e15564e2697095eba055a71044f0ff4dad33cc117321"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/product/__init__.py",
+      "size": 3033,
+      "sha256": "6460d394e7d52fe19b14c06cbb479ad83f99cd624aeeb4a4248f528400dfb070"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/README.md",
+      "size": 597,
+      "sha256": "3bd9d534f00c11bdad5d3501b0731967d74d90b573ceabb6c796bd333fa3af4e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/telemetry/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_collection.py",
+      "size": 2424,
+      "sha256": "e7d1c1c94369d46e5fa19acd327b85756bdb9ca8acfa16cf2f8049562b57572f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_count_api.py",
+      "size": 3616,
+      "sha256": "009867c7eb3f7798d417a7ae9fca6c3807cf5a28dd7941f880a5ccac03b6b201"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_delete_database.py",
+      "size": 2753,
+      "sha256": "dd7b7b92b39a6f48d2ffc3a3f5970a7c0b8434c301b379387bb5e13248749f59"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_fork_count_api.py",
+      "size": 3874,
+      "sha256": "4c7513574fa3c0089331cbbcc1b7f3abb9a84b8739fe84f961574f679e773fab"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_get_database.py",
+      "size": 298,
+      "sha256": "b746a76e5cb61037b34659b7b25d9cc0b4035be709325926d2118aafc6bf5e72"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_indexing_status.py",
+      "size": 9688,
+      "sha256": "bc0cdde71c79e9e344bf9da7511c630f67fdd5651110b8d031366285807599fa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_invalid_update.py",
+      "size": 625,
+      "sha256": "cc6c29850b4f57e473f7445b5dd68b0a0fc326cd4c9d5cbe2ba47fbb06467e9e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_limit_offset.py",
+      "size": 2091,
+      "sha256": "4b0d3ecec2a052d58aedbd249141e9a092109ad8db98982e2247b7c47a41bcfe"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_list_databases.py",
+      "size": 3504,
+      "sha256": "bc30d5c7bdcc001f5a408cd509ab26214a1ea0a0cd436791d6f86432b05865ef"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_numpy_list_inputs.py",
+      "size": 2147,
+      "sha256": "b2c0a239390ed1768c94c10c8ef1fd7541a085d4d22c2baa25b8775c79588e55"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_schema.py",
+      "size": 146989,
+      "sha256": "b2cd03a2c5321e4a9105b9c9e59026d3f742eeee6cef3abaad3831454d170a06"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_schema_e2e.py",
+      "size": 106999,
+      "sha256": "1007075e8a16edd33de07f160066cc54e240058820d17c46bb913362216868e6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_search_api.py",
+      "size": 4602,
+      "sha256": "2e1a2071556d49ceda31bff2a00fe60955a48e58b084b9310c15969caa904d51"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_shared_system_client.py",
+      "size": 6106,
+      "sha256": "3ac1ccd32a48f189e92c5c92c443963ef200c0b908bb60b0b4b71e421ef4be7c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/api/test_types.py",
+      "size": 3324,
+      "sha256": "3f6ef316d2f0de5a2fc5fec2ecfb9f1fb43e3808f1e4f6a153b1c346585422a8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/auth/test_auth_utils.py",
+      "size": 3126,
+      "sha256": "bbf4273b356438a6e050982013e2f6c407ea58cec435f597783b0d38847afa23"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/auth/test_rbac_authz.py",
+      "size": 629,
+      "sha256": "2971e18f2cd9e0afc7de81a6d2ca25eeb0dce1b3652c1985b9d7a34eeb843bb7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/create_http_client_with_basic_auth.py",
+      "size": 814,
+      "sha256": "66ae988ecd048e0a5c984f6ce9d0746dfbcf1c5a9dc70ce38c9ac668a8a6ae88"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/test_cloud_client.py",
+      "size": 12801,
+      "sha256": "5704c61399d040de5a6ec292f1b485678a518c9930b78c3e0d7d4f6573a5c3b3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/test_create_http_client.py",
+      "size": 572,
+      "sha256": "f696c7749feb523e94dfad3d48d19fadc0c68b81e96fd486e65d4396680951a3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/test_database_tenant.py",
+      "size": 7291,
+      "sha256": "50a040a7efe32d8cfb4ec5cb0c5ee8493ea6b4e46ebdc98d4ddaf6ce01717f17"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/test_database_tenant_auth.py",
+      "size": 1412,
+      "sha256": "b679af9e50ca548699335d2f5823298f7a9b69f0de24aff16d40d3eeaa2f0bcc"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/test_multiple_clients_concurrency.py",
+      "size": 2055,
+      "sha256": "871dc8494042833b5156279c888f484bfd2790d5e95c15ccc21fe0d5d1e287de"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/client/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/configurations/test_collection_configuration.py",
+      "size": 62780,
+      "sha256": "a3a586098acc8efe8e12bfab41ffa546db27cfa83abddcafb129fa095e1fc79a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/configurations/test_configurations.py",
+      "size": 3790,
+      "sha256": "4f3c93ccfa58ce282b55c05895f1ab9a013ad16dee2ce262f961fea3f3ceb7c3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/conftest.py",
+      "size": 43713,
+      "sha256": "e2ac308d15e39eb69252067d65d6add81e82b62b3be2886a9679b61e147b6ddd"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/data_loader/test_data_loader.py",
+      "size": 3830,
+      "sha256": "f349badaf507f6c48b14432babd89bac0c16ed58a1f37c9cc04a14aec4883876"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/db/test_log_purge.py",
+      "size": 1823,
+      "sha256": "4463c58e762b2207934e99248b200c7e03cffbbe16bc9ee1afb823b377237377"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/README.md",
+      "size": 236,
+      "sha256": "7f04055d31b2fac22f4e69a2793cd0240e3da2181d8abc7d3fd028ce7c058f17"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/test_log_backpressure.py",
+      "size": 1757,
+      "sha256": "7a2a468e0ca550a23fbdc76ac85b379581c969586620561ec7e6db0b77c4574f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/test_repair_collection_log_offset.py",
+      "size": 3761,
+      "sha256": "0d8c3d95d56337fb210fa48c9392e0e7f1003f83e63f7ab6ce46eb93bcdf1f02"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/test_reroute.py",
+      "size": 2516,
+      "sha256": "bd199c902bac128a6a9fe68ebefaa8a8e836ea2d6194f028ed40a17527f7463f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/test_sanity.py",
+      "size": 3048,
+      "sha256": "04852eb80f31cfe4749fa5e02248db0bed5401a84b93c9ae7af1f4f1d52e87eb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/test_statistics_wrapper.py",
+      "size": 18195,
+      "sha256": "be53dc14509fad9c4e14a567a2c07661d228c8a86c514fc285a44ff58350d0ff"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/distributed/test_task_api.py",
+      "size": 20901,
+      "sha256": "502560ea17b536573970081fc2a80814ae740a8e838a10e4a8054162150583e8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_chroma_bm25_embedding_function.py",
+      "size": 7770,
+      "sha256": "c90d77099a79e66ca9a442480021f0e02e172a8e02c7e1dcfeb99813675b55a4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_custom_ef.py",
+      "size": 3398,
+      "sha256": "16b12857a8ccd1ac840111f99e8692b1955d8ecd96ec1e11e11d2b062e755a49"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_default_ef.py",
+      "size": 2750,
+      "sha256": "f9bf96ca0aa13e01a3d075f394ba28be9bdc5fe1c51a03e8d4b4a2b7f4db8cba"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_ef.py",
+      "size": 4179,
+      "sha256": "2d367b6901bffb152cdf9476ce314d49f28bd565c56aa1327e6b2b3370dad39f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_morph_ef.py",
+      "size": 4291,
+      "sha256": "5af5f9a35f58f6d1c1f5a44cc6dda00e974c7a23c791bd86942ec028dd356bca"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_multimodal_ef.py",
+      "size": 6343,
+      "sha256": "29d4ba6c959ef3ef3277d5d4ad28a4b4169bfea6b6398b0acc75318d77280d88"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_ollama_ef.py",
+      "size": 1885,
+      "sha256": "5151bc671c72faad4b48d2622e9dca46acb7487d6dda09590c6e839889b892e0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_onnx_mini_lm_l6_v2.py",
+      "size": 7746,
+      "sha256": "c37c1a5d2090eff1b66ca57d724c17cd8aea25d6409506084e67612721873087"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_openai_ef.py",
+      "size": 1284,
+      "sha256": "d4e92f03fb2b87d23d8c099783ae2fd33c7ae2059bbe87605839c7b7aa94f5b5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/ef/test_voyageai_ef.py",
+      "size": 622,
+      "sha256": "420c481b36b533dbe8fab86f63a280b7f0ef4526b494b2fa2201cbaa15f0cf85"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/openssl.cnf",
+      "size": 201,
+      "sha256": "95c6975bcaa8d6a97b02c236bace4a1b24ffe3d825a83dce08b158c9ed183f3e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/invariants.py",
+      "size": 24862,
+      "sha256": "8cd9ee92d0607dd34b82d0861ea2b575d71498793d2fb5e3ca6cf5575772286f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/strategies.py",
+      "size": 40882,
+      "sha256": "4c1a48fee208f836c37ff3efc3e205a506810a63afc2a948ff54414e1eb56878"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_add.py",
+      "size": 19499,
+      "sha256": "0fd937bdb037cbecf5de9f4332349afc9fbfe5d712a5dd6c0c79f4dc6203ed79"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_add_gc.py",
+      "size": 16482,
+      "sha256": "cd7e4cfe46c32da5902720684f1cbfffcb6adf90d0f4578259c4ca123c62652d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_add_mcmr.py",
+      "size": 12677,
+      "sha256": "0de3e88402233d6cc79aec035b78ca4e7aa22bad90f88e2ba591812086dda114"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_base64_conversion.py",
+      "size": 4106,
+      "sha256": "bb9c4073ef3e840e3a347473c8ad9c5de9395ae9c51414394cce538392a73319"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_client_url.py",
+      "size": 4015,
+      "sha256": "5f9d469e9817f67675c8ad7e43f4e971c834d8a76d589afe108c76e866f9f6e8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_collections.py",
+      "size": 12739,
+      "sha256": "844952c40268324351c619fa510af6138dcda0b0bdc05930945b1ef6e24af1b6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_collections_with_database_tenant.py",
+      "size": 6928,
+      "sha256": "a021c40644197b2915c07f81d3c7b304d3f2b6f2e655ee5aebb7a7b06410dfb5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_collections_with_database_tenant_overwrite.py",
+      "size": 9589,
+      "sha256": "a8fb9d0007a6a5f431045ec63943ba8e82ad35179668007819d039c7e45f4036"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_cross_version_persist.py",
+      "size": 14107,
+      "sha256": "68bb804639964a1e09b856990d88380d4f6736e79fc5b2b7e270bbb5653e81f7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_embeddings.py",
+      "size": 54948,
+      "sha256": "ffcf14e5f72d311c25f37bf2c217c7763b5b5732f3aba07e7273b6a145287b52"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_filtering.py",
+      "size": 29190,
+      "sha256": "57b64eff973530c9377b765c5e93ca97511ac7f1f54967525c0d2b06d21a3fb7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_fork.py",
+      "size": 8038,
+      "sha256": "355713f72db7dfa0da1f9828e25c68d395560d5283966f00f99a7b35d0d13de3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_persist.py",
+      "size": 24298,
+      "sha256": "945414b5d1705e6ab88108e8c8a4afe7e65e6841c30f7c35f1f0228383ae33c4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_restart_persist.py",
+      "size": 3433,
+      "sha256": "68ceb3d042fa501d9f9b7cc73ccc13c5e118f54b0ca1789c7c8fd6cb74a5b458"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/property/test_schema.py",
+      "size": 34116,
+      "sha256": "dadec82f86a9e2e1cde1fe6dd74f17e024ddafc398619bab18e4fd531d2eda4b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/segment/distributed/test_memberlist_provider.py",
+      "size": 3959,
+      "sha256": "9099bd800eef0a7e5d1015c30aea43f5c60ceadc6539ac7bc122ab56ef667390"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/segment/distributed/test_rendezvous_hash.py",
+      "size": 2317,
+      "sha256": "0d6f478ef59405d168631e1f16d262a91afe11bc992516615f9331c1501835fe"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/stress/test_many_collections.py",
+      "size": 1302,
+      "sha256": "ba926f09d7b478ca7ced0446e15a23cb261a6e92b51efc5bc278bce5ba13fcec"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/test_api.py",
+      "size": 138480,
+      "sha256": "ce35e12a907b2408e5cb088fdbeeaa895ab12513b1928a70e50687c62e08ec9a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/test_chroma.py",
+      "size": 4445,
+      "sha256": "0fb9f8710cf005dbad18acf2f6bca8007ec3a8cddbcf85102ddac8f4edb33807"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/test_cli.py",
+      "size": 5206,
+      "sha256": "5915d87505513ac74477f73f98beb4e4b096a5a5486c94d2f05922e2ca3e4c5f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/test_client.py",
+      "size": 9675,
+      "sha256": "2607b5e90ab6b7826bdc46b90b7519568fb5343e75fa730bea1d98e6ad14ef87"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/test_config.py",
+      "size": 5816,
+      "sha256": "846050e3f4478b584acaf29465a4b3510e3a21a5d5610318fd856fffb9fc73bb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/test_multithreaded.py",
+      "size": 8771,
+      "sha256": "978b40ab0b599059e9ad7cf2cdc4cb37f7d2c56a30f773dd983036801dfae130"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/utils/cross_version.py",
+      "size": 2443,
+      "sha256": "55e8623d276f729a15a04bb00bebba2da1a6745a7597fa4eaa113caac92c8306"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/utils/distance_functions.py",
+      "size": 191,
+      "sha256": "b450a20cc9052d1d1cb8c2816be471807b8ab7779fa22d11accefa0d2af0a358"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/utils/test_embedding_function_schemas.py",
+      "size": 19527,
+      "sha256": "fd47d10cec1dd6f1d58d80722e6817746e4e0bd33156aef0dfcce280e497f4af"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/utils/test_result_df_transform.py",
+      "size": 6130,
+      "sha256": "04b3e12318493ac292f041c62fa3f8a8752576c06d223d271bd743ef987d2ba0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/utils/test_wait_for_version_increase.py",
+      "size": 1937,
+      "sha256": "a14ad4598b6f8b9fd67d60f0ba183617440ce6b9e2222fbd4338a17fcca9175f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/utils/wait_for_version_increase.py",
+      "size": 1469,
+      "sha256": "c57143d3fd2db95d77086287e65272bd992b3be67c4ed1b4da74beb08740234d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/test/__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/types.py",
+      "size": 10529,
+      "sha256": "ec08548d81244d3ab94c1909d994376fe4833f07656713485fb19713ba4b0dc9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/async_to_sync.py",
+      "size": 1741,
+      "sha256": "fadcdcd8ebc22e4daef2d0d193f658c9234cee6f474c5bd85eaaa9c23a030e2e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/batch_utils.py",
+      "size": 1275,
+      "sha256": "90094b5a9cb6d2e2f22a88164304ce2f1d7197598b5beafc1e6f5dde2d16516d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/data_loaders.py",
+      "size": 1418,
+      "sha256": "ef91ec65d84675be993b329733ce598f6a39fc2d9e85333fb28f0e8438422015"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/delete_file.py",
+      "size": 1168,
+      "sha256": "de4b4caa392f22ec291492f9c5338ff3b57b0c6f24f6ce1156cb8a41724d03e8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/directory.py",
+      "size": 644,
+      "sha256": "a3449f9d9859e9b7fe9cb105c06f4b4131d6931b7126f122a133f1eb2ee381ae"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/distance_functions.py",
+      "size": 989,
+      "sha256": "610f266c6e448719af18a8907a4489a66b661ac44a7f7569a2302a60a0c003bf"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/amazon_bedrock_embedding_function.py",
+      "size": 4925,
+      "sha256": "48d383bec501d8a67905031ab28659fe99c6957e00d73d08a012814570d213a7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/baseten_embedding_function.py",
+      "size": 4415,
+      "sha256": "91de3d28e269a358efa2fcc41fab9620fe818b8a091d850ada81da4b01e84d43"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/bm25_embedding_function.py",
+      "size": 8554,
+      "sha256": "c7cefd811ce862224ff6173728e4851b1687da45ab86fe9de0dddd16f424f320"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/chroma_bm25_embedding_function.py",
+      "size": 5734,
+      "sha256": "b518c341c439955fca2a77442c580b6a8c855e8308d94f863fa8d5a8839c9e0a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/chroma_cloud_qwen_embedding_function.py",
+      "size": 8802,
+      "sha256": "60c4cdedb5325a64a8a3de18d25356778c51b6461bb4eaf29c48cd47e1abd8f7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/chroma_cloud_splade_embedding_function.py",
+      "size": 6989,
+      "sha256": "1826f8595a207798293870ef586a592947a0c34e312788ac26383f31fc3c9414"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/chroma_langchain_embedding_function.py",
+      "size": 6329,
+      "sha256": "6235eac7bddaf085877341d31a7e4e72f93f7bd873fb99b1477e8bef7ca6d990"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/cloudflare_workers_ai_embedding_function.py",
+      "size": 5558,
+      "sha256": "3bdb5dc9c05a09168179cef4f2eb81f45e9bbd2e0105413dabe4e953d109c67f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/cohere_embedding_function.py",
+      "size": 6439,
+      "sha256": "e3b2670dea39372965122f863b5d7e6156f8da1b2cbd1fb833b0df0baedb6c51"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/fastembed_sparse_embedding_function.py",
+      "size": 7433,
+      "sha256": "2fe1d13e4f03097d790c918612daab26eee6faf9530f05b73d9909d7e23aeab3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/google_embedding_function.py",
+      "size": 24229,
+      "sha256": "d7adc0a70dee434f942c34eeb7daff8df4a5e337d06a3f5a45982aa30ae84c66"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/huggingface_embedding_function.py",
+      "size": 8935,
+      "sha256": "95d9bfca56f6646023e5c6e3d69bc3066ea4828bc0cad20132465d7a9eeff1e6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/huggingface_sparse_embedding_function.py",
+      "size": 7203,
+      "sha256": "26cec991919ffdda2f3256eb2c0563b6b65b519bba479e8944562060cc77e14d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/instructor_embedding_function.py",
+      "size": 4362,
+      "sha256": "4657f45502fef536a4e7c4e769ba67053a11da3dc012a43ff880a54bed3af974"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/jina_embedding_function.py",
+      "size": 10421,
+      "sha256": "c59107647dcdad45fa68246faad133c8666fbb8442558ab7b2012ae4bbbc7634"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/mistral_embedding_function.py",
+      "size": 3215,
+      "sha256": "94b052b0420289e36b7597fb57661cd2473bfdf020341b3a35e1c59dd9217db8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/morph_embedding_function.py",
+      "size": 5437,
+      "sha256": "afaf4c2022c11a0c649b5b64dc3b5c3ae2a963e4027ae4b40122b10e122788ec"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/nomic_embedding_function.py",
+      "size": 4585,
+      "sha256": "2c565f8e3d8b54ecee97304812019f65aa26cad765b82ded7d5488745a5d6e92"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/ollama_embedding_function.py",
+      "size": 4144,
+      "sha256": "8bc7fbbb2368a9d9546bdc7b8b23cb97f759fb1040275f504fc5a6148ca79dc4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/onnx_mini_lm_l6_v2.py",
+      "size": 14237,
+      "sha256": "d58d471e1c28ec647545be4af6e901a43b5de324edc352753b206c604d447dae"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/openai_embedding_function.py",
+      "size": 8594,
+      "sha256": "b1437caf370eebb1a08019247976bdee4e54c66c2b426dfe721cc94cc3ba1e61"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/open_clip_embedding_function.py",
+      "size": 6257,
+      "sha256": "681ac3d4e1589942bec9e8ed7782d6f04d5e91455f37d56554a55b38ef7b8a6c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/perplexity_embedding_function.py",
+      "size": 4840,
+      "sha256": "6e9cc08b1b370ae048d1d4c4e4568d782ef073ebc4e9efa6b9869bc604bc4ad3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/roboflow_embedding_function.py",
+      "size": 5347,
+      "sha256": "2e430b5a049d3fc9043d91cd156518e89b640e96cfbdae8e135a599857ab0321"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/schemas/bm25_tokenizer.py",
+      "size": 5379,
+      "sha256": "c05108be03f59e37f58ea9eb4cb79e7df93dcc636266b4d139f2cb1143fb5e05"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/schemas/README.md",
+      "size": 1700,
+      "sha256": "5aaccda4e6380c47a26e64b43ac1a7a3298912cf197ef2d3640ed37baf2be9ae"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/schemas/registry.py",
+      "size": 1654,
+      "sha256": "8c4aca434906165f678f23b7a8f0bd27a57063cf895ddc47382926f7fd3c2f4e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/schemas/schema_utils.py",
+      "size": 2675,
+      "sha256": "add5cc819323124a8cdf2897c15052968216506e0f9bb85917aa8895dc1c00be"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/schemas/__init__.py",
+      "size": 488,
+      "sha256": "fc7c72c2f0c251e33ebabddd0cedd4c36e0c7286d1a799e18e0c559783d0a846"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/sentence_transformer_embedding_function.py",
+      "size": 4700,
+      "sha256": "5dbb37be7d9a6ebc42cae517ad1af4a63a5ca37da77bb0b01842e5fc48a810a1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/text2vec_embedding_function.py",
+      "size": 3171,
+      "sha256": "0b3448e2991d4a2747884f3e08f5c06d86081c524b5b7639fdafccfa30b95707"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/together_ai_embedding_function.py",
+      "size": 4674,
+      "sha256": "afb254ab3efb4aa95c72857d9ff4910a679d8352302b0f76de32c3d38b14f59b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/utils.py",
+      "size": 878,
+      "sha256": "25a7978ce0f098317541413d9136d3a1e3a3ccb66bf639ccf860a377ee153486"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/voyageai_embedding_function.py",
+      "size": 5026,
+      "sha256": "1f43570a4beb4675141be3fbf4659189a9482f34b3f4b8c679d99c6f74500c3f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/embedding_functions/__init__.py",
+      "size": 11108,
+      "sha256": "afdc7af835873adeb5a7cc23809025e87fed20b0213eb3487f845e5138f9f689"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/fastapi.py",
+      "size": 522,
+      "sha256": "02d0039f697eb7fda88b46bc7f61b44911683e33ff32f77e9002839dba431780"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/lru_cache.py",
+      "size": 1108,
+      "sha256": "4fa9753f59fcca6e6dabf5301f12ca6c274eab8d6fe1e1c46cdbf1b910eb22b4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/messageid.py",
+      "size": 280,
+      "sha256": "d25a4118baa702b220b59163eff293b131e70fd178c121f0f432a7db078ceffd"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/read_write_lock.py",
+      "size": 2084,
+      "sha256": "5661fa4be631a36714f2b378879b73e627c437e48eb8cbcfb331032647461db7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/rendezvous_hash.py",
+      "size": 2223,
+      "sha256": "2dc288910d62d71c4b046b0957f528f67fb98acb29e8721dbfd356d6ca586bfe"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/results.py",
+      "size": 3994,
+      "sha256": "d13559673eeb4cfacae59f29611d7217006300b31a3193dc62ab3e094abf21a6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/sparse_embedding_utils.py",
+      "size": 1899,
+      "sha256": "98f590ddac9be6edaa9b89f43cbf579c54b1f4d9fc22188b402d4f15f6f7b15f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/statistics.py",
+      "size": 9729,
+      "sha256": "ccb0f363a19470ed3591d89a17f3d29c77254b19381d8e00e30788dabebc1780"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/utils/__init__.py",
+      "size": 390,
+      "sha256": "219ebfbe343642b764af5d990d99ee943a2fc43fdfbad800ce14279bd9cd630a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb/__init__.py",
+      "size": 15102,
+      "sha256": "27b756cc78b4e3ca4498562084acc634fa3c3cdf7e5e552efe1981fffcc8a4d7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/entry_points.txt",
+      "size": 46,
+      "sha256": "bdbfff5915c633d079b50d58b2b729dcb2206a05b161fc8db1dd0d4bc0bfd3c5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/licenses/LICENSE",
+      "size": 11558,
+      "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/METADATA",
+      "size": 5082,
+      "sha256": "cf1b09258a80e8d340aafb67b74de82127db28be6f23fc2df6b2c2d8645b6ec8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/RECORD",
+      "size": 43464,
+      "sha256": "b5c7045ecf18b518d4e095d4ff7161b5404fb268d04527a8df6c1420334764d9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/sboms/chromadb_rust_bindings.cyclonedx.json",
+      "size": 1004151,
+      "sha256": "37264d7b842612218be134bbae2d18c35d25f0f994928127dc6850c5146a4c08"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/WHEEL",
+      "size": 95,
+      "sha256": "4094f40e1dc39c2415a8c33ff65cfa89f3eda4ce8b3f00b0411f0fbd0f708107"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/chromadb_rust_bindings/chromadb_rust_bindings.pyd",
+      "size": 63397888,
+      "sha256": "43e00b2792bf31bac0eabc85b9bd7b06095db4c61c0cdac25246ed5852623dd5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/licenses/LICENSE.txt",
+      "size": 1475,
+      "sha256": "9a8ad106a394e853bfe21f42f4e72d592819a22805d991b5f3275029292b658d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/METADATA",
+      "size": 2567,
+      "sha256": "e87bce0bd194de70dfb8e708e0a6b0483009f25611804eaf87bfeb63e6c20501"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/RECORD",
+      "size": 2619,
+      "sha256": "de1b5b403da8dd816a5876d2b0a06c80df8b02e61bd4bd28132c1b10af2d18c9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/WHEEL",
+      "size": 82,
+      "sha256": "1b68144734c4b66791f27add5d425f3620775585718a03d0f9b110ba3a4d88db"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/google/_upb/_message.pyd",
+      "size": 745134,
+      "sha256": "842f219cd89a95a3c5da42bda1ee99c2b02d35f5f6ac9c1920fc710a876170ae"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/grpc/_cython/cygrpc.cp312-win_amd64.pyd",
+      "size": 11177984,
+      "sha256": "89c7b390b8ef99425571aa3873a0ee1dc36115b716966be3f8ed391b663667c3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/grpc/_cython/cygrpc.pyi",
+      "size": 965,
+      "sha256": "45954c70d1fb5132e062a9a3df0752db826038a79ca6096867556951a0dfba9b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/grpc/_cython/_credentials/roots.pem",
+      "size": 623801,
+      "sha256": "8e73da9610986216bde16ec8953c1bcc5bc2ca9081f3ae322518809ef7126c64"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/grpc/_cython/_cygrpc/private_key_signing/private_key_signer_py_wrapper.cc",
+      "size": 3533,
+      "sha256": "87e42340a2902d397058e3e3eb0a8c5c704b3165bc1d5a265ab3a07562495baa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/grpc/_cython/_cygrpc/private_key_signing/private_key_signer_py_wrapper.h",
+      "size": 5612,
+      "sha256": "149ee27ddb90ed32d6b5be28c2557bf0cfd6a294664c21ea056ee324727ecb90"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/httptools/parser/parser.cp312-win_amd64.pyd",
+      "size": 124416,
+      "sha256": "04777205573d164d66030bc6d9dd9eaac35b9f73a8789a044c1423db01ee43ab"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/httptools/parser/url_parser.cp312-win_amd64.pyd",
+      "size": 52224,
+      "sha256": "1b75cea9e13cf0895e3bafdafee237eb361568c59ba3cb5ccfbd06fa2d8199c4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema/benchmarks/issue232/issue.json",
+      "size": 117105,
+      "sha256": "79a3ce663311bb9bbc4692abb00f6e93bb9c3d94b9b64286e03fe190e4d0dc79"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/entry_points.txt",
+      "size": 51,
+      "sha256": "bceeeb5f816cff1215272da99c0b4a8134b17e99e8cc0550d038c29a93319d61"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/licenses/COPYING",
+      "size": 1057,
+      "sha256": "4f92a015a13c4d1a040bef018aa13430b4f1bc73b41b16bb846c346766de7439"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/METADATA",
+      "size": 7592,
+      "sha256": "05b189866ca98a96da3934bf6b83687ced3ff85325273b77e16b705f6d8b26d2"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/RECORD",
+      "size": 6423,
+      "sha256": "634e17afbc3cc57811ec8d489132f0443383873bd739c2065847a0beb4665a19"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/WHEEL",
+      "size": 87,
+      "sha256": "58b82a17209f9bf2804afe161f2632d0fde933f9bb2792fd936b2474a2e2ac2f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/metaschema.json",
+      "size": 1785,
+      "sha256": "7b761b3e121f0a0ca1ea2a0b8e2cc856bcf801604b8268d71bacaa202bc0c13b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/vocabularies/applicator",
+      "size": 1860,
+      "sha256": "6895100e99726fbb107058512bbec3ecfd4b24e8fd2facee3e505ee72b0d4c31"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/vocabularies/content",
+      "size": 517,
+      "sha256": "9b7d4f55a4e2fdb02c430068fdffabc732addce238da3f1df2690249c3353274"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/vocabularies/core",
+      "size": 1531,
+      "sha256": "b5a2c4957f6495d0a5081f0409ebe8a14e4139acb203fc748471f8ede2af5b2c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/vocabularies/format",
+      "size": 403,
+      "sha256": "50ebbfe790611a849b8cc400a09c1d0e0fb6ab5c0d43a0f22201fd3625056bf4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/vocabularies/meta-data",
+      "size": 892,
+      "sha256": "d47e2445dd6a82271a298d83cc6c6cb8d4ae1e15e0dc56becd37a163ecf01286"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft201909/vocabularies/validation",
+      "size": 2834,
+      "sha256": "1e526c1d335a734805fc82cf5798c12b960ad7da2517c66cda5a1b09359c3c1c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/metaschema.json",
+      "size": 2452,
+      "sha256": "41da76f5afb7ce062d248f762463a92f7ca47e4e0f905b224ba6afeef91ded0f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/applicator",
+      "size": 1659,
+      "sha256": "c4a6e4147b91fef7fea6dc058cb1bf93402f7414b76578a8b16aaf1dad6aacef"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/content",
+      "size": 519,
+      "sha256": "08343747764e4a5814262793cf4d652057a7913863c5950d43297e8e1fdac5b6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/core",
+      "size": 1564,
+      "sha256": "c2d12a8e4dd11d336dfc83a3f663aa4c69f0b49b3beb094ffeb25b5316f4803d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/format-annotation",
+      "size": 448,
+      "sha256": "abc775adfefd89d22358170d9bf93f4ebd2349563bbbedd60f02bef7c812bcc0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/format-assertion",
+      "size": 445,
+      "sha256": "c52242b9a1bb786b26c3e82c7add428c31f9c96e575dce99e56ea5feaa6da20c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/meta-data",
+      "size": 892,
+      "sha256": "8f76d6e14f41b9b92ef933b708cdc5144c8b5268651ad11918485fb1754f1c76"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/unevaluated",
+      "size": 506,
+      "sha256": "2dbfbcb73994b670b0976492adee1fffb46c21682784d2f5a4ca561f9e2d0cb4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft202012/vocabularies/validation",
+      "size": 2834,
+      "sha256": "7010a31e541f32d2be721e2de348df75c9b36876a3ed304877fc0abda1d37a58"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft3/metaschema.json",
+      "size": 2600,
+      "sha256": "2cf75f64436fb5be374a2eaa27ab8b7e1fd651c9b46daea6c67b02fd64e2458b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft4/metaschema.json",
+      "size": 4357,
+      "sha256": "e1489d0b4755f02793302591d3fcb8f07b6893a82a94f24895f8e4edf11b82e2"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft6/metaschema.json",
+      "size": 4437,
+      "sha256": "c29dfce9f54835c3a06c03b3c5d5ec0eda77706568f9c4df7cfbc7566a51006d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/jsonschema_specifications/schemas/draft7/metaschema.json",
+      "size": 4819,
+      "sha256": "3d5392088261606c559b603f385329c9f1ab45b5d667eb990687453b055d405e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/libcrypto-3-x64.dll",
+      "size": 8003376,
+      "sha256": "35e0ae43af2876903b00ba955e400f6da1787defb1ba18b7ff35e540c7f4ed66"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/libffi-8.dll",
+      "size": 43824,
+      "sha256": "34985fc0a2d5942dd6c0cf3205549dc56ed6ebef410884419c87e5fe4e00e988"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/libssl-3-x64.dll",
+      "size": 1599280,
+      "sha256": "5bb445df170ac3df4524cd1f7edbad09bb249b77d1144f58ebd1615f730d162e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/mmh3.cp312-win_amd64.pyd",
+      "size": 54272,
+      "sha256": "6698fea8c26b68adbda38856b8937397f1d7e824e0c4e2335239ce0868345d91"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/MSVCP140.dll",
+      "size": 643512,
+      "sha256": "7c26614e1d733892c2deac7e245ce115504b1d80592dd0a01b08e3e5a55f89ca"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/fft/_pocketfft_umath.cp312-win_amd64.pyd",
+      "size": 276480,
+      "sha256": "3ed9c2f73c7dc165e41e98ecfd0a4f66481a5afec7e39148a2af317b9a4ff62e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/linalg/_umath_linalg.cp312-win_amd64.pyd",
+      "size": 112128,
+      "sha256": "15884ab8ded82bc5f834e429a63cc9cfdcc24f61737a5c563efb2c2f274213a8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/bit_generator.cp312-win_amd64.pyd",
+      "size": 173056,
+      "sha256": "1e7a030cfd348ab125a681eaf21b227be145d8329430b8d521f9bde520390267"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/mtrand.cp312-win_amd64.pyd",
+      "size": 522752,
+      "sha256": "2dbf4488af25a9d6b2863b3eea53d4a39b692b3be579e970761730d310e8ea65"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_bounded_integers.cp312-win_amd64.pyd",
+      "size": 208896,
+      "sha256": "031cbd54dcbef2ff3fda13889879a6442f17c31df6d008154708b31d7582309c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_common.cp312-win_amd64.pyd",
+      "size": 174080,
+      "sha256": "8bd4fcd63a3f0643a81b4095a8221a4a3917dd86816ecbeea595db237071369f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_generator.cp312-win_amd64.pyd",
+      "size": 624640,
+      "sha256": "8dd9ad224065d8c38d99149d6816a519eb769b3e01210164b3bcb186e7d59479"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_mt19937.cp312-win_amd64.pyd",
+      "size": 92672,
+      "sha256": "9b3aff503e8872d6e6b71b2d41a5a1304c02092cb75f5387194c3fa98c1a5610"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_pcg64.cp312-win_amd64.pyd",
+      "size": 105984,
+      "sha256": "f68a6a65df54920f091c6745694fd7adacc7311d980a429c8217385b43f8df26"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_philox.cp312-win_amd64.pyd",
+      "size": 89088,
+      "sha256": "1872654c8ade0ed9e11ca3f1b2714154f39a0cef46416b48e40c7e96a6dc2018"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/random/_sfc64.cp312-win_amd64.pyd",
+      "size": 64000,
+      "sha256": "958af4dd25196f436d67b681c64a8639f0ec5a98dbb37124859def7eb353c0ab"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/_core/_multiarray_tests.cp312-win_amd64.pyd",
+      "size": 65536,
+      "sha256": "8fdd39b1dcd81239b1fe0b10744afd76dc85c8575aa09429b392e323fb750f4b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy/_core/_multiarray_umath.cp312-win_amd64.pyd",
+      "size": 3854848,
+      "sha256": "a9d5c4202cf109bf24305f3f1180e0509aaf661ba850612bd75df7cfd9f928b8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/DELVEWHEEL",
+      "size": 462,
+      "sha256": "4a71fefce03586c3347fcd8f3a994ad4af93717dc6e5d964d976e6134e3230fa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/entry_points.txt",
+      "size": 220,
+      "sha256": "ec26fade0c8bdac211a6c1dd003a65eb16885b925395423e93fcaa115af4052c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/LICENSE.txt",
+      "size": 45831,
+      "sha256": "a804dff0ead9fadc5293456410bcbfc32bf024be9c4513459663fb7b442d2341"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "size": 1523,
+      "sha256": "8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "size": 2314,
+      "sha256": "19060ef465e1797d682ee0fc3081bd25ab1395e995e43d25c9d13c95d9a3cd6b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/ma/LICENSE",
+      "size": 1616,
+      "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/LICENSE.md",
+      "size": 3582,
+      "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
+      "size": 2805,
+      "sha256": "cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "size": 2986,
+      "sha256": "92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "size": 1176,
+      "sha256": "41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
+      "size": 1540,
+      "sha256": "322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "size": 1253,
+      "sha256": "28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
+      "size": 340,
+      "sha256": "454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "size": 1039,
+      "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "size": 704,
+      "sha256": "aea41976c720f91bd19725c16916a1ace40eb1ea42620d340e587a5de4bbcea0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/highway/LICENSE",
+      "size": 21155,
+      "sha256": "d208152e2777ffd0126eacc1bd21c0320d69e4e6b622d21a2a12a47e8ef73763"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "size": 1441,
+      "sha256": "b0fd592d4ead563148e3977e7b589169d46a5ef2ff133c755a81af880a3fc919"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "size": 1542,
+      "sha256": "a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "size": 1573,
+      "sha256": "585483905b13d4b42f800c55ba99e89d6e2e33ccd5f503e201c07531d148ff41"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/METADATA",
+      "size": 6635,
+      "sha256": "451a9b8028000588e66b0b415587b6aef0bbc51a96d8e8a0cba0dc23acf64f99"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/RECORD",
+      "size": 113358,
+      "sha256": "988f0eac652fdcb47e744b642c3f6da215aa99070f9b159b4bbb5e7123c63d3f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/WHEEL",
+      "size": 85,
+      "sha256": "e743de01ba6503a3e4234858398a1e69c07d512d51e8482ec9f3a7b1c707d165"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy.libs/libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll",
+      "size": 20589056,
+      "sha256": "ed4f167a5330424524f45258e7ca2c8d7f03c0cba1f30ee4985553ac1f88ecf8"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/numpy.libs/msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll",
+      "size": 575056,
+      "sha256": "a4c2229bdc2a2a630acdc095b4d86008e5c3e3bc7773174354f3da4f5beb9cde"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/entry_points.txt",
+      "size": 573,
+      "sha256": "7713ead1845b4034b097c42447e23d037f2b6db7ca406e61dae3458e9bd4e95e"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/licenses/LICENSE",
+      "size": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/METADATA",
+      "size": 1411,
+      "sha256": "42aabbbacd266627b5c3839a515150ca90c18f80c9d85ca6f6fa10d440a7eeaa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/RECORD",
+      "size": 6482,
+      "sha256": "62f5add09e70725b41fa2c86a78baf91d97328c6d57aab14ee1259bbf8f38138"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/WHEEL",
+      "size": 87,
+      "sha256": "942926c567d0b1273d09f20295879abd37507845f6b683eab9f87d808df91100"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/entry_points.txt",
+      "size": 365,
+      "sha256": "9caf37c6686c7781f43fb406ada53060256d33d72740404bf89411f382482ff9"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/licenses/LICENSE",
+      "size": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/METADATA",
+      "size": 2573,
+      "sha256": "b5fa42549816bc336a459a9d3bfdefbaf9ee9bae1e1581feeb7817ed4d45f3b4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/RECORD",
+      "size": 2136,
+      "sha256": "04d6bbb550c7c307bc72c9f3a129563cca7651f67ed5451d21d466952016f432"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/WHEEL",
+      "size": 87,
+      "sha256": "942926c567d0b1273d09f20295879abd37507845f6b683eab9f87d808df91100"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/entry_points.txt",
+      "size": 1544,
+      "sha256": "ebf9392532b2741c3fcc346f9051db62cf5dfe566b5cd7fad110375a0faff3de"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/licenses/LICENSE",
+      "size": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/METADATA",
+      "size": 1627,
+      "sha256": "12cf968ea4d637e6adaa8a9b767f34c70a527e092fc7c7f0eb3e93d06148e7e0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/RECORD",
+      "size": 12899,
+      "sha256": "a3b283e24e7f405a5644e1ae38083d2c94e6a890cf5918c45a8ef261d262c7c1"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/WHEEL",
+      "size": 87,
+      "sha256": "942926c567d0b1273d09f20295879abd37507845f6b683eab9f87d808df91100"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/orjson/orjson.cp312-win_amd64.pyd",
+      "size": 224768,
+      "sha256": "ce1f204ff6cdbde5b12bcf775755e78c8905fc47530b04ab918d3ecaec660841"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pybase64/_pybase64.cp312-win_amd64.pyd",
+      "size": 58880,
+      "sha256": "b68c69e34140f9a68d32a90d19dd571904f0af0963538b3636bebeeee848fba0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/licenses/LICENSE",
+      "size": 1129,
+      "sha256": "a9e186f3ca16b5eef84318e7a701721351a00cb7b8ae3a4394b67b49e3529ef3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/METADATA",
+      "size": 110178,
+      "sha256": "0685830d13647bd6f3f05526043d32a8b2a221d86b53773053d6c52bb17a9c07"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/RECORD",
+      "size": 15546,
+      "sha256": "a6560fda20ac818f8e86aa91d5ab3185dd31a15aecf67e0faff8ab40c3effdaf"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/WHEEL",
+      "size": 87,
+      "sha256": "ccec20e2307acd7da453dd7437e70c6b08e2bc3ead3bc3445af135da37b56d59"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pydantic_core/_pydantic_core.cp312-win_amd64.pyd",
+      "size": 5157888,
+      "sha256": "28fd1266fb9946fe61775505a13c0bf803f6932b51b306a0032687393d9a558b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/pyexpat.pyd",
+      "size": 226096,
+      "sha256": "6805f27fe87f66249f1a94098ebe4fa387e93bf1f0f751b49db55c25ecfb966d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/python3.dll",
+      "size": 71984,
+      "sha256": "c57bc21e131857f26db78d1512fbfcf67cac3273ee8b1cd704ed5645ec250884"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/python312.dll",
+      "size": 6985520,
+      "sha256": "c1ce6d603041759061139f482c4b90c4ac9db676e30abf52fda66a794aab1bd0"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/rpds/rpds.cp312-win_amd64.pyd",
+      "size": 552960,
+      "sha256": "8b4b68653e93ffc61124c96fa85fcb3c4f9c8e3059a3706dcfc671af1f0caa1c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/select.pyd",
+      "size": 34608,
+      "sha256": "f04b6cb67a4fe77545bf7ebfb320b6ad216b5dc743215a33d70cd081233c94ac"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/setuptools/_vendor/jaraco/text/Lorem ipsum.txt",
+      "size": 1335,
+      "sha256": "37fedcffbf73c4eb9f058f47677cb33203a436ff9390e4d38a8e01c9dad28e0b"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/sqlite3.dll",
+      "size": 1623344,
+      "sha256": "bcef9117c3a2a3d0d46d098d28e679f312b2f874482f6825e29d082b1652e127"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/ucrtbase.dll",
+      "size": 1362264,
+      "sha256": "3239227d27667ba20d10a880751924e5719de0078f9fce232d149d383f7681f6"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/unicodedata.pyd",
+      "size": 1143600,
+      "sha256": "6429fe36429af848faea82122ebd7f5c72b05d9ba643d0b3a92eafaf9f27d10c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/VCRUNTIME140.dll",
+      "size": 124544,
+      "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/VCRUNTIME140_1.dll",
+      "size": 49792,
+      "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/watchfiles/_rust_notify.cp312-win_amd64.pyd",
+      "size": 636416,
+      "sha256": "51ea9b485458e0469a67250c64f9dda9a86c9a670ce67182cfd36dc991d286d5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets/speedups.cp312-win_amd64.pyd",
+      "size": 11264,
+      "sha256": "1347a3c6c5adafc0cacfcd9d07381a37c78959e4f7cf21199a796e5585a5313a"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/entry_points.txt",
+      "size": 51,
+      "sha256": "0e7867e1d9b912c23864c02c1e574617a0b005766b1979d1edc9cadbe5d1ef36"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/licenses/LICENSE",
+      "size": 1538,
+      "sha256": "0f44514998aca209d3482d10204a8adf2aa4296ff157a36a5c0922f2280632d3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/METADATA",
+      "size": 6510,
+      "sha256": "ce1b2b1cde9c2681d3d0328a724193475436be238fd47d8bd866a8195b35563f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/RECORD",
+      "size": 8263,
+      "sha256": "eab4d1e46a922fff1a78a052d9e8dcd21a31af501043c41a7dd0bebad2af1065"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/top_level.txt",
+      "size": 11,
+      "sha256": "08ca5d2a49712acbd980283296dc5458e1e26d95d9d6e60856971af71b10f079"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/WHEEL",
+      "size": 101,
+      "sha256": "547199cfb31450578b25778938b82f94e190e69e750e6c850e3b6d657fa1a30f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/yaml/_yaml.cp312-win_amd64.pyd",
+      "size": 253952,
+      "sha256": "4fd0e84f50261ed0886cffcdd8008b055af3352546e649c3d741b50eae1f9b5f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_asyncio.pyd",
+      "size": 75056,
+      "sha256": "c32c4cde3ba5364fe60693cfdf77e7a5033b812e3b771c31cf3bf062c7694bb7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_bz2.pyd",
+      "size": 88880,
+      "sha256": "54268c5cbefd96d9df377b40817cc09447d3a0a6734c300c442c0dde30cc75d7"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_ctypes.pyd",
+      "size": 131888,
+      "sha256": "eb533050b0b61203cc4918da1826372add87fe4acddb3f6e7b31301c7f93e67d"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_decimal.pyd",
+      "size": 263984,
+      "sha256": "539f8c32a3eafcf717cddbccf243167610671c5243ec3c7c40987d81066a557f"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_hashlib.pyd",
+      "size": 70448,
+      "sha256": "d99963665f72156067b432753d153ea456d0a0fa49d235c9b61bdb0a0d372ba4"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_lzma.pyd",
+      "size": 168240,
+      "sha256": "6337c7e78b7753865b2759cf296449b9d7af6aae0708b364ab9550dad00272be"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_multiprocessing.pyd",
+      "size": 39728,
+      "sha256": "d7a31223cc28115a179bdee1b48d690b5ab40377bd362b4d996a14268bee3fe5"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_overlapped.pyd",
+      "size": 59696,
+      "sha256": "51a995c207d62f0260b0dad3ea2ceecef8ec97c68a39633a71bf6528b70778fe"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_queue.pyd",
+      "size": 36144,
+      "sha256": "58e25f92fdb920e0f3a57f444f89e35076d26758e8362098161f6ac7e6e6e04c"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_socket.pyd",
+      "size": 87344,
+      "sha256": "371ae9f492330c021cb371a2e5be88ecb38b4e0dcb45a9f47376502b7920ff17"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_sqlite3.pyd",
+      "size": 127792,
+      "sha256": "875c66adc9c9fd5efdc5582c7ea5d04cdb060308f63240d6d1032e8023ba2bda"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_ssl.pyd",
+      "size": 180528,
+      "sha256": "d71677bb53df30a58510d0985174132f12374207310aa4895d8a6b8b8fcc66a3"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_uuid.pyd",
+      "size": 29488,
+      "sha256": "894f95ed8be644b3778a9836afd9bdbd6bd31df7788fd2683aff830b60badefa"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_wmi.pyd",
+      "size": 41264,
+      "sha256": "ea6ee0a2091687f2d68bfa6f871af2377c073a1b980db87082fb8887cca12a65"
+    },
+    {
+      "path": "resources/app/runtime/core/_internal/_zoneinfo.pyd",
+      "size": 52016,
+      "sha256": "ed34859eed62915ee1756dc264ef9656ab38e8d5fd250be10ee4df2f9f3a6599"
+    },
+    {
+      "path": "resources/app/runtime/updater/maho-updater.exe",
+      "size": 1848059,
+      "sha256": "1045aef823eed9cab10a08b548a591bf113634a5321f561453ad83aa21d97ee9"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-console-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "015bd08815c7b934a8952c3a7578e9ce59f21136e8a880d42bbd414bec2c6058"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-datetime-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "5534812cdbdae94ba45cb216e5eb9af686b853948df54365103555abbbaf9d9a"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-debug-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "837d2b1b2cd03e03fc6ccb050698b6b5763af17c201304872342a5eae9e0a2d2"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "de43b165f568c276c00e95acd454e3092f352a18e95874595f4f4658c06d2ec7"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-fibers-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "3cebc45bf479ad74cfabf2c6bfd4994d7ad639ed1221025981d19cedf9ce0416"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-fibers-l1-1-1.dll",
+      "size": 22872,
+      "sha256": "5ef70308bcca628ce6b0e2856b15b1c7ae340c3f9bbbc4c1071d8c191a34a5c3"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-file-l1-1-0.dll",
+      "size": 27008,
+      "sha256": "250ac829f2617bcac1c6e5b8c4f630462e20765863ba573526a3e11bbfb94a9a"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-file-l1-2-0.dll",
+      "size": 22888,
+      "sha256": "ae14079a114733f60ce87b92cba42acd8083c2cd67594e53bc37dc0b97a4b465"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-file-l2-1-0.dll",
+      "size": 22912,
+      "sha256": "914bf26a298713119477ea0a8e7bd43171b91344ebe24fb47ad77c49686e3d87"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-handle-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "ab5489955e371b15f77906c08ec3c7affe2c7a46a08c514ca628768b4478974b"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-heap-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "c70f9644d8377fa39c5b71f2e9734c1400d7598904fdeb772e8502099982dcb7"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-interlocked-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "f8129710188e407bb0e6f46d30aeba277d67b947ece5fe09e883fde2323f3ae6"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+      "size": 22888,
+      "sha256": "5200b16cb2ddc61cfc07373a9a84aa85a3ab50806ca96c879c883275832944c1"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "48786fb88b001dcd1f63acea903d3ca9cc0b3060d5a325e3f2f3cbc3bfd53166"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-localization-l1-2-0.dll",
+      "size": 22872,
+      "sha256": "9ec3898f7eba91faa28b51616c211a2689e3a13aeef8de6e13cb674e49d689eb"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-memory-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "3a6cbc524c99e1cd80d5368f5601402a37ad602528b1ab628093573ef638eb3b"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "97145ef89c44949fcf0f04ac834a8bc7d687ef49ee73ae9fc32f3c11136b7201"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "8bc7c10b1851aea644e9c9f381cdb935e091fee6b0be3d3aedc6fffaac96adb7"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-processthreads-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "d8030b777617c71f0f94564607699dbf7561487d779db9756aed378c5675213f"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-processthreads-l1-1-1.dll",
+      "size": 22872,
+      "sha256": "f5e676713340f73a03a3d41a6ec9883b431da7d16c7f07bd0a920fb80e6c0753"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-profile-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "f023d47e44d3eea6b0743580f57e8c6ba81e79d5ebfa7da26250076c647b980e"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "size": 22888,
+      "sha256": "9746d8930704153578a628c010638a5f818ffe5a927e25591b108e256dc6afca"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-string-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "7c53ae24c982d16ffd1bf7f918d115b11b7f30e57bc7feaa18cb9781e4abb926"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-synch-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "56d9d62ca5dba79a6581b8d574a7d8b2a64a5ecb71e47dcf06ed0285708b1859"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-synch-l1-2-0.dll",
+      "size": 22888,
+      "sha256": "f6482bbec5612c39ecb4822787a333f2b7570f7a5f922a4059be41ba957bb372"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "272d02765fdd3582618236c2d309abba069642f9bc1062ede069d0c144e17007"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-sysinfo-l1-2-0.dll",
+      "size": 22912,
+      "sha256": "8a0900788859d0eb51c2f48f50cc6ed376a120b518100fa20e11d7702ccde260"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-timezone-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "ff35de6c03812b332e140f17dade25c5dd4775156da9eeb1eaae3fddd27236ec"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-core-util-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "191ef3e98641a57296f19d572d8eb62489470ff1ef6030d136af170c2f835173"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-conio-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "54ee5ec719a051496ff60aa00dbeaa94b9a7d2cdac27fe9b7317f1a666b6a2aa"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-convert-l1-1-0.dll",
+      "size": 26992,
+      "sha256": "8b94662429171019fcd63c70bbf2095a075170599704a5e7dcdbe3da13f3a429"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-environment-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "39e5929593709e8af3bc9e0a75ec1155778d6f4a247f4cdfc58928ad6db88434"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "5a8ecebac32edf4e1f3c5c6c1c8ea1a1add6cda4f9c9cb26f752fb295bea6865"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-heap-l1-1-0.dll",
+      "size": 22872,
+      "sha256": "c71080cbcb43bf1f8f3e391deb12a582eb0abefc80946f340675a2c616e4feb4"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-locale-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "6c68648e524187e03c4ad9aaa4a99113c6ee9f29fb39cc0ed93f951975138e63"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-math-l1-1-0.dll",
+      "size": 31064,
+      "sha256": "d4fbcccbe29371cbce431e43b2eb4f7ba9a6f04a3d740a071f02457a505e9dc8"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-process-l1-1-0.dll",
+      "size": 22896,
+      "sha256": "47c1935942e3ac0812e4dcf18c0e265e565f0194a3349111c299712f5565f7ac"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-runtime-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "72adc1b3677e0814d9c4ebf0964000e84bb2acf67336c8963061665e44f78029"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-stdio-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "900afc3989673c9bb1a687ed38c192f46db9e6ba6d11a668898a539e7fc23798"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-string-l1-1-0.dll",
+      "size": 26968,
+      "sha256": "fcf12466cc12fd3b73611fc0763a5a1f9d44e90349513c34a0c83b0f36421793"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-time-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "886e57c4a6adb299b38f02945369f590a67da4e79a798359fc60aaa067212d7c"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/api-ms-win-crt-utility-l1-1-0.dll",
+      "size": 22912,
+      "sha256": "5f8f26b216ade615b67a41f6fbbb910972fc6153315a65bb8f09912be50215b1"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/base_library.zip",
+      "size": 1333490,
+      "sha256": "eec7779515622bbb2d3d01381406ef97af4ec85f3cd1c82b9dc1a3dc507b2be3"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/bcrypt/_bcrypt.pyd",
+      "size": 305152,
+      "sha256": "898d1fe05e287d66bd379f26eb49d27a260f14666c7dc8b1719dae8c489abff0"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography/hazmat/bindings/_rust.pyd",
+      "size": 9110528,
+      "sha256": "9271a85485ef33f6092bfb8013c4a8efd03de13135e1407f093b604e4ef5e36d"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/INSTALLER",
+      "size": 4,
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/licenses/LICENSE",
+      "size": 197,
+      "sha256": "3e0c7c091a948b82533ba98fd7cbb40432d6f1a9acbf85f5922d2f99a93ae6bb"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/licenses/LICENSE.APACHE",
+      "size": 11360,
+      "sha256": "aac73b3148f6d1d7111dbca32099f68d26c644c6813ae1e4f05f6579aa2663fe"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/licenses/LICENSE.BSD",
+      "size": 1532,
+      "sha256": "602c4c7482de6479dd2e9793cda275e5e63d773dacd1eca689232ab7008fb4fb"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/METADATA",
+      "size": 5748,
+      "sha256": "68e601f7f07e09cb247bbea770ccfec3d73f567cd88a1bffee4c5996dda2d964"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/RECORD",
+      "size": 16161,
+      "sha256": "90f80691f59a49679dd9501e66701ee6a7b45cd5470fbdb00f637dac030b0958"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/REQUESTED",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/cryptography-46.0.5.dist-info/WHEEL",
+      "size": 95,
+      "sha256": "f2111ff0dcccd459e633bec08d5b7987c9c3b9890ddd4a99efd2e82001d77911"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/libcrypto-3-x64.dll",
+      "size": 8003376,
+      "sha256": "35e0ae43af2876903b00ba955e400f6da1787defb1ba18b7ff35e540c7f4ed66"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/libffi-8.dll",
+      "size": 43824,
+      "sha256": "34985fc0a2d5942dd6c0cf3205549dc56ed6ebef410884419c87e5fe4e00e988"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/python3.dll",
+      "size": 71984,
+      "sha256": "c57bc21e131857f26db78d1512fbfcf67cac3273ee8b1cd704ed5645ec250884"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/python312.dll",
+      "size": 6985520,
+      "sha256": "c1ce6d603041759061139f482c4b90c4ac9db676e30abf52fda66a794aab1bd0"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/select.pyd",
+      "size": 34608,
+      "sha256": "f04b6cb67a4fe77545bf7ebfb320b6ad216b5dc743215a33d70cd081233c94ac"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/sqlite3.dll",
+      "size": 1623344,
+      "sha256": "bcef9117c3a2a3d0d46d098d28e679f312b2f874482f6825e29d082b1652e127"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/ucrtbase.dll",
+      "size": 1362264,
+      "sha256": "3239227d27667ba20d10a880751924e5719de0078f9fce232d149d383f7681f6"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/unicodedata.pyd",
+      "size": 1143600,
+      "sha256": "6429fe36429af848faea82122ebd7f5c72b05d9ba643d0b3a92eafaf9f27d10c"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/VCRUNTIME140.dll",
+      "size": 124544,
+      "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/VCRUNTIME140_1.dll",
+      "size": 49792,
+      "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_bz2.pyd",
+      "size": 88880,
+      "sha256": "54268c5cbefd96d9df377b40817cc09447d3a0a6734c300c442c0dde30cc75d7"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_cffi_backend.cp312-win_amd64.pyd",
+      "size": 181248,
+      "sha256": "9af5e4f68a41f26b726f2e9424f9d58a4f5666189f6a48be95f406b257102aec"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_ctypes.pyd",
+      "size": 131888,
+      "sha256": "eb533050b0b61203cc4918da1826372add87fe4acddb3f6e7b31301c7f93e67d"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_decimal.pyd",
+      "size": 263984,
+      "sha256": "539f8c32a3eafcf717cddbccf243167610671c5243ec3c7c40987d81066a557f"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_hashlib.pyd",
+      "size": 70448,
+      "sha256": "d99963665f72156067b432753d153ea456d0a0fa49d235c9b61bdb0a0d372ba4"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_lzma.pyd",
+      "size": 168240,
+      "sha256": "6337c7e78b7753865b2759cf296449b9d7af6aae0708b364ab9550dad00272be"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_socket.pyd",
+      "size": 87344,
+      "sha256": "371ae9f492330c021cb371a2e5be88ecb38b4e0dcb45a9f47376502b7920ff17"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_sqlite3.pyd",
+      "size": 127792,
+      "sha256": "875c66adc9c9fd5efdc5582c7ea5d04cdb060308f63240d6d1032e8023ba2bda"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_uuid.pyd",
+      "size": 29488,
+      "sha256": "894f95ed8be644b3778a9836afd9bdbd6bd31df7788fd2683aff830b60badefa"
+    },
+    {
+      "path": "resources/app/runtime/updater/_internal/_wmi.pyd",
+      "size": 41264,
+      "sha256": "ea6ee0a2091687f2d68bfa6f871af2377c073a1b980db87082fb8887cca12a65"
+    },
+    {
+      "path": "resources/app/tools/studio/embedding-config.cjs",
+      "size": 4238,
+      "sha256": "ed15d3ac682bed2e63e9a2c6be99923c5e335166e4f8b6d74ee8ac1671897e03"
+    },
+    {
+      "path": "resources/app/tools/studio/llm-profiles.cjs",
+      "size": 2177,
+      "sha256": "03a46b74d68113a2ca3e238a488c1701b1de631c675870ac1921bd99cf2c4800"
+    },
+    {
+      "path": "resources/app/tools/studio/model-secret.cjs",
+      "size": 878,
+      "sha256": "37a05cf27792f3f508d16abb99e78061232301f972f36165c91564d870c37eb1"
+    },
+    {
+      "path": "resources/app/tools/studio/package.cjs",
+      "size": 2953,
+      "sha256": "28379ae85f7eed0e3d082074f666d92da97574c84869c6dbce529cb973511c7a"
+    },
+    {
+      "path": "resources/app/tools/studio/voice-runtime.cjs",
+      "size": 9367,
+      "sha256": "29118caa4f0bbd226fb1dd0b258a27ff548f144b4239fa8cf4a9016ba037fa44"
+    },
+    {
+      "path": "resources/app/tools/studio/voice.cjs",
+      "size": 3021,
+      "sha256": "7c365b4500732fddc849eb8bc0b9dd1514af85b253872bf3856dd2db8b8ff050"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/assets/Ema_樱羽艾玛/0202Trial11_Ema010.wav",
+      "size": 1010500,
+      "sha256": "a093b9c09fe2827852b430b1886edf009d3eb7110b48634860cf211a801857f3"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/assets/README.md",
+      "size": 679,
+      "sha256": "fce161fcd4aaa487a20c1fa32823b73746ef214653c333f3dbcb3860629f948b"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/atomic-config.cjs",
+      "size": 609,
+      "sha256": "80061af1b946ed2411a99d4e8598828f562761a2cd130fff6c3bc1dc55b0b1a5"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/deployment-controller.cjs",
+      "size": 4917,
+      "sha256": "c6a38e8169c6e97f6e4ccd186330645e6975ff6ef6cb68c203e71549d0c7a4d7"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/deployment-install.cjs",
+      "size": 5620,
+      "sha256": "492da48f1b846c01d33aa810ed5782e0f22ada84fbb7ff44abcfd3ae77d55c5a"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/deployment-manifest.cjs",
+      "size": 1708,
+      "sha256": "ae35711dfe3a52cc95e18891686f9295834c9cac4e7d1177786db43c16951fa5"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/deployment-spec.cjs",
+      "size": 1968,
+      "sha256": "c5f67c7148a8c65e4752771959d03e4455c0775c48fccb5c157b8bbf41db1144"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/runtime-archive.cjs",
+      "size": 7949,
+      "sha256": "dc09a754df4f8bd3f58e07726cc6d5b01b6bf9cccf2c06163a0772c5f1885e69"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/runtime-download.cjs",
+      "size": 4731,
+      "sha256": "a7c127216c9b51ac43eff14f544badb1ab706a27f6ba297ba2cc066633d56855"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/runtime-paths.cjs",
+      "size": 791,
+      "sha256": "23708eb3e095176931a4a364ccec23a59d5e005f3304b329916679bcc0ac904c"
+    },
+    {
+      "path": "resources/app/tools/voice-worker/worker.py",
+      "size": 15805,
+      "sha256": "0b15e18bb72fdcaaded7a65228b76bbf546a80c77738dca0097dc99d1b6e9a20"
+    },
+    {
+      "path": "resources.pak",
+      "size": 6038358,
+      "sha256": "6a2f2e63022779cdea1c3608a3eefad5aa20a3215ff5784cc9d86a95a8e04f0b"
+    },
+    {
+      "path": "snapshot_blob.bin",
+      "size": 321542,
+      "sha256": "f5799826224d193037fb019e793f4e3cb03c28d18d25948239bf45fb0e640171"
+    },
+    {
+      "path": "v8_context_snapshot.bin",
+      "size": 699577,
+      "sha256": "9537f5ad5847faf38a7030e0688b2b77d1582d196c034a9f2d5f19038f11b813"
+    },
+    {
+      "path": "version",
+      "size": 6,
+      "sha256": "ab6d9979d1fff63302537c0db4934917d0be947087dda2bb1fe8cb5e1b262762"
+    },
+    {
+      "path": "vk_swiftshader.dll",
+      "size": 5529088,
+      "sha256": "6854c940a71ca1c112a2390342e693a0d847a140a5ee3e431c1571359e2c3478"
+    },
+    {
+      "path": "vk_swiftshader_icd.json",
+      "size": 106,
+      "sha256": "32d83ff113fef532a9f97e0d2831f8656628ab1c99e9060f0332b1532839afd9"
+    },
+    {
+      "path": "vulkan-1.dll",
+      "size": 919552,
+      "sha256": "5c930f27bdad454d6dc359e3cc9cd10e1b619cba25066fc6df0956e20e489d29"
+    },
+    {
+      "path": "build-inventory.json",
+      "size": 192654,
+      "sha256": "63872b049090a209e63076e9f4830f1fb5bd843551872e154dab7c524223cd31"
+    }
+  ],
+  "archive": {
+    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.0/app.zip",
+    "size": 322012363,
+    "sha256": "943979cfaf3a91bebdafa58437348706f1f3bda6f585271dbf869c134affde80"
+  },
+  "published_at": "2026-09-14T04:54:38.555341+00:00",
+  "internal_test_only": false
+}
