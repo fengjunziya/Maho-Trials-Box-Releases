@@ -5,7 +5,7 @@
   "platform": "win32-x64",
   "progress_schema": 1,
   "engine_version": "37.4.0",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minimum_version": "0.1.0",
   "files": [
     {
@@ -336,12 +336,12 @@
     {
       "path": "README-Release.txt",
       "size": 1027,
-      "sha256": "933c9be898be51a84b8458b9313cc36b2334ede00d57dc9428be47dee1f9a383"
+      "sha256": "e238317f0d73da1c7f702ff0b07e4678f68c4b8d0282f12176cd641f9773802d"
     },
     {
       "path": "resources/app/desktop/app-updater.cjs",
-      "size": 7857,
-      "sha256": "cb9a85455a10c3f2b6c5aaa00f72fab49d74f0a81ba78680f6e52e2ca43a0797"
+      "size": 8390,
+      "sha256": "dddfebab655b549fba70e52f819ba299f424c070ac52569d1a39f107c9a91ab0"
     },
     {
       "path": "resources/app/desktop/assets/about/author-bilibili.png",
@@ -385,8 +385,8 @@
     },
     {
       "path": "resources/app/desktop/control-pages.js",
-      "size": 12616,
-      "sha256": "51d4aee1e1879b3e9ac7854a920685472a722697fd127735e066ca2087a0c7b1"
+      "size": 12660,
+      "sha256": "32bbc203e403248f45e052a413befce92297a232b6045307bab961872e8be2dc"
     },
     {
       "path": "resources/app/desktop/control.html",
@@ -395,8 +395,8 @@
     },
     {
       "path": "resources/app/desktop/control.js",
-      "size": 10459,
-      "sha256": "de61cdcb108da5bdbec6e3afd180af6072977dfece217af28eb393e66c74fd71"
+      "size": 10972,
+      "sha256": "341d77777bd0041fd8b2625437c471f2848bb689f57f5ed518af283131d52837"
     },
     {
       "path": "resources/app/desktop/core-compat.cjs",
@@ -420,13 +420,18 @@
     },
     {
       "path": "resources/app/desktop/curtain.js",
-      "size": 8659,
-      "sha256": "62674bd932800b6ba9b73ac9ba401b9490e826570989dd6a12e4eaac9d3690a4"
+      "size": 8501,
+      "sha256": "c9410ce5fb8d637a3a8cc42575551a217720a6fcb42d294564171afb22e050c3"
     },
     {
       "path": "resources/app/desktop/data-path.cjs",
       "size": 759,
       "sha256": "b6d4b82431af7fb407b7b1b5c365e28721d23434315fbd5c6a7f172c84115a8a"
+    },
+    {
+      "path": "resources/app/desktop/download-progress.cjs",
+      "size": 418,
+      "sha256": "fb37d9c33462b78c6417e746166f0a89587301839df190745cb1b3f9541cc637"
     },
     {
       "path": "resources/app/desktop/embedding-ui.js",
@@ -435,8 +440,8 @@
     },
     {
       "path": "resources/app/desktop/github-fetch.cjs",
-      "size": 1682,
-      "sha256": "4051fcf18681900895b0cf45257a3e4b0a72f0e979ed1c82579a2cd4af726611"
+      "size": 1753,
+      "sha256": "579b0d2b74fcd6a1d36205ba78567452bdf3717ce1d11d53e28f2280a808db0a"
     },
     {
       "path": "resources/app/desktop/idle-live2d.js",
@@ -490,8 +495,8 @@
     },
     {
       "path": "resources/app/desktop/main.cjs",
-      "size": 38926,
-      "sha256": "472fcfa60095ad76926908f13db99141ce185f996646e2fd3e8dbe4761b52615"
+      "size": 38973,
+      "sha256": "43b7faefad6a3a0a0f588bf5fcba66e086fd711eeee0e57d6c1ce52477c511e4"
     },
     {
       "path": "resources/app/desktop/model-env.cjs",
@@ -591,7 +596,7 @@
     {
       "path": "resources/app/desktop/package.json",
       "size": 340,
-      "sha256": "cee2da8c5c1b06041de0e4c8b03c85bde4a0eabd0316488eacbefffe3920838d"
+      "sha256": "9e5571f2fe277f7c499ea6d8fdbdb050d968065ac07d1fbef94e9440dffb34e0"
     },
     {
       "path": "resources/app/desktop/pet-layout.cjs",
@@ -630,8 +635,8 @@
     },
     {
       "path": "resources/app/desktop/question-updater.cjs",
-      "size": 5966,
-      "sha256": "83d794823aad348adfabc8270f002d96282c6817a50b56b4637fdea9b01c75fa"
+      "size": 7392,
+      "sha256": "ede95b3e829208e0cbb6c4d8b02c86e315910a38d31666decd1ae5e80a2cad5a"
     },
     {
       "path": "resources/app/desktop/recovery.css",
@@ -686,7 +691,7 @@
     {
       "path": "resources/app/package.json",
       "size": 102,
-      "sha256": "278d57416c26592c6444fa4a43433d6c28b5571fc7523c9ee4c54ec1941973c8"
+      "sha256": "c5a9d17f8196725abd6b17ed6d389f69c09551e7efeb6e6e8cfca56a0d36319d"
     },
     {
       "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.4096/texture_00.png",
@@ -4035,15 +4040,15 @@
     },
     {
       "path": "build-inventory.json",
-      "size": 192654,
-      "sha256": "5bca510082d4cebc3ee5dcd01b8da21a6d80857a686d4b540eadab8b76e7f689"
+      "size": 192830,
+      "sha256": "9980260d493b796f9fb3909c8616ddd716e2b86e0e1732f5e534bc95bc903f79"
     }
   ],
   "archive": {
-    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.1/app.zip",
-    "size": 322009970,
-    "sha256": "e7d6a4f378b933bbc5f39f732a0ed408b5367df312c160602db9f1a1038e71ed"
+    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.2/app.zip",
+    "size": 322011343,
+    "sha256": "0676b4fde1cddad600257b1cad6bad3208c4e42cc4f86573a3c57cd2f6e1afe9"
   },
-  "published_at": "2026-09-17T13:16:05.732279+00:00",
+  "published_at": "2026-09-17T16:27:04.598120+00:00",
   "internal_test_only": false
 }
