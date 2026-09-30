@@ -4,9 +4,9 @@
 <!-- maho-current-application:start -->
 ## 客户端下载（当前稳定版）
 
-[Maho Trials Box v0.1.2 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v0.1.2)
+[Maho Trials Box v0.1.3 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v0.1.3)
 
-[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.2/MahoTrialsBox-v0.1.2-win-x64.zip)
+[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.3/MahoTrialsBox-v0.1.3-win-x64.zip)
 
 完整解压后运行 MahoTrialsBox.exe。app.zip 是自动更新专用包，不要手动解压覆盖程序。请保留 AppData 中的进度目录和所选独立资源目录。
 

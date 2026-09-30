@@ -5,7 +5,7 @@
   "platform": "win32-x64",
   "progress_schema": 1,
   "engine_version": "37.4.0",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minimum_version": "0.1.0",
   "files": [
     {
@@ -336,7 +336,7 @@
     {
       "path": "README-Release.txt",
       "size": 1027,
-      "sha256": "e238317f0d73da1c7f702ff0b07e4678f68c4b8d0282f12176cd641f9773802d"
+      "sha256": "3ecc89782154dd1dc77bd71142ea2766d31493883831923e92f9e538c8eca1d2"
     },
     {
       "path": "resources/app/desktop/app-updater.cjs",
@@ -386,7 +386,7 @@
     {
       "path": "resources/app/desktop/control-pages.js",
       "size": 12660,
-      "sha256": "32bbc203e403248f45e052a413befce92297a232b6045307bab961872e8be2dc"
+      "sha256": "27fba8c1e30556a853ade2f590ad839d45b5eba1fcc46d0edbe970acc88665aa"
     },
     {
       "path": "resources/app/desktop/control.html",
@@ -596,7 +596,7 @@
     {
       "path": "resources/app/desktop/package.json",
       "size": 340,
-      "sha256": "9e5571f2fe277f7c499ea6d8fdbdb050d968065ac07d1fbef94e9440dffb34e0"
+      "sha256": "f80dd28e7e55bd03ff7efd71bf274ff43375a830505282f117c047edd662eb7e"
     },
     {
       "path": "resources/app/desktop/pet-layout.cjs",
@@ -691,7 +691,7 @@
     {
       "path": "resources/app/package.json",
       "size": 102,
-      "sha256": "c5a9d17f8196725abd6b17ed6d389f69c09551e7efeb6e6e8cfca56a0d36319d"
+      "sha256": "dcccb38cc1bdea4f7613faff57d94204a6b18be18cf53fab1822824c175e2c99"
     },
     {
       "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.4096/texture_00.png",
@@ -1265,8 +1265,8 @@
     },
     {
       "path": "resources/app/runtime/core/maho-core.exe",
-      "size": 13079473,
-      "sha256": "21c77dbf52acd35e01f37f4659b4256841f0894b03a53e338d511bf72e461b78"
+      "size": 13079470,
+      "sha256": "788b52c11e11db573c7f5280d3387727b67d17f7fc697d18db6c88f93ed17804"
     },
     {
       "path": "resources/app/runtime/core/_internal/api-ms-win-core-console-l1-1-0.dll",
@@ -1500,13 +1500,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/RECORD",
-      "size": 3643,
-      "sha256": "2ee46bdceec39649a98fff1ed8c58f90bff1082abf96db5a2b1691608bcb602f"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 3556,
+      "sha256": "a5151f0461f45abf44fdc57c2ccdb73151bb54a0abfd22133f7ea7ad48f8dc23"
     },
     {
       "path": "resources/app/runtime/core/_internal/attrs-26.1.0.dist-info/WHEEL",
@@ -1516,7 +1511,7 @@
     {
       "path": "resources/app/runtime/core/_internal/base_library.zip",
       "size": 1333490,
-      "sha256": "04a386939aa8eb68dc24a78a067a517df2c21789598f587256a228d5ae9b3ec6"
+      "sha256": "8ab15831909ece20f324a79c03a47e15611ec820e069ad2a909a37573d6d3249"
     },
     {
       "path": "resources/app/runtime/core/_internal/bcrypt/_bcrypt.pyd",
@@ -2761,7 +2756,7 @@
     {
       "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/RECORD",
       "size": 43464,
-      "sha256": "b5c7045ecf18b518d4e095d4ff7161b5404fb268d04527a8df6c1420334764d9"
+      "sha256": "0b98c65cc04848486b168a2ac27c52471d5214362675fb5d2294f0e24a71eb63"
     },
     {
       "path": "resources/app/runtime/core/_internal/chromadb-1.5.9.dist-info/REQUESTED",
@@ -2800,13 +2795,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/RECORD",
-      "size": 2619,
-      "sha256": "de1b5b403da8dd816a5876d2b0a06c80df8b02e61bd4bd28132c1b10af2d18c9"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 2533,
+      "sha256": "43d8bb1ce44dea5d9423b7eae1d6ba911974425b96acc170b036e1655a901e10"
     },
     {
       "path": "resources/app/runtime/core/_internal/click-8.5.0.dist-info/WHEEL",
@@ -2880,13 +2870,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/RECORD",
-      "size": 6423,
-      "sha256": "634e17afbc3cc57811ec8d489132f0443383873bd739c2065847a0beb4665a19"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 6331,
+      "sha256": "c936b8d9358200631adf9b93a38050f9f2d28b080a8697dca54226dbb7a77984"
     },
     {
       "path": "resources/app/runtime/core/_internal/jsonschema-4.26.0.dist-info/WHEEL",
@@ -3190,13 +3175,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/RECORD",
-      "size": 113358,
-      "sha256": "988f0eac652fdcb47e744b642c3f6da215aa99070f9b159b4bbb5e7123c63d3f"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 113272,
+      "sha256": "0c1fd8b387a1b3d20de08610f4cbd72676cae10160f52d5f05ed6557b2dbc747"
     },
     {
       "path": "resources/app/runtime/core/_internal/numpy-2.5.3.dist-info/WHEEL",
@@ -3235,13 +3215,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/RECORD",
-      "size": 6482,
-      "sha256": "62f5add09e70725b41fa2c86a78baf91d97328c6d57aab14ee1259bbf8f38138"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 6383,
+      "sha256": "1917a1723441bf28dc105252db7dfba91afdd80a6769288759985630f4924ee3"
     },
     {
       "path": "resources/app/runtime/core/_internal/opentelemetry_api-1.44.0.dist-info/WHEEL",
@@ -3270,13 +3245,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/RECORD",
-      "size": 2136,
-      "sha256": "04d6bbb550c7c307bc72c9f3a129563cca7651f67ed5451d21d466952016f432"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 2016,
+      "sha256": "ecec11147309a31ea9bf7c5420692198b8dd5325363eedabb80147d3c6c67d09"
     },
     {
       "path": "resources/app/runtime/core/_internal/opentelemetry_exporter_otlp_proto_grpc-1.44.0.dist-info/WHEEL",
@@ -3305,13 +3275,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/RECORD",
-      "size": 12899,
-      "sha256": "a3b283e24e7f405a5644e1ae38083d2c94e6a890cf5918c45a8ef261d262c7c1"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 12800,
+      "sha256": "849d90b8f4a4e258d2e13e02cfb082f161ab392bf45c72508fdd510db80729ce"
     },
     {
       "path": "resources/app/runtime/core/_internal/opentelemetry_sdk-1.44.0.dist-info/WHEEL",
@@ -3345,13 +3310,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/RECORD",
-      "size": 15546,
-      "sha256": "a6560fda20ac818f8e86aa91d5ab3185dd31a15aecf67e0faff8ab40c3effdaf"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 15456,
+      "sha256": "33724f6f5112f6e362460d7d57ebde3437aa22cf7dcb6bc60d7c132ffb208e1d"
     },
     {
       "path": "resources/app/runtime/core/_internal/pydantic-2.13.5.dist-info/WHEEL",
@@ -3450,13 +3410,8 @@
     },
     {
       "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/RECORD",
-      "size": 8263,
-      "sha256": "eab4d1e46a922fff1a78a052d9e8dcd21a31af501043c41a7dd0bebad2af1065"
-    },
-    {
-      "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/REQUESTED",
-      "size": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "size": 8173,
+      "sha256": "6231829a0f2f88aae1f3ff21daf7446f74a2c0e2044a31d0c882e5e2a0df7e0d"
     },
     {
       "path": "resources/app/runtime/core/_internal/websockets-17.1.dist-info/top_level.txt",
@@ -4040,15 +3995,15 @@
     },
     {
       "path": "build-inventory.json",
-      "size": 192830,
-      "sha256": "9980260d493b796f9fb3909c8616ddd716e2b86e0e1732f5e534bc95bc903f79"
+      "size": 190964,
+      "sha256": "44d7ca20c59e9ccedd85dc2bc85b4b8e14741671c05d2ebc08eec905826b60f6"
     }
   ],
   "archive": {
-    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.2/app.zip",
-    "size": 322011343,
-    "sha256": "0676b4fde1cddad600257b1cad6bad3208c4e42cc4f86573a3c57cd2f6e1afe9"
+    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.3/app.zip",
+    "size": 322011039,
+    "sha256": "30c1fe799c7bbbc2985c0f4e643639f3db0c5d7893ccb4f3d9c9bed2a1c24c3e"
   },
-  "published_at": "2026-09-17T16:27:04.598120+00:00",
+  "published_at": "2026-09-30T09:32:01.258154+00:00",
   "internal_test_only": false
 }
