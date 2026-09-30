@@ -5,7 +5,7 @@
   "platform": "win32-x64",
   "progress_schema": 1,
   "engine_version": "37.4.0",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "minimum_version": "0.1.0",
   "files": [
     {
@@ -336,7 +336,7 @@
     {
       "path": "README-Release.txt",
       "size": 1027,
-      "sha256": "3ecc89782154dd1dc77bd71142ea2766d31493883831923e92f9e538c8eca1d2"
+      "sha256": "2f4c620f5ed4700f45ef42cf36690361441e55aeb925639bc0f82274f72341d1"
     },
     {
       "path": "resources/app/desktop/app-updater.cjs",
@@ -495,8 +495,8 @@
     },
     {
       "path": "resources/app/desktop/main.cjs",
-      "size": 38973,
-      "sha256": "43b7faefad6a3a0a0f588bf5fcba66e086fd711eeee0e57d6c1ce52477c511e4"
+      "size": 39920,
+      "sha256": "9018be68b4c22889dba7cca87bf62ca4d690668a12a9094acf7bb10cc72aa18c"
     },
     {
       "path": "resources/app/desktop/model-env.cjs",
@@ -596,7 +596,12 @@
     {
       "path": "resources/app/desktop/package.json",
       "size": 340,
-      "sha256": "f80dd28e7e55bd03ff7efd71bf274ff43375a830505282f117c047edd662eb7e"
+      "sha256": "671dd8165ff9af45d0c7fbddaf177fcf2b7fc0e5896f09d801ab9ee0b144be62"
+    },
+    {
+      "path": "resources/app/desktop/pet-interaction.cjs",
+      "size": 2744,
+      "sha256": "99cee557290b61bc5da48cbed30581887e78c859e7cbd101a6a82f16a05525d5"
     },
     {
       "path": "resources/app/desktop/pet-layout.cjs",
@@ -610,8 +615,8 @@
     },
     {
       "path": "resources/app/desktop/pet-theme.css",
-      "size": 5285,
-      "sha256": "df8a9aeff5b8a3c666696af31b7ae6fc1ecd049eb47fe6425e94771a3f4d6624"
+      "size": 5455,
+      "sha256": "fb27f7e04ef46f4bdc73119b71c194e7167275bb2b8b1e5635fd277f240172a3"
     },
     {
       "path": "resources/app/desktop/pet.html",
@@ -620,13 +625,13 @@
     },
     {
       "path": "resources/app/desktop/pet.js",
-      "size": 17877,
-      "sha256": "39b2c7b642c5c3e0112a9d6347f228a89d8262d09fbfd5111265d1cf7a17dc5f"
+      "size": 21056,
+      "sha256": "ef3012d8f7d225b8b7f4b6564b25cce8f28449fcad18c017b61c72d336a7fad3"
     },
     {
       "path": "resources/app/desktop/preload.cjs",
-      "size": 3099,
-      "sha256": "de34e079965f4183ff2e57a3a8e04338c2e01fb5abe284610b66066faa5bcaa4"
+      "size": 3233,
+      "sha256": "f5b9cf78475f6b92a95360b61a9eea14c06bf3f77e6bc6788f65e19258055f5a"
     },
     {
       "path": "resources/app/desktop/question-catalog.cjs",
@@ -691,7 +696,7 @@
     {
       "path": "resources/app/package.json",
       "size": 102,
-      "sha256": "dcccb38cc1bdea4f7613faff57d94204a6b18be18cf53fab1822824c175e2c99"
+      "sha256": "a32c17fc1d0da95626012f032bc15370aaff223779b4f4d58d687cd51704e5b2"
     },
     {
       "path": "resources/app/recovery_resourc/Ema_models/Ema_book/Ema_book.4096/texture_00.png",
@@ -3995,15 +4000,15 @@
     },
     {
       "path": "build-inventory.json",
-      "size": 190964,
-      "sha256": "44d7ca20c59e9ccedd85dc2bc85b4b8e14741671c05d2ebc08eec905826b60f6"
+      "size": 191139,
+      "sha256": "404e4151b319b5adbf8f03bd3a9fa3888c49440c803d573af7701fddefb27156"
     }
   ],
   "archive": {
-    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.3/app.zip",
-    "size": 322011039,
-    "sha256": "30c1fe799c7bbbc2985c0f4e643639f3db0c5d7893ccb4f3d9c9bed2a1c24c3e"
+    "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v0.1.4/app.zip",
+    "size": 322013762,
+    "sha256": "f8f7268733772de549cba1414f61de757a69677cad41e5c436ec400ac757d83e"
   },
-  "published_at": "2026-09-30T09:32:01.258154+00:00",
+  "published_at": "2026-09-30T11:12:21.736464+00:00",
   "internal_test_only": false
 }
