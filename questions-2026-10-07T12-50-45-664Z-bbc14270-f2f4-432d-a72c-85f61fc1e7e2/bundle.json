@@ -1,0 +1,649 @@
+{
+  "schema_version": 2,
+  "questions": [
+    {
+      "id": "question-570ddf7d-29c7-44ac-ac89-69734bd0fc9d",
+      "character_id": "Ema",
+      "text": "车站前那家面包店的奶油面包，刚出炉的时候，纸袋会被热气捂得软软的。第一次买的时候我拎着袋子走了好长一段路，坐下再打开，面包早就凉透了，奶油也没那么香了。后来我学乖了，一出店门就先站在路边咬一口。外面脆、里面热，甜味一下子全冒出来，那天我差点把一整袋都吃完。所以我现在给自己定了规矩：只买两个。一个当场吃掉，另一个拿在手里护着，走快一点，让它到家的时候还是温的。以前总觉得，吃东西要和大家一起才最开心。现在一个人站在路边啃热面包，也会忍不住笑出来。听起来好像很傻吧。可就是这种小事，让我觉得，原来日子可以这样一直过下去。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "车站前那家面包店的奶油面包，刚出炉的时候，纸袋会被热气捂得软软的。",
+          "pose_id": "Happy_4",
+          "japanese": "駅前のあのパン屋さんのクリームパン、焼きたてのときは、紙袋が湯気でふにゃふにゃになっちゃうんだ。",
+          "pronunciation": "えきまえのあのパンやさんのクリームパン、やきたてのときは、かみぶくろがゆげでふにゃふにゃになっちゃうんだ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/95a1d4bade30e0b648810e15aaca8685ecf0a5600e7d722626a62f195700132a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2ee7479a6c28549436e8e0076c16d13715cf916819e8d4b14aebc3485bc4d1fc",
+            "japanese": "2ee7479a6c28549436e8e0076c16d13715cf916819e8d4b14aebc3485bc4d1fc",
+            "audio": "d63781a0c5202bfad24bd14c55cfcc885c61ce6723bb13ec7ba7601002e2c462",
+            "voice": "e8a371ae9197675d0e277780f62c80212d5b6affd327e2ccd72ee90c83dc21a8"
+          }
+        },
+        {
+          "order": 1,
+          "text": "第一次买的时候我拎着袋子走了好长一段路，坐下再打开，面包早就凉透了，奶油也没那么香了。",
+          "pose_id": "Cry_5",
+          "japanese": "初めて買ったときは、袋を持ったまま結構長いこと歩いちゃって、座ってから開けたら、パンはもうすっかり冷めてて、クリームの香りももう弱くなってたの。",
+          "pronunciation": "はじめてかったときは、ふくろをもったままけっこうながいことあるいちゃって、すわってからあけたら、パンはもうすっかりさめてて、クリームのかおりももうよわくなってたの。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/18c92d35ebc458b30d330a8de385d926a0b6086fe32aaa2e732e96a0a5d8caed.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "16e460ecf5a15b9e13d42462d978da39c5b777b893844a721992aa7823ea7a0f",
+            "japanese": "16e460ecf5a15b9e13d42462d978da39c5b777b893844a721992aa7823ea7a0f",
+            "audio": "466286a9da16284dfc6088fb44fa310af0e6a623940e50607156298eccd890b9",
+            "voice": "ff3def71d916d9446151f4fdb934dd0fafb87bc57ee49c8ae654ff9e2f502612"
+          }
+        },
+        {
+          "order": 2,
+          "text": "后来我学乖了，一出店门就先站在路边咬一口。外面脆、里面热，甜味一下子全冒出来，那天我差点把一整袋都吃完。",
+          "pose_id": "Happy_3",
+          "japanese": "それからは学習して、店を出たらすぐに道端でひとくちかじるようにしたの。外はカリッと、中はあつあつで、甘さが一気に広がって、あの日は危うく袋ごと全部食べちゃいそうだった。",
+          "pronunciation": "それからはがくしゅうして、みせをでたらすぐにみちばたでひとくちかじるようにしたの。そとはカリッと、なかはあつあつで、あまさがいっきにひろがって、あのひはあやうくふくろごとぜんぶたべちゃいそうだった。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/e04baeb163a55e9b008c90ddc2b8675d44ae26677803c19af6113d8a3b57b6ad.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a72cb74fa75a72626631bb434b16032684c2851d461c04370b6941b4919168ab",
+            "japanese": "a72cb74fa75a72626631bb434b16032684c2851d461c04370b6941b4919168ab",
+            "audio": "8b49fb9f2333309dd5560fd896ced284687acd665f11cbc3cf98032028c5abfe",
+            "voice": "f37686c4aba5b7ee25b36cccdbc078c1531bfefe128bf6ff638f92ec80b2bbc8"
+          }
+        },
+        {
+          "order": 3,
+          "text": "所以我现在给自己定了规矩：只买两个。一个当场吃掉，另一个拿在手里护着，走快一点，让它到家的时候还是温的。",
+          "pose_id": "Simle_1",
+          "japanese": "だから今は自分に決まりを作ってるの。買うのは二つだけ。一つはその場で食べて、もう一つは手で大事に抱えて、少し早足で歩いて、家に着くころにはまだ温かいように。",
+          "pronunciation": "だからいまはじぶんにきまりをつくってるの。かうのはふたつだけ。ひとつはそのばでたべて、もうひとつはてでだいじにかかえて、すこしはやあしであるいて、いえにつくころにはまだあたたかいように。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/b6abef96134818da48ccb4511166fe4927b9872eabf174ad77ef8fdb0929fbf8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b2e897229923f50b91e0c3adb8dbb3c2c358fba7dbaa991cfa0897a2622d060a",
+            "japanese": "b2e897229923f50b91e0c3adb8dbb3c2c358fba7dbaa991cfa0897a2622d060a",
+            "audio": "7c3ead0c4670d8edda4eb76e571da63b8abf52fddfb826b91487e0b6fb91bc91",
+            "voice": "059aae2396b3def9412080ef5abdb2def340d56b2a976de9c4ee04d539831c64"
+          }
+        },
+        {
+          "order": 4,
+          "text": "以前总觉得，吃东西要和大家一起才最开心。现在一个人站在路边啃热面包，也会忍不住笑出来。",
+          "pose_id": "Happy_6",
+          "japanese": "前は、食べるのはみんなと一緒が一番楽しいって思ってた。今は一人で道端に立って熱いパンをかじってても、思わず笑っちゃう。",
+          "pronunciation": "まえは、たべるのはみんなといっしょがいちばんたのしいっておもってた。いまはひとりでみちばたにたってあついパンをかじってても、おもわずわらっちゃう。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/82fbe13be97f29b076604ef953b62a360856439f1271c8e22634815f48a5520e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "76da2e8c20a7eeca5ed5ffc027a1635077ae8a5c9c8a1a2a3ff78ba8357e743c",
+            "japanese": "76da2e8c20a7eeca5ed5ffc027a1635077ae8a5c9c8a1a2a3ff78ba8357e743c",
+            "audio": "a910871191396cf75d6c0bd2cf93775bd80475f1b28b7bed5d017c1d43ac1573",
+            "voice": "e473b623c7bd233d237d2b6bc86c7dced66d030276875f6cebd8216ba628a067"
+          }
+        },
+        {
+          "order": 5,
+          "text": "听起来好像很傻吧。可就是这种小事，让我觉得，原来日子可以这样一直过下去。",
+          "pose_id": "Flushed_1",
+          "japanese": "なんだかすごく馬鹿みたいだよね。でも、こういう小さなことの積み重ねで、こんなふうに毎日が続いていってもいいんだって、思えるようになったの。",
+          "pronunciation": "なんだかすごくばかみたいだよね。でも、こういうちいさなことのつみかさねで、こんなふうにまいにちがつづいていってもいいんだって、おもえるようになったの。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/114c1f9be296064d087ee763655d866555f2046d247ad9c51ac003c7c96623ee.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "73833df7621a7c0b0d9de8c97ad085731674231f04525e9681c488c02d79084e",
+            "japanese": "73833df7621a7c0b0d9de8c97ad085731674231f04525e9681c488c02d79084e",
+            "audio": "27fc992234a31918da623ec575365ab4e1234d99625b338a429acf2787d3e0a3",
+            "voice": "03fb7917ac78905a9ffdef809e05a6a9161d2b1c15ec26968bc4834579c02616"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-9444578b-2012-4fc2-b20b-df0fe86791d6",
+      "character_id": "Ema",
+      "text": "我照着食谱烤了一盘小饼干，第一盘出炉的时候全塌成了歪歪扭扭的薄片，连原本想做的小熊和小鸟都认不出来了。我本来想着，形状可爱一点，端过去和大家一起吃的时候会更开心。结果它们现在看起来，像是被谁踩过又捡起来的叶子。不过黄油和砂糖的香味还留在里面，我偷偷尝了一块，其实味道并不难吃。汉娜以前在我发烧的时候，用手边能找到的布和线，给我缝过一个以我为原型的人偶。我一直记得那种笨拙却特别认真的手法。所以我忽然觉得，样子难看一点也没什么关系，重要的是最后有人愿意坐下来，把它一起吃完。剩下的面团我放进冰箱了，明天再烤一次。这次我打算多等一会儿，让它在烤箱里慢慢定住形状。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "我照着食谱烤了一盘小饼干，第一盘出炉的时候全塌成了歪歪扭扭的薄片，连原本想做的小熊和小鸟都认不出来了。",
+          "pose_id": "Stop_2",
+          "japanese": "レシピを見ながらクッキーを焼いてみたんだけど、一回目はオーブンから出したとたんに、ぜんぶ歪な薄っぺらい形に潰れちゃって。作りたかった小熊さんも小鳥さんも、もうどれがどれだか分からないの。",
+          "pronunciation": "れしぴをみながらくっきーをやいてみたんだけど、いっかいめはおーぶんからだしたとたんに、ぜんぶいびつなうすっぺらいかたちにつぶれちゃって。つくりたかったこぐまさんもことりさんも、もうどれがどれだかわからないの。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/24b8ab735dd181d889d93748e79f80242787cc823020d27eb95928c53a6de4f8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e119c38dabf30f878f6eb67f28f404d35da945ae49b895c22994cfd1e846eb62",
+            "japanese": "e119c38dabf30f878f6eb67f28f404d35da945ae49b895c22994cfd1e846eb62",
+            "audio": "8e18cc5510cf6767b7074a62fecd9703e957a5aaa6824f883133b4478a6943f6",
+            "voice": "c0e683dc761a6b1aeac690afe19cc4a3d7c1eb37520187896354673dd148f123"
+          }
+        },
+        {
+          "order": 1,
+          "text": "我本来想着，形状可爱一点，端过去和大家一起吃的时候会更开心。结果它们现在看起来，像是被谁踩过又捡起来的叶子。",
+          "pose_id": "Cry_1",
+          "japanese": "かわいい形にしておけば、みんなで一緒に食べるときにもっと嬉しいかなって思ってたのに。今はもう、誰かに踏まれてから拾い直された葉っぱみたいに見えるよ。",
+          "pronunciation": "かわいいかたちにしておけば、みんなでいっしょにたべるときにもっとうれしいかなっておもってたのに。いまはもう、だれかにふまれてからひろいなおされたはっぱみたいにみえるよ。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/3a5e4235a489745cef5e082236e68c078871dc55c2d4ec4fe7519dd29793aac4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "84fe20cd0b1988ebcf1745703691e93936cf8ed32c03ec7e3bcc233354476c24",
+            "japanese": "84fe20cd0b1988ebcf1745703691e93936cf8ed32c03ec7e3bcc233354476c24",
+            "audio": "d0ae3edcfdac5cc20464e9567d6012f633566e410e3ba7ded291cbb2cc95dc47",
+            "voice": "f5e8d704358b85fcd88700934cf9a64b10594187cadc8a42957f8ab9b0d4646c"
+          }
+        },
+        {
+          "order": 2,
+          "text": "不过黄油和砂糖的香味还留在里面，我偷偷尝了一块，其实味道并不难吃。",
+          "pose_id": "Happy_4",
+          "japanese": "でも、バターとお砂糖のいい香りはちゃんと残ってて。こっそり一つ味見してみたら、味はそんなに悪くなかったんだ。",
+          "pronunciation": "でも、ばたーとおさとうのいいかおりはちゃんとのこってて。こっそりひとつあじみしてみたら、あじはそんなにわるくなかったんだ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/d7545dc7e7e465ca774e138e4e8788d651f5bbfe7db2ceb0fad753df236f55dc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cf72098f055076d6ef25fc57dc0f66bbb4ad6bb3b0e5f9900a04b922d6e5adb6",
+            "japanese": "cf72098f055076d6ef25fc57dc0f66bbb4ad6bb3b0e5f9900a04b922d6e5adb6",
+            "audio": "570df0f61acec5c9bc07d260addb730e54e0ac5ad74e376fd1a9d4f8b98a64da",
+            "voice": "13f56d043618716ecc18afe1b28d219dedc004e7c0308c81c3a025ef6cd6c771"
+          }
+        },
+        {
+          "order": 3,
+          "text": "汉娜以前在我发烧的时候，用手边能找到的布和线，给我缝过一个以我为原型的人偶。我一直记得那种笨拙却特别认真的手法。",
+          "pose_id": "Default_4",
+          "japanese": "ハンナちゃんは、私が熱を出したとき、その辺にあった布と糸で、私をモデルにした人形を縫ってくれたことがあるの。不器用なのにすごく真剣な手つきだったのを、今でも覚えてる。",
+          "pronunciation": "はんなちゃんは、わたしがねつをだしたとき、そのへんにあったぬのといとで、わたしをもでるにしたにんぎょうをぬってくれたことがあるの。ぶきようなのにすごくしんけんなてつきだったのを、いまでもおぼえてる。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/2499df83ab8ba0f24db1543058c62e650b0c3519b1b983e81c837bfae2fdc355.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a2a61a100a0f2d5970c1e5e0011ec79d005f6b8c1047c9d6bd819084d4791a74",
+            "japanese": "a2a61a100a0f2d5970c1e5e0011ec79d005f6b8c1047c9d6bd819084d4791a74",
+            "audio": "b11cc0d899e564e07db8cdcb40c6aabf96e5df9ebed106042dd4c2748e240554",
+            "voice": "183a6d56c54c3b64b6b183727a7ffb8faee8193813235e2201314031b8c9a894"
+          }
+        },
+        {
+          "order": 4,
+          "text": "所以我忽然觉得，样子难看一点也没什么关系，重要的是最后有人愿意坐下来，把它一起吃完。",
+          "pose_id": "Thinking_7",
+          "japanese": "だから急に、見た目がちょっとくらい不格好でもいいのかなって思えてきて。大事なのは、最後に誰かが隣に座って、一緒に食べきってくれることなんだよね。",
+          "pronunciation": "だからきゅうに、みためがちょっとくらいぶかっこうでもいいのかなっておもえてきて。だいじなのは、さいごにだれかがとなりにすわって、いっしょにたべきってくれることなんだよね。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/34c6ad8942ab1d3e57d680f16b8a8023a8bd547667469907f1baa81c237aaff8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "72eaa400e0c56cebed32e2d828e242b39065e24276e0ecf79ae2a61bfbe4cfd8",
+            "japanese": "72eaa400e0c56cebed32e2d828e242b39065e24276e0ecf79ae2a61bfbe4cfd8",
+            "audio": "3e3f2ced1ea13df255352bef44c0d879732ce6494958c01f61dbef17aba18d30",
+            "voice": "1745c97ef9df79e16758642746c8e8c6bfb18e22faf6ddb519a3427a2d380bef"
+          }
+        },
+        {
+          "order": 5,
+          "text": "剩下的面团我放进冰箱了，明天再烤一次。这次我打算多等一会儿，让它在烤箱里慢慢定住形状。",
+          "pose_id": "Default_5",
+          "japanese": "残った生地は冷蔵庫に入れておいたから、明日もう一回焼いてみる。今度はもう少し我慢して待って、オーブンの中でゆっくり形を固まらせるつもり。",
+          "pronunciation": "のこったきじはれいぞうこにいれておいたから、あしたもういっかいやいてみる。こんどはもうすこしがまんしてまって、おーぶんのなかでゆっくりかたちをかたまらせるつもり。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/59653ecb96115a931eb91cb2697345a0d79e6a750de519a7945ad8448e4590ee.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c3a6a9915875cc3bec9c8721c35783a166f6000da3153bbb368ebfb72703a6a0",
+            "japanese": "c3a6a9915875cc3bec9c8721c35783a166f6000da3153bbb368ebfb72703a6a0",
+            "audio": "77bd95a40f542036692bf1055a695b7ffb0396f0b657aa5f77ef6b63af187308",
+            "voice": "98785a179a0f4115abc80a18b2a41d531f6ff18d87a1f5acbe9b3879a3413126"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-816b91c4-8bf5-4746-a40c-994587d7c068",
+      "character_id": "Ema",
+      "text": "今天路过商店街的时候，我看到一家店在卖刚炸好的可乐饼，热乎乎的，纸袋都被油浸得发亮了。我没忍住，买了两个。站在路边吃的时候，第一口烫得我直吸气，可是里面的土豆泥甜甜的，忽然就让我想起在岛上分饭的时候。那时候的饭一点都不好吃，可是大家挤在一起吃，好像也没那么难熬。后来我干脆又多买了几个，想着带回去给希罗酱她们尝尝。结果走到半路才发现袋子漏了油，我的袖子上一大片印子。我站在那儿看了好久，最后也没舍得扔，就这么拎回去了。反正只是印子嘛，洗一洗应该就看不出来了……大概。不过说真的，能随便在路边买想吃的东西，这件事到现在都还让我觉得有点不真实。在那个地方，能和大家一起吃顿饭，就已经是很奢侈的事情了。下次要是再遇到那家店，我想试试他们的炸肉饼。听说一天只炸两批，卖完就收摊了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天路过商店街的时候，我看到一家店在卖刚炸好的可乐饼，热乎乎的，纸袋都被油浸得发亮了。我没忍住，买了两个。",
+          "pose_id": "Happy_6",
+          "japanese": "今日ね、商店街を通ったら、揚げたてのコロッケを売ってるお店があって、ほかほかで、紙袋が油でてらてら光ってたんだ。……がまんできなくて、二つ買っちゃった。",
+          "pronunciation": "きょうね、しょうてんがいをとおったら、あげたてのコロッケをうってるおみせがあって、ほかほかで、かみぶくろがあぶらでてらてらひかってたんだ。……がまんできなくて、ふたつかっちゃった。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/c7275fa68f7f8bb5f4e3ffcd420058155b5348d0c62f3bff3e941e4af0d5978b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "f21c98a0a51b25a832c406a7b73f568cf5a659454364c412afa01d544aa6fcd7",
+            "japanese": "f21c98a0a51b25a832c406a7b73f568cf5a659454364c412afa01d544aa6fcd7",
+            "audio": "d9ebefc2b2481ea3bb10052e6a3881ab6b95dca06cb1732bffcbc08cc1d9d3b2",
+            "voice": "dedfd2c4993afdd22fea7e2f90e39502f1d7b339db118a7a688dab767c3a08da"
+          }
+        },
+        {
+          "order": 1,
+          "text": "站在路边吃的时候，第一口烫得我直吸气，可是里面的土豆泥甜甜的，忽然就让我想起在岛上分饭的时候。那时候的饭一点都不好吃，可是大家挤在一起吃，好像也没那么难熬。",
+          "pose_id": "Happy_6",
+          "japanese": "道の端っこに立って食べてたら、最初の一口が熱くて、思わず息をすっちゃって。でも中のポテトが甘くて……それで急に、島でみんなでごはんを分けてたときのこと、思い出しちゃった。あのときのごはんは全然おいしくなかったけど、みんなでぎゅうぎゅうに固まって食べてると、そんなに辛くない気がしてたんだよね。",
+          "pronunciation": "みちのはしっこにたってたべてたら、さいしょのひとくちがあつくて、おもわずいきをすっちゃって。でもなかのポテトがあまくて……それできゅうに、しまでみんなでごはんをわけてたときのこと、おもいだしちゃった。あのときのごはんはぜんぜんおいしくなかったけど、みんなでぎゅうぎゅうにかたまってたべてると、そんなにつらくないきがしてたんだよね。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/01d2ca7933ad2b18e1ac77545895f80b9e44370e9c3f05d26bcc2a2aca3307a7.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3ce34662d9493ada79947da21b72cfef6909eb9c3021930a80eb54ec216fd39e",
+            "japanese": "3ce34662d9493ada79947da21b72cfef6909eb9c3021930a80eb54ec216fd39e",
+            "audio": "6133f957cffa227a93c48a3074bed2aafc9fc54a4a72c241341e0d1a41a4a9cc",
+            "voice": "5338875f445c4a19aa621875ba77f1c1691c096557e07ecbb047169dcd6fb443"
+          }
+        },
+        {
+          "order": 2,
+          "text": "后来我干脆又多买了几个，想着带回去给希罗酱她们尝尝。结果走到半路才发现袋子漏了油，我的袖子上一大片印子。",
+          "pose_id": "Suprise_Slight",
+          "japanese": "それから、ついでにいくつか多く買って、ヒロちゃんたちにも食べさせてあげようと思ったの。そしたら途中で袋から油がもれてるのに気付いちゃって、袖に大きくしみができちゃった。",
+          "pronunciation": "それから、ついでにいくつかおおくかって、ヒロちゃんたちにもたべさせてあげようとおもったの。そしたらとちゅうでふくろからあぶらがもれてるのにきづいちゃって、そでにおおきくしみができちゃった。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/ddccc812b3442c274b86476b14ba2e831719db61b05ee5e7f54703b293118a38.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "373f11c0ae093d3d7d0e1842ece2d677f53f6f9f04b32153a8680543f3514e60",
+            "japanese": "373f11c0ae093d3d7d0e1842ece2d677f53f6f9f04b32153a8680543f3514e60",
+            "audio": "2ff80ecbc545ebd988142d3e1100e4c519d2efbbeadddda6fc3b22bb275d8a33",
+            "voice": "4676f3fa5dc344dc429db2877bcf2ce6276b3d8e9e1d426cdae83041888519e1"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我站在那儿看了好久，最后也没舍得扔，就这么拎回去了。反正只是印子嘛，洗一洗应该就看不出来了……大概。",
+          "pose_id": "Flushed_8",
+          "japanese": "しばらくそこに立って見てたんだけど、結局捨てられなくて、そのまま持って帰ったよ。どうせただのしみだし、洗えば目立たなくなるはずだもん……たぶん。",
+          "pronunciation": "しばらくそこにたってみてたんだけど、けっきょくすてられなくて、そのままもってかえったよ。どうせただのしみだし、あらえばめだたなくなるはずだもん……たぶん。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/9e74bb894a09ed3f78c5db1ec7c85b5935c92022e7dc9cd4392c8a7971816f75.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "24a52d9b4277dc16f562962c7ff55bf0586439fb4930a541d54e7ebfb690da4c",
+            "japanese": "24a52d9b4277dc16f562962c7ff55bf0586439fb4930a541d54e7ebfb690da4c",
+            "audio": "ae8dd3a9b83d8c948526b4af520a6e268afc92bdc714691521a9c251e81a71b2",
+            "voice": "2c6108b910eca14ae48ea968d2d7478aae63fbcc91574d769c15abd3ae9c4be0"
+          }
+        },
+        {
+          "order": 4,
+          "text": "不过说真的，能随便在路边买想吃的东西，这件事到现在都还让我觉得有点不真实。在那个地方，能和大家一起吃顿饭，就已经是很奢侈的事情了。",
+          "pose_id": "Thinking_7",
+          "japanese": "でもね、本当に、道で好きなものを気軽に買えちゃうって、今でもまだちょっと不思議な感じがするんだ。あの場所では、みんなで一緒にごはんを食べられるだけで、すごくぜいたくなことだったから。",
+          "pronunciation": "でもね、ほんとうに、みちですきなものをきがるにかえちゃうって、いまでもまだちょっとふしぎなかんじがするんだ。あのばしょでは、みんなでいっしょにごはんをたべられるだけで、すごくぜいたくなことだったから。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/5dda286c8ce1180b334bcf7492682fc13e9327ce3d60217d5c6e0c61282d37ff.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2c734ce50c38536b2f3576388d588ddcdf514c4e6b4b9a40b261711cb676b87a",
+            "japanese": "2c734ce50c38536b2f3576388d588ddcdf514c4e6b4b9a40b261711cb676b87a",
+            "audio": "b8507d9ba593a9fed67119610a1470a17bc5c7d546ca98ca3443aa08b143afc9",
+            "voice": "b5f74adf138bbf6ef909ccb6ea6fec1174206ac1577a938c5640ac7fb627e6df"
+          }
+        },
+        {
+          "order": 5,
+          "text": "下次要是再遇到那家店，我想试试他们的炸肉饼。听说一天只炸两批，卖完就收摊了。",
+          "pose_id": "Happy_4",
+          "japanese": "次にあのお店を通ったら、今度はメンチカツを食べてみたいな。一日に二回しか揚げないんだって、売り切れたらおしまいなんだよ。",
+          "pronunciation": "つぎにあのおみせをとおったら、こんどはメンチカツをたべてみたいな。いちにちにかいしかあげないんだって、うりきれたらおしまいなんだよ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/76d648414bfd799ab5a22ce521e48a519fcc2385b34a8f9a1575a29da792fb1c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cefd6254706161927514ece4b5b46991218e76f6d6be03ec6806912a9ec361a5",
+            "japanese": "cefd6254706161927514ece4b5b46991218e76f6d6be03ec6806912a9ec361a5",
+            "audio": "40310d2a5761ff564f750959451715ece0034500dda127b5c0d893c5d3737f5f",
+            "voice": "e2e77765ed6a907c48e035bff863bfc5d54cba147a62957854d8ffa0ef65bec8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-02ba6d93-3454-4521-a0c6-4d263f3693a8",
+      "character_id": "Ema",
+      "text": "我在冰箱门上贴了一张纸，上面写着想吃的东西。第一行是“刚烤好的鲷鱼烧”，后面还跟着草莓大福、热腾腾的拉面、撒了很多糖的甜甜圈。这些不是随便写的。从岛上出来以后，能自己挑、自己买的东西一下子变多了，我站在店里的时候，反而常常不知道该先选哪一个。所以我把它们一条一条记下来，每吃到一样，就在后面画一个小小的圆圈。到今天为止，圆圈已经有三个了。画圆圈的时候我会想，要是从前也能这样，把想做的事先写下来就好了。那时候我只会看着别人，什么都不敢说出口。不过现在好像不太一样了。我想把这个清单慢慢加长，也想问问朋友有没有想吃的东西，把名字写在旁边。也许哪一天，大家能一起去吃。今天先回去把鲷鱼烧那一行圈起来吧。笔尖按下去的时候，纸上会留下一个很圆的圈，我看着看着，大概又会有点想笑。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "我在冰箱门上贴了一张纸，上面写着想吃的东西。第一行是“刚烤好的鲷鱼烧”，后面还跟着草莓大福、热腾腾的拉面、撒了很多糖的甜甜圈。",
+          "pose_id": "Happy_6",
+          "japanese": "冷蔵庫の扉に紙を一枚貼って、そこに食べたいものを書いてあるんだ。一番上の行は「焼きたてのたい焼き」で、そのあとにいちご大福、湯気の立つラーメン、砂糖をたくさんかけたドーナツが続いてる。",
+          "pronunciation": "れいぞうこのとびらにかみをいちまいはって、そこにたべたいものをかいてあるんだ。いちばんうえのぎょうは「やきたてのたいやき」で、そのあとにいちごだいふく、ゆげのたつラーメン、さとうをたくさんかけたドーナツがつづいてる。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/a7e1968880b4c1c59655d704f4ae1bd644631e1ec4595822fb00504aa071c041.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2147977f35e413a0159062c45ceeee3213c2fdde349ed9f8dddaf6f46c6d5757",
+            "japanese": "2147977f35e413a0159062c45ceeee3213c2fdde349ed9f8dddaf6f46c6d5757",
+            "audio": "75d074905a7151a67b9a7cd5061b3d94e5cedb9b8f7b921e19344cc5f5694694",
+            "voice": "81046dc6dc564ff454012ae5f9606a378e3f8cda9ea72efc1ef4dd57f2a0ef10"
+          }
+        },
+        {
+          "order": 1,
+          "text": "这些不是随便写的。从岛上出来以后，能自己挑、自己买的东西一下子变多了，我站在店里的时候，反而常常不知道该先选哪一个。",
+          "pose_id": "Thinking_5",
+          "japanese": "これは、適当に書いたんじゃないんだよ。島を出てから、自分で選んで、自分で買えるものが一気に増えて……お店に立ってると、逆にどれから先に選べばいいのか、わからなくなっちゃうことが多いんだ。",
+          "pronunciation": "これは、てきとうにかいたんじゃないんだよ。しまをでてから、じぶんでえらんで、じぶんでかえるものがいっきにふえて……おみせにたってると、ぎゃくにどれからさきにえらべばいいのか、わからなくなっちゃうことがおおいんだ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/c80139fc179de401d0b4573938c684f4f14afbe06c4bc46af75c22ca2c1251b3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cabdb5da699b9c9992ed6dc48c1de2ae8715423d193f27a10159ffae75c571a2",
+            "japanese": "cabdb5da699b9c9992ed6dc48c1de2ae8715423d193f27a10159ffae75c571a2",
+            "audio": "a526e68614dc893b60a219792e1e1e94b91d474150e03ccbb93fed3f910191d8",
+            "voice": "ac1e6f729f0824b634bc9de654af0b14a70277d4b0adf77ab4891277e6d8a99b"
+          }
+        },
+        {
+          "order": 2,
+          "text": "所以我把它们一条一条记下来，每吃到一样，就在后面画一个小小的圆圈。到今天为止，圆圈已经有三个了。",
+          "pose_id": "Happy_3",
+          "japanese": "だから、ひとつずつ書き出してるの。食べられたら、そのうしろに小さな丸をひとつ描くんだ。今日までのところ、丸はもう三つになったよ。",
+          "pronunciation": "だから、ひとつずつかきだしてるの。たべられたら、そのうしろにちいさなまるをひとつかくんだ。きょうまでのところ、まるはもうみっつになったよ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/ec2acc85018954e00f0d37175a49aae96ddac27295e6ad0e8ee05840a8f07652.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b850a1a4aff36e1bd319422cc8ed6ea22b25482c8f306ce5450a747f6016fe1e",
+            "japanese": "b850a1a4aff36e1bd319422cc8ed6ea22b25482c8f306ce5450a747f6016fe1e",
+            "audio": "0bd57790d6a4810e42c4c63ee848c9ce01df75fb14a6d95daedf602ac8bc50a3",
+            "voice": "9e54dce1580498d3ff33b244abc081ab6555486d202e8e70921c5f23a6faf539"
+          }
+        },
+        {
+          "order": 3,
+          "text": "画圆圈的时候我会想，要是从前也能这样，把想做的事先写下来就好了。那时候我只会看着别人，什么都不敢说出口。",
+          "pose_id": "Cry_1",
+          "japanese": "丸を描きながら、前からこんなふうに、やりたいことを先に書いておけたらよかったのにな、って思う。あの頃の私は、ただ人のことを見ているだけで、何も言えなかったから。",
+          "pronunciation": "まるをえがきながら、まえからこんなふうに、やりたいことをさきにかいておけたらよかったのにな、っておもう。あのころのわたしは、ただひとのことをみているだけで、なにもいえなかったから。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/426d64094828b7e12d32d25b3f591448756ae4e16eea934a7401b3e806c0bb86.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1520e208e220c818ff5cb47b6f35bfa3c13b9d198329abff41b662d48ee5f229",
+            "japanese": "1520e208e220c818ff5cb47b6f35bfa3c13b9d198329abff41b662d48ee5f229",
+            "audio": "ac4915364b7734ea6b06c8938e2ac356a073d5bea1b673bcdcc79cb3ba3fc0db",
+            "voice": "df6a5cd07223a86a7592ea69e84c216ed187f330f57fffff43560647a4bfd059"
+          }
+        },
+        {
+          "order": 4,
+          "text": "不过现在好像不太一样了。我想把这个清单慢慢加长，也想问问朋友有没有想吃的东西，把名字写在旁边。也许哪一天，大家能一起去吃。",
+          "pose_id": "Explain_Default_1",
+          "japanese": "でも、今は少し違うみたい。このリストをゆっくり長くしていきたいし、友だちにも食べたいものがあったら聞いて、その名前を横に書いておきたいな。いつか、みんなで一緒に食べに行けたらいいのにね。",
+          "pronunciation": "でも、いまはすこしちがうみたい。このリストをゆっくりながくしていきたいし、ともだちにもたべたいものがあったらきいて、そのなまえをよこにかいておきたいな。いつか、みんなでいっしょにたべにいけたらいいのにね。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/63c9e47f4d80056958e879adc204d5b8ec061945bfd4482ce07064a33b066db6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d26b48d31450b041df4b8e8a54665562cea95078ce8f160b8060fa4c034621ad",
+            "japanese": "d26b48d31450b041df4b8e8a54665562cea95078ce8f160b8060fa4c034621ad",
+            "audio": "894e0db1f5bf7ce9997e64ab64506d54b63d0e62a0edfdd3eff8c64da8c5490a",
+            "voice": "5764a8159ec9da83572bb955d7bf6f53456d91e7d1fe88d55909eec70d2e4791"
+          }
+        },
+        {
+          "order": 5,
+          "text": "今天先回去把鲷鱼烧那一行圈起来吧。笔尖按下去的时候，纸上会留下一个很圆的圈，我看着看着，大概又会有点想笑。",
+          "pose_id": "Happy_6",
+          "japanese": "今日は帰ったら、まずたい焼きの行に丸をつけよう。ペン先を押しつけると、紙の上にまんまるの輪が残って……それを見ていると、またちょっと笑えてきちゃうんだろうな。",
+          "pronunciation": "きょうはかえったら、まずたいやきのぎょうにまるをつけよう。ペンさきをおしつけると、かみのうえにまんまるのわがのこって……それをみていると、またちょっとわらえてきちゃうんだろうな。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/caa1c5899d8199ade04f0d7f28e0cb2c07b76a8a6842ded689828eba14d2e774.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9a4cb581735353a1e4bbb01cc55e586fb2599ada193307f91e0c75cdd1384d26",
+            "japanese": "9a4cb581735353a1e4bbb01cc55e586fb2599ada193307f91e0c75cdd1384d26",
+            "audio": "b93a6e5eecb5900883b96da06269d239ffff55cf707749fa9783945964dec414",
+            "voice": "7f841f375fecd7687c4ffd29a0dd729cdea80bf3c7c3d44c8fd50aff70f73044"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-db2124b6-70a3-4fad-b761-b623f80e5d56",
+      "character_id": "Ema",
+      "text": "便利店冷柜前面，我站了大概五分钟。新出的桃子味和限定的草莓牛奶味排在一起，两个都想喝，可是一次买两瓶，好像又有点贪心。最后我还是一起买了。回到住处才发现，冰箱里还放着上次没喝完的橘子汽水。照这样下去，我的冰箱迟早会被饮料塞满吧。在岛上，能吃到什么、喝到什么，都是安排好的。现在可以为一瓶饮料犹豫五分钟，我居然觉得这种小事有点让人高兴。希罗要是知道，大概会一边说我笨，一边把我那瓶草莓牛奶拿去喝掉一半。下次去的时候，我打算试试旁边那瓶绿色的，标签上写的是抹茶拿铁。如果比想象中好喝，我想留一口给你。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "便利店冷柜前面，我站了大概五分钟。新出的桃子味和限定的草莓牛奶味排在一起，两个都想喝，可是一次买两瓶，好像又有点贪心。",
+          "pose_id": "Thinking_6",
+          "japanese": "コンビニの冷蔵ケースの前に、私は五分くらい立っていた。新発売の桃味と限定のいちごミルク味が並んでいて、どっちも飲みたいけど、二本いっぺんに買うのはちょっと欲張りみたいな気がして。",
+          "pronunciation": "こんびに の れいぞうけーす の まえ に、わたし は ごふん くらい たって いた。しんはつばい の ももみ と げんてい の いちごみるくみ が ならんで いて、どっち も のみたい けど、にほん いっぺん に かう の は ちょっと よくばり みたいな き が して。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/5c12675e26b0abc32e89d2c461e88907b97cb6952cfc928955611447f90a4701.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "82b6ca93c0f2403b77d64956257a114689fb3919c4860b0a5d1bb255a4962966",
+            "japanese": "82b6ca93c0f2403b77d64956257a114689fb3919c4860b0a5d1bb255a4962966",
+            "audio": "7f2782cc31812173f20f616b5bae9e3e4d78137dca7eda0f80be54d7ec8ee0e9",
+            "voice": "10af07a9a57e101096abcd48dd8b4b58ea4e288c5edd3329e5acddcd6893f998"
+          }
+        },
+        {
+          "order": 1,
+          "text": "最后我还是一起买了。回到住处才发现，冰箱里还放着上次没喝完的橘子汽水。照这样下去，我的冰箱迟早会被饮料塞满吧。",
+          "pose_id": "Explain_Default_5",
+          "japanese": "結局、両方買ってしまった。部屋に戻ってから、冷蔵庫にまだ前回飲み切っていないオレンジサイダーが残っているのに気づいた。このままだと、私の冷蔵庫はいつか飲み物でいっぱいになりそう。",
+          "pronunciation": "けっきょく、りょうほう かって しまった。へや に もどって から、れいぞうこ に まだ ぜんかい のみきって いない おれんじさいだー が のこって いる の に きづいた。この まま だ と、わたし の れいぞうこ は いつか のみもの で いっぱい に なりそう。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/36c18ec88a3ef1a828395de96c95a97f99fad58405e9da48951b09c7894002c5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9a60e61291ff9c7fc915ee9c7bbadaceb4d6c47c4a659dc665bd0f10fe1c02a5",
+            "japanese": "9a60e61291ff9c7fc915ee9c7bbadaceb4d6c47c4a659dc665bd0f10fe1c02a5",
+            "audio": "2fb09fd21b058783bca2e68320d7ad7290c18b79e745b1e298408b894a2ce26b",
+            "voice": "1da9fdb8193e8c6c5a7edb68a59eb2b2a84e3fb6d906ef5a4b0eb257082b5f0d"
+          }
+        },
+        {
+          "order": 2,
+          "text": "在岛上，能吃到什么、喝到什么，都是安排好的。现在可以为一瓶饮料犹豫五分钟，我居然觉得这种小事有点让人高兴。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "島では、何を食べられるか、何を飲めるかも、全部決められていた。今は飲み物一本のために五分も迷えるなんて、こんな小さなことなのに、私はちょっとうれしい。",
+          "pronunciation": "しま で は、なに を たべられる か、なに を のめる か も、ぜんぶ きめられて いた。いま は のみもの いっぽん の ため に ごふん も まよえる なんて、こんな ちいさな こと な の に、わたし は ちょっと うれしい。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/0916670bd90dc9119859962ff9f6c047343837af2ab332480b25add960b3a101.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e82e5e0e61bb42f08a31d6ae7b6f8fd4936ea87f6477db3b59bb554b509bbe1f",
+            "japanese": "e82e5e0e61bb42f08a31d6ae7b6f8fd4936ea87f6477db3b59bb554b509bbe1f",
+            "audio": "7b58a8ff1118d2e20e7f0e99c52e3353c5441d2c1f19941de554b748365b9747",
+            "voice": "5ad863eb2bcdf85c88bb6cd491357bdc64672d56d8bb555657cfc4fe957ed3c5"
+          }
+        },
+        {
+          "order": 3,
+          "text": "希罗要是知道，大概会一边说我笨，一边把我那瓶草莓牛奶拿去喝掉一半。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "ヒロが知ったら、たぶん「エマはばかだね」って言いながら、私のいちごミルクを半分くらい飲んじゃうんだろうな。",
+          "pronunciation": "ひろ が しったら、たぶん「えま は ばか だ ね」って いいながら、わたし の いちごみるく を はんぶん くらい のんじゃう ん だろう な。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/b70cb189ef1b98d95646609218e10966f79dfcd0d162511b55df651b59ada6b3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5381309f2896a02f0d17b1df865f6231de667f31f145286fbaa143f1b5338749",
+            "japanese": "5381309f2896a02f0d17b1df865f6231de667f31f145286fbaa143f1b5338749",
+            "audio": "0837f7686198756a62c261dad93dc3462b5add8fcb894d012df0de291d45039f",
+            "voice": "c77d52a5aebf0b007ee68ef3ad62c77627aac5720807f37f0146c2818616b1d6"
+          }
+        },
+        {
+          "order": 4,
+          "text": "下次去的时候，我打算试试旁边那瓶绿色的，标签上写的是抹茶拿铁。如果比想象中好喝，我想留一口给你。",
+          "pose_id": "Flushed_1",
+          "japanese": "今度行くときは、隣に並んでいた緑のを試してみるつもり。ラベルには抹茶ラテって書いてあった。想像よりおいしかったら、一口だけあなたに残しておきたいな。",
+          "pronunciation": "こんど いく とき は、となり に ならんで いた みどり の を ためして みる つもり。らべる に は まっちゃらて って かいて あった。そうぞう より おいしかったら、ひとくち だけ あなた に のこして おきたい な。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/6d20e3d2f572ddf495d051ee6963b775bb8d665b4ecb32098cd50d4bdeab9b44.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a996c40d310e2355fa165e909ffd37358fd8086a9ca009e0e74ea4fcfa868317",
+            "japanese": "a996c40d310e2355fa165e909ffd37358fd8086a9ca009e0e74ea4fcfa868317",
+            "audio": "1c39e5eb1f77d59e96f47037626ba8f80f31d51c35439c26015cf253473a6042",
+            "voice": "eb8dfbce95f52a22486222d7dde684df6185e2b0485d952de8aee24d268be4d7"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@ on:
     paths:
       - 'questions-*/**'
       - 'scripts/**'
+      - '.gitattributes'
       - '.github/workflows/publish.yml'
 permissions:
   contents: read
@@ -38,4 +39,11 @@ jobs:
             "$RUNNER_TEMP/catalog/release-manifest.json" \
             "$RUNNER_TEMP/catalog/release-manifest.sig" \
             --target "$GITHUB_SHA" --title "Question catalog ${GITHUB_RUN_NUMBER}" \
-            --notes "Validated question catalog. Files are pinned to the signed repository commit." --latest
+            --notes "Validated question catalog. New packages include maintainer review of character, translation and audio. Files are pinned to the signed repository commit." --latest
+      - name: Upload conflict details
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: question-catalog-conflicts
+          path: ${{ runner.temp }}/catalog/catalog-conflicts.json
+          if-no-files-found: ignore

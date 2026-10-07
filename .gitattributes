@@ -1,0 +1,4 @@
+# Signed assets are byte-exact. Never convert line endings on checkout/add.
+questions-*/bundle.json -text
+questions-*/review.json -text
+questions-*/audio/*.wav -text

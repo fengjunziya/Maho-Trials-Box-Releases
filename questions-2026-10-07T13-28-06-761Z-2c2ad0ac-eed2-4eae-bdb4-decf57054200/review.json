@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-07T13:29:10.184Z",
+  "checks": {
+    "character": true,
+    "translation": true,
+    "audio": true
+  },
+  "content_hash": "feb7468c1f122ead40001f1f3f1862931c0481c4587f77bbca737985ea58eb51",
+  "review_basis": {
+    "character_and_translation": "unchanged previously published content",
+    "audio": "maintainer confirmed new audio",
+    "confirmation_source": "human_user_confirmation"
+  }
+}

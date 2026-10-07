@@ -1,0 +1,2623 @@
+{
+  "schema_version": 2,
+  "questions": [
+    {
+      "id": "question-517444a6-365b-449c-bb31-01af308abd2a",
+      "character_id": "Ema",
+      "text": "窗台上那盆薄荷终于冒出芽了。买的时候店员说它最好养，我还是每天早上起来第一件事就去看一眼，怕水浇多了，又怕它晒不到太阳。今天早上，两片特别小的叶子从土里顶出来，我蹲在那儿看了很久，看着看着就笑出声了。原来等一个很小的好消息，也会让人这么高兴。我以前总觉得自己什么也照顾不好——连身边的人都是。所以这次特意挑了最不容易养死的薄荷，还偷偷记了浇水的时间。可它真的活了，还长出了新叶子。好像我做的事情，是有回应的。等它再长大一点，我想摘两片泡水喝，听说加一点蜂蜜会很好喝。那种每天有一点点变化的感觉，还挺让人期待的。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "窗台上那盆薄荷终于冒出芽了。买的时候店员说它最好养，我还是每天早上起来第一件事就去看一眼，怕水浇多了，又怕它晒不到太阳。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "窓辺のあのミントの鉢、とうとう芽が出たんだ。買ったとき店員さんが一番育てやすいって言ってたけど、それでも私は毎朝起きて最初に一目見に行っちゃう。水をあげすぎるのも怖いし、日が当たらないのも怖いから。",
+          "pronunciation": "まどべの あの みんとの はち、 とうとう めが でたんだ。 かった とき てんいんさんが いちばん そだてやすいって いってたけど、 それでも わたしは まいあさ おきて さいしょに ひとめ みに いっちゃう。 みずを あげすぎるのも こわいし、 ひが あたらないのも こわいから。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/26131eec6418cb723940db530b366ed96063cd354d3b5d295db055f064ca4f0a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cb40445e519de98b7983d30ab653a533f8ee2f8240ea3d9a26dee2e316daf686",
+            "japanese": "cb40445e519de98b7983d30ab653a533f8ee2f8240ea3d9a26dee2e316daf686",
+            "audio": "9474c9aeda86df5cdb07a48e9372f0e04cf979bc6c7d70a8f2443b57c78027e5",
+            "voice": "429c0448f59dc5009681b111b6aa52cd77c9a418e9e62d52170df350d7414865"
+          }
+        },
+        {
+          "order": 1,
+          "text": "今天早上，两片特别小的叶子从土里顶出来，我蹲在那儿看了很久，看着看着就笑出声了。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "今朝、土の中からすごく小さな葉っぱが二枚、ぴょこって出てきて、私はしゃがんでずっと見てた。見てたら、いつの間にか笑い声が出ちゃった。",
+          "pronunciation": "けさ、 つちの なかから すごく ちいさな はっぱが にまい、 ぴょこって でてきて、 わたしは しゃがんで ずっと みてた。 みてたら、 いつのまにか わらいごえが でちゃった。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/9026c5356f697244bf727778e1e9a0e7212f79520961a24f8818a0a7b56c81cc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6c7b983026e1debd34bcd3cd9a7086f2b84828cbf3acd99b86241b1dddce98c8",
+            "japanese": "6c7b983026e1debd34bcd3cd9a7086f2b84828cbf3acd99b86241b1dddce98c8",
+            "audio": "fcbacd48bbfb3b267f18ce5b637f55505a986f5817007d5a946d6583a6f0ef61",
+            "voice": "21eed40483e5db99c14d2881d2e81c742ae149c9ffecd5d78e29bf8b1c5501d7"
+          }
+        },
+        {
+          "order": 2,
+          "text": "原来等一个很小的好消息，也会让人这么高兴。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "小さい良い知らせを待つだけでも、こんなに嬉しくなれるんだね。",
+          "pronunciation": "ちいさい いい しらせを まつだけでも、 こんなに うれしく なれるんだね。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/47c84af0b69644e0e7e6bf2e87c7a74cd0c5067d287cd809b543064e278d21cc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "67e197a6b7e043382600e54678e3aea1765ea672e8a1d39480ddb56f47808aba",
+            "japanese": "67e197a6b7e043382600e54678e3aea1765ea672e8a1d39480ddb56f47808aba",
+            "audio": "8faa2967af3e1b7aa7077b7af481a1f067d229b5d90fa1ad74c7866ca104c05a",
+            "voice": "22c1a47dcca63655bd5df96cb73b0966b68c413d0669da0fa55e6f0bbaac68af"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我以前总觉得自己什么也照顾不好——连身边的人都是。所以这次特意挑了最不容易养死的薄荷，还偷偷记了浇水的时间。",
+          "pose_id": "Cry_5",
+          "japanese": "私は前から、自分は何もうまく世話できないって思ってた。……身近な人のことだって、そうだったし。だから今回は、いちばん枯れにくいミントを選んだんだ。水をあげた時間も、こっそりメモしてる。",
+          "pronunciation": "わたしは まえから、 じぶんは なにも うまく せわできないって おもってた。……みぢかな ひとの ことだって、 そうだったし。 だから こんかいは、 いちばん かれにくい みんとを えらんだんだ。 みずを あげた じかんも、 こっそり めもしてる。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/70356ac28b1cd1b6285b186864c53b7a2a3fed7ed543c0606abac4b9055f461d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e2211575e3d475bc5c609c6fd5c0deef959050f03e653ed61eb3f61efc1f4173",
+            "japanese": "e2211575e3d475bc5c609c6fd5c0deef959050f03e653ed61eb3f61efc1f4173",
+            "audio": "6c7cd532002c5745b5c4b1328bc45253329573ba9347569bfe5ac4819575ac23",
+            "voice": "f5fbd7a55a503241ac393fb512fc6c88b511a0cf0d1c136a16d3acdaeb1cc5c3"
+          }
+        },
+        {
+          "order": 4,
+          "text": "可它真的活了，还长出了新叶子。好像我做的事情，是有回应的。",
+          "pose_id": "Happy_6",
+          "japanese": "それなのに、本当に生きてて、新しい葉っぱまで出た。私がしたこと、ちゃんと返ってきてるみたい。",
+          "pronunciation": "それなのに、 ほんとうに いきてて、 あたらしい はっぱまで でた。 わたしが したこと、 ちゃんと かえってきてるみたい。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/bb8cdfdf3fe843bdd3b24ed640383ca5b07591331e0586a124e9b05bf2abec37.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "49fdc0d0dbdd36addaff1072c3775bb56092100df3695c42d32be926868c03a1",
+            "japanese": "49fdc0d0dbdd36addaff1072c3775bb56092100df3695c42d32be926868c03a1",
+            "audio": "b558b0c0c51e545ec1a86b96f9d4b99255840813d01ad9456cfdd4d3a3591b50",
+            "voice": "e1f32c82e35b40a8fa42b0bc84e42b5cd699287237746130d21256499310e5e7"
+          }
+        },
+        {
+          "order": 5,
+          "text": "等它再长大一点，我想摘两片泡水喝，听说加一点蜂蜜会很好喝。",
+          "pose_id": "Default_4",
+          "japanese": "もう少し大きくなったら、葉っぱを二枚摘んでお茶にしてみたい。はちみつを少し入れるとおいしいって聞いたから。",
+          "pronunciation": "もう すこし おおきくなったら、 はっぱを にまい つんで おちゃに してみたい。 はちみつを すこし いれると おいしいって きいたから。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/b49d32c5448903518d25d98e4692c87957ef0867771a985577ae469c8f916d6c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0cbe731c6a076ec40aac37d6beee9757434fb65cd77f8db3c1aa7739ee5551fd",
+            "japanese": "0cbe731c6a076ec40aac37d6beee9757434fb65cd77f8db3c1aa7739ee5551fd",
+            "audio": "396c9b5563b27078b36314f3146653aebc221675cd55f374cf055c9b7a802d7b",
+            "voice": "bee430d1043553bc300f838a29ea8e1fe9eed491350d6aa7603e21edecfb7cc9"
+          }
+        },
+        {
+          "order": 6,
+          "text": "那种每天有一点点变化的感觉，还挺让人期待的。",
+          "pose_id": "Default_4",
+          "japanese": "毎日少しずつ変わっていくのを見るのって、なんだか楽しみなんだ。",
+          "pronunciation": "まいにち すこしずつ かわっていくのを みるのって、 なんだか たのしみなんだ。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/36a4307d2f26557405f7d62277e365199fd0862c7a3a6cc61c0f1508372f02c0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e082967653d275a342d1a3433be53999bf2b84e837e05c4d4ffecf10540bd8b1",
+            "japanese": "e082967653d275a342d1a3433be53999bf2b84e837e05c4d4ffecf10540bd8b1",
+            "audio": "98c1a3defd8bde59cd78d0868d2b283346234b6cca5907890b59e173fa206ec1",
+            "voice": "25dadc9957f28d42abebb2dd60e86c23681c48e3a1edfcc84477a8f7126edced"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-cf53d4f7-e48c-496c-a03e-42239895b152",
+      "character_id": "Ema",
+      "text": "今天我在店里绕了三圈。就是想问一句“这个多少钱”，结果绕到第三圈，我自己都觉得有点奇怪了。以前这种事我肯定直接放弃。不开口就谁都不会嫌我烦，也不会因为我问得太小声而皱眉头——我是这么想的，一直都是。可这次我停在收银台前面，把想说的话在心里排了一遍，然后很小声地说出来了。店员抬起头，笑着回答我，还顺手把东西翻过来给我看标签。她一点都不觉得我打扰了她。整个过程大概只有十秒钟。走出店门以后，我在台阶上站了一会儿。原来只是问一句话，也可以这么累，也这么让人高兴。我想，以后还是会有很多不敢开口的时候吧。不过至少今天这一句，我说出来了。下次如果再绕到第三圈，我就告诉自己：今天不是也没事吗。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天我在店里绕了三圈。就是想问一句“这个多少钱”，结果绕到第三圈，我自己都觉得有点奇怪了。",
+          "pose_id": "Thinking_5",
+          "japanese": "今日、お店の中で三周もぐるぐる回っちゃった。「これ、いくらですか」って聞きたかっただけなのに、三周目になったら、自分でもちょっと変だなって思えてきて。",
+          "pronunciation": "きょう、おみせのなかで さんしゅうも ぐるぐる まわっちゃった。「これ、いくらですか」って ききたかっただけなのに、さんしゅうめに なったら、じぶんでも ちょっと へんだなって おもえてきて。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/bffbf30eddb9b4b9d952a5cb01463ec9365fb2434ba81eab223cd0504291d4f5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3f4d8cc3711b9ac1ee5a60accaf27185788d50b593f2f871ef67833980a57c3e",
+            "japanese": "3f4d8cc3711b9ac1ee5a60accaf27185788d50b593f2f871ef67833980a57c3e",
+            "audio": "372b9aaadd59974126e1af163444d10d2e13128e0dadcb3fc5cd89a58eeeee2f",
+            "voice": "56f548d677ccbbcf9d0ffe858490132b5a2c0c9fd61eee5b66be05e6a3694211"
+          }
+        },
+        {
+          "order": 1,
+          "text": "以前这种事我肯定直接放弃。不开口就谁都不会嫌我烦，也不会因为我问得太小声而皱眉头——我是这么想的，一直都是。",
+          "pose_id": "Cry_1",
+          "japanese": "前なら、こういうのは絶対にあきらめてた。口を開かなければ、誰にもうるさがられないし、声が小さすぎて嫌な顔をされることもない——ずっと、そう思ってたんだ。",
+          "pronunciation": "まえなら、こういうのは ぜったいに あきらめてた。くちを ひらかなければ、だれにも うるさがられないし、こえが ちいさすぎて いやな かおを されることも ない——ずっと、そう おもってたんだ。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/975b11ce089d074acab11bf54eaad7dc371ccd7edccec6bc5063b73a50943334.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a5c900b00f7831f9648b2a7c6f681e9a53c1a662b665def6e9bde75e821ab769",
+            "japanese": "a5c900b00f7831f9648b2a7c6f681e9a53c1a662b665def6e9bde75e821ab769",
+            "audio": "c125541e15db0944e62ff2b1d110216f473340e46790cd7436f6dca4b639f3c7",
+            "voice": "d57c3dbad12b2aff48d7f855bfd175cec292c8b808ee7f042a0c9a9a855c4f37"
+          }
+        },
+        {
+          "order": 2,
+          "text": "可这次我停在收银台前面，把想说的话在心里排了一遍，然后很小声地说出来了。",
+          "pose_id": "Fearful_2",
+          "japanese": "でも今回は、レジの前に立って、言いたい言葉を心の中で並べ直して、それからすごく小さな声で言ってみた。",
+          "pronunciation": "でも こんかいは、レジの まえに たって、いいたい ことばを こころの なかで ならべなおして、それから すごく ちいさな こえで いってみた。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/253ecb830b2acc39b0502426794f66abe15bd0385ec59e8879d3ed8596c34cb6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "61eaee32819459a9ba5951b1484b5f357cf2be181fd141dc1380a3eb8022b8ee",
+            "japanese": "61eaee32819459a9ba5951b1484b5f357cf2be181fd141dc1380a3eb8022b8ee",
+            "audio": "4ae97de5a156b5c0a9b594a7a3d48647cad7bf8b6198a41b9f96e621a8d6e688",
+            "voice": "4e3d1b7cea6e5c64eb0ddf27eb6edc1d407e2216e1ef18586698bfb2393a9b92"
+          }
+        },
+        {
+          "order": 3,
+          "text": "店员抬起头，笑着回答我，还顺手把东西翻过来给我看标签。她一点都不觉得我打扰了她。整个过程大概只有十秒钟。",
+          "pose_id": "Surprise_4",
+          "japanese": "店員さんは顔を上げて、笑いながら答えてくれて、ついでに商品をひっくり返してラベルを見せてくれた。迷惑だなんて、少しも思ってなさそうだった。かかった時間は、たぶん十秒くらい。",
+          "pronunciation": "てんいんさんは かおを あげて、わらいながら こたえてくれて、ついでに しょうひんを ひっくりかえして ラベルを みせてくれた。めいわくだなんて、すこしも おもってなさそうだった。かかった じかんは、たぶん じゅうびょうくらい。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/8f83ae191a069b2bfc977f82a68ee3cccad7c74bd392efe3ccaf21987b147dfa.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2c5e4f550dc83c6301b4085959598880bd3e0de1cf27d8119f1cda4a90529084",
+            "japanese": "2c5e4f550dc83c6301b4085959598880bd3e0de1cf27d8119f1cda4a90529084",
+            "audio": "2ff357b80a358d291574cf20e20dc6aa5cbc2da4986eb3c192148877c15f6a87",
+            "voice": "1ccbdb722500886a54e7b62ce116bfcb49de8981dc17a7d50a325e96b5792bae"
+          }
+        },
+        {
+          "order": 4,
+          "text": "走出店门以后，我在台阶上站了一会儿。原来只是问一句话，也可以这么累，也这么让人高兴。",
+          "pose_id": "Happy_4",
+          "japanese": "お店を出てから、階段のところでちょっと立ち止まった。たった一言聞くだけで、こんなに疲れるなんて。それなのに、こんなに嬉しいなんて。",
+          "pronunciation": "おみせを でてから、かいだんの ところで ちょっと たちどまった。たった ひとこと きくだけで、こんなに つかれるなんて。それなのに、こんなに うれしいなんて。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/7fdda2e1c6cff614bc0eb6da2634babce7046b3c0bba87192cd9b3b5993dd7d7.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b638140ce52a43b6fb07d7c8d5096ff845814fca3a1b6a228779ecfe25c29d12",
+            "japanese": "b638140ce52a43b6fb07d7c8d5096ff845814fca3a1b6a228779ecfe25c29d12",
+            "audio": "99a558902a6aa3246081106aa65bd4b216c5b3e245ea4ded55d1573e301b6629",
+            "voice": "e44238df0ea6c8cdc1ede4fb0b2eb6f9c3230a2a5f93e283f0b0cad23232739b"
+          }
+        },
+        {
+          "order": 5,
+          "text": "我想，以后还是会有很多不敢开口的时候吧。不过至少今天这一句，我说出来了。",
+          "pose_id": "Explain_Default_3",
+          "japanese": "これからも、口を開けなくて迷うことはきっとたくさんあるんだろうな。それでも、少なくとも今日のこの一言は、ちゃんと言えた。",
+          "pronunciation": "これからも、くちを ひらけなくて まよう ことは きっと たくさん あるんだろうな。それでも、すくなくとも きょうの この ひとことは、ちゃんと いえた。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/91c3603f1f4628b83941e36d6b6366f12d0f492364e3fb062918f9b7baccd9f9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "52277b25ba96eff9690185ebf40bbfe3a19e165baf51167d911880aee5b0f9f8",
+            "japanese": "52277b25ba96eff9690185ebf40bbfe3a19e165baf51167d911880aee5b0f9f8",
+            "audio": "8ed4247cf7355645bed4386f95cb4b1dece2b30e3dd4834c003e09ca37a6eada",
+            "voice": "de04edeb6eba0ff779259e691fb0b685af0b54610108ec5013cafe3be0d4c9e6"
+          }
+        },
+        {
+          "order": 6,
+          "text": "下次如果再绕到第三圈，我就告诉自己：今天不是也没事吗。",
+          "pose_id": "Explain_Excited_1",
+          "japanese": "次にまた三周目まで回ってしまったら、自分にこう言おう。今日だって、大丈夫だったじゃないか、って。",
+          "pronunciation": "つぎに また さんしゅうめまで まわってしまったら、じぶんに こう いおう。きょうだって、だいじょうぶだったじゃないか、って。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/6ca3799fc8fe31ff77a03d326656b92778ba675c837976e79239f71e98222110.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "739684203a0557af90c03a91f4c380f58e185bb3c60f2ff46d36acfe5c7167e2",
+            "japanese": "739684203a0557af90c03a91f4c380f58e185bb3c60f2ff46d36acfe5c7167e2",
+            "audio": "34d144d4c0fa6601b91219a46d92b8c4295156e06253a15c35c8ecbf80ed63b2",
+            "voice": "5ee3f786a91975c555c6df68d377f5425d92a90d5cb93e08fc4fc20617950bff"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-5a0f8daf-37dd-4083-9e28-4505f7ef66b1",
+      "character_id": "Ema",
+      "text": "刚才在路口等信号灯的时候，有一只很小的狗从旁边的巷子里跑出来，绕着我转了两圈，然后就贴在我的鞋边不走了。它身上没有项圈，毛有点脏，抬头看我的时候眼睛湿漉漉的，我蹲下来，它就顺势把头搁在我的手心里。我站在原地想了很久该怎么办。带回家的话，我连自己都还不太会照顾；丢下它走掉，又怎么也迈不开脚。后来我抱着它去问了巷口那家店的老板娘，才知道是附近人家的狗，早上刚跑丢的。老板娘打电话的时候，它在我怀里打了个哈欠，爪子还搭在我的袖子上。我忽然有点舍不得。明明只是几分钟的事，我却好像已经想好了要给它准备水碗和毯子。主人来接它的时候一直跟我道谢，我只会摆手说没关系。回去的路上，袖子上还留着一点它踩过的印子。我盯着那个印子看了好久，说不上是高兴还是有点失落。要是以后我住的地方能养一只小动物，我希望它不要这么容易就跑丢，也希望它认得回家的路。这样就不用站在路口，等别人来把它接走了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "刚才在路口等信号灯的时候，有一只很小的狗从旁边的巷子里跑出来，绕着我转了两圈，然后就贴在我的鞋边不走了。",
+          "pose_id": "Explain_Earnest_4",
+          "japanese": "さっき信号待ちをしていたら、小さな犬が横の路地から走ってきて、ボクの周りを二回りして、それから靴の横にぴったりくっついて動かなくなったんだ。",
+          "pronunciation": "さっきしんごうまちをしていたら、ちいさないぬがよこのろじからはしってきて、ボクのまわりをふたまわりして、それからくつのよこにぴったりくっついてうごかなくなったんだ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/834f681b25e003d43459d25824b49e82d4c4bd5494267768e3cd9123e47cf07a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "7d4f598ff544ce67a69d08d0ef947a9c07e26f7744e0f7159961c95e73d81ad6",
+            "japanese": "7d4f598ff544ce67a69d08d0ef947a9c07e26f7744e0f7159961c95e73d81ad6",
+            "audio": "e66c4b1535c0e9b8ec994f0a1e7e24ebf0a7208c87fbeeb3b6d48310eb50c867",
+            "voice": "15da6add2fd206e6d0c5e04a0599e8d4976b13afb54612812b7ffdcb05fc24ce"
+          }
+        },
+        {
+          "order": 1,
+          "text": "它身上没有项圈，毛有点脏，抬头看我的时候眼睛湿漉漉的，我蹲下来，它就顺势把头搁在我的手心里。",
+          "pose_id": "Default_4",
+          "japanese": "首輪はついていなくて、毛も少し汚れていたよ。見上げてきた目がうるうるしていて、ボクがしゃがんだら、そのまま頭をボクの手のひらに乗せてきたの。",
+          "pronunciation": "くびわはついていなくて、けもすこしよごれていたよ。みあげてきためがうるうるしていて、ボクがしゃがんだら、そのままあたまをボクのてのひらにのせてきたの。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/960b061e56e0fb100f442b49252571d14d2c414e337432ffb1124aa579efbd86.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0cf774194a2ff8eebbfd6a784a4aa62f9af032f3110668ea6dc5b9845a74cc08",
+            "japanese": "0cf774194a2ff8eebbfd6a784a4aa62f9af032f3110668ea6dc5b9845a74cc08",
+            "audio": "7b330f6754b2343f7d501af63c33b201bac4d87ea4ea4963e8761fd8ddb0e537",
+            "voice": "272a24e28a687d40d8c2c7fda9a44fa3c7a23024013bf736a16495a33c9ae004"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我站在原地想了很久该怎么办。带回家的话，我连自己都还不太会照顾；丢下它走掉，又怎么也迈不开脚。",
+          "pose_id": "Thinking_7",
+          "japanese": "その場に立ったまま、どうしたらいいかずっと考えていた。連れて帰っても、ボクは自分のことだってまだちゃんとできないし……置いて行こうとしても、足がどうしても前に出なかった。",
+          "pronunciation": "そのばにたったまま、どうしたらいいかずっとかんがえていた。つれてかえっても、ボクはじぶんのことだってまだちゃんとできないし……おいてゆこうとしても、あしがどうしてもまえにでなかった。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/09473d1856228c684d92dd87d23ea27f872875a2c37110db6edc4d71761eb8c2.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cf03ca226d1b9e9b23f97c5228e17b1bc2fba42dc82e1df9f6acf0dba3ce734d",
+            "japanese": "cf03ca226d1b9e9b23f97c5228e17b1bc2fba42dc82e1df9f6acf0dba3ce734d",
+            "audio": "fc0ffa2d6e5295bfd142aa85201c5b70a4f225ec81aa3aaa8d286c5bbfd6a4aa",
+            "voice": "218f6024e68839c87585940767894a24f736d83b1878bfc8e69665da978e3baa"
+          }
+        },
+        {
+          "order": 3,
+          "text": "后来我抱着它去问了巷口那家店的老板娘，才知道是附近人家的狗，早上刚跑丢的。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "それで、抱っこしたまま路地の入り口の店のおばさんに聞いてみたら、近所の家の犬で、朝に逃げちゃったばかりだって分かったの。",
+          "pronunciation": "それで、だっこしたままろじのいりぐちのみせのおばさんにきいてみたら、きんじょのいえのいぬで、あさににげちゃったばかりだってわかったの。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/1b365c4aa55fb2816f1f1e2b47b2856242ea5df2f673eacf310d44d509c26ff4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "94aad19acc6eb30757bb185d07f87f3e07a1db6bda75f1e1601509f4fce0df42",
+            "japanese": "94aad19acc6eb30757bb185d07f87f3e07a1db6bda75f1e1601509f4fce0df42",
+            "audio": "f651e4bd4edbb297c74db95162ba3b57cffd545f3e094fdc83e9a45c4fa19323",
+            "voice": "a6adf3affbe988b36a032f46f08ee8f355d1f9e73e022ca70f36a2c5198bf361"
+          }
+        },
+        {
+          "order": 4,
+          "text": "老板娘打电话的时候，它在我怀里打了个哈欠，爪子还搭在我的袖子上。我忽然有点舍不得。",
+          "pose_id": "Cry_5",
+          "japanese": "おばさんが電話している間、その子はボクの腕の中で欠伸をして、爪はボクの袖に乗せたままだった。急に、ちょっと離れがたくなってしまった。",
+          "pronunciation": "おばさんがでんわしているあいだ、そのこはボクのうでのなかであくびをして、つめはボクのそでにのせたままだった。きゅうに、ちょっとはなれがたくなってしまった。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/88a7baf938342be0e18c8d893af445ec5e77b6f090806b67ccd76228f39787e1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "dc27133bafac4fa1c192e08fc9fdfe47a6f6115f62f207b133c5b641d9adb643",
+            "japanese": "dc27133bafac4fa1c192e08fc9fdfe47a6f6115f62f207b133c5b641d9adb643",
+            "audio": "b0726353caf29cb0339470c0242ff0cb6ead7f12a983aeab04cf23445aec767d",
+            "voice": "0645fdc1eab14011cd921e9d4ab8c4de2b779aed1971d135abc39fbe52178e52"
+          }
+        },
+        {
+          "order": 5,
+          "text": "明明只是几分钟的事，我却好像已经想好了要给它准备水碗和毯子。",
+          "pose_id": "Thinking_6",
+          "japanese": "ほんの数分のことなのに、ボクはもう水の器と毛布を用意するところまで考えていたみたい。",
+          "pronunciation": "ほんのすうふんのことなのに、ボクはもうみずのうつわともうふをよういするところまでかんがえていたみたい。",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/22bfe2e2ff7be1ca41e7323e4b1ee5b82f088beab77e80e12a7e6faa26d3f72e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b7b09ea0d1a8b21d574003482db67d826a1438ea34384d1bdcb5181f999b3627",
+            "japanese": "b7b09ea0d1a8b21d574003482db67d826a1438ea34384d1bdcb5181f999b3627",
+            "audio": "c30047b6382f4f993c216f4870d412c244ddbb1756d5cfbeb05d23fa68fe793a",
+            "voice": "09ed730b5fea2a8b5efda68132f5c69b9cfa07cd7c3eb560e5bc4e6748a02b99"
+          }
+        },
+        {
+          "order": 6,
+          "text": "主人来接它的时候一直跟我道谢，我只会摆手说没关系。回去的路上，袖子上还留着一点它踩过的印子。",
+          "pose_id": "Default_4",
+          "japanese": "飼い主さんが迎えに来て、ずっとお礼を言ってくれて、ボクは手を振って「大丈夫です」としか言えなかった。帰り道、袖にはその子が踏んだ跡が少し残っていたよ。",
+          "pronunciation": "かいぬしさんがむかえにきて、ずっとおれいをいってくれて、ボクはてをふって「だいじょうぶです」としかいえなかった。かえりみち、そでにはそのこがふんだあとがすこしのこっていたよ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/89fb5bfec27c5ee6c38c4cafcf1c399ac9cff48619a46f991b4edb09721a5a5c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9799a9a877133bc9109187bd62acaf813ad191477eeb3b23520cd718f56c0197",
+            "japanese": "9799a9a877133bc9109187bd62acaf813ad191477eeb3b23520cd718f56c0197",
+            "audio": "cb7de43b49f43a344dd78b2c8d87929f578bbc173d40ae0b7a9a77ff6c9818f2",
+            "voice": "8befb56e30f2578bb31d099824ba173c38f32d38c911c5fa91e5adb7190db3c4"
+          }
+        },
+        {
+          "order": 7,
+          "text": "我盯着那个印子看了好久，说不上是高兴还是有点失落。",
+          "pose_id": "Cry_3",
+          "japanese": "その跡をしばらくじっと見ていた。嬉しいのか、少し寂しいのか、自分でもよく分からない。",
+          "pronunciation": "そのあとをしばらくじっとみていた。うれしいのか、すこしさびしいのか、じぶんでもよくわからない。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/bcbc94076f0e10da88b841d9ea283b181fae3deb570543e2bd93202fd440b2de.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "21b2f4c88a4eebf8c925d337f3911d0f19810b180721f1cf37d119d35fe1c80c",
+            "japanese": "21b2f4c88a4eebf8c925d337f3911d0f19810b180721f1cf37d119d35fe1c80c",
+            "audio": "ab9faba529874405f08593670a7d39cf9a182c37acc5f3f23edcb376f66be6ae",
+            "voice": "66c62419c63bcad95a21b5b4857d6dd347422a4a913d195086ff3f02520f72c9"
+          }
+        },
+        {
+          "order": 8,
+          "text": "要是以后我住的地方能养一只小动物，我希望它不要这么容易就跑丢，也希望它认得回家的路。这样就不用站在路口，等别人来把它接走了。",
+          "pose_id": "Explain_Default_1",
+          "japanese": "いつかボクの住む場所で小さい動物を飼えたら、こんなにすぐ逃げ出さない子がいいし、自分の家の帰り道もちゃんと分かる子がいいな。そうしたら、交差点に立って、誰かが迎えに来るのを待たなくて済むから。",
+          "pronunciation": "いつかボクのすむばしょでちいさいどうぶつをかえたら、こんなにすぐにげださないこがいいし、じぶんのいえのかえりみちもちゃんとわかるこがいいな。そうしたら、こうさてんにたって、だれかがむかえにくるのをまたなくてすむから。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/28d33f4e54f13670df2dcfeffb3310fdd3bd566e4c47b1aa4b33178164a362b0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ca42c9e6f95d5a33af4582ad1bd65b933ff160f043e307ea05591ccbf01696b4",
+            "japanese": "ca42c9e6f95d5a33af4582ad1bd65b933ff160f043e307ea05591ccbf01696b4",
+            "audio": "7e833211fdc2ca1012fe8683f5ecc0c318fa2c03cfa35109accec9643f5a32d5",
+            "voice": "ab81d3792978a7f1a59d1229d7c79f0a1bd8cf0d5ce9cb92c18a246e360fa1bb"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-78f4d37d-dc5e-4c01-aaf6-ac2ff3bc21bc",
+      "character_id": "Ema",
+      "text": "图书馆借的那本书，其实前天就读完了，可我还是拖到今天才去还。出门前我把它装进袋子里，又拿出来确认了一遍有没有折到书角。走到柜台前面，我又停住了。上次还书的时候我迟了两天，虽然那已经是很久以前的事，柜台的人大概早就忘了，我却一直记着。排队的时候我一直在想要不要说点什么，还是干脆什么都不说。最后我还是开口了，小声说了一句「上次迟了两天，对不起」。那个人愣了一下，然后笑着说，还回来了就好，这次还很早呢。我顺着她的话点了点头，转过身的时候，肩膀一下子松了下来。原来只有我一个人把这件事压在心上，压了那么久。出来以前，我又在书架上挑了一本，打算下周开始看。这一次，我打算在书里夹一张纸，把还书的日期写在上面。这样就不用一边看书一边数日子了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "图书馆借的那本书，其实前天就读完了，可我还是拖到今天才去还。出门前我把它装进袋子里，又拿出来确认了一遍有没有折到书角。",
+          "pose_id": "Tension_1",
+          "japanese": "図書館で借りた本、実はおととい読み終わってたんだけど、今日までずるずる延ばして、やっと返しに行くことにしたんだ。出かける前に袋に入れたんだけど、また出してきて、ページの角が折れてないか確認しちゃった。",
+          "pronunciation": "としょかんでかりたほん、じつはおとといよみおわってたんだけど、きょうまでずるずるのばして、やっとかえしにいくことにしたんだ。でかけるまえにふくろにいれたんだけど、まただしてきて、ページのかどがおれてないかかくにんしちゃった。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/682731eb22796979400388b2fb503bfccacab05321b974cf77f4caf28c814f48.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "7533840f5dbd9289cf7865eebd0a1e791eb7c1e3f26565e161342c0aa944f161",
+            "japanese": "7533840f5dbd9289cf7865eebd0a1e791eb7c1e3f26565e161342c0aa944f161",
+            "audio": "6dd80941782e5eedc2e31f0af06ba6f0071ffc16c5c07af2e2bd0aca997c47b2",
+            "voice": "3fe15c6c7c56c0eac5d68859a6cec7ca395b2cee41ca61ed16a760bad1013bed"
+          }
+        },
+        {
+          "order": 1,
+          "text": "走到柜台前面，我又停住了。上次还书的时候我迟了两天，虽然那已经是很久以前的事，柜台的人大概早就忘了，我却一直记着。",
+          "pose_id": "Tension_1",
+          "japanese": "カウンターの前に着いて、また足が止まっちゃった。前回返すのが二日遅れちゃって、もうずっと前のことだし、受付の人もきっと忘れてるんだろうけど……ボクはずっと覚えてたんだ。",
+          "pronunciation": "カウンターのまえについて、またあしがとまっちゃった。ぜんかいかえすのがふつかおくれちゃって、もうずっとまえのことだし、うけつけのひともきっとわすれてるんだろうけど……ボクはずっとおぼえてたんだ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/840fc69b18ae2ed6931ce6129e42a10252d740e932a274d6ecc2f33b884a0cb8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2b0d96bec11602368c863850717d89d031c198b065bd2002260a7156af4adc84",
+            "japanese": "2b0d96bec11602368c863850717d89d031c198b065bd2002260a7156af4adc84",
+            "audio": "6a8ebf86c4d72996cfe40176890280e096f5e65e0febc62a1e1886e6a8f4cd15",
+            "voice": "929dfea2c58699d891441158a58adf919c4cc791d5b82e327f93ada99a13b606"
+          }
+        },
+        {
+          "order": 2,
+          "text": "排队的时候我一直在想要不要说点什么，还是干脆什么都不说。最后我还是开口了，小声说了一句「上次迟了两天，对不起」。",
+          "pose_id": "Embarrassing_1",
+          "japanese": "並んでる間、何か言ったほうがいいのかな、それとも何も言わないほうがいいのかなって、ずっと考えてた。でも結局、口を開いて、小さな声で「この前、二日遅れちゃって、ごめんなさい」って言ったんだ。",
+          "pronunciation": "ならんでるあいだ、なにかいったほうがいいのかな、それともなにもいわないほうがいいのかなって、ずっとかんがえてた。でもけっきょく、くちをひらいて、ちいさなこえで「このまえ、ふつかおくれちゃって、ごめんなさい」っていったんだ。",
+          "voice_emotion": "低落与愧疚 · 道歉",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "25be1473e866d2ef",
+          "voice_status": "selected",
+          "voice_note": "语音标签：低落与愧疚 · 道歉",
+          "audio_file": "audio/ff2ba47394ac23a2bfb8a0ad34ec222afabce78e7947bbc3d8bc3fc6ca24ddd1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ba0fd395c0221e6ca13a3a1dbada65327def1b070564d2a8b4894619c260c370",
+            "japanese": "ba0fd395c0221e6ca13a3a1dbada65327def1b070564d2a8b4894619c260c370",
+            "audio": "4b595611843097f9d1b1c3caf7fcaa8289bcdb3ea0e43a903be524e9faa2c260",
+            "voice": "5ff54e0ed6aac2c2b7ceabd3235a3b878282757fd954796b176f512b18865cf3"
+          }
+        },
+        {
+          "order": 3,
+          "text": "那个人愣了一下，然后笑着说，还回来了就好，这次还很早呢。",
+          "pose_id": "Surprise_5",
+          "japanese": "その人は一瞬きょとんとして、それから笑って、「返してくれたらそれでいいですよ。今回はまだずいぶん早いですし」って言ってくれた。",
+          "pronunciation": "そのひとはいっしゅんきょとんとして、それからわらって、「かえしてくれたらそれでいいですよ。こんかいはまだずいぶんはやいですし」っていってくれた。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/d2144f80e7e492c231adb1fa02efd7aec7fcff6759d28428a3347427dec2811f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e0f8971f4fdd88752949d0e202ea82b7a41a8bf79d048c65160be423bfb4e73e",
+            "japanese": "e0f8971f4fdd88752949d0e202ea82b7a41a8bf79d048c65160be423bfb4e73e",
+            "audio": "a60528c195455ab8450a7afaa6046c82a8ddacae9d8e4f546d2f90853f5e65e7",
+            "voice": "fba76702ddd223dadd3da0ed42f43f236693a18961a68edb5bea02a55d526dc4"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我顺着她的话点了点头，转过身的时候，肩膀一下子松了下来。原来只有我一个人把这件事压在心上，压了那么久。",
+          "pose_id": "Explain_Default_3",
+          "japanese": "ボクはうなずいて、背を向けたとき、肩の力がふっと抜けたんだ。こんなこと、ずっと胸に抱えてたのはボクだけだったんだね。",
+          "pronunciation": "ボクはうなずいて、せをむけたとき、かたのちからがふっとぬけたんだ。こんなこと、ずっとむねにかかえてたのはボクだけだったんだね。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/3d494975fbff598c6476467403d938bba4637a7a88e94e1a871a1863e3969ea7.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b4a2b8207429bfedac67f731b77275fd1a1c7c1b203d54c87afc1ad2bbfaf830",
+            "japanese": "b4a2b8207429bfedac67f731b77275fd1a1c7c1b203d54c87afc1ad2bbfaf830",
+            "audio": "d5f0b84abe44929260283bc648d6239a922392d688f1b35f2a5ac6360dbcdac6",
+            "voice": "15c96c0b5a905672556ba8e48edf077e0ac808e6481ab06eee55901858e11c8d"
+          }
+        },
+        {
+          "order": 5,
+          "text": "出来以前，我又在书架上挑了一本，打算下周开始看。这一次，我打算在书里夹一张纸，把还书的日期写在上面。这样就不用一边看书一边数日子了。",
+          "pose_id": "Happy_2",
+          "japanese": "出る前に、本棚からまた一冊選んで、来週から読もうと思ってる。今度は本に紙を一枚はさんで、返す日をそこに書くつもりなんだ。そうすれば、読みながら日を数えなくてすむから。",
+          "pronunciation": "でるまえに、ほんだなからまたいっさつえらんで、らいしゅうからよもうとおもってる。こんどはほんにかみをいちまいはさんで、かえすひをそこにかくつもりなんだ。そうすれば、よみながらひをかぞえなくてすむから。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/3bb8e489d768deb08cbbb3e5f814040e081e0dc1002b4b5d88a0e1ce3b53b8c6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1d7d866ccbefb7528956e65e2663e76562cd373fcd9949fb569a7cf97fddbe0b",
+            "japanese": "1d7d866ccbefb7528956e65e2663e76562cd373fcd9949fb569a7cf97fddbe0b",
+            "audio": "52c22d6778339a0a2f92291ec4d76d88b3931bc15f5d1a8070b89d2203cec2f0",
+            "voice": "e65f2e1cec718cc8b9bd4fa063e4ca2549d29b834172463ced0f6378ccea19f2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-3626e93b-158e-4f4e-a5da-a5b852d2647e",
+      "character_id": "Ema",
+      "text": "半个月前我在文具店买了一个巴掌大的本子，每天睡前只写一两行，写完就塞到枕头底下。里面记的全是小事：谁说话之前会先叹一口气，谁吃到好吃的东西就会突然安静下来，谁笑起来其实比说话的时候多。我总觉得，这些细节要是不写下来，总有一天会像水一样从手里漏掉。可是前天翻回前面几页，我发现写来写去全是别人。“今天我没有哭”“今天我把想说的话说出口了”——这样的句子，我一句都没舍得写上去。因为写下来就好像在承认，我自己的事也值得占一行位置。这个念头冒出来的时候，我自己也愣了一下，它熟悉得让人有点讨厌。所以从昨天开始，我给自己定了个小规矩：每天至少要留一行给我自己。哪怕只是“今天煮蛋没有煮破”这种话，也要老老实实写上去。等这本写满一半，我大概就能比现在稍微喜欢自己一点点了。在那之前，我会先好好写完——不给你看，我自己留着。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "半个月前我在文具店买了一个巴掌大的本子，每天睡前只写一两行，写完就塞到枕头底下。",
+          "pose_id": "Default_3",
+          "japanese": "半月前、文房具屋で手のひらサイズのノートを買ったんだ。毎晩寝る前に一行か二行だけ書いて、書き終わったら枕の下にしまう。",
+          "pronunciation": "はんつきまえ、ぶんぼうぐやでてのひらサイズのノートをかったんだ。まいばんねるまえにいちぎょうかにぎょうだけかいて、かきおわったらまくらのしたにしまう。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/b08790567a214c6d8577e800cde3fccf2f98ebcbd60e795e21438051492d830d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "442734cfd3d4a62e5174a967297ac9544fe475001c1ff883026f8765b339a220",
+            "japanese": "442734cfd3d4a62e5174a967297ac9544fe475001c1ff883026f8765b339a220",
+            "audio": "2b8899b7ee47f21d9519a380850e1a6c0fdf7ec7bb206868c8ba331553cb772e",
+            "voice": "3d4af68c4346a7f2eb7974cd3e8a783efb6ec0c22b68006f4d6da819422c0910"
+          }
+        },
+        {
+          "order": 1,
+          "text": "里面记的全是小事：谁说话之前会先叹一口气，谁吃到好吃的东西就会突然安静下来，谁笑起来其实比说话的时候多。我总觉得，这些细节要是不写下来，总有一天会像水一样从手里漏掉。",
+          "pose_id": "Happy_3",
+          "japanese": "書いてあるのは、ぜんぶ小さなことばかり。誰かは話す前にまずため息をつくとか、誰かは美味しいものを食べると急に静かになるとか、誰かは話すときよりも笑っているときのほうが多いとか。こういう細かいところも、書きとめておかないと、いつか水みたいに手のあいだをこぼれてしまいそうで。",
+          "pronunciation": "かいてあるのは、ぜんぶちいさなことばかり。だれかははなすまえにまずためいきをつくとか、だれかはおいしいものをたべるときゅうにしずかになるとか、だれかははなすときよりもわらっているときのほうがおおいとか。こういうこまかいところも、かきとめておかないと、いつかみずみたいにてのあいだをこぼれてしまいそうで。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/1bf8ad6cbffc7fc39c53519157aaf641c9a4ea106909af552295a00ec45e7521.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "852431b1e13d323595254dc40aa797153b41156ac41cb506123a1c3dabf6b9cf",
+            "japanese": "852431b1e13d323595254dc40aa797153b41156ac41cb506123a1c3dabf6b9cf",
+            "audio": "966e75fc0383f49908798a57d40140aaa6218eb91734b0a55c14474c8910bc6b",
+            "voice": "600be09361448cc1d005e5e901875577793ec8a2516f756917e5291f8f752f37"
+          }
+        },
+        {
+          "order": 2,
+          "text": "可是前天翻回前面几页，我发现写来写去全是别人。“今天我没有哭”“今天我把想说的话说出口了”——这样的句子，我一句都没舍得写上去。",
+          "pose_id": "Thinking_6",
+          "japanese": "でもおととい、前のページをめくってみたら、書いてあるのはずっと他人のことばかりだった。「今日は泣かなかった」「今日は言いたいことを言えた」——そういう一行は、ボクはどれも書けずにいた。",
+          "pronunciation": "でもおととい、まえのページをめくってみたら、かいてあるのはずっとたにんのことばかりだった。「きょうはなかなかった」「きょうはいいたいことをいえた」——そういういちぎょうは、ボクはどれもかけずにいた。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/5fba8e7621f79ee22c54b134a465c460a364007488e4cba4934cbb71adf85c48.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4507deac27cef6f3077b98d06dcb043e4f5f9ce74069c56b0e14b5a07b2b2ee6",
+            "japanese": "4507deac27cef6f3077b98d06dcb043e4f5f9ce74069c56b0e14b5a07b2b2ee6",
+            "audio": "6e481654917f21344e4d8cac8af3aa00ab03139207698e807bbb097285692b36",
+            "voice": "f7116b9202237a60317ea5f43faaa288fbce2ce1b11651aefe88fa13ec89091a"
+          }
+        },
+        {
+          "order": 3,
+          "text": "因为写下来就好像在承认，我自己的事也值得占一行位置。这个念头冒出来的时候，我自己也愣了一下，它熟悉得让人有点讨厌。",
+          "pose_id": "Cry_2",
+          "japanese": "書いてしまったら、自分のことにも一行ぶんの場所があるって認めるみたいで。その考えが浮かんだとき、ボクは自分でも一瞬止まってしまった。あんまりにも馴染みすぎていて、少し嫌になるくらいだった。",
+          "pronunciation": "かいてしまったら、じぶんのことにもいちぎょうぶんのばしょがあるってみとめるみたいで。そのかんがえがうかんだとき、ボクはじぶんでもいっしゅんとまってしまった。あんまりにもなじみすぎていて、すこしやになるくらいだった。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/830d92829866c967777db5afd5069f3d7d23e12db6fe378acd6afad6a4e1a862.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9966febd150677750eec36837506b3e88742d1d520d0f2a6c3e101bfa31cde9d",
+            "japanese": "9966febd150677750eec36837506b3e88742d1d520d0f2a6c3e101bfa31cde9d",
+            "audio": "eac1eaf0d9569fa0aa04bd2468327d44745e1ccf82927551db0e1001f113646e",
+            "voice": "1ebd6d7fa2d27aeb3608b300531754beb78de2e5225219d0216d6e8d8d2a09f4"
+          }
+        },
+        {
+          "order": 4,
+          "text": "所以从昨天开始，我给自己定了个小规矩：每天至少要留一行给我自己。哪怕只是“今天煮蛋没有煮破”这种话，也要老老实实写上去。",
+          "pose_id": "Explain_Default_3",
+          "japanese": "だから昨日から、自分に小さな約束を決めた。一日に少なくとも一行は、自分のために残すって。たとえ「今日はゆで卵が割れなかった」みたいなことでも、ちゃんと書き込む。",
+          "pronunciation": "だからきのうから、じぶんにちいさなやくそくをきめた。いちにちにすくなくともいちぎょうは、じぶんのためにのこすって。たとえ「きょうはゆでたまごがわれなかった」みたいなことでも、ちゃんとかきこむ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/dd38f145621e001ee635cfcd38d302877212dfc1eacc50b9ba90208e5c848d7e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "830527c00f8d461dc7ee04cd24bfdbb407f41c67145e91f4e3791ccd84aa2bde",
+            "japanese": "830527c00f8d461dc7ee04cd24bfdbb407f41c67145e91f4e3791ccd84aa2bde",
+            "audio": "4eddb05ba28e28d3460313d467dceef48fda9ef939ff4a0d9eac3d10fd137ad8",
+            "voice": "d32bae9493df4ea098881bc4df79aa8e91dbd0fbabfcb434c165ae06698dae7c"
+          }
+        },
+        {
+          "order": 5,
+          "text": "等这本写满一半，我大概就能比现在稍微喜欢自己一点点了。在那之前，我会先好好写完——不给你看，我自己留着。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "このノートが半分まで埋まったら、そのときは今より少しだけ、自分のことが好きになれているかもしれない。それまでは、ちゃんと最後まで書き続けるつもり。……見せないよ。これはボクが自分で持っているものだから。",
+          "pronunciation": "このノートがはんぶんまでうまったら、そのときはいまよりすこしだけ、じぶんのことがすきになれているかもしれない。それまでは、ちゃんとさいごまでかきつづけるつもり。……みせないよ。これはボクがじぶんでもっているものだから。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/c35bf2f0884d4e6f3a7046a31ee3f2c48e6ec75244ec41bc55fe7dbc99d3275b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3aa6c0a3bc9ff32d2efccf5cf9e113c7c12d89041ac7c05829e4c5a2d11a416e",
+            "japanese": "3aa6c0a3bc9ff32d2efccf5cf9e113c7c12d89041ac7c05829e4c5a2d11a416e",
+            "audio": "24183dea03538c0cdc084e11a0db87a117a046d3dfe18604342c38b8b69509e3",
+            "voice": "4d196b139245c065d9e3cb456bad56cf7835f6cd75466ecc53dfcd29dfefc018"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-a40207eb-1d14-488b-882c-ab738a967758",
+      "character_id": "Ema",
+      "text": "上周买的书架，我自己照着说明书装好了。收工的时候工具箱里多出一颗螺丝，我没敢细想，就把书摆了上去。半夜听见“咔哒”一声，最上面那层歪了，几本书滑下来摊在地上。我蹲在那儿看了很久，一边觉得好笑，一边又有点不甘心。明明每根木条我都对过，孔位也数了三遍。大概是哪块板装反了——可到底是哪一块，我到现在都没想出来。我动过找人帮忙的念头，话到嘴边又咽了回去。这种事好像太小题大做了，麻烦别人总让我心里发慌。所以明天我打算把它整个拆开，从头再装一次。这次不跳步骤，也不逞强。要是还是多出一颗螺丝……那我就拍张照片，去问别人好了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "上周买的书架，我自己照着说明书装好了。收工的时候工具箱里多出一颗螺丝，我没敢细想，就把书摆了上去。",
+          "pose_id": "Explain_Default_4",
+          "japanese": "先週買った本棚、説明書を見ながら自分で組み立てたんだ。作業が終わったとき、道具箱にネジが一本余っていて、深く考えないまま本を並べたよ。",
+          "pronunciation": "せんしゅうかったほんだな、せつめいしょをみながらじぶんでくみたてたんだ。さぎょうがおわったとき、どうぐばこにねじがいっぽんあまっていて、ふかくかんがえないままほんをならべたよ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/3b0cf0544c53622dbec65ed2ed26234e1728a6ec3f8e2ab8b426cce58e13a4c5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "10e268ac3c5f3594ee081490f1b99dfbf5bf5776db57f55deb05bec289babcf1",
+            "japanese": "10e268ac3c5f3594ee081490f1b99dfbf5bf5776db57f55deb05bec289babcf1",
+            "audio": "7871da7749b0b5fe1dcd773b0ed50cfb9361e34b18749700c873a08a892f47db",
+            "voice": "adebfd9647552a123c1daccb5bd342f7efd3956fd29e262673dee08429a34da7"
+          }
+        },
+        {
+          "order": 1,
+          "text": "半夜听见“咔哒”一声，最上面那层歪了，几本书滑下来摊在地上。我蹲在那儿看了很久，一边觉得好笑，一边又有点不甘心。",
+          "pose_id": "Surprise_6",
+          "japanese": "夜中に「カチッ」って音がして、一番上の段が傾いて、何冊かの本が滑り落ちて床に散らばってた。しゃがんでしばらく眺めてたんだけど、おかしいなって思う気持ちと、ちょっと悔しい気持ちが半分ずつだった。",
+          "pronunciation": "よなかに「カチッ」っておとがして、いちばんうえのだんがかたむいて、なんさつかのほんがすべりおちてゆかにちらばってた。しゃがんでしばらくながめてたんだけど、おかしいなっておもうきもちと、ちょっとくやしいきもちがはんぶんずつだった。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/4327d56302aae78f080bac4bfdf67a6b5361ee1098f214e37e881ef5d237a53d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6b01f09f748e7b5aae1a831c32aed48fbdb9440ed91cb5eb83d2f8449bbbbe8b",
+            "japanese": "6b01f09f748e7b5aae1a831c32aed48fbdb9440ed91cb5eb83d2f8449bbbbe8b",
+            "audio": "24fb6df1a7b9a606d0213ec405d52f7bb50f8945ddb10bbb45af0ac14483bf84",
+            "voice": "e84c88b515617c81862a3eca3649e6616568a2820880dd5e2278bbf9cd7858d1"
+          }
+        },
+        {
+          "order": 2,
+          "text": "明明每根木条我都对过，孔位也数了三遍。大概是哪块板装反了——可到底是哪一块，我到现在都没想出来。",
+          "pose_id": "Thinking_1",
+          "japanese": "木の板は一本ずつ確かめたし、穴の位置も三回は数えたのに。たぶんどこかの板を逆に付けたんだと思う——でも、それがどこなのか、今もまだ分からないんだ。",
+          "pronunciation": "きのいたはいっぽんずつたしかめたし、あなのいちもさんかいはかぞえたのに。たぶんどこかのいたをぎゃくにつけたんだとおもう——でも、それがどこなのか、いまもまだわからないんだ。",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/531c6ac4b2924cf8d3ba869dab5d993ef29ce14e02da0ef8653760f9db3d622d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6b67e56ef2c69ae56ce934055ac8d40e03a7bfc62c4d4b1fd6b02bf104aa3500",
+            "japanese": "6b67e56ef2c69ae56ce934055ac8d40e03a7bfc62c4d4b1fd6b02bf104aa3500",
+            "audio": "8d7d10b5da68f449ec5ed74b3d2cea0d87fed50806a73137e769a0ee315169aa",
+            "voice": "6f4476c48a3ae3dbfb7e72856d5981b5915ca14515aeba7aece10b5e1a566022"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我动过找人帮忙的念头，话到嘴边又咽了回去。这种事好像太小题大做了，麻烦别人总让我心里发慌。",
+          "pose_id": "Feature_Extremely_1",
+          "japanese": "誰かに手伝ってもらおうかなって思ったこともあったけど、言葉が出かけて、また飲み込んじゃった。こんなこと、大げさすぎる気がして、人に迷惑をかけるのはいつも不安になる。",
+          "pronunciation": "だれかにてつだってもらおうかなっておもったこともあったけど、ことばがでかけて、またのみこんじゃった。こんなこと、おおげさすぎるきがして、ひとにめいわくをかけるのはいつもふあんになる。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/25fa2a61e397e1ed5005c16281194d0e7f4c2a04922906d918b21905b0c6aabc.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6d2ce2c09c05ae990308b8eb39004870f5d7932abdf32a9c0008e50f5146b4a2",
+            "japanese": "6d2ce2c09c05ae990308b8eb39004870f5d7932abdf32a9c0008e50f5146b4a2",
+            "audio": "851ddd9eb053cbd6302ed8dfdcb9d0e2954188c8d2c86766fd1598c3005f30a4",
+            "voice": "5223b4db59cbc247af15f86e2bff4542871b9fdcb4cf89c85ef317a23c07be76"
+          }
+        },
+        {
+          "order": 4,
+          "text": "所以明天我打算把它整个拆开，从头再装一次。这次不跳步骤，也不逞强。",
+          "pose_id": "Default_5",
+          "japanese": "だから明日は、全部ばらして、最初からもう一度組み立ててみるつもり。今度は手順を飛ばさないで、無理もしないよ。",
+          "pronunciation": "だからあしたは、ぜんぶばらして、さいしょからもういちどくみたててみるつもり。こんどはてじゅんをとばさないで、むりもしないよ。",
+          "voice_emotion": "平静 · 提醒与说明",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "cf0605b5d425834a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 提醒与说明",
+          "audio_file": "audio/443abc9ad132bd0363818b6e95a27ebd422ea7a74f52d702f2443e5392dada29.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c8251c808b7ee387f4afd131106e6b815eba4e6f7f9a40fbb3d991f36ff01a2d",
+            "japanese": "c8251c808b7ee387f4afd131106e6b815eba4e6f7f9a40fbb3d991f36ff01a2d",
+            "audio": "7ca5c2908c8f305f3d0226f320e4c4a3028f5debf7036aed92da695f20e0e74f",
+            "voice": "c3bb32a668506a80076c040fd13b6ebcb5399e0906ce9ef9cc94a771d1276141"
+          }
+        },
+        {
+          "order": 5,
+          "text": "要是还是多出一颗螺丝……那我就拍张照片，去问别人好了。",
+          "pose_id": "Happy_2",
+          "japanese": "それでもまだネジが一本余ったら……写真を撮って、誰かに聞いてみるね。",
+          "pronunciation": "それでもまだねじがいっぽんあまったら……しゃしんをとって、だれかにきいてみるね。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/55632bf824da620e6a7937c2deb72480673bfd159b4461c3b3e5129b406fe051.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9663a720e3e3f23c318abb21578139a45d3d321ebb777d5c2b259cf8674e073e",
+            "japanese": "9663a720e3e3f23c318abb21578139a45d3d321ebb777d5c2b259cf8674e073e",
+            "audio": "af2b70f2ef80055760ec788d9fe6c8b51e92e5b907d346ba8d7b292799acd6cb",
+            "voice": "ef7f788d975331b21246911960240a705c3c3006a7055e742e9ed72143c05359"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-41f26afd-faaf-4f61-8e5f-3f636ab91ea5",
+      "character_id": "Ema",
+      "text": "前几天有人把一辆旧自行车让给了我，车铃是坏的，但踩起来还算稳。今天我推着它去了河边那片空地，想着怎么也得学会，不然放着太可惜了。一开始我连车把都扶不正，脚一离地就慌，摔了两次，膝盖上现在还有一块印子。奇怪的是，摔完以后我反而没那么怕了，爬起来接着试。后来我居然真的骑出十几米，风从耳边过去的时候，我高兴得差点叫出来，又赶快闭上嘴，怕被人看见我这么兴奋的样子。停下来的时候我才发现，自己一路上都屏着呼吸。可要是搁在以前，我遇到什么事，第一反应总是先躲开；今天摔了两次，我还是自己爬上去继续骑了。明天我还想去，大概会骑得远一点。要是路上看到什么好吃的，就当是给自己的奖励吧。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "前几天有人把一辆旧自行车让给了我，车铃是坏的，但踩起来还算稳。今天我推着它去了河边那片空地，想着怎么也得学会，不然放着太可惜了。",
+          "pose_id": "Default_1",
+          "japanese": "この前、古い自転車を譲ってもらったんだ。ベルは壊れてるけど、漕ぐのはまあまあ安定してる。今日はそれを押して、川沿いの空き地まで行ってきた。どうしても乗れるようになりたいし、そのまま置いておくのはもったいないから。",
+          "pronunciation": "このまえ、ふるいじてんしゃをゆずってもらったんだ。ベルはこわれてるけど、こぐのはまあまああんていしてる。きょうはそれをおして、かわぞいのあきちまでいってきた。どうしてものれるようになりたいし、そのままおいておくのはもったいないから。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/259b36e2fa740f1884227d5be0af11b5d539d8092d69f65f84296383dbf1e190.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "cd3ab0442093bfec8e1f79a5e5c10f6926b9b76a5095d6c0653de2255263d176",
+            "japanese": "cd3ab0442093bfec8e1f79a5e5c10f6926b9b76a5095d6c0653de2255263d176",
+            "audio": "22284f5c27402ed5ced863cff765742c9026bc699aade45dbfadafcaa19eca3b",
+            "voice": "c8f7dca5b16d1877d05f0da3d690e766c20270d4daa4fafb033ebb8661d620b0"
+          }
+        },
+        {
+          "order": 1,
+          "text": "一开始我连车把都扶不正，脚一离地就慌，摔了两次，膝盖上现在还有一块印子。奇怪的是，摔完以后我反而没那么怕了，爬起来接着试。",
+          "pose_id": "Fearful1_17",
+          "japanese": "最初はハンドルもうまくまっすぐに持てなくて、足が地面から離れるだけで慌てちゃって、二回も転んだんだ。今も膝に跡が残ってる。でも不思議なことに、転んだあとは前より怖くなくなって、起き上がってまた練習を続けたよ。",
+          "pronunciation": "さいしょはハンドルもうまくまっすぐにもてなくて、あしがじめんからはなれるだけであわてちゃって、にかいもころんだんだ。いまもひざにあとがのこってる。でもふしぎなことに、ころんだあとはまえよりこわくなくなって、おきあがってまたれんしゅうをつづけたよ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/3983e12410657c441270f8abaa5327c04fb5e9a0cbd793279f12a8ee3a927a2a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9a699793d7770a969bffb115bf179ecd41d0f7ae68ff8c7633e4458ad3078ee8",
+            "japanese": "9a699793d7770a969bffb115bf179ecd41d0f7ae68ff8c7633e4458ad3078ee8",
+            "audio": "f0b11d157d6adf48cefcb66d82cd05251de4cce6de5815d701192ea9742d3616",
+            "voice": "f2bba6365d6a0f09a932eeed5d38b3aea0d7fc8cdc407e71742fb385e2715331"
+          }
+        },
+        {
+          "order": 2,
+          "text": "后来我居然真的骑出十几米，风从耳边过去的时候，我高兴得差点叫出来，又赶快闭上嘴，怕被人看见我这么兴奋的样子。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "それから、本当に十メートル以上は漕げたんだ。風が耳の横を通っていくとき、嬉しくて思わず叫びそうになって、慌てて口を押さえた。あんなに興奮してる姿、誰かに見られたくなかったから。",
+          "pronunciation": "それから、ほんとうにじゅうメートルいじょうはこげたんだ。かぜがみみのよこをとおっていくとき、うれしくておもわずさけびそうになって、あわててくちをおさえた。あんなにこうふんしてるすがた、だれかにみられたくなかったから。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/14160fc81e0402d31103b7bd67140583a19eb9410e94f2fb7e6d6df6615b2073.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9d7b92e6f40dfee56eb8eeda092fd4a8961ee30e9440c74a04ea9113752eed7f",
+            "japanese": "9d7b92e6f40dfee56eb8eeda092fd4a8961ee30e9440c74a04ea9113752eed7f",
+            "audio": "69105edb27423e00a6ca97401eb8dc106ead2ee78c3c6bfec52d99ecbb7981d6",
+            "voice": "2470707f1014763a3fe988b85e34fe0bbcca1441da00b6e0b7bf31731e63bbf7"
+          }
+        },
+        {
+          "order": 3,
+          "text": "停下来的时候我才发现，自己一路上都屏着呼吸。可要是搁在以前，我遇到什么事，第一反应总是先躲开；今天摔了两次，我还是自己爬上去继续骑了。",
+          "pose_id": "Thinking_4",
+          "japanese": "止まったときになって、自分がずっと息を止めていたことに気づいた。でも、昔だったら何かあるとまず逃げてばかりだったのに、今日は二回も転んで、それでも自分で立ち上がってまた漕いだんだ。",
+          "pronunciation": "とまったときになって、じぶんがずっといきをとめていたことにきづいた。でも、むかしだったらなにかあるとまずにげてばかりだったのに、きょうはにかいもころんで、それでもじぶんでたちあがってまたこいだんだ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/aa6974b6a278b088c6149ee69d58deaae869da9b390cb2a3654bd28d63b41fd1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3e584b2df55c42e3487dc8fec288b469ae9b733b678721aed926d3aef726ca72",
+            "japanese": "3e584b2df55c42e3487dc8fec288b469ae9b733b678721aed926d3aef726ca72",
+            "audio": "b9eb2af71d3184e14934df71b12354d61bd9c8599e6dd2c84b87a57911f55bd5",
+            "voice": "f5edb679b4b0e01fcc3eb52e9470755a739db5e5a99db4457ab6164323da236f"
+          }
+        },
+        {
+          "order": 4,
+          "text": "明天我还想去，大概会骑得远一点。要是路上看到什么好吃的，就当是给自己的奖励吧。",
+          "pose_id": "Happy_5",
+          "japanese": "明日もまた行きたいな。たぶん、もう少し遠くまで漕げると思う。途中で何か美味しいものを見つけたら、自分へのご褒美ってことにしよう。",
+          "pronunciation": "あしたもまたいきたいな。たぶん、もうすこしとおくまでこげるとおもう。とちゅうでなにかおいしいものをみつけたら、じぶんへのごほうびってことにしよう。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/953ae4a84a5b44a96a4622dc856a397f102181612609a0ae1deb3121d00cd491.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "30547194c5bb6b2b13520bbef28120839c11f1a46f71799f684a29e6d9b56687",
+            "japanese": "30547194c5bb6b2b13520bbef28120839c11f1a46f71799f684a29e6d9b56687",
+            "audio": "c20f62c0b138a43fe5086b559c39d82688f03d27388d0cd456dae0b320981a43",
+            "voice": "e60013bc791adb34d9f094c2ea18ac14795524e66bcffab60a418f33afe01e76"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-ff425086-446e-406c-9f5a-b4ec79b2e94d",
+      "character_id": "Ema",
+      "text": "今天早上我是被窗外的车声吵醒的。睁开眼睛的时候我愣了一会儿，因为想不起来昨晚做过什么梦。在岛上，睡觉对我来说一直是最害怕的事。闭上眼睛就会有东西追过来，所以我总是撑到实在困得不行，才敢躺下去。这几天晚上我没有再做那个梦。不是不怕了，只是好像不用那么用力地醒着了。早上睁开眼，房间还是原来的样子，这一件事就已经够了。我没有告诉别人。等哪天连着一个月都这样，我大概会把它当成很平常的事说出口吧。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天早上我是被窗外的车声吵醒的。睁开眼睛的时候我愣了一会儿，因为想不起来昨晚做过什么梦。",
+          "pose_id": "Simle_1",
+          "japanese": "今朝は、ボク、窓の外の車の音で目を覚ました。目を開けたとき、ちょっと固まっちゃった。だって、昨晩どんな夢を見たのか思い出せなかったから。",
+          "pronunciation": "けさ は、ぼく、まど の そと の くるま の おと で め を さました。め を あけた とき、ちょっと かたまっちゃった。だって、ゆうべ どんな ゆめ を みた の か おもいだせなかった から。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/734c2074d8873e73b8b83d3dcbfb41f40f98f698ebda393035ed5452c3174afd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d4ae9b235b7496a0179958b45e5ef6a7a2244d05487bafb07f3d209776ad4d3b",
+            "japanese": "d4ae9b235b7496a0179958b45e5ef6a7a2244d05487bafb07f3d209776ad4d3b",
+            "audio": "ef8922a2c22d6c1a6d638e8ba953dd12e0aa6d37654668ad9cd71be493b3f73d",
+            "voice": "81667ced54ca10c1226f9f20642b908a41a833c533971fb8bf402be30062e86c"
+          }
+        },
+        {
+          "order": 1,
+          "text": "在岛上，睡觉对我来说一直是最害怕的事。闭上眼睛就会有东西追过来，所以我总是撑到实在困得不行，才敢躺下去。",
+          "pose_id": "Sad_4",
+          "japanese": "島では、眠ることがボクにとってずっと一番怖いことだった。目を閉じると何かが追いかけてくるから、本当に眠くて仕方なくなるまで頑張って、やっと横になったんだ。",
+          "pronunciation": "しま では、ねむる こと が ぼく にとって ずっと いちばん こわい こと だった。め を とじる と なにか が おいかけて くる から、ほんとう に ねむくて しかたなく なる まで がんばって、やっと よこ に なった んだ。",
+          "voice_emotion": "弱害怕 · 夜间内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0753ac01636bc3a6",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱害怕 · 夜间内心独白",
+          "audio_file": "audio/50735fc0efe3898dbe725369e03430faafa18ab4bded938f55369aedcc35346c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4b1e955bc22eb50cd01e14439c0653fe8f09c75bc7f84ccd04aaf352c80a2b82",
+            "japanese": "4b1e955bc22eb50cd01e14439c0653fe8f09c75bc7f84ccd04aaf352c80a2b82",
+            "audio": "cfaea5f528e9946cb2a5a95f64d4b224953aae66e5d940b9b1fadad8905b54cd",
+            "voice": "602eaf843a1ed7675fbcf92dffcc5aaffb342f82bbc7bb4bc6b4729600a78396"
+          }
+        },
+        {
+          "order": 2,
+          "text": "这几天晚上我没有再做那个梦。不是不怕了，只是好像不用那么用力地醒着了。",
+          "pose_id": "Default_5",
+          "japanese": "ここ数日の夜は、あの夢を見なかった。怖くなくなったわけじゃなくて、ただ、そんなに力いっぱい起きていなくてもいいみたいなんだ。",
+          "pronunciation": "ここ すうじつ の よる は、あの ゆめ を みなかった。こわく なくなった わけ じゃ なくて、ただ、そんな に ちからいっぱい おきて いなくても いい みたい なんだ。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/8667cd01eec8660f512d4208e7620327785307fe5c925a3967ae363d219fed89.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "222d996b11e7ae1e6cbea4ff1d3154147b6be4b3baa7c6016f7bf4db27f3b380",
+            "japanese": "222d996b11e7ae1e6cbea4ff1d3154147b6be4b3baa7c6016f7bf4db27f3b380",
+            "audio": "b201dd9b669e9f41f4cf381a1fdce6c4bf35cd8c9c10d2884d84c6cb99be20eb",
+            "voice": "5c98de3429334839ced1306cc89b9a272c083ade111424c45172758d72897326"
+          }
+        },
+        {
+          "order": 3,
+          "text": "早上睁开眼，房间还是原来的样子，这一件事就已经够了。",
+          "pose_id": "Explain_Excited_1",
+          "japanese": "朝、目を開けたら、部屋は元のままで。それだけで、もう十分なんだ。",
+          "pronunciation": "あさ、め を あけたら、へや は もと の まま で。それ だけ で、もう じゅうぶん なんだ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/8adc9cb80f4f03d1191292a7b64ce1084152f225c78a6519c513a57deb63a8fd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4f8af3d25510a69055b2b3d57773975d11189ad057dba0693b90d25e1b3d424d",
+            "japanese": "4f8af3d25510a69055b2b3d57773975d11189ad057dba0693b90d25e1b3d424d",
+            "audio": "a59b110acd04f9931afd89775ae25498769407c55d7cb23df5bd5f2d975fa6ee",
+            "voice": "669600d7f74154019abf55866357de888668e53bfcd41caaac19ea90aaf0c87b"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我没有告诉别人。等哪天连着一个月都这样，我大概会把它当成很平常的事说出口吧。",
+          "pose_id": "Embarrassing_1",
+          "japanese": "誰にも言ってない。いつか一ヶ月ずっとこうなったら、そのときはたぶん、なんでもないことみたいに話せると思う。",
+          "pronunciation": "だれ にも いって ない。いつか いっかげつ ずっと こう なったら、その とき は たぶん、なんでも ない こと みたい に はなせる と おもう。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/83717ec0fa62661f4fb12708c12130e187790034622ce753f45cc1c93b0e5e2f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e88ebc2fbc83ed388f9db5897a155259b0a6d7d4661df4cf918906d27581ceed",
+            "japanese": "e88ebc2fbc83ed388f9db5897a155259b0a6d7d4661df4cf918906d27581ceed",
+            "audio": "4c851acefbbee67338cfe55be53d039114f48cb49979236574f07d9d49e9c415",
+            "voice": "11fef10e7624daf9d80b343556155ae6bf6c9f00f89f2e851286d192a5d9204f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-741fdd24-79ab-4c2c-898e-2f6897b211a2",
+      "character_id": "Ema",
+      "text": "晾在阳台上的毛巾被风卷走了。我追到楼下，在院子外面的矮墙上找到了它，一角沾了泥。我站在那儿犹豫了很久，手伸出去又缩回来——万一人家觉得我擅自靠近很可疑，怎么办？最后我什么都没做，红着脸跑回了家，一晚上都在想那条毛巾。第二天早上开门，它被叠得整整齐齐，放在门口的信箱上面。泥洗掉了，晾得半干，边角还压着一小块石头，大概是怕它再被风吹跑。我捧着它站了好一会儿。原来有人默默就把事情处理好了，而我连一句谢谢都还没说出口。所以我剪了一张纸，写了一行字，准备贴到那户人家的信箱上。写的时候手有点抖，字也有点歪，不过这次，我打算不缩回去了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "晾在阳台上的毛巾被风卷走了。",
+          "pose_id": "Surprise_4",
+          "japanese": "ベランダに干していたタオルが、風に巻き上げられて飛ばされてしまったの。",
+          "pronunciation": "べらんだに ほしていた たおるが、かぜに まきあげられて とばされてしまったの。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "degraded",
+          "voice_note": "使用替代语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/595e9a2714f16f3762113d17f7888b3c0a21bfe409cf9762292048ac05470885.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6f8759fa782542c5a277be3eec623480fb4603764168c921eb8fbc36e08214c1",
+            "japanese": "6f8759fa782542c5a277be3eec623480fb4603764168c921eb8fbc36e08214c1",
+            "audio": "947a9fa786c9caa470b41c7baa31b389661bb6bebc1ed2405ad1fd6139ed095d",
+            "voice": "21c82621ebe10eda1e125c8ff1ef6aa3ae6255f8868ab07d4adda1d284cf9ecb"
+          }
+        },
+        {
+          "order": 1,
+          "text": "我追到楼下，在院子外面的矮墙上找到了它，一角沾了泥。我站在那儿犹豫了很久，手伸出去又缩回来——万一人家觉得我擅自靠近很可疑，怎么办？",
+          "pose_id": "Fearful1",
+          "japanese": "わたしは下まで追いかけていって、庭の外側の低い塀のところで見つけたの。端っこに泥がついていた。そこでしばらく迷って、手を伸ばしては引っ込めて——もし勝手に近づいて、変に思われたらどうしようって。",
+          "pronunciation": "わたしは したまで おいかけていって、にわの そとがわの ひくい へいの ところで みつけたの。はしっこに どろが ついていた。そこで しばらく まよって、てを のばしては ひっこめて——もし かってに ちかづいて、へんに おもわれたら どうしようって。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/5de3bf6f5553e561f7e50726c4ce72956cbc025aefe78c522b6104870d3e0a13.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e0b1ab0f50c5570c869e052e9384a0432493bb3933abc6cca5ed50afdef89559",
+            "japanese": "e0b1ab0f50c5570c869e052e9384a0432493bb3933abc6cca5ed50afdef89559",
+            "audio": "e56044af84cefaf395c6729621723a085cd75c6be9d76502b1185e6607c5f97d",
+            "voice": "786a76e75e109d8dcaa6d910ae2ac1750975ef4be6868e4c0c8a01991a093777"
+          }
+        },
+        {
+          "order": 2,
+          "text": "最后我什么都没做，红着脸跑回了家，一晚上都在想那条毛巾。",
+          "pose_id": "Sad_3",
+          "japanese": "結局何もできなくて、顔を赤くしたまま家に帰って、一晩ずっとあのタオルのことを考えていたの。",
+          "pronunciation": "けっきょく なにも できなくて、かおを あかくしたまま いえに かえって、ひとばん ずっと あの たおるの ことを かんがえていたの。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/bc3e47ee45879d22800f8ff33808d9c5160d26cf261b2c3034b8412ebb1a4755.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "148af11725492e23b2746e93d545af9c4c5e56642f413c0328545bdd6d81fa81",
+            "japanese": "148af11725492e23b2746e93d545af9c4c5e56642f413c0328545bdd6d81fa81",
+            "audio": "c88ea27581b4085238be334a1674d966da5588887c09d407ae8830e93f34dd9b",
+            "voice": "dd636c40a75989bbfbaeca08a8550d301b7a20b96766cfb167acdacad3ab1764"
+          }
+        },
+        {
+          "order": 3,
+          "text": "第二天早上开门，它被叠得整整齐齐，放在门口的信箱上面。泥洗掉了，晾得半干，边角还压着一小块石头，大概是怕它再被风吹跑。",
+          "pose_id": "Surprise_2",
+          "japanese": "次の日の朝、ドアを開けたら、それはきちんと畳まれて、玄関の郵便受けの上に置いてあったの。泥は落とされていて、半分くらい乾いていて、端っこには小さな石が乗せてあって——たぶん、また風に飛ばされないようにしてくれたんだと思う。",
+          "pronunciation": "つぎのひの あさ、どあを あけたら、それは きちんと たたまれて、げんかんの ゆうびんうけの うえに おいてあったの。どろは おとされていて、はんぶんくらい かわいていて、はしっこには ちいさな いしが のせてあって——たぶん、また かぜに とばされないように してくれたんだと おもう。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/6b7a7e6994d5fef5ab360e01c68e857d18e62067e202644bdb134d1a9a19ff38.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6debf1148ddf479b5ddfae6490293fd026511d011a124bbd3c172c5fd7e6a5b0",
+            "japanese": "6debf1148ddf479b5ddfae6490293fd026511d011a124bbd3c172c5fd7e6a5b0",
+            "audio": "88921d0cd78c379ef2d2704bcb3cc96e9b0961ee01fa3c60ec8659409d4e0c93",
+            "voice": "47055b72f4acbbc060a1a5f92a02b95132c6a69d5c4260cd3b1438b97348d97c"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我捧着它站了好一会儿。原来有人默默就把事情处理好了，而我连一句谢谢都还没说出口。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "わたしはそれを抱えたまま、しばらく立っていたの。だれかが黙って片づけてくれていたのに、わたしはまだ「ありがとう」の一言も言えていなかったから。",
+          "pronunciation": "わたしは それを かかえたまま、しばらく たっていたの。だれかが だまって かたづけてくれていたのに、わたしは まだ「ありがとう」の ひとことも いえていなかったから。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/ba583dfeb9546253cc61403cffb4a28943e93beeb8137e7825a31c057ae9a2a9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0a4f345670d7f46b4ad13f748e87a36639cbbf8aa4a7f9c7ae96d0032ac3da61",
+            "japanese": "0a4f345670d7f46b4ad13f748e87a36639cbbf8aa4a7f9c7ae96d0032ac3da61",
+            "audio": "0fa1cce78bcd57b66f037e4f72b34d9702a2a201170a130804aa4780711a51d2",
+            "voice": "3903d36b3ef3e27375658737810e11881101becf65ca2ea10829a5323ce6126b"
+          }
+        },
+        {
+          "order": 5,
+          "text": "所以我剪了一张纸，写了一行字，准备贴到那户人家的信箱上。写的时候手有点抖，字也有点歪，不过这次，我打算不缩回去了。",
+          "pose_id": "Default_2",
+          "japanese": "だから紙を一枚切って、一行だけ書いて、あの家の郵便受けに貼りにいくことにしたの。書いているときは手が少し震えて、字も少し曲がったけれど、今度は、もう引っ込めないつもり。",
+          "pronunciation": "だから かみを いちまい きって、いちぎょうだけ かいて、あの いえの ゆうびんうけに はりにいく ことに したの。かいていた ときは てが すこし ふるえて、じも すこし まがったけれど、こんどは、もう ひっこめない つもり。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/b104d439177f4c995a3443a4af941da2b70d06d3d8f88c9780801243b44cf26f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c627d26ee0e5dc4d1d6e35d5a3b6970516fb8af070bc03ae722c3553ea513e41",
+            "japanese": "c627d26ee0e5dc4d1d6e35d5a3b6970516fb8af070bc03ae722c3553ea513e41",
+            "audio": "ae1c9a7d3e6e7fb72daaf31bf9063d6c14030dc4e3215226e18bf30ce8750ab9",
+            "voice": "573de624c632869d030e257235dd80fa94b5c6a333da455cdfcda75c7f3a05e5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-a62c64e3-c117-4eed-90aa-19949f41d480",
+      "character_id": "Ema",
+      "text": "刚才在房间里，我试着把「初次见面，请多指教」这句话小声念了几遍。念到第三遍的时候，我才发现自己一直把名字说得又快又轻，像是怕有人听见。于是我又重新来了一次，慢慢地、把自己的名字清楚地念出来。房间里明明只有我一个人，声音落下来的时候，听起来却有点像别人的。以前在人多的地方，我只要一开口就会先看别人的脸色，话还没说完，就先想好了要道歉的部分。现在想想，那时候的我很怕自己占位置吧。所以我给自己定了一个练习：每天把这句话念三遍，一句比一句响一点。等到真的站在别人面前，就算手还在抖，声音也要先出去。念到最后一遍的时候，我忽然有点想笑。因为这一次，我没有在句尾加上「对不起」。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "刚才在房间里，我试着把「初次见面，请多指教」这句话小声念了几遍。念到第三遍的时候，我才发现自己一直把名字说得又快又轻，像是怕有人听见。",
+          "pose_id": "Thinking_4",
+          "japanese": "さっき部屋で、『はじめまして、よろしくお願いします』って言葉を、小さな声で何度か練習してみたんだ。三回目に言ったとき、ボクはずっと自分の名前を、早口で小さく言っていたって気づいた。誰かに聞かれるのが怖いみたいに。",
+          "pronunciation": "さっきへやで、はじめまして、よろしくおねがいしますってことばを、ちいさなこえでなんどかれんしゅうしてみたんだ。さんかいめにいったとき、ぼくはずっとじぶんのなまえを、はやくちでちいさくいっていたってきづいた。だれかにきかれるのがこわいみたいに。",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/daf05397eaac349f082ce30db41c917c5cd674fc32d41b3d08096d0e55d7f139.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "73ef63f696d59e5ee3c078ff2993835dafea195aac2f46c97e2ff9eed74b98d8",
+            "japanese": "73ef63f696d59e5ee3c078ff2993835dafea195aac2f46c97e2ff9eed74b98d8",
+            "audio": "60bdc3bf9fbb3b897a4ccf61efaae589a83676b82e5fa45b3a4ea190d1dceb96",
+            "voice": "16712d4c884964d69618eae0a8a1cd1d4366cae3922aa566ac3973c985dda106"
+          }
+        },
+        {
+          "order": 1,
+          "text": "于是我又重新来了一次，慢慢地、把自己的名字清楚地念出来。房间里明明只有我一个人，声音落下来的时候，听起来却有点像别人的。",
+          "pose_id": "Default_4",
+          "japanese": "だから、もう一度やり直してみた。ゆっくり、自分の名前をはっきりと口に出してみたんだ。部屋にはボクしかいないのに、落ちてきた声は、なんだか他人の声みたいに聞こえた。",
+          "pronunciation": "だから、もういちどやりなおしてみた。ゆっくり、じぶんのなまえをはっきりとくちにだしてみたんだ。へやにはぼくしかいないのに、おちてきたこえは、なんだかたにんのこえみたいにきこえた。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/e9c2e0db7be248bade71097b4a0077c2a9ee8c07754920e946848e4aa8d4e152.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b2718682eb48365fda96ed140107daeb0a273d64b08d52a84e1f04a83997e37e",
+            "japanese": "b2718682eb48365fda96ed140107daeb0a273d64b08d52a84e1f04a83997e37e",
+            "audio": "be76d83f81bc6f9218d54d7ccf9dee0be11bc44cd73208a73fdb3a097d4df05a",
+            "voice": "5dddb2e5a39b6481893e3ec2301bc6bc3f2b6ea775de5ca43ac5a8a43c1ce022"
+          }
+        },
+        {
+          "order": 2,
+          "text": "以前在人多的地方，我只要一开口就会先看别人的脸色，话还没说完，就先想好了要道歉的部分。现在想想，那时候的我很怕自己占位置吧。",
+          "pose_id": "Cry_6",
+          "japanese": "前は人の多い場所だと、口を開く前にまずみんなの顔色をうかがって、言い終わらないうちに謝る言葉まで用意してた。今思うと、あの頃のボクは、自分が場所を取るのがとても怖かったんだと思う。",
+          "pronunciation": "まえはひとのおおいばしょだと、くちをひらくまえにまずみんなのかおいろをうかがって、いいおわらないうちにあやまることばまでよういしてた。いまおもうと、あのころのぼくは、じぶんがばしょをとるのがとてもこわかったんだとおもう。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/5d90d70995a04095c24d81fec085147a8d1b48dfd01fcfec6d7d2ad5daec77ed.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "85509c3363f602e0bcb2b73dc88ecc2bc3eb457d4af2b6f7a2b931116bc4d9cb",
+            "japanese": "85509c3363f602e0bcb2b73dc88ecc2bc3eb457d4af2b6f7a2b931116bc4d9cb",
+            "audio": "a5e5647693d94aaa2a205907aef423f9d43b0ad9a56a8f50743fcbb489b85ab8",
+            "voice": "7fd7a009f5ca8d8d4711d593e2c6d661a0f04b13c3c454f4adb24a9d085beaee"
+          }
+        },
+        {
+          "order": 3,
+          "text": "所以我给自己定了一个练习：每天把这句话念三遍，一句比一句响一点。等到真的站在别人面前，就算手还在抖，声音也要先出去。",
+          "pose_id": "Default_1",
+          "japanese": "だから、自分に練習を決めた。毎日この言葉を三回、一回ずつ大きな声で言う。本当に誰かの前に立つとき、手がまだ震えていても、声だけは先に出せるように。",
+          "pronunciation": "だから、じぶんにれんしゅうをきめた。まいにちこのことばをさんかい、いっかいずつおおきなこえでいう。ほんとうにだれかのまえにたつとき、てがまだふるえていても、こえだけはさきにだせるように。",
+          "voice_emotion": "平静 · 提醒与说明",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "cf0605b5d425834a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 提醒与说明",
+          "audio_file": "audio/cac5ca84e10e7118ac1dcabc3bf409539366c7eba60a064ef7d03aa707272376.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ced096de83653498e40f78857630218777899c6f55a643e8b79896c2b51d6c16",
+            "japanese": "ced096de83653498e40f78857630218777899c6f55a643e8b79896c2b51d6c16",
+            "audio": "9cd8d8cb4ae588248770e35c9def9ee7b421076b1e661d51a23fdb41d45f0c88",
+            "voice": "0e663a9bb8713ed96b43b55b55c43744b6533c9801e8db51a8864377bc6edc5d"
+          }
+        },
+        {
+          "order": 4,
+          "text": "念到最后一遍的时候，我忽然有点想笑。因为这一次，我没有在句尾加上「对不起」。",
+          "pose_id": "Happy_1",
+          "japanese": "最後の一回を言い終えたとき、急にちょっと笑えてきた。だって今回は、文の終わりに『ごめん』を足さなかったから。",
+          "pronunciation": "さいごのいっかいをいいおえたとき、きゅうにちょっとわらえてきた。だってこんかいは、ぶんのおわりにごめんをたさなかったから。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/a98a018c7f1c844fa400d8f930dcaf3be2aa83eb882aac1acbbb3c24a685ae06.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "49467c921d2687f9f0287feefcb81b41f61b1ab227bd3658197d71394e731f70",
+            "japanese": "49467c921d2687f9f0287feefcb81b41f61b1ab227bd3658197d71394e731f70",
+            "audio": "4605096a9d14d76cbd90c93577f4a1211904acfc6d3a7bcaba104d54b08a3d72",
+            "voice": "f2b463f5b29d507c5b657fc641da186e253b575fbe8b4e0083aa54f646178d42"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-ab5db4b8-e811-40ba-ac24-9cdfab8798e6",
+      "character_id": "Ema",
+      "text": "今天第一次一个人坐电车去没去过的站。听说那一带有一家卖布丁的老店，我惦记了好几天。上车前我特意确认过站名，坐了两站才发现，方向反了。车窗外全是没见过的屋顶和电线，我一下子有点想哭。不过哭也解决不了，我就在下一站下车，站在站台上看反方向的时刻表。站台很小，长椅上有个老奶奶在打盹，旁边放着一袋青菜，阳光把铁轨照得发亮。等车的时候，我居然慢慢不慌了。反正下一班车一定会来，回去的路线我也记得住。后来车来了，我坐回正确的方向，也终于找到了那家店。布丁装在玻璃瓶里，甜得很实在。回来的路上我想，要是以前迷了路，我大概只会站在原地，等别人来找我。现在至少能自己看清楚时刻表，也能自己走回去。虽然绕了远路，不过布丁很好吃，今天就当不算亏吧。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天第一次一个人坐电车去没去过的站。听说那一带有一家卖布丁的老店，我惦记了好几天。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "今日、初めて一人で電車に乗って、行ったことのない駅まで行ってきたんだ。あの辺りにプリンを売ってる老舗があるって聞いてて、何日も前から気になってたんだよ。",
+          "pronunciation": "きょう、はじめてひとりででんしゃにのって、いったことのないえきまでいってきたんだ。あのあたりにプリンをうってるしにせがあるってきいてて、なんにちもまえからきになってたんだよ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/e3db2a7539263bec2d0c4de68b841e1af7d014b44c8099cac445f5f4b3277b85.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "293865d9871ea3de188191bc30f868f98493b94c9892831a9d0dcfb2891118de",
+            "japanese": "293865d9871ea3de188191bc30f868f98493b94c9892831a9d0dcfb2891118de",
+            "audio": "7e1ec69107c640918d73b3039ee5344d0f6a192fafaa287d6a23b97e0c2f0ca1",
+            "voice": "bf33f355a27debfabcd3ea5cfe479a00859e7ae1d37cb2d32e51be89366e1640"
+          }
+        },
+        {
+          "order": 1,
+          "text": "上车前我特意确认过站名，坐了两站才发现，方向反了。车窗外全是没见过的屋顶和电线，我一下子有点想哭。",
+          "pose_id": "Fearful_2",
+          "japanese": "乗る前に駅名はちゃんと確かめたのに、二駅進んでから気づいたんだ。反対方向だったんだよね……。窓の外は見たことのない屋根と電線ばかりで、なんだか急に泣きたくなっちゃった。",
+          "pronunciation": "のるまえにえきめいはちゃんとたしかめたのに、ふたえきすすんでからきづいたんだ。はんたいほうこうだったんだよね……。まどのそとはみたことのないやねとでんせんばかりで、なんだかきゅうになきたくなっちゃった。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/88791d76901ee572c67019cb2e74c4799ba1267d2ed7d8418ded8f5166b14ba9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fc08164dbd69246e7a9a95151cdec63bc5b93935bffa287702c181f9ae4f48da",
+            "japanese": "fc08164dbd69246e7a9a95151cdec63bc5b93935bffa287702c181f9ae4f48da",
+            "audio": "a2393f58f020a2d5e1c0037d5d2e0691e4c268fe857a669ad737aedad992d267",
+            "voice": "5583ae582ab6023a5127694a8630c59ae5e77c84347e5a067c5c2425c6e69efc"
+          }
+        },
+        {
+          "order": 2,
+          "text": "不过哭也解决不了，我就在下一站下车，站在站台上看反方向的时刻表。站台很小，长椅上有个老奶奶在打盹，旁边放着一袋青菜，阳光把铁轨照得发亮。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "でも泣いてても仕方ないから、次の駅で降りて、ホームで反対方向の時刻表を見てたんだ。ホームはすごく小さくて、ベンチではおばあさんがうたた寝してて、隣に野菜が入った袋が置いてあった。日差しで線路がきらきら光ってたよ。",
+          "pronunciation": "でもないててもしかたないから、つぎのえきでおりて、ホームではんたいほうこうのじこくひょうをみてたんだ。ホームはすごくちいさくて、ベンチではおばあさんがうたたねしてて、となりにやさいがはいったふくろがおいてあった。ひざしでせんろがきらきらひかってたよ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/7c9d32089e8d3335d42ec37bebb188dd9c87b8728cacd26f08e9ef2af1717207.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "223365b08979650ec27c7baf25bfc48d766ba4565eb18015fe2b4ea2fc2580c1",
+            "japanese": "223365b08979650ec27c7baf25bfc48d766ba4565eb18015fe2b4ea2fc2580c1",
+            "audio": "acd70723c5c990ef58d1c21baaa7e315daaef6540f22df18a3217deb5dd2a4bc",
+            "voice": "c487689cb56a9afe14efb932e6de911bfb49c414b16a9552670b2942c6d0d4b9"
+          }
+        },
+        {
+          "order": 3,
+          "text": "等车的时候，我居然慢慢不慌了。反正下一班车一定会来，回去的路线我也记得住。",
+          "pose_id": "Thinking_4",
+          "japanese": "待ってるうちに、不思議とだんだん落ち着いてきたんだ。どうせ次の電車は必ず来るし、帰り道もボク、ちゃんと覚えてるから。",
+          "pronunciation": "まってるうちに、ふしぎとだんだんおちついてきたんだ。どうせつぎのでんしゃはかならずくるし、かえりみちもボク、ちゃんとおぼえてるから。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/dbd4cec6374d2d4367da05ab9870bbb79f253db6eeae8401294a109de1949baa.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "398431d6e2710506ddb8cf8faa7fce22e7a9e2229ad4ff3272ea9fae633e74ca",
+            "japanese": "398431d6e2710506ddb8cf8faa7fce22e7a9e2229ad4ff3272ea9fae633e74ca",
+            "audio": "eefdb1762195746f9fa8d42151dadb3de8cb231e23eaf85145a6ee1a2b6a019d",
+            "voice": "ee0b2c562dd2ff3fdb38f42acb3d31f194868511596e6db3556831ddbe90e893"
+          }
+        },
+        {
+          "order": 4,
+          "text": "后来车来了，我坐回正确的方向，也终于找到了那家店。布丁装在玻璃瓶里，甜得很实在。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "それから電車が来て、今度はちゃんと正しい方向に乗って、やっとあの店を見つけたよ。プリンはガラスの瓶に入ってて、甘さがすごくはっきりしてた。",
+          "pronunciation": "それからでんしゃがきて、こんどはちゃんとただしいほうこうにのって、やっとあのみせをみつけたよ。プリンはガラスのびんにはいってて、あまさがすごくはっきりしてた。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/a9c21d2cfda8d62c15a2fca443c1bc117bc43bbcdbf85dc3f9ac1c91fe087e93.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1df1243d21d3f51bc152e85ad95de9cc282d99777fec082f037d345085557bb4",
+            "japanese": "1df1243d21d3f51bc152e85ad95de9cc282d99777fec082f037d345085557bb4",
+            "audio": "efe156cf0b57c810eef28ee753fbfd6d98d2878b6a21a07a303418a94a349d27",
+            "voice": "48fea4d9bf552e18ce5bb3a8381a38bda0363a8c3fad57a1168f4ca0e467b501"
+          }
+        },
+        {
+          "order": 5,
+          "text": "回来的路上我想，要是以前迷了路，我大概只会站在原地，等别人来找我。现在至少能自己看清楚时刻表，也能自己走回去。虽然绕了远路，不过布丁很好吃，今天就当不算亏吧。",
+          "pose_id": "Default_5",
+          "japanese": "帰り道で思ったんだ。昔だったら、道に迷ったら多分その場に立ったまま、誰かが迎えに来てくれるのを待ってただけだと思う。今は少なくとも、自分で時刻表をちゃんと読めるし、自分で歩いて帰れる。遠回りしちゃったけど、プリンはおいしかったから、今日は損じゃなかったってことにしようかな。",
+          "pronunciation": "かえりみちでおもったんだ。むかしだったら、みちにまよったらたぶんそのばにたったまま、だれかがむかえにきてくれるのをまってただけだとおもう。いまはすくなくとも、じぶんでじこくひょうをちゃんとよめるし、じぶんであるいてかえれる。とおまわりしちゃったけど、プリンはおいしかったから、きょうはそんじゃなかったってことにしようかな。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/aeee6ec97689d7f064f60472e6bb45105b2ba4ecc9e0bd144b62a0427bc9d071.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9b1ed1758fca097eee3a8bb432a0eb73d4c977ffa6f2d1df3e3cb8e8d53aecaa",
+            "japanese": "9b1ed1758fca097eee3a8bb432a0eb73d4c977ffa6f2d1df3e3cb8e8d53aecaa",
+            "audio": "82f8a4ad56908aed2e7af3488003f5e255ad8371a9c01d13a525750a40365b17",
+            "voice": "b087f9e2436eca57652364ba5528ced1fb860aa75bfb168d65f745e4aff919f8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-ae9399f2-bca9-4bea-92af-493bf8d88138",
+      "character_id": "Ema",
+      "text": "和大家一起吃饭的时候，我又不自觉地数了一遍人数。一、二、三……数到最后一个人还在，我才悄悄松了口气。这个习惯是魔女岛那时候留下的。每次有人不见了，接着就会有人出事，所以我总是不敢不数。现在明明谁都不会再消失了，手却还是会自己动起来。希罗大概发现了，她问我又在数什么。我只好笑着摇头。她没有笑我，只是替我把最后一个人的名字说完，然后说下次大家一起数。这个习惯我大概是改不掉了。可是数到最后，一个人都没少，那种安心感，好像也不算太坏。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "和大家一起吃饭的时候，我又不自觉地数了一遍人数。一、二、三……数到最后一个人还在，我才悄悄松了口气。",
+          "pose_id": "Thinking_4",
+          "japanese": "みんなでご飯を食べているとき、また無意識に人数を数えちゃった。いち、に、さん……最後の一人までいて、やっとこっそり息をついた。",
+          "pronunciation": "みんなでごはんをたべているとき、またむいしきににんずうをかぞえちゃった。いち、に、さん……さいごのひとりまでいて、やっとこっそりいきをついた。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/ed4c98a111f6b6ab4027e35e74fb27380922185bf4b843f3e5d8a1c14c2e88dd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ff870106afea9ffc00988a9a12b8ba1201d62343f51ee011b3146096bb59d937",
+            "japanese": "ff870106afea9ffc00988a9a12b8ba1201d62343f51ee011b3146096bb59d937",
+            "audio": "0f356ce936ea07891e9fd8c4402608b2787aa459d5ac0cfb14dec04bea922e4a",
+            "voice": "05c3185a113a5830b88b10e899f1f61bcb6de78f8a2bdf5ce19a907a9ca912de"
+          }
+        },
+        {
+          "order": 1,
+          "text": "这个习惯是魔女岛那时候留下的。每次有人不见了，接着就会有人出事，所以我总是不敢不数。现在明明谁都不会再消失了，手却还是会自己动起来。",
+          "pose_id": "Sad_2",
+          "japanese": "この癖は魔女島にいた頃のものだ。誰かがいなくなると、そのあと必ず誰かに何かあったから、数えずにはいられなかった。今はもう誰もいなくならないのに、手は勝手に動いてしまう。",
+          "pronunciation": "このくせはまじょじまにいたころのものだ。だれかがいなくなると、そのあとかならずだれかになにかあったから、かぞえずにはいられなかった。いまはもうだれもいなくならないのに、てはかってにうごいてしまう。",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/bfda549c59eeadc3941b42a2a6a5778e242f331e5ebe9accbd9e2bfcef8c531f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "da369c11082ecf527011d29957255e9988ecd8e4690e46bdd2b8c7661cd2e336",
+            "japanese": "da369c11082ecf527011d29957255e9988ecd8e4690e46bdd2b8c7661cd2e336",
+            "audio": "2f5e37592490e7ca9fb6bf455bf4722ec5d6fc7259ff1b495429b2ec6aac8a2e",
+            "voice": "d0290b5783fabb65de6b9adae4a0de5c648be931a4e8d542f8080c2c4e4329d3"
+          }
+        },
+        {
+          "order": 2,
+          "text": "希罗大概发现了，她问我又在数什么。我只好笑着摇头。她没有笑我，只是替我把最后一个人的名字说完，然后说下次大家一起数。",
+          "pose_id": "Explain_Default_4",
+          "japanese": "シロちゃんは気づいたみたいで、また何を数えてるの、って聞いてきた。ボクは笑って首を振るしかなかった。彼女は笑わなかった。最後の一人の名前をボクの代わりに言って、今度はみんなで数えよう、って。",
+          "pronunciation": "シロちゃんはきづいたみたいで、またなにをかぞえてるの、ってきいてきた。ボクはわらってくびをふるしかなかった。かのじょはわらわなかった。さいごのひとりのなまえをボクのかわりにいって、こんどはみんなでかぞえよう、って。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/41ffcf85ec316993ce74cd7df9d253f69512ecbd463a036a6c6c5e3deb33ed34.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "683f0471bcca75170a245715c0befab92db2e0062558f76e495c79775737fd22",
+            "japanese": "683f0471bcca75170a245715c0befab92db2e0062558f76e495c79775737fd22",
+            "audio": "b9618f83bb19a26f25857e3c432d750a612a8bdcace5afa7e060eec3b2f944de",
+            "voice": "04ef5b3abde6b2bb575bed4b9f1e101e0cfb25ed326ac2dac097424def4f274e"
+          }
+        },
+        {
+          "order": 3,
+          "text": "这个习惯我大概是改不掉了。可是数到最后，一个人都没少，那种安心感，好像也不算太坏。",
+          "pose_id": "Happy_5",
+          "japanese": "この癖はたぶん治らない。でも数え終わって、一人も欠けていなかったら、その安心は、悪くない気もする。",
+          "pronunciation": "このくせはたぶんなおらない。でもかぞえおわって、ひとりもかけていなかったら、そのあんしんは、わるくないきもする。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/ea8635a63f53e8cfa92b91bad6ded18d7f23952397b005d104c960462fbad24e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3d64e9251a9aca1b9d9933e9db293cbcc8bfe7c366d1fc92b652ffe531412a46",
+            "japanese": "3d64e9251a9aca1b9d9933e9db293cbcc8bfe7c366d1fc92b652ffe531412a46",
+            "audio": "682920db10869fef18fbf27906eb227466647966add20975f3bdcecf9a27050d",
+            "voice": "c0d359ae4b78f9de37dd6948c48f545a53d6d592b7d9716aa5ee14d5a620ee45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-06442fc3-0903-4cbe-be0e-4c8f2576cbe6",
+      "character_id": "Ema",
+      "text": "我在书包里多放了一把伞。不是天气预报说要下雨，是因为前几天在车站前，有个没带伞的人站在屋檐下等雨停，我明明手里就有一把，却犹豫了好久都没敢开口。最后那个人干脆冒雨走了，我撑着自己那把伞回家，一路都在想——那个时候我只要往前走一步就好了。所以现在包底一直躺着一把折好的小伞，我特意挑了不太显眼的深蓝色。要是被人看到问起来，我大概会不好意思承认这是为这种事准备的。不过光带着伞，好像也不代表就真的能说出口。至少下一次站在屋檐下的人，如果恰好是我认识的，我希望自己能把伞往那边递过去一点。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "我在书包里多放了一把伞。不是天气预报说要下雨，是因为前几天在车站前，有个没带伞的人站在屋檐下等雨停，我明明手里就有一把，却犹豫了好久都没敢开口。",
+          "pose_id": "Thinking_3",
+          "japanese": "カバンの中に、傘をもう一本入れてあるんだ。天気予報で雨が降るって言ってたからじゃなくて……この前、駅の前に、傘を持ってない人が軒下で雨がやむのを待ってたの。ボク、手には傘があったのに、ずっと迷ってて、声をかけられなかった。",
+          "pronunciation": "かばんのなかに、かさをもういっぽんいれてあるんだ。てんきよほうであめがふるっていってたからじゃなくて……このまえ、えきのまえに、かさをもってないひとがのきしたであめがやむのをまってたの。ぼく、てにはかさがあったのに、ずっとまよってて、こえをかけられなかった。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/136d261613fa733cdcf48a1f268b68e83e2b27e6c2259b8f2ce1d3e65e79a375.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e6e16b39dee3bab5d7b00188750ffbb682b8e8e0e2947c41ec29f4e92fd0f933",
+            "japanese": "e6e16b39dee3bab5d7b00188750ffbb682b8e8e0e2947c41ec29f4e92fd0f933",
+            "audio": "e65f8281d8b994d1dcd7de88e9adc62800a49ca6a4fe28a3cb73cd6d88dd4457",
+            "voice": "8ab1afe807383433eee372fb3912860958e510a82df665ba39337a53146e899c"
+          }
+        },
+        {
+          "order": 1,
+          "text": "最后那个人干脆冒雨走了，我撑着自己那把伞回家，一路都在想——那个时候我只要往前走一步就好了。",
+          "pose_id": "Cry_8",
+          "japanese": "結局その人は雨の中を歩いて行っちゃって、ボクは自分の傘をさして帰ったんだけど、その道ずっと考えてた。あのとき、一歩前に出るだけでよかったのにって。",
+          "pronunciation": "けっきょくそのひとはあめのなかをあるいていっちゃって、ぼくはじぶんのかさをさしてかえったんだけど、そのみちずっとかんがえてた。あのとき、いっぽまえにでるだけでよかったのにって。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/2a00320a34f69a988f882b5815b5c7e3e87fd15da1a92de1ce17a7838840a3c4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d4ab306ad74d92d84ff9059434904dfd0ed09adb4405f37315cc7bc357f9b5b6",
+            "japanese": "d4ab306ad74d92d84ff9059434904dfd0ed09adb4405f37315cc7bc357f9b5b6",
+            "audio": "9c132513f4ed2a1a771c1d888889d71ee67af9aaa6f988f90a73ba20a6eaa2e4",
+            "voice": "70078d4a1c167e48c6d71cb66425752940c6a66b9878df2960a0ef5afe6fcc30"
+          }
+        },
+        {
+          "order": 2,
+          "text": "所以现在包底一直躺着一把折好的小伞，我特意挑了不太显眼的深蓝色。要是被人看到问起来，我大概会不好意思承认这是为这种事准备的。",
+          "pose_id": "Shame-making_2",
+          "japanese": "だから今は、カバンの底に折りたたみの小さな傘がずっと入ってる。目立たない濃い青を選んだんだ。誰かに見られて聞かれたら、こんなことのために準備してるって、ちょっと言いにくいかもしれないけど。",
+          "pronunciation": "だからいまは、かばんのそこにたたみのちいさなかさがずっとはいってる。めだたないこいあおをえらんだんだ。だれかにみられてきかれたら、こんなことのためにじゅんびしてるって、ちょっといいにくいかもしれないけど。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/5eb22a069a08eb89464fa0ef48c1378232e218fa42c14c538d4c44f7e6d48f26.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e1c0f08319ed6ce6f96d1fb56835d5267f51a795f1b6e9b5202572e90e305ae2",
+            "japanese": "e1c0f08319ed6ce6f96d1fb56835d5267f51a795f1b6e9b5202572e90e305ae2",
+            "audio": "8707bdac66877fc9fb83673468afa466bc12a08c8f37993b55301714916bd82f",
+            "voice": "32c842e39fbfb9eb2129a2de722053602de5936b4688d881379dc8c11ac725ca"
+          }
+        },
+        {
+          "order": 3,
+          "text": "不过光带着伞，好像也不代表就真的能说出口。至少下一次站在屋檐下的人，如果恰好是我认识的，我希望自己能把伞往那边递过去一点。",
+          "pose_id": "Explain_Default_2",
+          "japanese": "でも、傘を持ってるだけで、本当に言い出せるわけじゃないんだよね。せめて次に軒下に立ってる人が、たまたまボクの知ってる人だったら……その人のほうに、傘をちょっと差し出せたらいいなって思ってる。",
+          "pronunciation": "でも、かさをもってるだけで、ほんとうにいいだせるわけじゃないんだよね。せめてつぎにのきしたにたってるひとが、たまたまぼくのしってるひとだったら……そのひとのほうに、かさをちょっとさしだせたらいいなっておもってる。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/9298aa405770c22d47e626f0510d218588c3a8d59bc547bf1838bf24b6a70b60.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c45d4d9aa032049153072dfea3def738755cf1cc7fe5d92ada2f44107004331e",
+            "japanese": "c45d4d9aa032049153072dfea3def738755cf1cc7fe5d92ada2f44107004331e",
+            "audio": "9259bb9dab91a69f2cd545dd097c17ee6cc4912b23904c61a85eb8f7f882310e",
+            "voice": "43999c55cb0998c7e7a146e69419990077a21c29032c0b98a6744cc327581d45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-110f8c53-155a-4308-b087-c042d7952d16",
+      "character_id": "Ema",
+      "text": "洗衣服的时候，我忘了外套口袋里还塞着一张纸巾。等打开洗衣机，一整桶衣服上全是白色的碎屑，连深色的袜子都变成了花花的。我先把它们全抱到阳台，一件一件抖，抖了半天，纸屑还是牢牢粘在上面。后来我用胶带试着一点一点粘，蹲在那里粘了快一个小时。蹲到后来膝盖有点疼，可我忽然觉得这件事有点好笑——明明是我自己忘了，却要花一整个下午慢慢收拾。以前遇到这种错，我会在心里先把自己骂一遍，然后谁也不想见。今天我没有骂自己，只是把最后一件衣服叠好，放进柜子里。叠好的衣服闻着有皂粉的味道，摞在一起整整齐齐。这种麻烦好像也成了我日子的一部分。下次洗之前，我会记得先摸一摸所有口袋。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "洗衣服的时候，我忘了外套口袋里还塞着一张纸巾。等打开洗衣机，一整桶衣服上全是白色的碎屑，连深色的袜子都变成了花花的。",
+          "pose_id": "Surprise_3",
+          "japanese": "洗濯のとき、上着のポケットにティッシュが入ってるのを忘れてて。洗濯機を開けたら、洗濯物の上に白いカスがびっしりで、濃い色の靴下までまだらになっちゃった。",
+          "pronunciation": "せんたくのとき、うわぎのぽけっとにてぃっしゅがはいってるのをわすれてて。せんたくきをあけたら、せんたくもののうえにしろいかすがびっしりで、こいいろのくつしたまでまだらになっちゃった。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/a71cef315e625a85e82c62e6d45f7925ab1857d62fb76319a7c6b09dd6e6ae0c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5b6fa8ab9ae09993b029a5b156f7f4ad9e83904e8dbdfa33420c755eecf525d0",
+            "japanese": "5b6fa8ab9ae09993b029a5b156f7f4ad9e83904e8dbdfa33420c755eecf525d0",
+            "audio": "1304dc8cd16bf05fa6780a714ba8d87831ca7fb02ba5bbd45f9c60f2bcec30e1",
+            "voice": "0e83e4aa023da6e7c2a710eb10dd029e3e01043d14196261963d1db060f9aa74"
+          }
+        },
+        {
+          "order": 1,
+          "text": "我先把它们全抱到阳台，一件一件抖，抖了半天，纸屑还是牢牢粘在上面。后来我用胶带试着一点一点粘，蹲在那里粘了快一个小时。",
+          "pose_id": "Feature_Extremely_4",
+          "japanese": "まず全部まとめてベランダに運んで、一枚ずつ振ってみたんだけど、紙くずはびっしり張りついたままで。それからテープでちょっとずつくっつけて取る方法を試して、しゃがんだまま一時間くらいかかっちゃった。",
+          "pronunciation": "まずぜんぶまとめてべらんだにはこんで、いちまいずつふってみたんだけど、かみくずはびっしりはりついたままで。それからてーぷでちょっとずつくっつけてとるほうほうをためして、しゃがんだままいちじかんくらいかかっちゃった。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/61582bd2056ff3f0d4f4829b561c9e4545fecd477590c30940c9fbcd3e0cde2c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2d0636da905d486ebefc9b35a2559909501a8bf8423554db1080d0e22323f288",
+            "japanese": "2d0636da905d486ebefc9b35a2559909501a8bf8423554db1080d0e22323f288",
+            "audio": "22160694ba1993e387e2b694194135dc2cb35b77f184881b2aa60294120d4399",
+            "voice": "29ffa5ba12b29e9f4a2dc15994543a9a8b7f5f8ea48f0c00fd24c64a1855a498"
+          }
+        },
+        {
+          "order": 2,
+          "text": "蹲到后来膝盖有点疼，可我忽然觉得这件事有点好笑——明明是我自己忘了，却要花一整个下午慢慢收拾。",
+          "pose_id": "Happy_3",
+          "japanese": "しゃがんでたら膝がちょっと痛くなってきたんだけど、途中でなんだか可笑しくなってきちゃった。自分で忘れたくせに、午後まるまる使って片づけてるんだもん。",
+          "pronunciation": "しゃがんでたらひざがちょっといたくなってきたんだけど、とちゅうでなんだかおかしくなってきちゃった。じぶんでわすれたくせに、ごごまるまるつかってかたづけてるんだもん。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/93f28b3f918e2d5516da70f4d33b9c4a80ce712d2ac4629f3aa5b0d99d0d0b6b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "933e85f6822bb6e1c4673935e7bacc48f1476adb989be9ffe4bf6c2321b570e6",
+            "japanese": "933e85f6822bb6e1c4673935e7bacc48f1476adb989be9ffe4bf6c2321b570e6",
+            "audio": "15de0ff78b9054334688dfc883eefe5dee796fa15bae35ff1ba0afb81882aefc",
+            "voice": "c0f8a4fbb020c9915a8cc5e2f0d4a3d82ed5f214ff117e09eca0dc30f5ad61eb"
+          }
+        },
+        {
+          "order": 3,
+          "text": "以前遇到这种错，我会在心里先把自己骂一遍，然后谁也不想见。今天我没有骂自己，只是把最后一件衣服叠好，放进柜子里。",
+          "pose_id": "Cry_3",
+          "japanese": "前ならこういう失敗をすると、まず心の中で自分を責めて、それから誰にも会いたくなくなってた。今日は自分を責めないで、最後の一枚をたたんで、タンスにしまっただけ。",
+          "pronunciation": "まえならこういうしっぱいをすると、まずこころのなかでじぶんをせめて、それからだれにもあいたくなくなってた。きょうはじぶんをせめないで、さいごのいちまいをたたんで、たんすにしまっただけ。",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/41ce4a0876180102adc02b75b1c5add1f76c23d35e4b6767508e6bb6cad07e48.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "de75cdeb3240cc0db5c7537291a22abd7aa6f8efa155d53f10b61742b00273d3",
+            "japanese": "de75cdeb3240cc0db5c7537291a22abd7aa6f8efa155d53f10b61742b00273d3",
+            "audio": "8477e43e5979e7bf9c86c5cbf42a234964d924a8c1bf8caafcd251780faf8857",
+            "voice": "991d76c3767ab4fff8eb5f2122aa239209cefe624e995b535ab3a717155b49ea"
+          }
+        },
+        {
+          "order": 4,
+          "text": "叠好的衣服闻着有皂粉的味道，摞在一起整整齐齐。这种麻烦好像也成了我日子的一部分。下次洗之前，我会记得先摸一摸所有口袋。",
+          "pose_id": "Default_1",
+          "japanese": "たたんだ服は粉石鹸のにおいがして、重ねるときれいにそろってる。こういう面倒くささも、ボクの毎日の一部なんだと思う。次に洗う前に、ポケットは全部ちゃんと触って確かめるね。",
+          "pronunciation": "たたんだふくはこなせっけんのにおいがして、かさねるときれいにそろってる。こういうめんどうくささも、ぼくのまいにちのいちぶなんだとおもう。つぎにあらうまえに、ぽけっとはぜんぶちゃんとさわってたしかめるね。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/e0c9b6b6007fe91cce0ebf4141a7e492cef298f730b9cf9222f711b9d2c1aab9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2d9602b85470e024c7cae8b78e93b91a1f5d61a4619d6b489e8b9c4dd5a0f593",
+            "japanese": "2d9602b85470e024c7cae8b78e93b91a1f5d61a4619d6b489e8b9c4dd5a0f593",
+            "audio": "9e262c96d82f5ffbad25cf8c2d4f9ff10cca2fd706da1f6391f6e7ac83cd4bdc",
+            "voice": "276c36a5683f338e30a7e8c4c9839251c018369a1cb639756b09ec278875ddd2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-61b144b9-d6b9-41cc-9a71-3c40493f5ad9",
+      "character_id": "Ema",
+      "text": "汉娜酱在岛上做给我的那个人偶，我一直放在床头。搬出来以后行李变少了，它反而成了最占地方的一件，可我一次也没想过把它收进箱子里。前两天翻看的时候，我发现人偶袖子里面有一针松了，线尾巴翘在外面，轻轻一扯就晃。我找出针线盒，想自己把那针缝回去。缝了半个多小时，线越缠越乱，针脚歪得像是刚学写字的那一年，最后只好剪断重来。昨天我去了一家卖手工材料的店，把松掉的线拿给店员看，问哪种线结实一点。店员把好几种线摆在我面前，还教我怎么打结收尾。我站在那里听得手心都是汗，走的时候才想起来要道谢。回来以后我先拿旧手帕练手，一针一针地缝，一条边就缝了一整个傍晚。缝得还是不好看，不过这次针脚至少是直的。那个人偶现在还在我的床头，松掉的线头我也没有剪，就那样翘着。等我把手帕缝得再像样一点，再去动手补它——在那之前，先让它保持现在的样子好了。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "汉娜酱在岛上做给我的那个人偶，我一直放在床头。搬出来以后行李变少了，它反而成了最占地方的一件，可我一次也没想过把它收进箱子里。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "ハンナちゃんが島で作ってくれたあの人形、ボクはずっと枕元に置いてる。島を出てから荷物は減ったのに、あれだけは一番場所を取ってて。それでも、箱にしまおうなんて一度も思わなかったよ。",
+          "pronunciation": "はんなちゃんがしまでつくってくれたあのにんぎょう、ぼくはずっとまくらもとにおいてる。しまをでてからにもつはへったのに、あれだけはいちばんばしょをとってて。それでも、はこにしまおうなんていちどもおもわなかったよ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/1ae79275b22030c7e20a4ca7cd637f4fe1ae5d948b123b32f5331753a19c0474.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fb3d193a31c1c9d1bddd7ecb688e022ac583672d62cc1fc0f9db342603a0ba27",
+            "japanese": "fb3d193a31c1c9d1bddd7ecb688e022ac583672d62cc1fc0f9db342603a0ba27",
+            "audio": "00968020d9847b0fee877444f865199cf83c23da0819475ce6b25a3538edf04d",
+            "voice": "ece01d130198b35ffe69056988f1f3c1b6646c3b8ed6ca9b330f8198379e15b3"
+          }
+        },
+        {
+          "order": 1,
+          "text": "前两天翻看的时候，我发现人偶袖子里面有一针松了，线尾巴翘在外面，轻轻一扯就晃。",
+          "pose_id": "Explain_Earnest_4",
+          "japanese": "二、三日前、人形を眺めていて気付いたんだ。人形の袖の内側、縫い目が一針ほどけてて、糸の端が外に跳ねてる。そっと引っ張ると、揺れるんだよ。",
+          "pronunciation": "にさんにちまえ、にんぎょうをながめていてきづいたんだ。にんぎょうのそでのうちがわ、ぬいめがいっはりほどけてて、いとのはしがそとにはねてる。そっとひっぱると、ゆれるんだよ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/f58c4d318c121b14aca8ed264f2c83fcc2c489919202bdd9211047acaa23dd13.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "71de06188a434cad5cf14bcd176565422c2ed020e3e5db5b5d7d73af840f32c6",
+            "japanese": "71de06188a434cad5cf14bcd176565422c2ed020e3e5db5b5d7d73af840f32c6",
+            "audio": "ef45150583c33721d1b3e99221e63439b4f7c4633b86d341bfeb6aece7cc80ab",
+            "voice": "2cbb77dbb82c2c7f34463c6d8e1af11031f9f73ed23444527f2067b2224dbb7c"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我找出针线盒，想自己把那针缝回去。缝了半个多小时，线越缠越乱，针脚歪得像是刚学写字的那一年，最后只好剪断重来。",
+          "pose_id": "Thinking_1",
+          "japanese": "裁縫箱を出してきて、自分でその一針を縫い戻そうとしたんだ。三十分以上かけて縫ったけど、糸は絡まるばかりで、縫い目は字を習い始めた頃みたいに歪んでた。結局、切って最初からやり直したよ。",
+          "pronunciation": "さいほうばこをだしてきて、じぶんでそのいっはりをぬいもどそうとしたんだ。さんじゅっぷんいじょうかけてぬったけど、いとはからまるばかりで、ぬいめはじをならいはじめたころみたいにゆがんでた。けっきょく、きってさいしょからやりなおしたよ。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/fb1a2449a7e72081f27bdb46be3822867d7c4f73d17513eefdb18e4a5b0df841.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ea37d2708dad91d1fb36b31a0529c768ea12c042bdb28b2a51ef4ff33b030e97",
+            "japanese": "ea37d2708dad91d1fb36b31a0529c768ea12c042bdb28b2a51ef4ff33b030e97",
+            "audio": "4dfbaa54167952ba62a0cde6cbfd10a3545488cae0140f7f33bf0a80f33c3baf",
+            "voice": "ed295d567f47a6424c0e0d03edb0e0d7d73bb72ecd99159a095fb88c484eb51e"
+          }
+        },
+        {
+          "order": 3,
+          "text": "昨天我去了一家卖手工材料的店，把松掉的线拿给店员看，问哪种线结实一点。店员把好几种线摆在我面前，还教我怎么打结收尾。我站在那里听得手心都是汗，走的时候才想起来要道谢。",
+          "pose_id": "Flushed_8",
+          "japanese": "昨日は手芸材料のお店に行って、ほどけた糸を店員さんに見せて、丈夫そうなのはどれか聞いてみた。店員さんは何種類もの糸を前に並べて、結び終わりの始末まで教えてくれた。ボクは手のひらに汗をかきながら立って聞いてて、店を出てから、お礼をまだ言ってないって思い出したよ。",
+          "pronunciation": "きのうはしゅげいざいりょうのおみせにいって、ほどけたいとをてんいんさんにみせて、じょうぶそうなのはどれかきいてみた。てんいんさんはなんしゅるいものいとをまえにならべて、むすびおわりのしまつまでおしえてくれた。ぼくはてのひらにあせをかきながらたってきいてて、みせをでてから、おれいをまだいってないっておもいだしたよ。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/fd81c53aa4c4586fcc310c829acda896e536beb602a329875bfc649660148d36.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "28815ce90275ed3e0d6758a06a4420d343fccd9681868f2a81e327ab25c288d0",
+            "japanese": "28815ce90275ed3e0d6758a06a4420d343fccd9681868f2a81e327ab25c288d0",
+            "audio": "5f1db274862753f243a6929e2beb3b2aaa43c0dbd71f40a35e6d20f9dfdab237",
+            "voice": "9b096ca7b6b30834d4115b117339b7274564e24814d18cbb7dcf7f984c3d79c4"
+          }
+        },
+        {
+          "order": 4,
+          "text": "回来以后我先拿旧手帕练手，一针一针地缝，一条边就缝了一整个傍晚。缝得还是不好看，不过这次针脚至少是直的。",
+          "pose_id": "Default_4",
+          "japanese": "帰ってから、まず古いハンカチで練習した。一針ずつ縫って、端を一周縫うだけで夕方いっぱいかかった。相変わらずきれいじゃないけど、今度は縫い目だけはまっすぐだった。",
+          "pronunciation": "かえってから、まずふるいはんかちでれんしゅうした。ひとはりずつぬって、はしをいっしゅうぬうだけでゆうがたいっぱいかかった。あいかわらずきれいじゃないけど、こんどはぬいめだけはまっすぐだった。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/ed929b8a6e9c9be3955d54a8ed916af5d2ce36a1e15fbd4561f124d667f9d6c7.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6886525ebfbdb0adfdea860bdd9132403e5f570211cc0da52e970921fdff839d",
+            "japanese": "6886525ebfbdb0adfdea860bdd9132403e5f570211cc0da52e970921fdff839d",
+            "audio": "97752fecc1dce0561bf4ea5091f4309b44d8edd731703df1b99becb502d4a2bf",
+            "voice": "031a800fb942c9a3ed6b31f94bfcc4102f6b81dac6547ce16052f162781121d8"
+          }
+        },
+        {
+          "order": 5,
+          "text": "那个人偶现在还在我的床头，松掉的线头我也没有剪，就那样翘着。等我把手帕缝得再像样一点，再去动手补它——在那之前，先让它保持现在的样子好了。",
+          "pose_id": "Happy_1",
+          "japanese": "あの人形は今も枕元にあって、ほどけた糸の端も切らないまま、外に跳ねてる。ハンカチをもう少し様になるまで縫えるようになったら、あれを直そうと思う。それまでは、今のままにしておくね。",
+          "pronunciation": "あのにんぎょうはいまもまくらもとにあって、ほどけたいとのはしもきらないまま、そとにはねてる。はんかちをもうすこしさまになるまでぬえるようになったら、あれをなおそうとおもう。それまでは、いまのままにしておくね。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/441e025ab3b531cacb98b17b44d38e2c6d07b2c2dd911e503f6cb69aa01e4b6e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4d7c544db2d1409d3a5ac15a232564d82dd1c3b569810c321bfb27fad69ae4b4",
+            "japanese": "4d7c544db2d1409d3a5ac15a232564d82dd1c3b569810c321bfb27fad69ae4b4",
+            "audio": "d25d4346c13e58613dd0eee4a68accf202a9ef3f54f1347fc535ee72435bbe12",
+            "voice": "07aa1813c5f8c1a1ca886348710c7df23a70566883faf40507094449256bf89e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-09b558d5-3eb0-419b-bfaf-795c0309ee88",
+      "character_id": "Ema",
+      "text": "走在半路上的时候突然下起雨来，我没带伞，就随便躲进了路边一家旧书店。招牌很小，我以前路过好多次，居然从来没注意到它。里面比外面安静得多，木地板踩上去会响。我在最里面那排架子上翻到一本短篇集，封面画着一把红色的伞，书脊的颜色已经褪了。翻到最后一页，有一行很淡的铅笔字，写着「这本书很好看，希望下一个人也能喜欢」。写字的人我大概永远不会认识，可那行字就留在那里，好像是专门等着谁来看到它。我抱着它站了很久，最后把它买了下来。以前在岛上，能去的地方、什么时候吃饭、和谁见面，几乎都是规定好的。现在好像不一样了，一场突然的雨就能把我带到一个从没见过的角落。所以我想，等这本读完，也在那一页下面添一行字。会是谁翻到它、在什么样的天气里翻到，我完全不知道——这样反而让我有点期待。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "走在半路上的时候突然下起雨来，我没带伞，就随便躲进了路边一家旧书店。招牌很小，我以前路过好多次，居然从来没注意到它。",
+          "pose_id": "Stop_3",
+          "japanese": "道を歩いていたら、急に雨が降ってきたんだ。傘も持ってなかったから、とりあえず道沿いの古本屋さんに駆け込んだよ。看板が小さくて、前を何度も通ってたのに、ぜんぜん気づかなかったんだ。",
+          "pronunciation": "みちをあるいていたら、きゅうにあめがふってきたんだ。かさももってなかったから、とりあえずみちぞいのふるほんやさんにかけこんだよ。かんばんがちいさくて、まえをなんどもとおってたのに、ぜんぜんきづかなかったんだ。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/fc6fcb9cc8255cf7b9979c02e56c52864820634c317e06c1d8eb7a00385b6245.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9e7f00d0dda6cdd6b72ad5db7591587917abbc18017e0368b4ffe16a92511cc6",
+            "japanese": "9e7f00d0dda6cdd6b72ad5db7591587917abbc18017e0368b4ffe16a92511cc6",
+            "audio": "28b6fa17e41aa71f2f3ac347090b35f89229da10a1e40bc57b00f66ffdcb707f",
+            "voice": "91cebac01a84a7d418dc9ceab403dd89a3a161702f61d1233bec041df024c9c4"
+          }
+        },
+        {
+          "order": 1,
+          "text": "里面比外面安静得多，木地板踩上去会响。我在最里面那排架子上翻到一本短篇集，封面画着一把红色的伞，书脊的颜色已经褪了。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "中は外よりずっと静かで、木の床は踏むとぎしって鳴るんだ。一番奥の棚で短編集を見つけたよ。表紙には赤い傘の絵が描いてあって、背表紙の色はもう褪せてた。",
+          "pronunciation": "なかはそとよりずっとしずかで、きのゆかはふむとぎしってなるんだ。いちばんおくのたなでたんぺんしゅうをみつけたよ。ひょうしにはあかいかさのにがかいてあって、せびょうしのいろはもうあせてた。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/2b44d890437442e04bd2f673b67e5e0a90c307ef7e5a8244fa45e8c7a0613e17.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4c84f4954f3513434bf2a629ad40c5cc524a9783d6c27ef0492240a67f1f129b",
+            "japanese": "4c84f4954f3513434bf2a629ad40c5cc524a9783d6c27ef0492240a67f1f129b",
+            "audio": "3b2c8c93ff89fa56a4cb939f96f9d9b63b2b4e1f3d2081326c6827348d3634c0",
+            "voice": "f6e0475b36e57708716b7a8560f7c440e9a31a3de140f789fdd2f889319d3e90"
+          }
+        },
+        {
+          "order": 2,
+          "text": "翻到最后一页，有一行很淡的铅笔字，写着「这本书很好看，希望下一个人也能喜欢」。",
+          "pose_id": "Surprise_6",
+          "japanese": "最後のページをめくったら、薄い鉛筆の字が一行だけ書いてあったんだ。「この本はとても面白いです。次の人も気に入ってくれますように」って。",
+          "pronunciation": "さいごのページをめくったら、うすいえんぴつのじがいちぎょうだけかいてあったんだ。「このほんはとてもおもしろいです。つぎのひともきにいってくれますように」って。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/2b32b2f090f56356ebeab697fb927e1c57d8f85a7db11047472c1b11bf65695d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "f68f835e04cb48a37e3ed90b1ce56ea46ecf8aacdb686e1f59badbe7f53ff3cd",
+            "japanese": "f68f835e04cb48a37e3ed90b1ce56ea46ecf8aacdb686e1f59badbe7f53ff3cd",
+            "audio": "6426951c7014012e9514474c6c33b9045f70fa5a44a603b86ab3b73d8bb3f4c8",
+            "voice": "9bd812822b2e29afbcb97cfcaa052c16f58175f331599bbf8434c4d510a9ee22"
+          }
+        },
+        {
+          "order": 3,
+          "text": "写字的人我大概永远不会认识，可那行字就留在那里，好像是专门等着谁来看到它。我抱着它站了很久，最后把它买了下来。",
+          "pose_id": "Thinking_1",
+          "japanese": "書いた人のことは、たぶん一生知らないままだと思う。それなのに、あの一行はそこに残っていて、誰かが見つけるのを待ってるみたいだった。ボクはそれを抱えたまましばらく立ってて、最後は買って帰ることにしたんだ。",
+          "pronunciation": "かいたひとのことは、たぶんいっしょうしらないままだとおもう。それなのに、あのいちぎょうはそこにのこっていて、だれかがみつけるのをまってるみたいだった。ボクはそれをかかえたまましばらくたってて、さいごはかってかえることにしたんだ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/55d095e83756d1e3ff978cd849cf1d45f9381b144067ad09b34ab389e23b26a0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "396f855505a94b5fabba23e776f9a001c0ffdcfe7480566aa4059010b947d72b",
+            "japanese": "396f855505a94b5fabba23e776f9a001c0ffdcfe7480566aa4059010b947d72b",
+            "audio": "0d2c60c69f371e674f6cc5b98920a75bed5600877310dd52c15734561e0d4b35",
+            "voice": "9ad28e093c397afca831d66f875114e2e8ed56b54a97b560b10d298aea8fa8d9"
+          }
+        },
+        {
+          "order": 4,
+          "text": "以前在岛上，能去的地方、什么时候吃饭、和谁见面，几乎都是规定好的。现在好像不一样了，一场突然的雨就能把我带到一个从没见过的角落。",
+          "pose_id": "Default_2",
+          "japanese": "前は島にいた頃、行ける場所も、ごはんの時間も、誰に会うかも、ほとんど決められてた。今は少し違うみたい。急に降り出した雨のおかげで、見たこともない場所に連れて来られちゃった。",
+          "pronunciation": "まえはしまにいたころ、いけるばしょも、ごはんのじかんも、だれにあうかも、ほとんどきめられてた。いまはすこしちがうみたい。きゅうにふりだしたあめのおかげで、みたこともないばしょにつれてこられちゃった。",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/236b436a660b77c93d8f7f0ad9b25c013294b087ad82b7673ce5c28e0fb23546.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3ea81f422c847bfe198130a6beceb5ab17475609ddd609364cc375f8ffe69791",
+            "japanese": "3ea81f422c847bfe198130a6beceb5ab17475609ddd609364cc375f8ffe69791",
+            "audio": "c6efebf4300fd4918b5a1a7d42373748eda5348e6cc9676613cfed6e4fbd9d83",
+            "voice": "f9c64d641ca191b2ca3f73b0cedd7a8b762afb17c93dd4046fa4646b1922a76b"
+          }
+        },
+        {
+          "order": 5,
+          "text": "所以我想，等这本读完，也在那一页下面添一行字。会是谁翻到它、在什么样的天气里翻到，我完全不知道——这样反而让我有点期待。",
+          "pose_id": "Happy_3",
+          "japanese": "だから、この本を読み終えたら、ボクもあのページの下に一行だけ書き足してみようと思う。誰がそれを開くのか、どんな天気の日に開くのか、ボクには全然わからない。……なのに、そう考えると少しだけ楽しみなんだ。",
+          "pronunciation": "だから、このほんをよみおえたら、ボクもあのページのしたにいちぎょうだけかきたしてみようとおもう。だれがそれをひらくのか、どんなてんきのひにひらくのか、ボクにはぜんぜんわからない。……なのに、そうかんがえるとすこしだけたのしみなんだ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/574aea1cfcc2aeb9a2efb521dcae29598d2c982b3cfe71e6207bb138edd3d861.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "63df06868d0ecff4b94ef19443866408d6da6be504a19ad32894b3b6452d2c93",
+            "japanese": "63df06868d0ecff4b94ef19443866408d6da6be504a19ad32894b3b6452d2c93",
+            "audio": "07216ddbf2b566e4d4417386e8e499c135fd204a8709a6fef108598d25b08433",
+            "voice": "ef77fb2a98ecfe9791df6b692b71b27b63f9f53c092e10bda081ba10ae97ae1c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-5f9680ba-8a79-4fcd-bf94-02b49cbe561f",
+      "character_id": "Ema",
+      "text": "昨天我一个人去看了电影。买票的时候手有点抖，声音也小，售票的人低头看了两次，才听清我要看哪一场。放映厅里的灯一暗，我有一瞬间僵住了。四周全是黑的，只有前面那块屏幕亮着。我下意识抓住扶手，过了好一会儿才反应过来，这里的黑跟那个地方不一样，想出去的话，随时都能出去。后来我完全看进去了。屏幕上的光一闪一闪地照在旁边人的脸上，我偷偷看了一圈，没有人注意我。那种没有被盯着的感觉，让我放松得差点睡着。散场出来才发现天已经全黑了，风也凉，路上全是人。我在台阶上站了一会儿，从口袋里把票根拿出来，摸了摸边缘，有点毛。回去以后我把它放进了装零钱的小盒子。本来只是想留个凭证，结果一路上都在回想中间那段配乐。下次我想选靠中间一点的位置，那样声音大概会更清楚。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "昨天我一个人去看了电影。买票的时候手有点抖，声音也小，售票的人低头看了两次，才听清我要看哪一场。",
+          "pose_id": "Flushed_1",
+          "japanese": "昨日、わたしは一人で映画を見に行きました。切符を買うとき、手がちょっと震えてしまって、声も小さかったので、窓口の人が二度もうつむいて、やっとわたしがどの回を見たいのか聞き取れたくらいです。",
+          "pronunciation": "きのう、わたしはひとりでえいがをみにいきました。きっぷをかうとき、てがちょっとふるえてしまって、こえもちいさかったので、まどぐちのひとの にどうつむいて、やっとわたしがどの かいをみたいのか ききとれたくらいです。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/bb130ffbe63ba349817320fbdeacf1f505f51db1f115bd5c76c634f33ca2f972.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5822504bc210e30f6eacc9691dc5a0cad69a7b39f688633a5baf53e225164f1d",
+            "japanese": "5822504bc210e30f6eacc9691dc5a0cad69a7b39f688633a5baf53e225164f1d",
+            "audio": "0492c249b4055e3234bd97df203fbb49ea61df138c04acbca379976f9b99cbef",
+            "voice": "78c78dbadbb6ff554fd576cbfa4c4b0ef6c5c6747c74aac3ccfd05b5eef527c0"
+          }
+        },
+        {
+          "order": 1,
+          "text": "放映厅里的灯一暗，我有一瞬间僵住了。四周全是黑的，只有前面那块屏幕亮着。我下意识抓住扶手，过了好一会儿才反应过来，这里的黑跟那个地方不一样，想出去的话，随时都能出去。",
+          "pose_id": "Feature_Extremely_4",
+          "japanese": "上映が始まって、場内の明かりが消えたとたん、わたしは一瞬、体が固まってしまいました。周りは真っ黒で、前のスクリーンだけが光っています。思わずひじ掛けを握りしめて、しばらくしてから、やっと気づいたんです。ここの暗さは、あの場所とは違うんだって。出ようと思えば、いつでも出られるんだって。",
+          "pronunciation": "じょうえいがはじまって、じょうないのあかりがきえたとたん、わたしはいっしゅん、からだがこおってしまいました。まわりはまっくろで、まえのスクリーンだけがひかっています。おもわずひじかけをにぎりしめて、しばらくしてから、やっときづいたんです。ここのくらさは、あのばしょとはちがうんだって。でようとおもえば、いつでもでられるんだって。",
+          "voice_emotion": "弱害怕 · 夜间内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0753ac01636bc3a6",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱害怕 · 夜间内心独白",
+          "audio_file": "audio/54c2fe3e2ec261cf6e39f891eed1466fdff44dca71afa1459956f85fafcef2f4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2f92cd2fdec2f9f984b36e25bbecfe0936b1caaecb00da95b55aecfe7928ae53",
+            "japanese": "2f92cd2fdec2f9f984b36e25bbecfe0936b1caaecb00da95b55aecfe7928ae53",
+            "audio": "15aaa3b758301488626467b155e5d297dc1daf5cfbfc6e1d43c87ab9f8b74606",
+            "voice": "7f1e06c2134657905fc41a619632eefe0eb8ac9042dc50a6d8f9985c8a05100e"
+          }
+        },
+        {
+          "order": 2,
+          "text": "后来我完全看进去了。屏幕上的光一闪一闪地照在旁边人的脸上，我偷偷看了一圈，没有人注意我。那种没有被盯着的感觉，让我放松得差点睡着。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "それからは、すっかり映画に引き込まれていました。スクリーンの光がちらちらと隣の人の顔を照らしていて、わたしはこっそり周りを見てみましたけど、誰もわたしに気づいていませんでした。見られていないっていう感覚で、気がゆるんで、もう少しで眠ってしまいそうなくらいでした。",
+          "pronunciation": "それからは、すっかりえいがにひきこまれていました。スクリーンのひかりがちらちらととなりのひとのかおをてらしていて、わたしはこっそりまわりをみてみましたけど、だれもわたしにきづいていませんでした。みられていないっていうかんかくで、きがゆるんで、もうすこしでねむってしまいそうなくらいでした。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/086a0e3f0e45d9d587a62a4a88ad6f7f9533e49a6c054b0225105e27d2cd27b8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2094a28d59056eae3a3a47c89724afd218ff84f60a27a9aff246a2827c8a524b",
+            "japanese": "2094a28d59056eae3a3a47c89724afd218ff84f60a27a9aff246a2827c8a524b",
+            "audio": "5828d00b12beefa9bd1e1a1a93e243b2b3f4a980770e3eccbd151a3d2ae9d4fa",
+            "voice": "216150ee1b1a75aaac12583ca9bd9096e90481dd88e118fe45d54a02a5654dbf"
+          }
+        },
+        {
+          "order": 3,
+          "text": "散场出来才发现天已经全黑了，风也凉，路上全是人。我在台阶上站了一会儿，从口袋里把票根拿出来，摸了摸边缘，有点毛。",
+          "pose_id": "Explain_Default_6",
+          "japanese": "上映が終わって外に出たら、もうすっかり暗くなっていて、風も冷たくて、道には人がいっぱいでした。わたしは階段のところでしばらく立って、ポケットから半券を取り出して、端っこを触ってみました。少し毛羽立っていました。",
+          "pronunciation": "じょうえいがおわってそとにでたら、もうすっかりくらくなっていて、かぜもつめたくて、みちにはひとがいっぱいでした。わたしはかいだんのところでしばらくたって、ポケットからはんけんをとりだして、はしっこをさわってみました。すこしけばだっていました。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/df429ac680426c41049eeaf30f74afdeb30697727097ea2324ff325daf4696d0.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fef3b873fb85e1f2908681073a47cac4f0634df47a54c47d4ed7b86f0d7361fb",
+            "japanese": "fef3b873fb85e1f2908681073a47cac4f0634df47a54c47d4ed7b86f0d7361fb",
+            "audio": "9c9b61156c621f3e398f6017f0cb042e844d8ee84bac2ac3a11d271589ce637f",
+            "voice": "b306380680d2604ff0207cbf096f00033c09b5240b2c36d92d1adc1f414a8b7e"
+          }
+        },
+        {
+          "order": 4,
+          "text": "回去以后我把它放进了装零钱的小盒子。本来只是想留个凭证，结果一路上都在回想中间那段配乐。下次我想选靠中间一点的位置，那样声音大概会更清楚。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "帰ってから、小銭を入れている小さな箱にそれをしまいました。ただの証拠として残しておくつもりだったのに、帰り道はずっと、途中の音楽のことを思い出していました。今度はもう少し真ん中の席を選んでみたいです。そのほうが、音がもっとはっきり聞こえる気がしますから。",
+          "pronunciation": "かえってから、こぜにをいれているちいさなはこにそれをしまいました。ただのしょうことしてのこしておくつもりだったのに、かえりみちはずっと、とちゅうのおんがくのことをおもいだしていました。こんどはもうすこしまんなかのせきをえらんでみたいです。そのほうが、おとがもっとはっきりきこえるきがしますから。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/0daf1f95ccca71fcc860fb4b87108bb3997dfc582f0d8ff15c01b27b77808db6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "8fdfafe2eb1c21cd5c39d69f9238eaeea2bbe5fe87c409b066a9ad603a16651b",
+            "japanese": "8fdfafe2eb1c21cd5c39d69f9238eaeea2bbe5fe87c409b066a9ad603a16651b",
+            "audio": "3fced6d38c8daac0ae96f12ee102b66541742cb48b00e5cf0fa766b461144cd8",
+            "voice": "cd8319c3ecc3d437bbbf302f0d3956c398433e4f65f59710b9079b1221a6d73d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-566ee69e-49ec-4bbe-b7d3-4a20927d4ff4",
+      "character_id": "Ema",
+      "text": "雪莉酱不知道从哪里翻出一本旧的解谜书，中午就抱着它来找我，说今天要让我当侦探，她来当助手。第一个案子是密室：图上的小屋四面都锁着，门缝里塞着沙子，地上只有一串脚印，脚印到窗边就断了。我盯着那张图看了很久，脑子里跳出来的答案一个比一个离谱，先说人是从地道钻进来的，又说窗玻璃其实没关严。雪莉酱在旁边一边记一边笑，说我的推理每次都比案子本身热闹。后来我发现图角落的壁炉画得很小，烟囱却是通的——人应该是顺着烟囱下来的吧。她愣了两秒，把书举起来欢呼了一声。那一瞬间我也有点想叫出来。以前也总有必须找出答案的时候，可每找到一次答案，心里都会更沉一点。今天不一样，答案对了就是对了，我们还能为这种小事高兴半天。书还剩六页没解，雪莉酱说下一题换她当侦探。我打算到时候认真给她当助手，先把铅笔削好。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "雪莉酱不知道从哪里翻出一本旧的解谜书，中午就抱着它来找我，说今天要让我当侦探，她来当助手。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "シェリーちゃんがどこからか古い謎解きの本を見つけてきて、お昼にそれを抱えて私のところへ来たんだ。今日は私が探偵で、シェリーちゃんが助手だって。",
+          "pronunciation": "シェリーちゃんがどこからかふるいなぞときのほんをみつけてきて、おひるにそれをかかえてわたしのところへきたんだ。きょうはわたしがたんていで、シェリーちゃんがじょしゅだって。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/5eb5f9d2b882a6d4e5e45cd66e978f5b43375f7c9aecbec3a377dc390161849b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ff7f9f3d17e87623d716d7cc6cab139032ee12419f797ce338332bd1a09a3a09",
+            "japanese": "ff7f9f3d17e87623d716d7cc6cab139032ee12419f797ce338332bd1a09a3a09",
+            "audio": "c0c830a2fbbc855d53c9f064b13074b254570d7029ac062b9ec0ec2b62ced6fd",
+            "voice": "20d81c555441b00ce61b928dddfaf9cb1d5c5c687019a1e8ca14e6b8110ec857"
+          }
+        },
+        {
+          "order": 1,
+          "text": "第一个案子是密室：图上的小屋四面都锁着，门缝里塞着沙子，地上只有一串脚印，脚印到窗边就断了。",
+          "pose_id": "Thinking_1",
+          "japanese": "最初の事件は密室。絵の中の小さな小屋は四方とも鍵がかかっていて、扉の隙間には砂が詰まってる。床には足跡が一つだけあって、その足跡は窓のところで途切れていた。",
+          "pronunciation": "さいしょのじけんはみっしつ。えのなかのちいさなこやはしほうともかぎがかかっていて、とびらのすきまにはすながつまってる。ゆかにはあしあとがひとつだけあって、そのあしあとはまどのところでとぎれていた。",
+          "voice_emotion": "平静 · 提醒与说明",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "cf0605b5d425834a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 提醒与说明",
+          "audio_file": "audio/5263949b28eb4f2510ddfb090e5637cb5ce888d62aed950b78331054e0c1d06f.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "464f0a84f5f82f697e0a9c718c1297b806b5b3722b0cfc49cae4e4f2a3197f81",
+            "japanese": "464f0a84f5f82f697e0a9c718c1297b806b5b3722b0cfc49cae4e4f2a3197f81",
+            "audio": "8ce7e62947611022610e1f44f7d8f35285868ff9fbd3410330accc830f15223f",
+            "voice": "faee85be3ac2b090e0fd429e435bf40a468bebd4cdd34b2a927af9cfcf21bd51"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我盯着那张图看了很久，脑子里跳出来的答案一个比一个离谱，先说人是从地道钻进来的，又说窗玻璃其实没关严。雪莉酱在旁边一边记一边笑，说我的推理每次都比案子本身热闹。",
+          "pose_id": "Thinking_1",
+          "japanese": "私はその絵をずっと眺めていたんだけど、思い浮かぶ答えがどれもこれもとんでもなくて。まず犯人は地下道から入ってきたって言って、その次は窓ガラスが実は閉まってなかったって言った。シェリーちゃんは横でメモを取りながら笑って、私の推理はいつも事件そのものより賑やかだって。",
+          "pronunciation": "わたしはそのえをずっとながめていたんだけど、おもいうかぶこたえがどれもこれもとんでもなくて。まずはんにんはちかどうからはいってきたっていって、そのつぎはまどガラスがじつはしまってなかったっていった。シェリーちゃんはよこでメモをとりながらわらって、わたしのすいりはいつもじけんそのものよりにぎやかだって。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/3361286e8781e15a64f93abc20f4c7ce19de11233e8f21606eb95facdab8ba94.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d281581feacf1f8184e2f4528a8e209aea890f57e6e01348cbfc8cbf247cc4c5",
+            "japanese": "d281581feacf1f8184e2f4528a8e209aea890f57e6e01348cbfc8cbf247cc4c5",
+            "audio": "8ea7238ebc1ac0461ecf1aa6195e85b140d85c979c58112761e12c10cc340078",
+            "voice": "9e513e7898df297a603b9ebacc4e993accdd1fc617c5db5f9ffeaccf73c6b834"
+          }
+        },
+        {
+          "order": 3,
+          "text": "后来我发现图角落的壁炉画得很小，烟囱却是通的——人应该是顺着烟囱下来的吧。她愣了两秒，把书举起来欢呼了一声。",
+          "pose_id": "Surprise_6",
+          "japanese": "それから、絵の隅に描かれた暖炉がとても小さくて、煙突だけは通じているのに気づいた。人は煙突を伝って降りてきたんだと思う。シェリーちゃんは二秒ほど固まって、本を高く掲げて歓声を上げた。",
+          "pronunciation": "それから、えのすみにえがかれただんろがとてもちいさくて、えんとつだけはつうじているのにきづいた。ひとはえんとつをつたっておりてきたんだとおもう。シェリーちゃんはにびょうほどかたまって、ほんをたかくかかげてかんせいをあげた。",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/76f8b9101e5d6f075707fd6da617872be7aefcc84326161fe883683ee90d5f24.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d9b8733efcfae3a1968d46784f5c5433c27383409609d2b7281c6dabd571b22a",
+            "japanese": "d9b8733efcfae3a1968d46784f5c5433c27383409609d2b7281c6dabd571b22a",
+            "audio": "0777a84a68f6dce168337cd0294ba66ade65bd1afc6f419787dbfa04e5b98d9f",
+            "voice": "a4a5cc9c8b03df18deb616b21028a69271888172cdf0a45de96f755f1ce2d277"
+          }
+        },
+        {
+          "order": 4,
+          "text": "那一瞬间我也有点想叫出来。",
+          "pose_id": "Happy_4",
+          "japanese": "その瞬間、私も少し叫びたくなった。",
+          "pronunciation": "そのしゅんかん、わたしもすこしさけびたくなった。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/476b76fe240b8784e0a445332de52c3a623d6f43bfcfce68842b1988453ca506.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a7d3fdfd4a992887d20a25315c85cd2e01027bb7b976487859c26440cfc5b0fd",
+            "japanese": "a7d3fdfd4a992887d20a25315c85cd2e01027bb7b976487859c26440cfc5b0fd",
+            "audio": "728a25443532b514cd94887eb425b0ba8d76afd92b91c3812d87b7f7bf4c91bb",
+            "voice": "eb26e9ffff4f05054623014a5b63d2a4def9db8062f1bfe798b9d48a788988ac"
+          }
+        },
+        {
+          "order": 5,
+          "text": "以前也总有必须找出答案的时候，可每找到一次答案，心里都会更沉一点。今天不一样，答案对了就是对了，我们还能为这种小事高兴半天。",
+          "pose_id": "Simle_1",
+          "japanese": "前にも、答えを出さなければならないときはあった。でも、答えを見つけるたびに、心はもっと重くなっていった。今日は違う。答えが合っていればそれでいい、そんな小さなことでも二人でしばらく喜んでいられた。",
+          "pronunciation": "まえにも、こたえをださなければならないときはあった。でも、こたえをみつけるたびに、こころはもっとおもくなっていった。きょうはちがう。こたえがあっていればそれでいい、そんなちいさなことでもふたりでしばらくよろこんでいられた。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/7e2fcc7f1b074585bce6d8f505a0de1212694c235ddcae42bee6288eaae08044.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d97e4ad03b8cb921aa104626a28425473fd877800989bfed202b45ff95b0d53f",
+            "japanese": "d97e4ad03b8cb921aa104626a28425473fd877800989bfed202b45ff95b0d53f",
+            "audio": "3c9670c5561b830c6fa4abf3f25e46225bb5fee4620f64b4efbb0747d246022e",
+            "voice": "42a3efc828335e96e0c580caa5c1ec2284600a3ced25ec8a750d983368ee960a"
+          }
+        },
+        {
+          "order": 6,
+          "text": "书还剩六页没解，雪莉酱说下一题换她当侦探。我打算到时候认真给她当助手，先把铅笔削好。",
+          "pose_id": "Happy_5",
+          "japanese": "本はまだ六ページ残っている。次の問題はシェリーちゃんが探偵をやるんだって。そのときは私、ちゃんと助手をするつもり。まず鉛筆を削っておかないと。",
+          "pronunciation": "ほんはまだろくページのこっている。つぎのもんだいはシェリーちゃんがたんていをやるんだって。そのときはわたし、ちゃんとじょしゅをするつもり。まずえんぴつをけずっておかないと。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/8e086d756ec531ae65711db2020855cf6f1a95b2ef4e0d336a92f59131e9d641.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a11f72d70f7cc6d15ce04e02bb0e767aea4eedfadea780c433c706a542209de7",
+            "japanese": "a11f72d70f7cc6d15ce04e02bb0e767aea4eedfadea780c433c706a542209de7",
+            "audio": "fc39c4e79867446b2d45ea9c6780775df1a2a565cd01468c8290c60038ff8891",
+            "voice": "9c172f1b21b1e9796581636d6887f6288dd64793d62457e7d45854b0dcd56970"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-867d1d71-20f8-4be3-a250-3b57cbc0c81b",
+      "character_id": "Ema",
+      "text": "今天去剪了头发。剪完走出店门，风一吹到后颈，凉得我缩了一下脖子，走路的时候总忍不住伸手去摸。出门之前我在心里练了两遍要怎么说，坐上去以后还是只挤出一句「随便修一下就好」。剪的时候我盯着镜子，看了自己好久。那张脸还是原来的脸，只是耳朵露出来了，看起来有点像刚睡醒的样子，我差点在椅子上笑出来。奇怪的是，我一点也不觉得可惜。头发这种东西，过一阵还会长回来，用不着现在就替将来的自己担心。回来的时候我一直在想，以前我好像很少认真看镜子里的自己。下次要是想剪得再短一点，我大概能说得比今天清楚一些。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天去剪了头发。剪完走出店门，风一吹到后颈，凉得我缩了一下脖子，走路的时候总忍不住伸手去摸。",
+          "pose_id": "Explain_Default_4",
+          "japanese": "今日、髪を切りに行ったんだ。お店を出たら、風がうなじに当たって、冷たくて首をすくめちゃった。歩きながら、つい手を伸ばして触ってしまう。",
+          "pronunciation": "きょう、かみをきりにいったんだ。おみせをでたら、かぜがうなじにあたって、つめたくてくびをすくめちゃった。あるきながら、つい てをのばしてさわってしまう。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/4344c45ad6579d0bc7c1242d7fb1095649a68c38de38bb1cd62e0668af39bb32.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a6e7d12dbbc872291953a1679dbeac6016c88315fcb56848ab731f87be5b2e37",
+            "japanese": "a6e7d12dbbc872291953a1679dbeac6016c88315fcb56848ab731f87be5b2e37",
+            "audio": "2e2f0f5f4e9151d4853eeb69c679f9edd833bf70ad43aecc6a800cdca599e1ae",
+            "voice": "58e9970db1b5b72a70835a9f1b6fad9dbeb67febe58111760bc1bdc0bb637e91"
+          }
+        },
+        {
+          "order": 1,
+          "text": "出门之前我在心里练了两遍要怎么说，坐上去以后还是只挤出一句「随便修一下就好」。",
+          "pose_id": "Flushed_11",
+          "japanese": "出かける前に、何て言おうか心の中で二回練習したのに、椅子に座ったら「適当に整えてください」って一言しか出てこなかった。",
+          "pronunciation": "でかけるまえに、なんていおうか こころのなかで にかい れんしゅうしたのに、いすにすわったら「てきとうに ととのえてください」って ひとことしか でてこなかった。",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/95ae5df658d842428db083c087987316be12b1d932988fa287bb455ad55f8d0d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c84209b253fffeb5c5273aeae047828ae3032dae12c875f0efea42f51bb79a34",
+            "japanese": "c84209b253fffeb5c5273aeae047828ae3032dae12c875f0efea42f51bb79a34",
+            "audio": "33a4e05df7c205c813f363b2f126755e97a24f4bfc24712da2fea42a2803fd4f",
+            "voice": "c30f2ad838957b475da4dec773700b2cfd1c6722acf13605a194d28d5e006ad5"
+          }
+        },
+        {
+          "order": 2,
+          "text": "剪的时候我盯着镜子，看了自己好久。那张脸还是原来的脸，只是耳朵露出来了，看起来有点像刚睡醒的样子，我差点在椅子上笑出来。",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "切ってもらっている間、鏡の中の自分をずっと見ていた。顔はいつもの顔なのに、耳が出ていて、なんだか寝起きみたいで、椅子の上で笑いそうになった。",
+          "pronunciation": "きってもらっているあいだ、かがみのなかの じぶんを ずっと みていた。かおは いつもの かおなのに、みみが でていて、なんだか ねおきみたいで、いすのうえで わらいそうになった。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/86f618aa4bdd4265af9a6199e9a911a60ca1100bb3864ff2722878898b7bef3a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "be7fd0810379c4f6318a5e03edff863a917ead6c66f2063dd90b755f1b24a4dc",
+            "japanese": "be7fd0810379c4f6318a5e03edff863a917ead6c66f2063dd90b755f1b24a4dc",
+            "audio": "8c591911c2d36799fb70d4b99a02380aff9d6aaac877f2ca74a17b07f5722875",
+            "voice": "20918290bf1ff88e5157a8a186e243deb56e5a98e39af798891f062918f52bec"
+          }
+        },
+        {
+          "order": 3,
+          "text": "奇怪的是，我一点也不觉得可惜。头发这种东西，过一阵还会长回来，用不着现在就替将来的自己担心。",
+          "pose_id": "Default_4",
+          "japanese": "不思議と、惜しいとは全然思わなかった。髪なんて、しばらくしたらまた伸びるし、今から未来の自分の心配をしなくてもいいかなって。",
+          "pronunciation": "ふしぎと、おしいとは ぜんぜん おもわなかった。かみなんて、しばらくしたら また のびるし、いまから みらいの じぶんの しんぱいを しなくても いいかなって。",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/52a75c2f6d48f94235e3a87301fa42781b266d560aa0eb8658f29f0cabe2ecf8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "21d131b14842e83e38cc4386142ebda5b903b4479a8a6725883a6cc449b06d7f",
+            "japanese": "21d131b14842e83e38cc4386142ebda5b903b4479a8a6725883a6cc449b06d7f",
+            "audio": "a955ae0ff9e822b62a98b89c7a61fcf8f8be36c2a4c865804c6de1842a67f5a8",
+            "voice": "41f8835c7e9cfedaaa5eeb2d3beadba84d8cb8f6433371eb672e65f8a7118b53"
+          }
+        },
+        {
+          "order": 4,
+          "text": "回来的时候我一直在想，以前我好像很少认真看镜子里的自己。下次要是想剪得再短一点，我大概能说得比今天清楚一些。",
+          "pose_id": "Thinking_5",
+          "japanese": "帰り道ずっと考えていたんだけど、昔は鏡の中の自分をじっくり見ることなんて、ほとんどなかった気がする。今度もっと短くしたいと思ったら、今日よりは上手に言えるようになってるといいな。",
+          "pronunciation": "かえりみち ずっと かんがえていたんだけど、むかしは かがみのなかの じぶんを じっくり みることなんて、ほとんど なかった きがする。こんど もっと みじかく したいと おもったら、きょうより は じょうずに いえるように なってるといいな。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/e177f82dfaf6c4083b7182f66e906daccb2ca3267de5caa174386026e4fc7836.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "f9f21e527c9df239b28af1ff1a86974c9137d9ffb4d53b93405c8fe1eb432667",
+            "japanese": "f9f21e527c9df239b28af1ff1a86974c9137d9ffb4d53b93405c8fe1eb432667",
+            "audio": "6e041c710a44abf5c9de6e80bc5c6c06042b006d19dd8eb1d537c39e04bc6b25",
+            "voice": "c7856aebb6a491a93eb58a8196151ae97de247a310e69e1a00b0199999d36982"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-48cc5b61-c2b6-4a52-948c-993e48d386b9",
+      "character_id": "Ema",
+      "text": "今天一起吃饭的时候，我发现安安酱的盘子几乎没动过。她一直用筷子把米饭拨来拨去，谁说话她就跟着笑一下，眼睛却很少往桌上落。我没有当场问她，只是把离她最近的那碟炸的东西往她那边推了推，自己先夹了一块，说这个很好吃，趁热吃吧。过了一会儿，她真的夹了一小块，慢慢吃完了。散场的时候她走在我旁边，什么都没提，可是脚步比来的时候轻快了一点。回来的路上我一直在想，以前我在饭桌上大概也是这样坐着的，明明饿着，筷子却不敢先伸出去。那时候要是有人也这样推一下盘子就好了。所以我想，下次吃饭的时候，先看一圈，看看谁几乎没动筷子。",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天一起吃饭的时候，我发现安安酱的盘子几乎没动过。",
+          "pose_id": "Explain_Earnest_4",
+          "japanese": "今日、みんなでごはんを食べたとき、アンアンちゃんのお皿がほとんど動いてないのに気づいたんだ。",
+          "pronunciation": "きょう、みんなでごはんをたべたとき、アンアンちゃんのおさらがほとんどうごいてないのにきづいたんだ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/d7167874d81d3fb5429598f0e3f3ae5d3807434d507e0ce808d7798ba40d01fa.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "59cdc1cf0d43917cad1cc4ae1ed193aeb9bb0ff4b4a44eb48122719f04c838e9",
+            "japanese": "59cdc1cf0d43917cad1cc4ae1ed193aeb9bb0ff4b4a44eb48122719f04c838e9",
+            "audio": "75a5f3cdddcf4d9742544374276406d442d449d19172c077251d11983934ed3f",
+            "voice": "518f9c38daf358c9d699538c25aec69a9659c84ca2f0363f6c41517281259b80"
+          }
+        },
+        {
+          "order": 1,
+          "text": "她一直用筷子把米饭拨来拨去，谁说话她就跟着笑一下，眼睛却很少往桌上落。",
+          "pose_id": "Default_5",
+          "japanese": "アンアンちゃんは、ずっとお箸でごはんをあっちこっち動かしてて、誰かが話すと一緒に笑うんだけど、視線はあんまりテーブルの方に落ちてなかったんだ。",
+          "pronunciation": "アンアンちゃんは、ずっとおはしでごはんをあっちこっちうごかしてて、だれかがはなすといっしょにわらうんだけど、しせんはあんまりテーブルのほうにおちてなかったんだ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/64b250021616834750cc267dd1343964a41194d6e9625b4b08c93d5b4cea4215.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "76e8e182d6c50814aed238a288b878bddfb6d04a2e74be98fff0c410dfccaf19",
+            "japanese": "76e8e182d6c50814aed238a288b878bddfb6d04a2e74be98fff0c410dfccaf19",
+            "audio": "6e330986d2a5386306872a17d8a777084411206daf80f45e30e6204086c8eb0d",
+            "voice": "41796ee1048be279a92dccf8d583dd6e40814918634eed6d776783dcaae7a73e"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我没有当场问她，只是把离她最近的那碟炸的东西往她那边推了推，自己先夹了一块，说这个很好吃，趁热吃吧。",
+          "pose_id": "Default_5",
+          "japanese": "その場で聞いたりはしなかったよ。ただ、アンアンちゃんに一番近いところにあった揚げ物のお皿を、そっとそっちに押して、自分が先にひとつ挟んで、「これ、おいしいよ。温かいうちに食べて」って言ったんだ。",
+          "pronunciation": "そのばできいたりはしなかったよ。ただ、アンアンちゃんにいちばんちかかったところにあったあげもののおさらを、そっとそっちにおして、じぶんがさきにひとつはさんで、「これ、おいしいよ。あたたかいうちにたべて」っていったんだ。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/27c41a39c6ed5b750b933bb5f03fbecc1cf88e021e6f4570cc3a671bca65487e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "78d9effc3f5ba97f4335509c35aec7c30dcce701619110e90aff789eb5a9a4b6",
+            "japanese": "78d9effc3f5ba97f4335509c35aec7c30dcce701619110e90aff789eb5a9a4b6",
+            "audio": "5e76e68e6fd8cf3de36671fcf21071e0535abb77f58af77c43060c76b9c610ff",
+            "voice": "a1766a3e87e8256cad6958afb6968010a10acb1b29c78c8760a844b65433dbe7"
+          }
+        },
+        {
+          "order": 3,
+          "text": "过了一会儿，她真的夹了一小块，慢慢吃完了。",
+          "pose_id": "Happy_2",
+          "japanese": "しばらくしたら、アンアンちゃんは本当に小さくひとつ挟んで、ゆっくり食べ終わったんだ。",
+          "pronunciation": "しばらくしたら、アンアンちゃんはほんとうにちいさくひとつはさんで、ゆっくりたべおわったんだ。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/e4671d22e490c13b199099c20fb36c5b41dfef4b8758de6439ac75a4ab7d7cb9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5edf2b3c53dc07db3874228d99787326c11c650c0577fdcfad9e490fee39ca85",
+            "japanese": "5edf2b3c53dc07db3874228d99787326c11c650c0577fdcfad9e490fee39ca85",
+            "audio": "7fd34a39a0a0def49fee8d1b5eef3859cf33b233940be02f8f9097e6b774625d",
+            "voice": "c37ee5f58562e296985863248af86ebac1caea9e4c3fac9dc50ef8ef0d995d56"
+          }
+        },
+        {
+          "order": 4,
+          "text": "散场的时候她走在我旁边，什么都没提，可是脚步比来的时候轻快了一点。",
+          "pose_id": "Happy_2",
+          "japanese": "お開きのとき、アンアンちゃんは私の隣を歩いてて、何も言わなかったけど、来たときより足取りがちょっと軽かった気がする。",
+          "pronunciation": "おひらきのとき、アンアンちゃんはわたしのとなりをあるいてて、なにもいわなかったけど、きたときよりあしどりがちょっとかるかったきがする。",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/c8f94ed93f26a01a0e069012abb04fea22b1afc4a4ac2cf1638910a32d31271b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "8d27b072a763bdd1e9d0f1d4a0cd5a2ffb8f0c5ba0b3b8d2f6487a1902100b02",
+            "japanese": "8d27b072a763bdd1e9d0f1d4a0cd5a2ffb8f0c5ba0b3b8d2f6487a1902100b02",
+            "audio": "2bb43e40ad9bd4aa9f3e03750a87b43607970ea4c5e606270783580742c67133",
+            "voice": "f0978beef64ac4395236968ad08ab7d48ea22cca7f1b9247da94cff2cb2dc64b"
+          }
+        },
+        {
+          "order": 5,
+          "text": "回来的路上我一直在想，以前我在饭桌上大概也是这样坐着的，明明饿着，筷子却不敢先伸出去。",
+          "pose_id": "Cry_8",
+          "japanese": "帰り道でずっと考えてた。昔の私は、食卓でたぶん同じように座ってたんだ。お腹は空いてるのに、お箸を先に出せなかった。",
+          "pronunciation": "かえりみちでずっとかんがえてた。むかしのわたしは、しょくたくでたぶんおなじようにすわってたんだ。おなかはすいてるのに、おはしをさきにだせなかった。",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/937a92be739b88f09fd4bca66f547553ec31630cc63beb4a2354bc60dc464695.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "40a5b29adfcf6ca973767f0af6e6ec89db4dcf7ac111303d7742da93659d4f44",
+            "japanese": "40a5b29adfcf6ca973767f0af6e6ec89db4dcf7ac111303d7742da93659d4f44",
+            "audio": "ff173c3fb6b22208f4d5093cdfcb57d934ce3b700625cf420b9cb94af7710ae1",
+            "voice": "d4a3f6d160f3defb4705f97fc6738bd34ce6d445b4db320717e8e8271adf50d3"
+          }
+        },
+        {
+          "order": 6,
+          "text": "那时候要是有人也这样推一下盘子就好了。",
+          "pose_id": "Cry_8",
+          "japanese": "あのとき、誰かが同じようにお皿を押してくれてたらよかったのにな。",
+          "pronunciation": "あのとき、だれかがおなじようにおさらをおしてくれてたらよかったのにな。",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/145f1bd2adc5eb8446cfc2d2bdacd4c3278efacd29c4e3c7d0ae22da190a16eb.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5cc9200f432b5e9247611845373d577e9e586a685472eb2076d449fb5d3172f3",
+            "japanese": "5cc9200f432b5e9247611845373d577e9e586a685472eb2076d449fb5d3172f3",
+            "audio": "adf24e42139e2401956e6491231fcd633d6276ff6238b4dae81adc44100120a9",
+            "voice": "374547db1f9a61f7119f295d2b10693993f8dea455d341a10778f84d722665a0"
+          }
+        },
+        {
+          "order": 7,
+          "text": "所以我想，下次吃饭的时候，先看一圈，看看谁几乎没动筷子。",
+          "pose_id": "Default_1",
+          "japanese": "だから、次にごはんを食べるときは、まず一周見てみようと思う。誰がほとんどお箸を動かしてないか。",
+          "pronunciation": "だから、つぎにごはんをたべるときは、まずいっしゅうみてみようとおもう。だれがほとんどおはしをうごかしてないか。",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/c5c5ba01d8ea58e6685b9c2b7bcf573b72ee73f4cafa0c161dd381674aaeea71.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "6471dd07c2960ded1ebbc72c936f891337c110f7a8cf17f2d1f3b35aecf5a6b3",
+            "japanese": "6471dd07c2960ded1ebbc72c936f891337c110f7a8cf17f2d1f3b35aecf5a6b3",
+            "audio": "0da7782fc8c71118e8d47a3e4938d12d8e1823ffed6e05cd6008a2590bfae10e",
+            "voice": "2d3ad27f13d10c2ffc1780e5a5f5e4a9aaa79a1c9466d33c8cad91ce26d00a2b"
+          }
+        }
+      ]
+    }
+  ]
+}
