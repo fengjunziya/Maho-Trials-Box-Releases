@@ -1,3 +1,15 @@
+<!-- maho-current-application:start -->
+## 客户端下载（v1.0.4）
+
+- [Windows x64 安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.4/MahoTrialsBox-v1.0.4-win-x64-setup.exe)
+- [Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.4/MahoTrialsBox-v1.0.4-win-x64.zip)
+- [版本说明与校验文件](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.0.4)
+
+两种版本功能相同。先退出旧程序，安装至独立空目录或完整解压后运行 MahoTrialsBox.exe。首次启动选择完整数据目录，默认是程序文件夹旁的 MahoTrialsBoxData；沿用数据时定位包含 maho-client-data.json 的目录，保留进度、记忆和音频备份。GPT-SoVITS 通用环境独立下载或在客户端部署。
+
+自动更新使用 schema 2 签名模块清单，仅下载变化模块，最低支持 1.0.2；更早版本请使用完整包。module-*.zip 和 stable.json/stable.sig 由客户端使用，无需手工安装。旧 v0.1 更新入口已退役。问题目录继续使用独立的 latest 发布，不受客户端版本发布影响。
+<!-- maho-current-application:end -->
+
 # Maho Trials Box question releases
 
 将工作室“导出发布包”产生的完整目录上传到仓库根目录：
