@@ -4,7 +4,7 @@
   "channel": "stable",
   "platform": "win32-x64",
   "progress_schema": 1,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minimum_version": "1.0.2",
   "engine_version": "37.4.0",
   "internal_test_only": false,
@@ -177,22 +177,22 @@
     },
     {
       "id": "knowledge",
-      "content_sha256": "5ab1ce31c1869f85ad2b77495494ba80f7fa060d66e5c81a560a01cd6f9e5dba",
+      "content_sha256": "381019f7260afcbd6a276745f85cfcd9602604a1799b27958d1f6f4a0782d136",
       "files": [
         {
           "path": "resources/app/resources/knowledge/index-seed-manifest.json",
           "size": 708,
-          "sha256": "7e4087d617e170f29f6509f87a637fc6a55723ed506421a4eaa8b9289edc701e"
+          "sha256": "110d2340a4eb6d983575e8df3148955a0353b19794942ea7c0d9f689eac09f7f"
         },
         {
           "path": "resources/app/resources/knowledge/index-seed-manifest.sig",
           "size": 64,
-          "sha256": "5a8e65472f48c70875a08161a43b01714ca79ca2447efa7ce57bc2ae3968b869"
+          "sha256": "c86405305e82fdbbef9de62b13ab23670af0ee3555177365f72ff891ae8bdb07"
         },
         {
           "path": "resources/app/resources/knowledge/index-seed.mtbv",
-          "size": 48038665,
-          "sha256": "bb3c795d3748cd7289546e3e13709262f5acd980dcc7c3b966dcaa815fd61127"
+          "size": 48016131,
+          "sha256": "35d9edb6df3b21427301b05dcca5a40e4d1f3c5d83009f62d64836de074719b5"
         },
         {
           "path": "resources/app/resources/knowledge/knowledge-key.bin",
@@ -201,13 +201,13 @@
         },
         {
           "path": "resources/app/resources/knowledge/knowledge-manifest.json",
-          "size": 377,
-          "sha256": "aeeb7645f07c696a178158dde0965c31da75232480f2fd29f5b57cb77c6d73a5"
+          "size": 366,
+          "sha256": "273788ee85fe7e99536e082c9fc9acbfb4ca6547b4b764cf7a978fce1f6c98d5"
         },
         {
           "path": "resources/app/resources/knowledge/knowledge-manifest.sig",
           "size": 64,
-          "sha256": "74a6da0b957beccb7105904093198a136c03065eb49295d90d484c91098a623c"
+          "sha256": "68806c745d3ad8648a501bfd91b3a3d7f062959f74b91e5627c6c09fcddf4c85"
         },
         {
           "path": "resources/app/resources/knowledge/knowledge.mtbk",
@@ -216,14 +216,14 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.4/module-knowledge-5ab1ce31c1869f85ad2b77495494ba80f7fa060d66e5c81a560a01cd6f9e5dba.zip",
-        "size": 50594853,
-        "sha256": "db7103a8009ec6c6366dac9ea49e555d29c8eed8e49f70dbe950f26216c4c01a"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-knowledge-381019f7260afcbd6a276745f85cfcd9602604a1799b27958d1f6f4a0782d136.zip",
+        "size": 50572304,
+        "sha256": "360ea238759eefce27b66cfedb4007f1c9924e3a5cc2645af5ca6ad06c7f658e"
       }
     },
     {
       "id": "core-runtime",
-      "content_sha256": "a6d514c4e75446c4a1a46dac298f64ebb3db13d9dee95281355c6bc4f56a3c23",
+      "content_sha256": "5e83a290d95a143c8a168a5b404a44483ca52d9298bf6d998c485fca941d3ab1",
       "files": [
         {
           "path": "resources/app/runtime/core/_internal/MSVCP140.dll",
@@ -563,7 +563,7 @@
         {
           "path": "resources/app/runtime/core/_internal/base_library.zip",
           "size": 1333490,
-          "sha256": "a8768abaa87cb712d256d5a490f7501201efca0fe6a1155a912fd8377051d520"
+          "sha256": "6394d331e09053609f9573c63219aa94ed2edc9da69b75962cfc713388dea6e0"
         },
         {
           "path": "resources/app/runtime/core/_internal/bcrypt/_bcrypt.pyd",
@@ -2507,25 +2507,25 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.4/module-core-runtime-a6d514c4e75446c4a1a46dac298f64ebb3db13d9dee95281355c6bc4f56a3c23.zip",
-        "size": 49411438,
-        "sha256": "41e66b0da10cddae0c288006ec7b7c2b48245d25869a380c5a415d31729b39d2"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-core-runtime-5e83a290d95a143c8a168a5b404a44483ca52d9298bf6d998c485fca941d3ab1.zip",
+        "size": 49409494,
+        "sha256": "8f570784f213e3b0920660555958b4942925fbcd5dc5a1d66595544ab6d4224f"
       }
     },
     {
       "id": "core",
-      "content_sha256": "f08b94536167bcf4be721be026f2f9d8811b495ab5ca582f71a46a8b009fa353",
+      "content_sha256": "10b8eabe84fed9467b437345f54baee1d9f0961bc884cb8f80f8f2349733afcd",
       "files": [
         {
           "path": "resources/app/runtime/core/maho-core.exe",
-          "size": 13213261,
-          "sha256": "bfba55f8ebd5fa55c0e4dc3669e8fb07cc314d7d66208e4fbdfd274ac61164f6"
+          "size": 13225895,
+          "sha256": "20b3233cc19cd02ae5fb28c4e56c77f54dc945c0aa6411922d051253ef492af9"
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.4/module-core-f08b94536167bcf4be721be026f2f9d8811b495ab5ca582f71a46a8b009fa353.zip",
-        "size": 12990312,
-        "sha256": "7835e36bc951f0a0bf70e579a870a01fd4d5ea8ecaf760c9f1f7bfc17a9cbd12"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-core-10b8eabe84fed9467b437345f54baee1d9f0961bc884cb8f80f8f2349733afcd.zip",
+        "size": 13002629,
+        "sha256": "6ad38c47cf74fdf930e264bce4239d8c8d2768875df25c9a597610baa68f8e3a"
       }
     },
     {
@@ -3977,17 +3977,17 @@
     },
     {
       "id": "client",
-      "content_sha256": "3593e5b0e4852c51c340316eed6fc183cd47e04eab6fc3f669144cb36ca880dc",
+      "content_sha256": "0f09a82a818e7f462ea0d32cfecd75e1f4fd4eb0535baa0fe87624f7e08aca1a",
       "files": [
         {
           "path": "README-Release.txt",
           "size": 1727,
-          "sha256": "629a7327eabef18ce69aa841428a86eb283b8b3f2780790f7be91f592efd23a2"
+          "sha256": "804264d9e8ade59c399ef49b8e28ecc8d46dedd9fe85d0d1941a10c44067c605"
         },
         {
           "path": "build-inventory.json",
-          "size": 220546,
-          "sha256": "5bcceee12cc96e94140956b9ad5472536151883480e47b3e7ced7c28f99ede5f"
+          "size": 220582,
+          "sha256": "1240c426ec790010fc45a2ab041fb5331aa9672867d7444a424a6253948bd152"
         },
         {
           "path": "resources/app/desktop/agreement-gate.cjs",
@@ -4056,8 +4056,8 @@
         },
         {
           "path": "resources/app/desktop/control-pages.js",
-          "size": 14932,
-          "sha256": "ff40ddd0c67bdf3e2af53ec923442608324bf7108b7e78efa10da4d2fd751cee"
+          "size": 15146,
+          "sha256": "9bfd1376641b8e4da3f72285296e9d7845f98d789e4b15599c2d1322af0a823f"
         },
         {
           "path": "resources/app/desktop/control.html",
@@ -4066,8 +4066,8 @@
         },
         {
           "path": "resources/app/desktop/control.js",
-          "size": 16785,
-          "sha256": "dfeaa0973a5c64266e6ac3ca725e567f5aa916abfc90ac03c2c49d7f3779c816"
+          "size": 14671,
+          "sha256": "7f6ad9e9b22b1e7879d9f7f205fa8e10b4ff21a15081db8163f0e53261b2818f"
         },
         {
           "path": "resources/app/desktop/core-compat.cjs",
@@ -4191,8 +4191,8 @@
         },
         {
           "path": "resources/app/desktop/main.cjs",
-          "size": 62193,
-          "sha256": "a51571c46782374ebfde0d4f966f1db611d4a94f487212a7f92c9a9f48f991fe"
+          "size": 62373,
+          "sha256": "eeb3021f132b9597d63b036482c2a206750ca3192ca80f5f2745dad09a7016fb"
         },
         {
           "path": "resources/app/desktop/memory-controller.cjs",
@@ -4312,7 +4312,7 @@
         {
           "path": "resources/app/desktop/package.json",
           "size": 340,
-          "sha256": "e7be555bfd66e443ea9acc7f8f34b29179746a9f4a8524a93d8faa4fce13986e"
+          "sha256": "ca447e5f2295a069d9475cc2e4a99f4c61fc655626478c3f5bfe8c2309855c4c"
         },
         {
           "path": "resources/app/desktop/pet-interaction.cjs",
@@ -4391,8 +4391,8 @@
         },
         {
           "path": "resources/app/desktop/preload.cjs",
-          "size": 4450,
-          "sha256": "f9a4c9127d638756a32102d142e59e91756a1e1074d2f61cfdcecbd00926e74a"
+          "size": 4444,
+          "sha256": "38c2fb524a0bc95720f13e8aaf6ebf2a459b3e090e82be1a1bef351516d06fff"
         },
         {
           "path": "resources/app/desktop/protected-static.cjs",
@@ -4436,13 +4436,8 @@
         },
         {
           "path": "resources/app/desktop/speech-runtime.cjs",
-          "size": 4622,
-          "sha256": "15471bf9e7009b9fe6a2d06a0c7a8ed44b4988e77052330e1a3707211db20f40"
-        },
-        {
-          "path": "resources/app/desktop/speech-settings.cjs",
-          "size": 3200,
-          "sha256": "7e15050d3c90f61139bdf00952ce8f132d51cc93c39e5978276bae410902c901"
+          "size": 1492,
+          "sha256": "130adcdde5f288a87dff9eece16387b707ce5a46afc0a16f1427154370817a42"
         },
         {
           "path": "resources/app/desktop/starter-catalog/catalog.json",
@@ -4486,23 +4481,23 @@
         },
         {
           "path": "resources/app/desktop/voice-controller.cjs",
-          "size": 23852,
-          "sha256": "be149a928a27d1dd6251abe2d3769afc65318e2586f85d5962a71546c5ae2588"
+          "size": 24107,
+          "sha256": "cff348d51c680e61c63b012289e34dd3ae5d9ef0c2ed0e73f4e501c595af72cd"
         },
         {
           "path": "resources/app/desktop/voice-credentials.cjs",
-          "size": 2405,
-          "sha256": "9afcd06731672393be08000a3040f17b38305a4cb64493927dda9b44048f0414"
+          "size": 2887,
+          "sha256": "63a1e04ed3718e9e8ce28ef58246acc277542fdb1371095a4842d25bb9b307f1"
         },
         {
           "path": "resources/app/desktop/voice-data.cjs",
-          "size": 7172,
-          "sha256": "d6b9c841dc4d804fc08bf08e16ed2a4e5866f5259356ec3dc3195b984c5d897a"
+          "size": 9309,
+          "sha256": "64848feac4e028a0ff90a6a2f629b8158e97678884fa1b720bd12726f3b5f708"
         },
         {
           "path": "resources/app/desktop/voice-deployment-ui.js",
-          "size": 5807,
-          "sha256": "7f74044dc2d305d233d48628052ec408380b19550176131f66cb9ff68df8e1e9"
+          "size": 5961,
+          "sha256": "bd14955fdf729fed0aa070e8f57fb0d8e62db3a1c77c5bef4ec8692fe8b85fa4"
         },
         {
           "path": "resources/app/desktop/voice-health.cjs",
@@ -4526,13 +4521,18 @@
         },
         {
           "path": "resources/app/desktop/voice-ui.js",
-          "size": 14456,
-          "sha256": "e3db11b7a0d6ab8cbe7de18791f4fc143f31f5cf9320832625b8663190d3baae"
+          "size": 15950,
+          "sha256": "19d620d83d62ceb4b147048fca5eeb12ddfc7194dcfcf3d0b9c9917f3fbc04b3"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v2/asr-input.cjs",
           "size": 1298,
           "sha256": "07eb0ffdceed7f1e7888dbf46a1df844c4a56e01a7260993b12813e38c3b4afb"
+        },
+        {
+          "path": "resources/app/experiments/realtime-voice-v2/chat-endpoint.cjs",
+          "size": 1119,
+          "sha256": "799375a2500d9d996347b4e0d41aaf1ac53c643d9f91f1799804b02318268128"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v2/config.cjs",
@@ -4556,8 +4556,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v2/qwen.cjs",
-          "size": 3375,
-          "sha256": "6c74c8fd8e34385a1668ba5ee4b0b8674e338208d542a21429a41626adcbd0c9"
+          "size": 4140,
+          "sha256": "a15cc0646aa8388c33bc14315158f7215ab3194ed97e9891f05a4a16dcc38d2a"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v2/report.cjs",
@@ -4631,8 +4631,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/engine.cjs",
-          "size": 21124,
-          "sha256": "3da7f12a6d5615b71a03d0a21600011bfa28815f912f0bc59dbd0a2cc502454e"
+          "size": 21219,
+          "sha256": "54e08d2a6b3fb96e312ca6324141b892046874e48c5ac308729c271c7b873a4b"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/gate.cjs",
@@ -4701,8 +4701,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/model.cjs",
-          "size": 10046,
-          "sha256": "4448427f3b752243957410e0e3eece0aadb9c2038f38ffd285ddc8d3c90cbc0c"
+          "size": 9897,
+          "sha256": "8516ff2788078fa95b4d87da41f541991d3c92155a6fa41309ba8f5b11cc07fe"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/output.cjs",
@@ -4736,8 +4736,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/protocol.cjs",
-          "size": 5411,
-          "sha256": "00dc0851bfb194be569c5f2801674c01a3f7e99d3b72f884d61b9ce883601ba5"
+          "size": 4747,
+          "sha256": "6afe91aceebad82dd10fff366e94735ef8c37aa3107804d2302f95f1859b401b"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/record-lifecycle.cjs",
@@ -4766,8 +4766,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/tts.cjs",
-          "size": 9467,
-          "sha256": "b255138b182c3e3bc56cee7316e73ddb0821a4bc371dd1504a877e423bea7ec8"
+          "size": 9525,
+          "sha256": "25296b011dea7274b3d4799ecab3278925313844c1bfaea71b376b9ddef5010d"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/tts_request.py",
@@ -4776,8 +4776,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/tts_worker.py",
-          "size": 16349,
-          "sha256": "bc847d488ed936a46eb25eaa3a8b86fab72d233f1b5389e82da69548ba3b3b0c"
+          "size": 16714,
+          "sha256": "96bf997063d5f229bf1ee6c6d3eefab100fcf4fb39e32b1d90af600f26305204"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/vendor/aaaagent/LICENSE.txt",
@@ -5012,7 +5012,7 @@
         {
           "path": "resources/app/package.json",
           "size": 102,
-          "sha256": "00dea12707ada0e7790806642ac2675e855166431d4f764c18b4571637ed0ca6"
+          "sha256": "04fd50685aef39d56b68aa4b28468b0637cfef1a4cc9512c5519c9817e131004"
         },
         {
           "path": "resources/app/tools/gpt-sovits/agent-catalog.json",
@@ -5025,9 +5025,19 @@
           "sha256": "177d5fb2e9e298917ec868b7a271d72d1b015f109a09365ba7b164392a0df0a9"
         },
         {
+          "path": "resources/app/tools/gpt-sovits/devices.cjs",
+          "size": 3183,
+          "sha256": "734262aa47e38bedc991e28707e79de1a542cbcd3f0c6232ca1408fa26b3cba1"
+        },
+        {
           "path": "resources/app/tools/gpt-sovits/handoff_verify.py",
           "size": 6014,
           "sha256": "59707e19cb68887fa90398e02481241602872a1aab9365ebf66870962f74089e"
+        },
+        {
+          "path": "resources/app/tools/gpt-sovits/inference_device.py",
+          "size": 3321,
+          "sha256": "081fb04aa4e5b5c031c01c9cc0d546987479f476e2ae3e392697ea139404363f"
         },
         {
           "path": "resources/app/tools/gpt-sovits/loudness.cjs",
@@ -5066,8 +5076,8 @@
         },
         {
           "path": "resources/app/tools/gpt-sovits/runtime.cjs",
-          "size": 17020,
-          "sha256": "5a3a34aa75698a0ae50ee68d1753acd617da55107558fba834222c8ebb2bac1c"
+          "size": 19010,
+          "sha256": "c9774bd6ed42594c92d20389f894ee8c78d8afe301fd5b2c4943dd3edbe421dc"
         },
         {
           "path": "resources/app/tools/gpt-sovits/stream-loudness-profile.json",
@@ -5081,18 +5091,8 @@
         },
         {
           "path": "resources/app/tools/gpt-sovits/worker.py",
-          "size": 11018,
-          "sha256": "adee365c9d54a78578b0cd06be5af2a9993e3eff64204ca30b4fd54be58493c3"
-        },
-        {
-          "path": "resources/app/tools/minimax/speech.cjs",
-          "size": 9871,
-          "sha256": "a7d47c5e0a2c8d7ead607b77e5dfac8367480a32f23aecf6a7405f657a5d7af6"
-        },
-        {
-          "path": "resources/app/tools/minimax/voices.json",
-          "size": 255,
-          "sha256": "bf3d650520460d7ac8aa54b1198a1c36f418d664bed2eaa545fa45a8cec76271"
+          "size": 11332,
+          "sha256": "992f9453ff6a255089e8e44cde898d94bc4aef4cdb5f95af1f99f2677a1c5e31"
         },
         {
           "path": "resources/app/tools/release-repository/scripts/audio-replacement.cjs",
@@ -5106,8 +5106,8 @@
         },
         {
           "path": "resources/app/tools/studio/embedding-config.cjs",
-          "size": 7733,
-          "sha256": "d79cfbcefa441a044ab9b71fab950971be20a226a253f0ad75938f50c81d9194"
+          "size": 10641,
+          "sha256": "9f8ba2d4e80636ad3f733d72aeef3bce46a845f8aa557ded3870a17eb5f9e612"
         },
         {
           "path": "resources/app/tools/studio/llm-profiles.cjs",
@@ -5121,8 +5121,8 @@
         },
         {
           "path": "resources/app/tools/studio/package.cjs",
-          "size": 4141,
-          "sha256": "1fc30b9bfd900ae29c7c8ebee63595d550e27c6741b4390e228ff4852d9cf80d"
+          "size": 5001,
+          "sha256": "b0b9fb8a5c9a6fdd3c01337af938a6425fe40cda99d0a1f31757a553f4887078"
         },
         {
           "path": "resources/app/tools/studio/voice-runtime.cjs",
@@ -5131,8 +5131,8 @@
         },
         {
           "path": "resources/app/tools/studio/voice-selection.cjs",
-          "size": 2572,
-          "sha256": "f5a87766f3ecde1c07de39508e2c5976f0c76a8f5fcb9a8499b85a766059b987"
+          "size": 2629,
+          "sha256": "af81cbea5d91a4fd5514c889faa00cc110127d46a001c52adc1a6b98ba799804"
         },
         {
           "path": "resources/app/tools/studio/voice.cjs",
@@ -5186,9 +5186,9 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.4/module-client-3593e5b0e4852c51c340316eed6fc183cd47e04eab6fc3f669144cb36ca880dc.zip",
-        "size": 840413,
-        "sha256": "17470071f8f049871856beb8bec8acda78bd07dbece66a01cd7b46f951d3df36"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-client-0f09a82a818e7f462ea0d32cfecd75e1f4fd4eb0535baa0fe87624f7e08aca1a.zip",
+        "size": 841559,
+        "sha256": "41c53176ff75f678f0121c6d9d66ea91765e0e62d3b6a9434c11d3538de4759a"
       }
     },
     {
