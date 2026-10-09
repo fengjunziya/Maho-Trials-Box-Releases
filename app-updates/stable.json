@@ -4,7 +4,7 @@
   "channel": "stable",
   "platform": "win32-x64",
   "progress_schema": 1,
-  "version": "1.0.5",
+  "version": "1.0.6",
   "minimum_version": "1.0.2",
   "engine_version": "37.4.0",
   "internal_test_only": false,
@@ -177,22 +177,22 @@
     },
     {
       "id": "knowledge",
-      "content_sha256": "381019f7260afcbd6a276745f85cfcd9602604a1799b27958d1f6f4a0782d136",
+      "content_sha256": "46f67bba4403438b322305090eb2ba7f8b998e0e4131ff88a3b5951251900caf",
       "files": [
         {
           "path": "resources/app/resources/knowledge/index-seed-manifest.json",
           "size": 708,
-          "sha256": "110d2340a4eb6d983575e8df3148955a0353b19794942ea7c0d9f689eac09f7f"
+          "sha256": "eb9e4b7764d1fd56ebef60c6e2010a5f3f405171df4fe037e507bc044d3ebad4"
         },
         {
           "path": "resources/app/resources/knowledge/index-seed-manifest.sig",
           "size": 64,
-          "sha256": "c86405305e82fdbbef9de62b13ab23670af0ee3555177365f72ff891ae8bdb07"
+          "sha256": "d2362247b2409c17732655fa7e3759d1e6bfa5e983873cf55e0676248b06bda5"
         },
         {
           "path": "resources/app/resources/knowledge/index-seed.mtbv",
-          "size": 48016131,
-          "sha256": "35d9edb6df3b21427301b05dcca5a40e4d1f3c5d83009f62d64836de074719b5"
+          "size": 48070095,
+          "sha256": "9c5c21c083483534ddb696cff769b15c910e5b659a88daf4ade326f03c7416eb"
         },
         {
           "path": "resources/app/resources/knowledge/knowledge-key.bin",
@@ -201,13 +201,13 @@
         },
         {
           "path": "resources/app/resources/knowledge/knowledge-manifest.json",
-          "size": 366,
-          "sha256": "273788ee85fe7e99536e082c9fc9acbfb4ca6547b4b764cf7a978fce1f6c98d5"
+          "size": 365,
+          "sha256": "7d574cb34497e87099308243aa2ca87db28907cad3d78cfcf347e2b3eb403974"
         },
         {
           "path": "resources/app/resources/knowledge/knowledge-manifest.sig",
           "size": 64,
-          "sha256": "68806c745d3ad8648a501bfd91b3a3d7f062959f74b91e5627c6c09fcddf4c85"
+          "sha256": "825f545412cd11c523266260512e49589f3aad7093989b511663b3b076aac343"
         },
         {
           "path": "resources/app/resources/knowledge/knowledge.mtbk",
@@ -216,14 +216,14 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-knowledge-381019f7260afcbd6a276745f85cfcd9602604a1799b27958d1f6f4a0782d136.zip",
-        "size": 50572304,
-        "sha256": "360ea238759eefce27b66cfedb4007f1c9924e3a5cc2645af5ca6ad06c7f658e"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.6/module-knowledge-46f67bba4403438b322305090eb2ba7f8b998e0e4131ff88a3b5951251900caf.zip",
+        "size": 50626280,
+        "sha256": "950f6b03a5f7df36ce8c01c31bbda898804f3324626014c90a50430a340f2db9"
       }
     },
     {
       "id": "core-runtime",
-      "content_sha256": "5e83a290d95a143c8a168a5b404a44483ca52d9298bf6d998c485fca941d3ab1",
+      "content_sha256": "745ffc379ca4bb06f49b497fe028528a6588ed0ce6914348f9354af696c82e26",
       "files": [
         {
           "path": "resources/app/runtime/core/_internal/MSVCP140.dll",
@@ -563,7 +563,7 @@
         {
           "path": "resources/app/runtime/core/_internal/base_library.zip",
           "size": 1333490,
-          "sha256": "6394d331e09053609f9573c63219aa94ed2edc9da69b75962cfc713388dea6e0"
+          "sha256": "f72829568ef031fb34939d877a1d891d2a60d6227a138ab1a7b2aff95e7f9baf"
         },
         {
           "path": "resources/app/runtime/core/_internal/bcrypt/_bcrypt.pyd",
@@ -2507,25 +2507,25 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-core-runtime-5e83a290d95a143c8a168a5b404a44483ca52d9298bf6d998c485fca941d3ab1.zip",
-        "size": 49409494,
-        "sha256": "8f570784f213e3b0920660555958b4942925fbcd5dc5a1d66595544ab6d4224f"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.6/module-core-runtime-745ffc379ca4bb06f49b497fe028528a6588ed0ce6914348f9354af696c82e26.zip",
+        "size": 49408556,
+        "sha256": "ea183644a37968cfb92ceea1414ba5e931fd411f6aff141fe35fa4dbec827c94"
       }
     },
     {
       "id": "core",
-      "content_sha256": "10b8eabe84fed9467b437345f54baee1d9f0961bc884cb8f80f8f2349733afcd",
+      "content_sha256": "016ae8bba7322e7be6c34bdc27429f8258bfc0f83b225c4eb42c56f02a312ed8",
       "files": [
         {
           "path": "resources/app/runtime/core/maho-core.exe",
-          "size": 13225895,
-          "sha256": "20b3233cc19cd02ae5fb28c4e56c77f54dc945c0aa6411922d051253ef492af9"
+          "size": 13228113,
+          "sha256": "56e515e1f07ab1bc5dddde4e645fe930435ba2d35740926949910118d6dc8d7d"
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-core-10b8eabe84fed9467b437345f54baee1d9f0961bc884cb8f80f8f2349733afcd.zip",
-        "size": 13002629,
-        "sha256": "6ad38c47cf74fdf930e264bce4239d8c8d2768875df25c9a597610baa68f8e3a"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.6/module-core-016ae8bba7322e7be6c34bdc27429f8258bfc0f83b225c4eb42c56f02a312ed8.zip",
+        "size": 13005113,
+        "sha256": "1dc13f94367299e33cec172489dca77bc94cc19d6900b0ee70ddccb6748fb27d"
       }
     },
     {
@@ -3977,17 +3977,17 @@
     },
     {
       "id": "client",
-      "content_sha256": "0f09a82a818e7f462ea0d32cfecd75e1f4fd4eb0535baa0fe87624f7e08aca1a",
+      "content_sha256": "e5265b69ee7e242e43a0e35c0442f40bb653454016535639fbc9a2c0136c4c4c",
       "files": [
         {
           "path": "README-Release.txt",
           "size": 1727,
-          "sha256": "804264d9e8ade59c399ef49b8e28ecc8d46dedd9fe85d0d1941a10c44067c605"
+          "sha256": "cb4aea40c17eb59d9bc8df8350a1636bb254b6362c730c9ff0c3299e582a050b"
         },
         {
           "path": "build-inventory.json",
-          "size": 220582,
-          "sha256": "1240c426ec790010fc45a2ab041fb5331aa9672867d7444a424a6253948bd152"
+          "size": 220970,
+          "sha256": "00767c616bf1aab8eee86fe4c6919cbc36f3ec0dd0ffe0f11d538b493279abf5"
         },
         {
           "path": "resources/app/desktop/agreement-gate.cjs",
@@ -4191,18 +4191,18 @@
         },
         {
           "path": "resources/app/desktop/main.cjs",
-          "size": 62373,
-          "sha256": "eeb3021f132b9597d63b036482c2a206750ca3192ca80f5f2745dad09a7016fb"
+          "size": 62980,
+          "sha256": "bd864b99a0efd24d3b23487cb04eb452ae1a17b7898f2c9389fb7b39a154ed59"
         },
         {
           "path": "resources/app/desktop/memory-controller.cjs",
-          "size": 3905,
-          "sha256": "f460220c6ceca58fe70b62e08c7fd3d9af5cfa2507091e2e9d25fec13361e2f2"
+          "size": 3924,
+          "sha256": "824a0484a1b4c07fe067a93f38f9be8b4d5496d0863031d3af568c46d3152f6a"
         },
         {
           "path": "resources/app/desktop/memory-ui.js",
-          "size": 14584,
-          "sha256": "65320b2c788f9aa6bcb9ca630b09904f77851b3377fd9bda26c55e0fa123a021"
+          "size": 15095,
+          "sha256": "78fa5b531867b3e1c0c3989acadee7e17d4b94fa764c59e40c29dedcaeaa35d6"
         },
         {
           "path": "resources/app/desktop/model-env.cjs",
@@ -4312,7 +4312,7 @@
         {
           "path": "resources/app/desktop/package.json",
           "size": 340,
-          "sha256": "ca447e5f2295a069d9475cc2e4a99f4c61fc655626478c3f5bfe8c2309855c4c"
+          "sha256": "4e9a23cd60839ebabc0ff9a3264965f88728ddd1afc55d26a8006937c0375d17"
         },
         {
           "path": "resources/app/desktop/pet-interaction.cjs",
@@ -4406,8 +4406,8 @@
         },
         {
           "path": "resources/app/desktop/question-updater.cjs",
-          "size": 6348,
-          "sha256": "7f259d0278714e14a08c4ce5bf322a78b4c93dcfb7ff387b0f1952415eb4a304"
+          "size": 7124,
+          "sha256": "409c0d87ce74ee964203d56c8631e14ccaa9fc10c74c19e553ab68ad9c2e51c2"
         },
         {
           "path": "resources/app/desktop/recovery.css",
@@ -4416,8 +4416,8 @@
         },
         {
           "path": "resources/app/desktop/release-config.json",
-          "size": 352,
-          "sha256": "a9fb65a3bed26773c4eba4e47c95dc309ba59cc9901582e008cabc4f903be6eb"
+          "size": 691,
+          "sha256": "6d7d21e26cf7c56df1d3970df91bcbeac680ab9d3aa56c5d660ff0aa74d3b9ca"
         },
         {
           "path": "resources/app/desktop/resource-location.cjs",
@@ -4481,8 +4481,8 @@
         },
         {
           "path": "resources/app/desktop/voice-controller.cjs",
-          "size": 24107,
-          "sha256": "cff348d51c680e61c63b012289e34dd3ae5d9ef0c2ed0e73f4e501c595af72cd"
+          "size": 24909,
+          "sha256": "4f2d6691b4faed4f19c9b656946e192369193f0b89ae817f3fa62df6ae591eac"
         },
         {
           "path": "resources/app/desktop/voice-credentials.cjs",
@@ -4676,8 +4676,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/memory-lineage.cjs",
-          "size": 1793,
-          "sha256": "082f734e2c5098b18ff96c6bdbbb0799238875678a1a3e331f7feb70f36129b8"
+          "size": 1857,
+          "sha256": "ef8111b57f36da5042ad726c364d038769b8ecd8cb6154ec61d8d2323d587481"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/memory-prompt.cjs",
@@ -4690,9 +4690,14 @@
           "sha256": "a2f653863920331a76353a139bd1ae53f3d00c89d6fde4bf46002be76dd68952"
         },
         {
+          "path": "resources/app/experiments/realtime-voice-v3/memory-retention.cjs",
+          "size": 12562,
+          "sha256": "47a5a5c836165cd535de0c7eddf99e18e1b21aa6f57a57a96702c8797898b811"
+        },
+        {
           "path": "resources/app/experiments/realtime-voice-v3/memory-turn-store.cjs",
-          "size": 13443,
-          "sha256": "70ea9b67761cecf6f7e5444b54d54d743616e9d2edba89507ad53357952dc5f4"
+          "size": 13591,
+          "sha256": "ce3d60594481b37cfb208b2e96a898834a2db0af490f5071d4d49092c914eaf0"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/memory-turn.cjs",
@@ -4741,8 +4746,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/record-lifecycle.cjs",
-          "size": 5302,
-          "sha256": "9fa8d7a2913d907052a358a207c7ca88812b9b5353a0cfc17dd9b5ee31adf424"
+          "size": 6004,
+          "sha256": "8da57e6028855122c9eb319e956fa961f25227cefa9c7a747ca9b8c2b2320fc2"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/spoken-text.cjs",
@@ -4751,8 +4756,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/store.cjs",
-          "size": 27509,
-          "sha256": "f15adc1193bf14c8dfd8e77d9a601313d4521ba1e09d55cf5e60469ff2b76dfd"
+          "size": 27682,
+          "sha256": "3e510279b71559fafdbfece3438f1776cb84d7ca0e743a3202c5472c4a7e700b"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/tools.cjs",
@@ -4776,8 +4781,8 @@
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/tts_worker.py",
-          "size": 16714,
-          "sha256": "96bf997063d5f229bf1ee6c6d3eefab100fcf4fb39e32b1d90af600f26305204"
+          "size": 16811,
+          "sha256": "74aeea79048362854bfe656e2a045184faea516630c987f52d054379e049ef8a"
         },
         {
           "path": "resources/app/experiments/realtime-voice-v3/vendor/aaaagent/LICENSE.txt",
@@ -5012,7 +5017,7 @@
         {
           "path": "resources/app/package.json",
           "size": 102,
-          "sha256": "04fd50685aef39d56b68aa4b28468b0637cfef1a4cc9512c5519c9817e131004"
+          "sha256": "e2c2b6035655573d7d1bdf351dbbd9eeed42c269ceca5860e9eb918889dd5c75"
         },
         {
           "path": "resources/app/tools/gpt-sovits/agent-catalog.json",
@@ -5020,9 +5025,14 @@
           "sha256": "cd85af07f2122e0e97798d9521e2f5347fe6dba507d8a86f59458aa64cd89e99"
         },
         {
+          "path": "resources/app/tools/gpt-sovits/dependency_preflight.py",
+          "size": 1658,
+          "sha256": "b9a6e16e637c629705a097a9533f9fa7b023a514f89a3c89299f067ca3a29b86"
+        },
+        {
           "path": "resources/app/tools/gpt-sovits/deployment.cjs",
-          "size": 7790,
-          "sha256": "177d5fb2e9e298917ec868b7a271d72d1b015f109a09365ba7b164392a0df0a9"
+          "size": 12207,
+          "sha256": "5696e4ed63d54bbe5711333e61f05678ed517ab81bc682b6fb39fecd9c299b78"
         },
         {
           "path": "resources/app/tools/gpt-sovits/devices.cjs",
@@ -5091,8 +5101,8 @@
         },
         {
           "path": "resources/app/tools/gpt-sovits/worker.py",
-          "size": 11332,
-          "sha256": "992f9453ff6a255089e8e44cde898d94bc4aef4cdb5f95af1f99f2677a1c5e31"
+          "size": 11429,
+          "sha256": "2e750076ad0ec250104f64c44a2a3ecd693766936b0b0b330a169f478c172d0b"
         },
         {
           "path": "resources/app/tools/release-repository/scripts/audio-replacement.cjs",
@@ -5111,8 +5121,8 @@
         },
         {
           "path": "resources/app/tools/studio/llm-profiles.cjs",
-          "size": 2639,
-          "sha256": "86dd305a0ba3c8c5ab36c5944a2e2579d757804372a8a01bb69cd663dcc8acbb"
+          "size": 4552,
+          "sha256": "e3e8894c84406528f50ad7379b364f5ac0eb4768935053f040377133f453f138"
         },
         {
           "path": "resources/app/tools/studio/model-secret.cjs",
@@ -5186,9 +5196,9 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/module-client-0f09a82a818e7f462ea0d32cfecd75e1f4fd4eb0535baa0fe87624f7e08aca1a.zip",
-        "size": 841559,
-        "sha256": "41c53176ff75f678f0121c6d9d66ea91765e0e62d3b6a9434c11d3538de4759a"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.6/module-client-e5265b69ee7e242e43a0e35c0442f40bb653454016535639fbc9a2c0136c4c4c.zip",
+        "size": 850123,
+        "sha256": "c63c8fbde7b5838ee74a392133161087581b792884e675993c0c602fb2c5c66f"
       }
     },
     {

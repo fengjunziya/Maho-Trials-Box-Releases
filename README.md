@@ -1,14 +1,13 @@
 <!-- maho-current-application:start -->
-## 客户端下载（v1.0.5）
+## 客户端下载（当前稳定版）
 
-- [Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.5/MahoTrialsBox-v1.0.5-win-x64.zip)
-- [版本说明与签名校验文件](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.0.5)
+[Maho Trials Box v1.0.6 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.0.6)
 
-今后只提供免安装版。完整解压后进入 MahoTrialsBox 文件夹，运行 MahoTrialsBox.exe；ZIP 文件名保留版本号，解压目录不带版本号。
+[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.0.6/MahoTrialsBox-v1.0.6-win-x64.zip)
 
-先退出旧程序，再将完整包解压到新的位置。首次启动选择完整数据目录，默认位于程序文件夹旁的 MahoTrialsBoxData；沿用资料时选择包含 maho-client-data.json 的目录，保留进度、记忆、摘要和音频。GPT-SoVITS 通用环境仍独立下载或由客户端部署。
+完整解压后运行 MahoTrialsBox.exe。程序内更新会按需下载已签名的模块包；请保留用户选择的完整数据目录和独立语音环境目录。
 
-原安装用户继续使用程序内模块更新。v1.0.4 升级至本版约需114 MB，仅下载四个变化模块；最低支持1.0.2，更早版本使用完整免安装包。module-*.zip 和 stable.json/stable.sig 由客户端使用，无需手工解压安装。历史版本中仍被引用的模块保留。问题目录继续使用独立的 latest 发布。
+客户端历史版本及更新仍引用的模块继续保留。问题库使用独立更新渠道。新版一键部署使用 GPT-SoVITS v2 环境；已有旧环境不会自动覆盖。如需更换，请停止语音服务、选择新的空目录后执行一键部署，完成后自动切换。旧环境仍可留作回退。旧版客户端请先更新再部署语音。
 <!-- maho-current-application:end -->
 
 # Maho Trials Box question releases
