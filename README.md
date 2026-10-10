@@ -26,7 +26,7 @@
 
 完整解压后运行 MahoTrialsBox.exe。程序内更新会按需下载已签名的模块包；请保留用户选择的完整数据目录和独立语音环境目录。
 
-客户端历史版本及更新仍引用的模块继续保留。问题库使用独立更新渠道。新版一键部署使用 GPT-SoVITS v2 环境；已有旧环境不会自动覆盖。如需更换，请停止语音服务、选择新的空目录后执行一键部署，完成后自动切换。旧环境仍可留作回退。旧版客户端请先更新再部署语音。
+客户端历史版本及更新仍引用的模块继续保留。问题库使用独立更新渠道。v1.0.6 的一键部署使用 GPT-SoVITS v2 环境；已有旧环境不会自动覆盖。如需更换，请停止语音服务、选择新的空目录后执行一键部署，完成后自动切换。旧环境仍可留作回退。旧版客户端请先更新再部署语音。
 <!-- maho-current-application:end -->
 
 > **下载提示：** 普通用户只需要上面的 **Windows x64 免安装 ZIP**。Release 页面中的 `module-*.zip`、`stable.json`、签名文件、语音分卷和问题目录清单是供更新或部署系统使用的资源，**不是独立客户端**。
@@ -78,25 +78,55 @@ MahoTrialsBox/
 
 **本地语音运行环境与客户端是两项不同的下载内容。** 客户端包含相应的角色资源，但独立的 GPT-SoVITS 推理环境需要另外部署。
 
+### 选择与客户端匹配的语音环境
+
+| 客户端 | 独立语音环境 | 推理方式 |
+| --- | --- | --- |
+| v1.1.0 及支持新版环境的后续版本 | [新版双后端环境 v3](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v3) | NVIDIA GPU 自动选择 Minimal FP16；CPU 自动选择 CPUFast FP32 |
+| 当前公开稳定版 v1.0.6 | [原版运行环境 v2](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v2) | 原有 GPT-SoVITS GPU／CPU 推理 |
+
+**目前上方公开稳定客户端仍为 v1.0.6，其一键部署继续使用 v2。新版 v3 双后端环境需要 v1.1.0 或支持它的后续客户端，请勿直接交给旧版客户端使用。** 新客户端仍兼容旧环境，已有语音环境不会被自动覆盖。
+
+新版环境支持中文与日语，中文前端使用非量化 G2PW FP32，不依赖 ONNX Runtime 或 TensorRT。环境包含独立 Python、必要运行依赖、包内原生 DLL 和通用辅助模型；无需另装 Python、Git 或 FFmpeg。GPU 驱动由设备提供。运行必需的 Python 程序和第三方许可证保留在包内，不另附开发源码压缩包。
+
+艾玛训练权重及精选参考音频由客户端的加密资源提供，**不放在独立环境包中**。切换环境时请选择新的空目录，保留旧环境便于回退。
+
 ### 推荐：使用客户端一键部署
 
-在客户端的语音模型／部署设置中，按照提示选择一个**新的空目录**，检查并部署当前版本支持的 GPT-SoVITS v2ProPlus 环境。模型运行库体积较大，下载和解压需要较充足的磁盘空间；部署过程会校验发布清单与文件完整性。
+在**控制中心 → 模型配置 → 本地语音配置**中，选择一个新的空目录，使用客户端对应版本的一键部署功能。下载和解压会校验签名、分卷与文件完整性。
 
-**[查看 GPT-SoVITS v2 运行环境 Release](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v2)**
+在 v1.1.0 中，客户端从目录识别环境，按所选设备自动确定后端和精度。修改目录与设备会自动保存；**“检查语音服务”会实际加载模型，检查结束后停止服务**，成功或失败均会显示相应提示。检查成功不代表所有文本的合成速度或实际扬声器播放已得到保证。
 
-已配置的旧运行环境不会因为升级程序而被直接覆盖。若要切换到新版，请先停止使用语音服务，按界面提示部署到新位置，确认可用后再考虑如何处理旧目录。
+### 手动部署
 
-### 手动部署（进阶）
+打开与客户端版本对应的环境 Release，下载 `Install-Downloaded-Runtime.ps1` 与**该 Release 的全部分卷**，放在同一文件夹。v3 共 **12 个 `.part` 分卷**，v2 共 **10 个**；不要混合不同版本的分卷。
 
-如无法通过客户端一键部署，可以打开上方语音 Release，下载 `Install-Downloaded-Runtime.ps1` 与该 Release 的**全部 10 个 `.part` 分卷**，放入同一文件夹，并先执行校验：
+先执行完整校验：
 
 ```powershell
 powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Install-Downloaded-Runtime.ps1 -PartsDirectory . -VerifyOnly
 ```
 
-校验通过后，可按该 Release 页面的说明安装到**新的目录**。手动方案请为下载、解压和保留校验文件预留**约 20 GB 或更多磁盘空间**。不应把 `python.zip.part001` 等文件单独解压后当作完整语音环境使用。
+再安装到一个新的空目录：
 
-> **设备提示：** 当前语音运行包面向 Windows x64，推荐具备兼容 CUDA 的 NVIDIA 显卡。实际设备支持情况以客户端检测及测试为准；CPU 推理可能更慢，不保证所有配置都能达到实时通话所需速度。暂时不部署本地语音时，仍可优先使用文字功能。
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Install-Downloaded-Runtime.ps1 -PartsDirectory . -Destination 'E:\MahoVoiceRuntime'
+```
+
+完成后在客户端选择 `E:\MahoVoiceRuntime`。该目录下应直接包含：
+
+```text
+MahoVoiceRuntime/
+├── python/
+├── GPT-SoVITS/
+└── models/
+```
+
+如果使用已合并的单文件 ZIP，直接把全部内容解压到新的环境目录，也应得到上面的三目录结构。**不要把单个 `.part` 当作完整 ZIP 解压。**
+
+v3 分卷下载总量约 **5.09 GB**，运行文件约 **7.70 GB**；手动安装脚本会保留校验归档，请为下载、解压和归档预留**约 20 GB 或更多**空间。各 Release 的 `README-INSTALL.txt`、第三方声明及哈希材料提供对应版本的细节。
+
+> **设备提示：** 当前环境面向 Windows x64，支持兼容 CUDA 的 NVIDIA GPU 和 CPU。客户端最低硬件检测为 8 GB 内存、NVIDIA GPU 路线 4 GB 显存；这是启用门槛，并非所有文本和负载下的性能保证。AMD 集显不通过本包进行 GPU 加速，可选 CPU。实际速度取决于硬件、文本及当时负载；暂不部署本地语音时可使用文字功能。
 
 ### 实时语音与隐私
 
@@ -137,7 +167,8 @@ A：本仓库主要提供客户端和发行资源，不是公开源码仓库。�
 | 发布类型 | 用途 | 普通用户是否需要单独下载？ |
 | --- | --- | --- |
 | [`app-v*`](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases) | Windows x64 客户端整包、更新模块与签名材料 | **需要客户端整包；其他更新附件通常由程序处理** |
-| [`gpt-sovits-runtime-v2`](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v2) | 独立的 GPT-SoVITS v2ProPlus 运行环境 | **需要本地语音时，优先通过客户端部署** |
+| [`gpt-sovits-runtime-v3`](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v3) | v1.1.0 对应的新版 Minimal／CPUFast 双后端语音环境 | **需要本地语音时，优先通过匹配版本的客户端部署** |
+| [`gpt-sovits-runtime-v2`](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v2) | v1.0.6 对应的原版环境，保留兼容与回退 | **按客户端版本选择，不要混装** |
 | `catalog-*` | 经校验并签名的问题目录清单 | **通常不需要；由程序同步** |
 | `app-updates/` | 客户端签名更新通道数据 | **不需要手动安装** |
 | 历史版本与手动运行包 | 旧版本兼容、恢复或特殊手动部署 | **仅在明确需要时使用** |
