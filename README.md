@@ -20,13 +20,13 @@
 <!-- maho-current-application:start -->
 ## 客户端下载（当前稳定版）
 
-[Maho Trials Box v1.1.0 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.1.0)
+[Maho Trials Box v1.1.1 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.1.1)
 
-[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.1.0/MahoTrialsBox-v1.1.0-win-x64.zip)
+[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.1.1/MahoTrialsBox-v1.1.1-win-x64.zip)
 
 完整解压后运行 MahoTrialsBox.exe。程序内更新会按需下载已签名的模块包；请保留用户选择的完整数据目录和独立语音环境目录。
 
-问题库使用独立更新渠道。v1.1.0 的一键部署使用 [GPT-SoVITS v3 双后端环境](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v3)；已有旧环境不会自动覆盖。如需更换，请停止语音服务、选择新的空目录后执行一键部署，完成后自动切换。旧环境仍可留作回退。旧版客户端请先更新再部署语音。
+问题库使用独立更新渠道。v1.1.1 的一键部署使用 [GPT-SoVITS v3 双后端环境](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v3)；已有旧环境不会自动覆盖。如需更换，请停止语音服务、选择新的空目录后执行一键部署，完成后自动切换。旧环境仍可留作回退。旧版客户端请先更新再部署语音。
 
 部分早期 Release 已由维护者清理。若旧客户端提示历史模块下载失败，请下载上方完整免安装 ZIP，解压到新位置后沿用原来的完整数据目录。
 <!-- maho-current-application:end -->
@@ -87,7 +87,7 @@ MahoTrialsBox/
 | v1.1.0 及支持新版环境的后续版本 | [新版双后端环境 v3](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v3) | NVIDIA GPU 自动选择 Minimal FP16；CPU 自动选择 CPUFast FP32 |
 | v1.0.6（旧版客户端） | [原版运行环境 v2](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v2) | 原有 GPT-SoVITS GPU／CPU 推理 |
 
-**当前稳定版 v1.1.0 的一键部署使用 GPT-SoVITS v3 双后端环境；v1.0.6 的一键部署仍使用 v2。v3 需要 v1.1.0 或支持它的后续客户端，请勿直接交给旧版客户端使用。** 新客户端仍兼容旧环境，已有语音环境不会被自动覆盖。
+**当前稳定版 v1.1.1 的一键部署使用 GPT-SoVITS v3 双后端环境；v1.0.6 的一键部署仍使用 v2。v3 需要 v1.1.0 或支持它的后续客户端，请勿直接交给旧版客户端使用。** 新客户端仍兼容旧环境，已有语音环境不会被自动覆盖。
 
 新版环境支持中文与日语，中文前端使用非量化 G2PW FP32，不依赖 ONNX Runtime 或 TensorRT。环境包含独立 Python、必要运行依赖、包内原生 DLL 和通用辅助模型；无需另装 Python、Git 或 FFmpeg。GPU 驱动由设备提供。运行必需的 Python 程序和第三方许可证保留在包内，不另附开发源码压缩包。
 
