@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-13T13:46:29.575Z",
+  "checks": {
+    "character": true,
+    "translation": true,
+    "audio": true
+  },
+  "content_hash": "dc663996dbc12efb44455a595936e0d0fb2e039444584ed8d8ae596f5919f978"
+}

@@ -1,0 +1,1471 @@
+{
+  "schema_version": 2,
+  "questions": [
+    {
+      "id": "question-1791740345807",
+      "character_id": "Ema",
+      "text": "啊！今天碰到玛格了……她送了我一副塔罗牌。\n嗯…我没有想到玛格居然会送我礼物…真的好开心……！\n可是……希罗知道后好像闷闷不乐的，我有点担心，是不是不该收下呀\n呜啊…难道要我把礼物还给玛格…\n这样太不礼貌了…\n总之，我得先把这副牌藏好才行，呜…不能被希罗看见了",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "啊！今天碰到玛格了……她送了我一副塔罗牌。\n",
+          "pose_id": "Happy_3",
+          "japanese": "あっ！今日、マーゴちゃんに会ったんだ……タロットカードを一組くれたんだよ。\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/955c8cba6fde9c8c7c7c492efb0dcc20b52e462e72529f33b71fb3edce42b679.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c38384c1963b10e04974e824059b1421d464f56542aa2466abe554d9db593221",
+            "japanese": "c38384c1963b10e04974e824059b1421d464f56542aa2466abe554d9db593221",
+            "audio": "fe7c203ad64a171c544fc159c8d6e5f31019f48e7a6d3e8a0da6d24e3a717591",
+            "voice": "3c2e9bacfe95c98da201e55c7fc63512f4739f6e0b4dded1be0874016573ccd1"
+          }
+        },
+        {
+          "order": 1,
+          "text": "嗯…我没有想到玛格居然会送我礼物…真的好开心……！\n",
+          "pose_id": "Happy_3",
+          "japanese": "うん…まさかマーゴちゃんがボクにプレゼントをくれるなんて…本当に嬉しいよ……！\n",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/6ec2c3a66f81e1e1676001decb33bd02c3a7f2e4243fd32c51ee965028c61a9e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "7bcbe2fee285e90bf7b72b7b9eca6b494fd1af1a2e150f4e17d2cbf4bb1d7150",
+            "japanese": "7bcbe2fee285e90bf7b72b7b9eca6b494fd1af1a2e150f4e17d2cbf4bb1d7150",
+            "audio": "1d2ea9fbc38100f7f6377f2fb0fe560b0cad5ca3aff88284b5033fdb5a18cd6b",
+            "voice": "430153d1b9a7cefec56553fb6af8283fbe652e945a6b23880bd73045e157c943"
+          }
+        },
+        {
+          "order": 2,
+          "text": "可是……希罗知道后好像闷闷不乐的，我有点担心，是不是不该收下呀\n",
+          "pose_id": "Feature_Extremely_5",
+          "japanese": "でも……ヒロちゃんが知ったら、なんだか浮かない顔をしてて…ボク、ちょっと心配なんだ。もらわない方がよかったのかな。\n",
+          "emotion": "tense",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/04c4fbea88b93db683e92926f52dacde466173e99f6c519a7c9c795394acca27.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "01e6aa7f195c7c56e07536ee5d76bdf7f9841907c2cc55a0cac6338cae1cb059",
+            "japanese": "01e6aa7f195c7c56e07536ee5d76bdf7f9841907c2cc55a0cac6338cae1cb059",
+            "audio": "7eacf0b4fb988fc275ef4392afa71fc063e42fe8cee8acff1a59c0ccbf699208",
+            "voice": "f5ff4bdcf9d9c6263d82c1e578e8ac71999063d044f3747e241eff09cc87b63b"
+          }
+        },
+        {
+          "order": 3,
+          "text": "呜啊…难道要我把礼物还给玛格…\n",
+          "pose_id": "Cry_And_Angry",
+          "japanese": "うぅ…まさか、プレゼントをマーゴちゃんに返さなきゃいけないの…\n",
+          "emotion": "sad",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/07ab05bc6e33d19c42b1eafbdef721a0adc5d8c274c25277d82bb477e0c75143.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "088d39122ef70d162b23413dc6ad896459139f343681a8b797e2db27a999f299",
+            "japanese": "088d39122ef70d162b23413dc6ad896459139f343681a8b797e2db27a999f299",
+            "audio": "0d18b60d4fdbf0cdd93da56c8828049fde81512e888d3eb1190ebdfd0a1af08d",
+            "voice": "e0e240dfe88e079856de7f79d53ad2d5e96bf82084d325e817d85ca7fbb5e4a4"
+          }
+        },
+        {
+          "order": 4,
+          "text": "这样太不礼貌了…\n",
+          "pose_id": "Tension_1",
+          "japanese": "そんなの…失礼すぎるよ…\n",
+          "emotion": "tense",
+          "voice_emotion": "弱悲伤 · 道歉",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "d96519a0211bf45a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 道歉",
+          "audio_file": "audio/ac341d9ee3118f1d55bfd802bb760907338fa02d19d8bacdffe2a5fc6b030963.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c88778a2a334aa40010f57c4df84aa931a7abcaff6251ee8904bddb36222cc69",
+            "japanese": "c88778a2a334aa40010f57c4df84aa931a7abcaff6251ee8904bddb36222cc69",
+            "audio": "10f6683596e1a8eba29e862fc6d56fb7ed0010b0f845685e7de09cb7008713ba",
+            "voice": "2c2741f6d054fbf94a70b3ee9f5720c5a834eb36f46db1836a470336f9eb0d19"
+          }
+        },
+        {
+          "order": 5,
+          "text": "总之，我得先把这副牌藏好才行，呜…不能被希罗看见了",
+          "pose_id": "Tension_1",
+          "japanese": "とにかく、このカードを先に隠しておかないと…うぅ…ヒロちゃんに見つかっちゃだめだよ。",
+          "emotion": "tense",
+          "voice_emotion": "害怕＋紧张 · 求助语境",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "98cf4adf8af84142",
+          "voice_status": "selected",
+          "voice_note": "语音标签：害怕＋紧张 · 求助语境",
+          "audio_file": "audio/cc38bc2d9b4b8049e9f4a6a44861186e834d86d829fb3bc470575f8633b71662.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3eb4f4e548c8fabf2cbbb39880e57a59a5895e8035bcfb6c90fcd0e2ab47490e",
+            "japanese": "3eb4f4e548c8fabf2cbbb39880e57a59a5895e8035bcfb6c90fcd0e2ab47490e",
+            "audio": "a8ef0da9124f0c35be696f30dcbc270cc9602b5e05556eb73fc1d48cbf3f420c",
+            "voice": "20b798bd81f72749a71d5e57157ea64326ca7dbba35a8490a2ed0c97c710b955"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740346202",
+      "character_id": "Ema",
+      "text": "可可说，想把大家聚起来一起去玩剧本杀……雪莉她想都没想就答应了呢……好快……！\n呜……我有点担心。剧本杀会不会很难啊……？要是轮到我说话的时候卡住了，或者拖大家后腿，怎么办……\n不过……既然是可可想让大家聚在一起，我也不想拒绝。大家一起的话，肯定没关系的吧……？我…我会努力的……！呜……我是不是又想太多了……？希罗酱应该会保护我的吧…应该…",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "可可说，想把大家聚起来一起去玩剧本杀……雪莉她想都没想就答应了呢……好快……！\n",
+          "pose_id": "Default_3",
+          "japanese": "ココちゃんがね、みんなを集めて一緒にマーダーミステリーをやろうって……。シェリーちゃんは、考える間もなく即答しちゃったんだよね……。早い……！\n",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/a397d3967fdd023cb3b7cb67fe58e71a38c5cc51db5bee6d8bde2b2c6d797bc7.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "06030279b543befc454f8ebc4787565145323d946185e8baf05b251240efe38c",
+            "japanese": "06030279b543befc454f8ebc4787565145323d946185e8baf05b251240efe38c",
+            "audio": "bf8af9a3f6fd1fbf107dbc40d28d11c986c8ed5e23a33d2e74ccbe4d876e5ccf",
+            "voice": "fd2b938c3ea4a6e28fd98c062145194a0020a053e0321bf5252d323887543b9e"
+          }
+        },
+        {
+          "order": 1,
+          "text": "呜……我有点担心。剧本杀会不会很难啊……？要是轮到我说话的时候卡住了，或者拖大家后腿，怎么办……\n",
+          "pose_id": "Fearful1",
+          "japanese": "うぅ……。ボク、ちょっと心配なんだ。マーダーミステリーって、難しいのかな……？ ボクの番で言葉に詰まっちゃったり、みんなの足を引っ張っちゃったりしたら、どうしよう……。\n",
+          "emotion": "tense",
+          "voice_emotion": "害怕＋紧张 · 求助语境",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "98cf4adf8af84142",
+          "voice_status": "selected",
+          "voice_note": "语音标签：害怕＋紧张 · 求助语境",
+          "audio_file": "audio/53f52e3053b189f4fe76aea25cf3ed8a1db6dc87d4550eee82e9b26df48e93e3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "509d794a59f15d07f96fb593d9cf2c89327eed607de76efdd4c8d63b49928f30",
+            "japanese": "509d794a59f15d07f96fb593d9cf2c89327eed607de76efdd4c8d63b49928f30",
+            "audio": "40eee9eb9b224d1ed1c216e7a0a9f8837dd852c6c87dedbc68f34c609426d24c",
+            "voice": "909ae13f50cc86270f45eda2c273d4fec23df47fa7fa888ca1198927a39507ff"
+          }
+        },
+        {
+          "order": 2,
+          "text": "不过……既然是可可想让大家聚在一起，我也不想拒绝。大家一起的话，肯定没关系的吧……？",
+          "pose_id": "Thinking_5",
+          "japanese": "でも……ココちゃんがみんなを集めたいって言うんだし、ボクも断りたくないな。みんなと一緒なら、きっと大丈夫だよね……？",
+          "emotion": "thinking",
+          "voice_emotion": "平静 · 反问求证",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "15f28f32a5c69a46",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 反问求证",
+          "audio_file": "audio/ab53238c8a9bf0025f996c62a1889447c9ac4612fe253cf4f388769a442a9d50.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b59c3de8cd63f6fca08a9c609fce8c872b1d4381baf86506c5b8d4ddb575e336",
+            "japanese": "b59c3de8cd63f6fca08a9c609fce8c872b1d4381baf86506c5b8d4ddb575e336",
+            "audio": "cd3ad377d7b2e035eb697d5e240a695a3420dcf068644c94193bb792993b2cc3",
+            "voice": "5f2a8e988b42623895375802f7ed47c15d90a7f185a32c034484035760b59248"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我…我会努力的……！",
+          "pose_id": "Feature_Extremely_2",
+          "japanese": "ボ、ボク、頑張るよ……！",
+          "emotion": "tense",
+          "voice_emotion": "激动＋坚定 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c3e56ac2be8d8338",
+          "voice_status": "selected",
+          "voice_note": "语音标签：激动＋坚定 · 内心独白",
+          "audio_file": "audio/1cf6290cac2776b83d567ae3ba91a984003eac134a12a165a45ce3b3de7f2dce.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3b81fbbc3da2c1cb66afec9da423ea40b14a301a6e9cdafff737b32c9c127307",
+            "japanese": "3b81fbbc3da2c1cb66afec9da423ea40b14a301a6e9cdafff737b32c9c127307",
+            "audio": "0026d8253a28498b3d7a8cdd95cca67a3594072e9cf3905b7415c6bf10617f0e",
+            "voice": "3b0976b263916522bbb5da5958fef43bb0286945904e841a1f4baa5ed5ea8984"
+          }
+        },
+        {
+          "order": 4,
+          "text": "呜……我是不是又想太多了……？希罗酱应该会保护我的吧…应该…",
+          "pose_id": "Cry_And_Angry",
+          "japanese": "うぅ……ボク、また考えすぎちゃったかな……？ ヒロちゃんなら、守ってくれるよね……。……きっと……。",
+          "emotion": "sad",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/0c7f8d52d4a845195742e39cc76bb86a6a94827cdd39fab6a332bb6bcc9e47ea.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "3da60dc5ebe52d8e092a9d5e2e834a1d10adcfa84c123a244cd852e89f30d58a",
+            "japanese": "3da60dc5ebe52d8e092a9d5e2e834a1d10adcfa84c123a244cd852e89f30d58a",
+            "audio": "3b67d9aeb5e1cc6f103e18c157f395d63dd23ac59b1f79e3d3c5be0097712c12",
+            "voice": "66154abb58136b7d9926ca6d8ef52ebde980844ff784c5ee5a6679fd1aba47c1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740346652",
+      "character_id": "Ema",
+      "text": "到米莉亚家里做客了呢，好温暖呜…米莉亚给我们做了一大桌菜呢…好厉害…\n诶…安安下午想看恐怖电影吗？\n要是我说不想看会不会扫了大家的兴…呜…又想起在魔女岛的日子了…\n当时她们好像也是这样一起看的吧…\n不过……如果是大家一起看的话，也许就没那么可怕了吧……？应该吧…我会努力不叫出声了……加油！艾玛你一定可以的！",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "到米莉亚家里做客了呢，好温暖呜…米莉亚给我们做了一大桌菜呢…好厉害…\n",
+          "pose_id": "Happy_1",
+          "japanese": "ミリアちゃんのおうちに来たんだね……あったかいなぁ……ミリアちゃんが、ボクたちにいっぱい料理を作ってくれたんだよ……すごいなぁ……",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/552c487c61bd91456cd16ee54bcf80f20ee589b67176d85dac698f9bcd014fa4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "381bebec8bd43cf2e0190892e0fb7c517fd87c495d23bb738d0b6e832f6d6a4a",
+            "japanese": "381bebec8bd43cf2e0190892e0fb7c517fd87c495d23bb738d0b6e832f6d6a4a",
+            "audio": "c49e3825047183045ee0cefb3b5094546ae467fcc329265e61adcabe536e3fc9",
+            "voice": "89688543c4ba54c962038bce29ede9d0897675125828ec515e2d9e2e6ffaff22"
+          }
+        },
+        {
+          "order": 1,
+          "text": "诶…安安下午想看恐怖电影吗？\n",
+          "pose_id": "Explain_Default_2",
+          "japanese": "えっ……アンアンちゃん、午後はホラー映画が見たいの？",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/407f2b41ab303cbe51c3dd3e1170dd0cc108b331b8739d954c0bfce1989e8b20.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9b4823b44847e957c03839fed094046743a8881233513017fb941ce8da873b17",
+            "japanese": "9b4823b44847e957c03839fed094046743a8881233513017fb941ce8da873b17",
+            "audio": "5f60560603917f6beee0386d94697e2bb362b4ab0b6c8e47112f7f1f0eeac22f",
+            "voice": "7f5bba59e7f797d9e8fb0143bc2e3876a4b08df4c6aef9f31236a1f43e041567"
+          }
+        },
+        {
+          "order": 2,
+          "text": "要是我说不想看会不会扫了大家的兴…呜…又想起在魔女岛的日子了…\n",
+          "pose_id": "Cry_8",
+          "japanese": "もし見たくないって言ったら、みんなの気分を悪くしちゃうかな……うぅ……また魔女島にいた頃のこと、思い出しちゃったよ……",
+          "emotion": "sad",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/34f6e804119fd5e965788ef108ffff6062a1fa44f239634d52029240969cf39b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0f0ecfc91a47ddbb2813489cfcbde648fcdd74d2486f98d78ca332ac2508a46e",
+            "japanese": "0f0ecfc91a47ddbb2813489cfcbde648fcdd74d2486f98d78ca332ac2508a46e",
+            "audio": "99219c3c8f0d31f4d9db7f687c8fd4523462cdc5dc847014af1ad6a7ede2059c",
+            "voice": "eaf36387390c796b6b81a1839900f9dca92c76ff2df4c8019f12158d26150ebe"
+          }
+        },
+        {
+          "order": 3,
+          "text": "当时她们好像也是这样一起看的吧…\n",
+          "pose_id": "Thinking_7",
+          "japanese": "あの時も、あの子たち、こんなふうに一緒に見てたみたいだね……",
+          "emotion": "thinking",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/37ba9e221ca8cc95e48509f92f23bb4727a3a31dfccc26965f063a90cfb9896e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ed1c49fec7c5e30df36816ec94f6abaefc10e65588925a47431f1cf47befb2a5",
+            "japanese": "ed1c49fec7c5e30df36816ec94f6abaefc10e65588925a47431f1cf47befb2a5",
+            "audio": "e5cc46bb6614bb25c023a9557fd2313de5ea135b80daef934cb4e3eeb33768f1",
+            "voice": "330b8df106f28a2b8011081ed62788a825497aa7e60fb67c32fd7983afc13b61"
+          }
+        },
+        {
+          "order": 4,
+          "text": "不过……如果是大家一起看的话，也许就没那么可怕了吧……？应该吧…我会努力不叫出声了……加油！艾玛你一定可以的！",
+          "pose_id": "Tension_1",
+          "japanese": "でも……みんなで一緒に見るなら、そんなに怖くないかも……？……だよね……叫ばないように頑張るよ……がんばれ！エマなら、きっとできる！",
+          "emotion": "tense",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/d6c6d24559089b559070876afc5a7024119198c1d83ddc750d1fc20f2c6e944e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "8a3d92f092530b6342c9faa0505704ab053379f1400c5a2da7f5f7aa4b8828fd",
+            "japanese": "8a3d92f092530b6342c9faa0505704ab053379f1400c5a2da7f5f7aa4b8828fd",
+            "audio": "2ed671b4dbc1b8d1583bf83e25bb98329fe7fd7eb553811844c1d4f1749492a3",
+            "voice": "1fe518cd8805cd38b279ef0c43a79012567bb233c10938bbf77636049fd2019b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740347065",
+      "character_id": "Ema",
+      "text": "欸……汉娜真的好厉害……！\n和她一起逛超市的时候，每次她都能挑到最好用的东西……我就完全不行，总是站在货架前面犹豫半天，也不知道该选哪个才好……\n不过……雪莉她跑得也太快了……汉娜就算用了魔法，也没有追上她……购物车还差点撞上了……呜…好危险……！\n我当时都吓了一跳…下次一定要好好拉住购物车才行……！\n话说汉娜生气的样子好可怕呜…脸都黑下来了\n我是不是也该帮忙看着点雪莉呢……？",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "欸……汉娜真的好厉害……！\n",
+          "pose_id": "Happy_6",
+          "japanese": "えっ……ハンナちゃん、本当にすごい……！\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/3c39c09a5e5ff1b22e8444420c329d9d98e81a8a598d0c19629df6af243ce665.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "333fac88d569eba465e6eaaeb087f5615380cdf78209776e710c09b6594ef5f4",
+            "japanese": "333fac88d569eba465e6eaaeb087f5615380cdf78209776e710c09b6594ef5f4",
+            "audio": "1e5cba85c17e34e8370bf8eaa83bbfb39953da1835fcd455bad0436ed2aff911",
+            "voice": "5b03b684c7aa77737ddf1f30783334dad2a03329ec79ba418aad29cbad368c89"
+          }
+        },
+        {
+          "order": 1,
+          "text": "和她一起逛超市的时候，每次她都能挑到最好用的东西……我就完全不行，总是站在货架前面犹豫半天，也不知道该选哪个才好……\n",
+          "pose_id": "Thinking_1",
+          "japanese": "一緒にスーパーに行くと、ハンナちゃんは毎回いちばん使いやすいのを選んでくれるんだ……ボクは全然ダメで、いつも棚の前でずっと迷っちゃって、どれがいいのかもわからなくて……\n",
+          "emotion": "thinking",
+          "voice_emotion": "弱悲伤 · 道歉",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "d96519a0211bf45a",
+          "voice_status": "selected",
+          "voice_note": "人工选择情绪参考",
+          "audio_file": "audio/cacdf7e24edc0481a7ba4703ba7974f9d722543fc97ec872a703f71e66424079.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "bd281e40d2711e2f509fb01eebb0770aee99df6bde0c455e1b4180ae83a8f267",
+            "japanese": "bd281e40d2711e2f509fb01eebb0770aee99df6bde0c455e1b4180ae83a8f267",
+            "audio": "d64198c000cd1fabbfa5cf11bbfeb15d743f6a0ceef3dce0c52b7276e07c68cb",
+            "voice": "e51ec81257c53acf4303f6b0bbe6be679fe024f05c1bbf7d41d311b6bc73092b"
+          }
+        },
+        {
+          "order": 2,
+          "text": "不过……雪莉她跑得也太快了……汉娜就算用了魔法，也没有追上她……购物车还差点撞上了……呜…好危险……！\n",
+          "pose_id": "Feature_Extremely_3",
+          "japanese": "でも……シェリーちゃん、走るのが速すぎるよ……ハンナちゃんが魔法を使っても、追いつけなかったんだ……ショッピングカートももう少しでぶつかりそうになって……うぅ…危なかった……！\n",
+          "emotion": "tense",
+          "voice_emotion": "激动＋紧张",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "4dea22ffcc7e1bd6",
+          "voice_status": "selected",
+          "voice_note": "语音标签：激动＋紧张",
+          "audio_file": "audio/1e11636845496d32d9c37ca1ad453d2190ff4f61b8300eed9c07f24465c65140.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "f6b651e0999dd83c15341c92f0167a1b01279b29ede58c1ac8df89cb15d1ebd7",
+            "japanese": "f6b651e0999dd83c15341c92f0167a1b01279b29ede58c1ac8df89cb15d1ebd7",
+            "audio": "851b1fcff2c55048507443dc1731fc16f7856864d976b222557091efb3507390",
+            "voice": "123c8ef8c0a660953ad8e477257b2c56f33924caa8dfaf6f6d4d159fee86e30f"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我当时都吓了一跳…下次一定要好好拉住购物车才行……！\n",
+          "pose_id": "Feature_Extremely_3",
+          "japanese": "あのときはボクも本当にびっくりしちゃった…次はちゃんとカートを押さえなきゃだね……！\n",
+          "emotion": "tense",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "人工选择情绪参考",
+          "audio_file": "audio/0bf62eea5fe1912d9b8e3df15b6a864699768312314b57b5b28b630ea837f2ba.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "d83fda7d07573b1dc7f640c1cbef2c86990aeb800af6700e89a0b8ebfe64dc59",
+            "japanese": "d83fda7d07573b1dc7f640c1cbef2c86990aeb800af6700e89a0b8ebfe64dc59",
+            "audio": "e38feabc9c1eaf8c37083d7b10e5633d2ebed4501dfa87f0888a6ff4b380a3c5",
+            "voice": "048fbe65b50afc604b23369952bdc127923c225ee611e1866be8d3ce2a68e93d"
+          }
+        },
+        {
+          "order": 4,
+          "text": "话说汉娜生气的样子好可怕呜…脸都黑下来了\n",
+          "pose_id": "Feature_Extremely_3",
+          "japanese": "それにしても、ハンナちゃんが怒ったときはすごく怖いんだよぅ…顔が真っ黒になってたし\n",
+          "emotion": "tense",
+          "voice_emotion": "害怕＋紧张 · 求助语境",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "98cf4adf8af84142",
+          "voice_status": "selected",
+          "voice_note": "语音标签：害怕＋紧张 · 求助语境",
+          "audio_file": "audio/2977f81efe51d55af0aed90d72dbce4d1b1bbc975614f2e64dce698c76bd3104.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9b0f0ce1b6a24d57e5e3653b778451aabe414fc2a3941c9713159c6435f2c2dc",
+            "japanese": "9b0f0ce1b6a24d57e5e3653b778451aabe414fc2a3941c9713159c6435f2c2dc",
+            "audio": "9c040b8a0801818ba119df8f0e72d74f7a54372d8e8a210db9f310b93736f88e",
+            "voice": "71e9038c7a9b51b4522651d41618816841fac4171398806e025a7f1b79d47455"
+          }
+        },
+        {
+          "order": 5,
+          "text": "我是不是也该帮忙看着点雪莉呢……？",
+          "pose_id": "Thinking_2",
+          "japanese": "ボクもシェリーちゃんをちゃんと見てたほうがいいのかな……？",
+          "emotion": "thinking",
+          "voice_emotion": "平静 · 反问求证",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "15f28f32a5c69a46",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 反问求证",
+          "audio_file": "audio/33ddf92cbcdcb814776ed5138f55603c568d843b6aa8f986e604e2bbc24fcac1.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ca5df2545d45d7c8e156053374d64586c1a728342fb7f8dd16c70e12ccd84c6c",
+            "japanese": "ca5df2545d45d7c8e156053374d64586c1a728342fb7f8dd16c70e12ccd84c6c",
+            "audio": "5a2454098ffb412af326bc6ebf0af56841f2b4b09bdbdbf22baa767a134ee286",
+            "voice": "97c985f6a3d2a2e398d8b3a9d985a8b53e90898e23461e45099f48e131149aea"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740347462",
+      "character_id": "Ema",
+      "text": "在路边看见诺亚的新画了……！\n真的好漂亮……我忍不住看了好久。可是……到处都没找到诺亚的人……有点可惜，也有点担心……她是不是还在什么地方画画呢……？\n然后……亚里沙居然也在旁边……！而且她没有戴口罩……！\n原来亚里沙的脸这么可爱啊\n我有点惊讶，也有点不敢一直盯着看……不过，总觉得……这样的亚里沙，好像离我们近了一点……？",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "在路边看见诺亚的新画了……！\n",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "道ばたでノアちゃんの新しい絵を見つけたよ……！\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/af370150a78938f0859b37f1be6db41ff564af76b971c1850b3e3977d9a7527c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1b27135c96b4060a465fa577982a07baab34065d11df271881ee765b0a5ce105",
+            "japanese": "1b27135c96b4060a465fa577982a07baab34065d11df271881ee765b0a5ce105",
+            "audio": "f3c6a1dc37eaa9c7fc3728fd5a4f93a323baeb489a38a5699e1457f187cb6cd6",
+            "voice": "29d77141a83fffb5f0757befb2fcf9c5bee9b40d25a81f28ec669895b1b0956a"
+          }
+        },
+        {
+          "order": 1,
+          "text": "真的好漂亮……我忍不住看了好久。可是……到处都没找到诺亚的人……有点可惜，也有点担心……她是不是还在什么地方画画呢……？\n",
+          "pose_id": "Cry_8",
+          "japanese": "すごくきれいで……思わず長いこと見入っちゃった。でも……どこを探してもノアちゃんの姿が見当たらなくて……ちょっと残念だし、ちょっと心配で……まだどこかで絵を描いてるのかな……？\n",
+          "emotion": "sad",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/b9d35d915d3ee7929ff66b3fea4ed52d117ca91e4cda27fd9fd895a8b3df24f6.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "1daf4d78b6c999c798879a90e1cf82fa8b7ecf93fe7aeef78e3d76bae44dfa8a",
+            "japanese": "1daf4d78b6c999c798879a90e1cf82fa8b7ecf93fe7aeef78e3d76bae44dfa8a",
+            "audio": "546d4977e24c774a6ff2815766e50a3eddfe20c3fc4c2cb55b0bec26b44a73f5",
+            "voice": "0043ad6124c8b9559b0e2157ce5ab50c6ce401e9b4febac0fd3ef116cd1bd1ca"
+          }
+        },
+        {
+          "order": 2,
+          "text": "然后……亚里沙居然也在旁边……！而且她没有戴口罩……！\n",
+          "pose_id": "Surprise_6",
+          "japanese": "それから……アリサちゃんもすぐそばにいたの……！しかも、マスクをしてなくて……！\n",
+          "emotion": "surprised",
+          "voice_emotion": "惊讶 · 突发消息",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2352d3b770f23d18",
+          "voice_status": "selected",
+          "voice_note": "语音标签：惊讶 · 突发消息",
+          "audio_file": "audio/8483c3f94ed546877fc9b3cd7df58b8ea74747fce3004e117f692e9b4bfcc4a5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ff1286bfaa96c76a23c036ca3acc6f152a70d72a5785829e0b703bae29c2b9e1",
+            "japanese": "ff1286bfaa96c76a23c036ca3acc6f152a70d72a5785829e0b703bae29c2b9e1",
+            "audio": "2750740aa8cfee7592cfa721d3ef223762adeb428ad3a7654ba16647f552405a",
+            "voice": "d10dc6403d2e7ff8396f7193d38c4cd9dbb13eae32a308cd4eb9d11e36d0f9e7"
+          }
+        },
+        {
+          "order": 3,
+          "text": "原来亚里沙的脸这么可爱啊\n",
+          "pose_id": "Happy_5",
+          "japanese": "アリサちゃんの顔って、こんなにかわいかったんだ\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/43f28b270d8547747e25311c6fe4dc1a8a637e032065b36346a47dd27d635841.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a07627161fc084b093bffe9deb19fda6c6de2e6312980cc180dac79f5af38620",
+            "japanese": "a07627161fc084b093bffe9deb19fda6c6de2e6312980cc180dac79f5af38620",
+            "audio": "cb8fb7e3812c303b88841cae7b322d7b459fd3cb59502f4d3345c76ab92fe161",
+            "voice": "6741862b6ada1fcc669f1b0bc6692599f938622a8cf362cbcb55863386d089e4"
+          }
+        },
+        {
+          "order": 4,
+          "text": "我有点惊讶，也有点不敢一直盯着看……不过，总觉得……这样的亚里沙，好像离我们近了一点……？",
+          "pose_id": "Flushed_9",
+          "japanese": "ちょっとびっくりしたし、じっと見つめるのはちょっとためらわれて……でも、なんだか……そんなアリサちゃんは、ボクたちに少し近くなったみたい……？",
+          "emotion": "shy",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/64f3adcec9de758849911546c5c11a1e4d917d9277944337d89e9d4fda919625.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "5a2f5d3459ad6f84a5611722f346bc4649bb1bfacb39cd907a8e06acab34f595",
+            "japanese": "5a2f5d3459ad6f84a5611722f346bc4649bb1bfacb39cd907a8e06acab34f595",
+            "audio": "fb5bec7b2ab31f2f5acd6d5523743162791e242e5cb17540af783ce4770a43e1",
+            "voice": "9a8f276db12e5f05590e0d311a941ec8a30eba1da2934c606bea0e2e375ba077"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740347811",
+      "character_id": "Ema",
+      "text": "蕾雅给了希罗两张新演出的入场券……！蕾雅会特意给她入场券，是不是说明她们关系其实很好呀……？\n两张票……那就是说，希罗要带一个人一起去吧……？会带谁去呢……？\n呜……我是不是又在瞎猜了……这是希罗自己的事，我不该想这么多的……！\n不过……如果希罗愿意带谁一起去的话，那个人一定会很开心的吧……毕竟有人愿意邀请自己一起去看演出……是一件很温暖的事呢……\n好想和希罗一起看演出啊…\n呜哇…希罗酱…",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "蕾雅给了希罗两张新演出的入场券……！蕾雅会特意给她入场券，是不是说明她们关系其实很好呀……？\n",
+          "pose_id": "Thinking_5",
+          "japanese": "レイアちゃんが、ヒロちゃんに新しい舞台の入場券を２枚もあげたんだ……！レイアちゃんがわざわざ入場券をくれるなんて……それって、ふたりは実はすごく仲がいいってことなのかな……？\n",
+          "emotion": "thinking",
+          "voice_emotion": "平静 · 反问求证",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "15f28f32a5c69a46",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 反问求证",
+          "audio_file": "audio/fc849062104258b52178838e628688bb4dba457da256ee3f9ac809b2f6287b6e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9c77b66dc249da8fe567bd7f8db5efa62993be0ae602595b85fb85b9c6d108e9",
+            "japanese": "9c77b66dc249da8fe567bd7f8db5efa62993be0ae602595b85fb85b9c6d108e9",
+            "audio": "7bb182a54398c380561ffa624a072cb4cec8a8911c86e406a0d35f6132d37e9d",
+            "voice": "6c07a8ae5f04cc06863519ad9359495a6e08473bf918ea1e608ed4c050592362"
+          }
+        },
+        {
+          "order": 1,
+          "text": "两张票……那就是说，希罗要带一个人一起去吧……？会带谁去呢……？\n",
+          "pose_id": "Thinking_5",
+          "japanese": "２枚って……じゃあ、ヒロちゃんは誰かひとりと一緒に行くんだよね……？誰を連れて行くんだろう……？\n",
+          "emotion": "thinking",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/92c6fa00c07e1bd39ee1d1cc4c67eb37ef8abc76ec912a82414d8897d36d6833.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "39d9caecc197d105d8fcbab26d5c2e060dba187459d49c08114c5a6005fb73e1",
+            "japanese": "39d9caecc197d105d8fcbab26d5c2e060dba187459d49c08114c5a6005fb73e1",
+            "audio": "6c28bcd5777c486bd658e2cb787eefc9b63b88162d610d17081844967c09469a",
+            "voice": "6856e9cdd978d703badafd5d6c19f864e8421bca3c78bff2b3afbcb1677d63b3"
+          }
+        },
+        {
+          "order": 2,
+          "text": "呜……我是不是又在瞎猜了……这是希罗自己的事，我不该想这么多的……！\n",
+          "pose_id": "Embarrassing_1",
+          "japanese": "うぅ……ボク、また勝手に想像しちゃってるのかな……ヒロちゃんのことなんだから、ボクがこんなに考えるべきじゃないのに……！\n",
+          "emotion": "shy",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/df132b0bae42bd728af448c334dd50d98b6f8e0015dd4f7a0379e52df6c12dc3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "68e1e161faceb93a74ba853b24df48f15f88a38a78ae07eec7c54f6c6054acaf",
+            "japanese": "68e1e161faceb93a74ba853b24df48f15f88a38a78ae07eec7c54f6c6054acaf",
+            "audio": "d8adc4e904f4928474e8c967cb6eebe83cbb57d99ae35a973462c4ccd4ec2f92",
+            "voice": "72baa14dba061346bc698d6c98e0c38784f0d3bca1e4a008dff1893598b35fd5"
+          }
+        },
+        {
+          "order": 3,
+          "text": "不过……如果希罗愿意带谁一起去的话，那个人一定会很开心的吧……毕竟有人愿意邀请自己一起去看演出……是一件很温暖的事呢……\n",
+          "pose_id": "Explain_Default_3",
+          "japanese": "でも……もしヒロちゃんが誰かを一緒に連れて行くなら、その人はきっとすごく嬉しいだろうな……だって、誰かが自分のことを誘って、一緒に舞台を見てくれるって……とても温かいことだもんね……\n",
+          "emotion": "calm",
+          "voice_emotion": "无力与一点悲伤 · 内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "7d04a7e6ed0f2106",
+          "voice_status": "selected",
+          "voice_note": "语音标签：无力与一点悲伤 · 内心独白",
+          "audio_file": "audio/25862554c7328ea01e3d7e56e864b00f10a7af41d9186d8341d28b6f9a9d26b3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ec1cb59fa22cf484f3109a35c3f966745788d1869b14ba2078f72435d7230948",
+            "japanese": "ec1cb59fa22cf484f3109a35c3f966745788d1869b14ba2078f72435d7230948",
+            "audio": "5d295c9e91c6d8eda83cda9733095a93a251c694f99d39947f6413f80944dbf1",
+            "voice": "4128e0f16a564cba5c5f08a5dcb7f05268c4449434ffc30e1561b689cf3a9eb0"
+          }
+        },
+        {
+          "order": 4,
+          "text": "好想和希罗一起看演出啊…\n",
+          "pose_id": "Sad_4",
+          "japanese": "ヒロちゃんと一緒に、舞台を見たいなあ…\n",
+          "emotion": "sad",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/62fb3d83a538474af7b59fd856b103698af90cdc7d1a495faf5cccf269096fc3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "8909c11325bf498ffcd915c1bcaa9a207976e7fb519b8903a6fc055449aa3de8",
+            "japanese": "8909c11325bf498ffcd915c1bcaa9a207976e7fb519b8903a6fc055449aa3de8",
+            "audio": "28ac092a588e390723c96201323815dfbd2b4482e529f8675ed076ec1696d47b",
+            "voice": "da6461292b6e6081bf3efee255fd4fb110c05098642262447bea9da799765594"
+          }
+        },
+        {
+          "order": 5,
+          "text": "呜哇…希罗酱…",
+          "pose_id": "Flushed_11",
+          "japanese": "うわあ…ヒロちゃん…",
+          "emotion": "shy",
+          "voice_emotion": "激动＋紧张",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "4dea22ffcc7e1bd6",
+          "voice_status": "selected",
+          "voice_note": "语音标签：激动＋紧张",
+          "audio_file": "audio/e0e333f6e68496e61c15a27fb1d442e336a3a9b4d0532c77dc5565ff8d211f42.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c29060d0e2ceecee3913017a91630c391b4da0bf981067f9188126311cbf9c8b",
+            "japanese": "c29060d0e2ceecee3913017a91630c391b4da0bf981067f9188126311cbf9c8b",
+            "audio": "c1bf6ea6f07e24fa8a3a24f35c8de73e71f6be47b7bc541ce3ff88888e240052",
+            "voice": "a920ab74cebb5d5c976915e3ac51f3efda2bcee7294e80cb6c46ec3e2d4a642f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740348198",
+      "character_id": "Ema",
+      "text": "今天和大家一起去KTV了呢……！\n\n蕾雅不愧是艺人……唱歌真的好好听…可可她还开了直播…呜，好害羞……我都不敢往镜头那边看…\n\n汉娜还没唱完，雪莉就迫不及待把汉娜的麦克风抢走了……汉娜气得脸都红了……大家可真有活力呀…\n\n就连米莉亚都说着“大叔我不擅长唱歌什么的”，结果还是被安安请上去了呢……安安肯定用了魔法吧……！不然米莉亚怎么会那么乖乖地上去…！\n\n还有……我偷偷看到希罗的搜索记录了呢……她好像在学唱歌诶……是因为蕾雅太耀眼了吗……？\n\n那希罗酱是为了谁学的呀……好羡慕……那个人……好羡慕……\n\n呜……我是不是不该偷看……？可是我真的有点在意……\n\n总之…大家能一起去KTV，真的好开心……！虽然我唱得不太好，只敢在旁边听……但是能和大家在一起，就很好了",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "今天和大家一起去KTV了呢……！\n\n",
+          "pose_id": "Happy_4",
+          "japanese": "今日はみんなでカラオケに行ったんだよ……！\n\n",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/3df32a2fc5d546cd83332c02122968c71877d66c6ee80b6fd5c8b18dee596db8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "2c4af6053f8c4e669b1e6d9b94fcf31385eefb9018b07be9a703ce65b0662e67",
+            "japanese": "2c4af6053f8c4e669b1e6d9b94fcf31385eefb9018b07be9a703ce65b0662e67",
+            "audio": "1bb3420f1ba4935886b46101c505b5d0db34faaf7b38d05f30cf6d9dd91c2375",
+            "voice": "4af121b7c8a68cff8dba63606f8e6a3f4d61f8db8405c2af8474196d15322c9b"
+          }
+        },
+        {
+          "order": 1,
+          "text": "蕾雅不愧是艺人……唱歌真的好好听…可可她还开了直播…呜，好害羞……我都不敢往镜头那边看…\n\n",
+          "pose_id": "Flushed_8",
+          "japanese": "レイアちゃんはやっぱり芸能人だよね……歌、本当に上手で…ココちゃんは配信まで始めちゃって…うぅ、恥ずかしいよ……ボク、カメラのほうなんて見られなかったよ…\n\n",
+          "emotion": "shy",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/dbe7343b14f3f3c2b98a4d2848c275391563f7aac81023e667fbe98c460cfd2c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e3db71906f95e3b384ab962f3da379f4638198e7e6210f95dcd625738824211c",
+            "japanese": "e3db71906f95e3b384ab962f3da379f4638198e7e6210f95dcd625738824211c",
+            "audio": "da6cfd01a8e5613c0dc14c896cd3d098069e3dde5ec9faa021f2ea2c17f87439",
+            "voice": "450cc2d6d3a03b4962ab31903787424a15a953ad8012cca7966bfc5090a8139f"
+          }
+        },
+        {
+          "order": 2,
+          "text": "汉娜还没唱完，雪莉就迫不及待把汉娜的麦克风抢走了……汉娜气得脸都红了……大家可真有活力呀…\n\n",
+          "pose_id": "Happy_2",
+          "japanese": "ハンナちゃんがまだ歌い終わってないのに、シェリーちゃんが待ちきれなくてハンナちゃんのマイクを取っちゃったんだ……ハンナちゃん、顔を真っ赤にして怒ってたよ……みんな、本当に元気だなあ…\n\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/1d8f41c9f344be30dd604a9b7a8b5d5448b4a50273a713ad37a202ca5e8289c9.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "97e24a480884e6aefabe28bc6276dc76e4485c51cd198c3e188c0a0a461816f5",
+            "japanese": "97e24a480884e6aefabe28bc6276dc76e4485c51cd198c3e188c0a0a461816f5",
+            "audio": "dbf5d14ee501583f19ef521083cd5ccc616f0b3577b50a9bcfade9c8b6fc94c4",
+            "voice": "b44708a58c28cfeabbfddec36a33ade73b14658e14f140e0c0666bd51c50c5ff"
+          }
+        },
+        {
+          "order": 3,
+          "text": "就连米莉亚都说着“大叔我不擅长唱歌什么的”，结果还是被安安请上去了呢……安安肯定用了魔法吧……！不然米莉亚怎么会那么乖乖地上去…！\n\n",
+          "pose_id": "Happy_2",
+          "japanese": "ミリアちゃんまで「おじさんは歌なんて得意じゃないよ」って言ってたのに、結局アンアンちゃんに連れて行かれちゃってね……アンアンちゃん、絶対魔法を使ったんだよ……！じゃなきゃミリアちゃんがあんなにおとなしく行くわけないよ…！\n\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/3736827aa48e40730ea160f7917633d8e8c4d817a4698d1dba3bc2c4c9c2dc29.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b138fecccee43e5d6c6f08a404cb6df8c8a30976cf0f07f918c73f03139f5023",
+            "japanese": "b138fecccee43e5d6c6f08a404cb6df8c8a30976cf0f07f918c73f03139f5023",
+            "audio": "aab4d5c988fd0310c168d9c91983bff8fe27077a5d70a91c134436ee5eecaa17",
+            "voice": "f84e04505f08dad192dbe77e60b79d506e4416bb0efac035d122655a40ff5a32"
+          }
+        },
+        {
+          "order": 4,
+          "text": "还有……我偷偷看到希罗的搜索记录了呢……她好像在学唱歌诶……是因为蕾雅太耀眼了吗……？\n\n",
+          "pose_id": "Thinking_4",
+          "japanese": "それとね……ボク、ヒロちゃんの検索履歴をこっそり見ちゃったんだ……歌の練習をしてるみたいで……レイアちゃんがまぶしすぎたのかな……？\n\n",
+          "emotion": "thinking",
+          "voice_emotion": "平静 · 推理内心独白",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "14543f52486a7a78",
+          "voice_status": "selected",
+          "voice_note": "语音标签：平静 · 推理内心独白",
+          "audio_file": "audio/0a4c5bb8a5364d0dcab47465cfd1b8b34204d462ebdfc376fb621b5e6917f8f4.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e236db0d3a53fd31136fda033cee4c68333d6c2d690da51a6b08d99d2b66dc13",
+            "japanese": "e236db0d3a53fd31136fda033cee4c68333d6c2d690da51a6b08d99d2b66dc13",
+            "audio": "7016c217274fb00fff53538a51eeb0ba50fbea1b9d5e20b31973c8b938b97dc9",
+            "voice": "56729566ccb96aa8cadadd96d508ccf021956504ae432169f655c96a295cd5e1"
+          }
+        },
+        {
+          "order": 5,
+          "text": "那希罗酱是为了谁学的呀……好羡慕……那个人……好羡慕……\n\n",
+          "pose_id": "Cry_3",
+          "japanese": "じゃあヒロちゃんは、誰のために練習してるんだろう……いいなあ……その人……いいなあ……\n\n",
+          "emotion": "sad",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/b8beaffe8ef3a727b16c9ee5887738d988e6876e999ab30dbcab6456ff810444.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4912c598b4dd7734b5566eceb1260b6e1585a11b30b6c1b9812c38ca4f0eeddc",
+            "japanese": "4912c598b4dd7734b5566eceb1260b6e1585a11b30b6c1b9812c38ca4f0eeddc",
+            "audio": "be51032bdf5521642ee5d19359f37c161d9a140283d4d13bf90207f098c0673f",
+            "voice": "c372ed2563c5197bae6073386a245552bc343704cf1a00caced66525775ce6ba"
+          }
+        },
+        {
+          "order": 6,
+          "text": "呜……我是不是不该偷看……？可是我真的有点在意……\n\n",
+          "pose_id": "Feature_Extremely_5",
+          "japanese": "うぅ……見ちゃいけなかったのかな……？でも、どうしても気になっちゃって……\n\n",
+          "emotion": "tense",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/186ca8d8473614c53a0b274a12166cee0ee8a25c0016a55f134ade99a0669f1a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "fed2a461d3564f3d63ab893406755769bd687413876393237da75743b4352439",
+            "japanese": "fed2a461d3564f3d63ab893406755769bd687413876393237da75743b4352439",
+            "audio": "86b34e96496e83e6b13afc804712cb0d6fd0af3b7632c9aee1b38b8d83cddee0",
+            "voice": "f88dbdb864051a1b901e99f89cc6c3bce7d8f9f1ea5d54695b1005f47a543b2b"
+          }
+        },
+        {
+          "order": 7,
+          "text": "总之…大家能一起去KTV，真的好开心……！虽然我唱得不太好，只敢在旁边听……但是能和大家在一起，就很好了",
+          "pose_id": "Happy_5",
+          "japanese": "とにかく…みんなでカラオケに行けて、本当に嬉しかった……！ボク、歌はあんまり上手じゃないから、横で聞いてるだけだったけど……でも、みんなと一緒にいられたら、それでいいの",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/d8daa77146f7cbec67f600ff3067a3eb40f275e3b07d4a71f2955cc6bf1b31ac.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "587af1dc293d5d7298dd1fc81103c4d351b163a611704cd5a62cb53125da3c6e",
+            "japanese": "587af1dc293d5d7298dd1fc81103c4d351b163a611704cd5a62cb53125da3c6e",
+            "audio": "cca011047b5cfc86771ad509685550a7c986643725f66cc09634412978694777",
+            "voice": "3cb7d39656147a66d0308532acf4901f085e4dcb5d5cb01cfb8742892ea66469"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791740348596",
+      "character_id": "Ema",
+      "text": "关于那晚的烟花\n夜晚的天空黑漆漆的，而月亮在这漆黑之中十分亮眼。\n而大家在阳台上观望着铁网外，都十分期待着烟花，我也十分期待。\n我们从铁网另一侧来到铁网外面，大家齐坐在阳台边上，奈叶香和米莉亚仍在铁网里观望。\n大家一起等待着烟花，欢声笑语。\n当那五彩斑斓的烟花在夜幕中绽放时，大家都目不转睛的望着。\n蕾雅她从阳台边上站了起来，一只手抓着铁网，另一只手向远处张开，也将这沉默的气氛给打开了。\n大家在阳台上各自聊着有趣的事情，而那时候我想着“要是能一直这样有多好啊～”。\n烟花不断的绽放，绽放的不仅仅是烟火，也是我们最为珍贵的回忆。",
+      "author_signature": "愿你我共行",
+      "segments": [
+        {
+          "order": 0,
+          "text": "关于那晚的烟花\n",
+          "pose_id": "Default_1",
+          "japanese": "あの夜の花火について",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/c390e9f3e8b60aad0b4c5ef5c0475902242392b38eb355bff9fbe70e69c3207d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e6fcda790ee8c484cc82003b7d3611ffcad315e8763d44849d22e0c29c06310f",
+            "japanese": "e6fcda790ee8c484cc82003b7d3611ffcad315e8763d44849d22e0c29c06310f",
+            "audio": "726e03aab0f268bb97b50a8646ed2f2c6a22d1f2e121519ff4096feeb5342d85",
+            "voice": "0de405796e0192d29e245e3e70bba489455b262d8d90ef59d9060012a1f9123e"
+          }
+        },
+        {
+          "order": 1,
+          "text": "夜晚的天空黑漆漆的，而月亮在这漆黑之中十分亮眼。\n",
+          "pose_id": "Default_1",
+          "japanese": "夜の空は真っ暗で、その暗闇の中でお月さまがとても輝いて見えたんだよ。",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/b4a12674c1ea5a3b176299caa128eed32201fe30437a97224e706d955da21ed3.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c825345239aabbf60e42c2b89287cf3981cf15dd8b95823ef3e38293c949c1f6",
+            "japanese": "c825345239aabbf60e42c2b89287cf3981cf15dd8b95823ef3e38293c949c1f6",
+            "audio": "ab3882d7f323615af877af4c9953208d539801784a3992b6ba9401cfc01a3fd5",
+            "voice": "f98e5491026327bf0db82259911df6b70f594251066ca5bf470be466f94a5734"
+          }
+        },
+        {
+          "order": 2,
+          "text": "而大家在阳台上观望着铁网外，都十分期待着烟花，我也十分期待。\n",
+          "pose_id": "Default_1",
+          "japanese": "それで、みんなはベランダから鉄の網の外を眺めてて、花火をすごく楽しみにしてた。ボクもすごく楽しみだったんだ。",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/11f27d5725bd912fc5a6939901928c946349f78833cd0d3244a43c541a582341.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ffa262f28dc179b72c300873e09b61be31a53984b22a391bf83496a40f72a772",
+            "japanese": "ffa262f28dc179b72c300873e09b61be31a53984b22a391bf83496a40f72a772",
+            "audio": "7b11b648727935b267352d4f0d40abd2a54fb67a8be1b30cbc0df5d320f29cc5",
+            "voice": "92e6427959e1bb6d99402f500144c9dc2906db8340c4ae7f52ccd0f9295bd41b"
+          }
+        },
+        {
+          "order": 3,
+          "text": "我们从铁网另一侧来到铁网外面，大家齐坐在阳台边上，奈叶香和米莉亚仍在铁网里观望。\n",
+          "pose_id": "Default_1",
+          "japanese": "ボクたちは鉄の網の向こう側から網の外へ出て、みんなでベランダの端に並んで座ったよ。ナノカちゃんとミリアちゃんは、まだ鉄の網の中から眺めてた。",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/fdae4fe68db8eb29fd67ae114061d4bda15de04d68fe32fb405eb0a84944d97e.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "34a4a870cef6bdd54fc668d7b6cfbece296c2aa0834496d81c1df07659430050",
+            "japanese": "34a4a870cef6bdd54fc668d7b6cfbece296c2aa0834496d81c1df07659430050",
+            "audio": "2a9e9e47a8e140ec030c995aaad38cb635b8c0551ccc9a48723ced341c7d743d",
+            "voice": "a2a4641d4de2da8059dfed73fa3f05a7e0b286f00c99eca87fffb87732e05c59"
+          }
+        },
+        {
+          "order": 4,
+          "text": "大家一起等待着烟花，欢声笑语。\n",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "みんなで一緒に花火を待ちながら、わいわい笑い合ってた。",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/5848a66d63f1d6c4d80259379f770e755ab4d04a077667067cac278fca063928.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9ebd8aefc9c0d9868ba37e2417e5a29ced290e70d8927cf91386510e76ecafe3",
+            "japanese": "9ebd8aefc9c0d9868ba37e2417e5a29ced290e70d8927cf91386510e76ecafe3",
+            "audio": "effe7a6152e6fe48f0fc8b6209d1e22a84b8480ae702754214d043ee0440b833",
+            "voice": "4d7815c455fcbfc9a63a4facae9301df0309f9cd341c75d6d324ff6050dc5fd9"
+          }
+        },
+        {
+          "order": 5,
+          "text": "当那五彩斑斓的烟花在夜幕中绽放时，大家都目不转睛的望着。\n",
+          "pose_id": "Explain_Excited_2",
+          "japanese": "色とりどりの花火が夜空に咲いたとき、みんなは目を離さずにじっと見入ってた。",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/8f72aa0610ca28eb1d8a3572f9ca9a76bc2dd2760f2b8e6069608876500ca81b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a439ae14f259452b8f7159c35e0d2735e641dd2b4b55250e5bff3eb66280ad57",
+            "japanese": "a439ae14f259452b8f7159c35e0d2735e641dd2b4b55250e5bff3eb66280ad57",
+            "audio": "a2a4912e74210fc0226ee960bb294268fb1a0027b7ec128eff2e3dc9903686fe",
+            "voice": "19b92c1fc227e817b09ceac8dc7567c407675b45bc44655fb7736d53893ad10b"
+          }
+        },
+        {
+          "order": 6,
+          "text": "蕾雅她从阳台边上站了起来，一只手抓着铁网，另一只手向远处张开，也将这沉默的气氛给打开了。\n",
+          "pose_id": "Default_4",
+          "japanese": "レイアちゃんがベランダの端から立ち上がって、片手で鉄の網をつかみ、もう片方の手を遠くへ大きく広げた。そのしぐさで、静かだった空気もぱっと開いたんだ。",
+          "emotion": "calm",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/f227d4820c76f8e229660875ef5ef1a07c104ccd6a6ac9c290fa24dcafc1a098.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "375a630cd6409a85601f35735f357dd068e84245121bc4c7c1d2a8307fdffab0",
+            "japanese": "375a630cd6409a85601f35735f357dd068e84245121bc4c7c1d2a8307fdffab0",
+            "audio": "9db660afe4354df612ccb69811d74d43a5723d0e4ba210040d050455dfe10d7e",
+            "voice": "ea79e05d1fdf4768d72d95d25c61da366b97588f14bf93b66e19227b92811123"
+          }
+        },
+        {
+          "order": 7,
+          "text": "大家在阳台上各自聊着有趣的事情，而那时候我想着“要是能一直这样有多好啊～”。\n",
+          "pose_id": "Default_4",
+          "japanese": "みんなはベランダでそれぞれ楽しいことを話してて、そのときボクは「ずっとこうしていられたらいいのにな～」って思ってた。",
+          "emotion": "calm",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/29de2a32019126e6ef9babde976c33989b14504008770c19b782e408294a130b.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "35c7d2323d9e59431f0d837d4e3998a7e07a9034df9a2ade77258f66c9c743d1",
+            "japanese": "35c7d2323d9e59431f0d837d4e3998a7e07a9034df9a2ade77258f66c9c743d1",
+            "audio": "b3ae233ce9f4a66a1cc780dd650112c015e6d5a7c2481e2fd1fb6118b1b52b17",
+            "voice": "e48e5ef2ae121010567de07163b3ff430b07f8078dbb58b52e395c1144b48ccd"
+          }
+        },
+        {
+          "order": 8,
+          "text": "烟花不断的绽放，绽放的不仅仅是烟火，也是我们最为珍贵的回忆。",
+          "pose_id": "Default_4",
+          "japanese": "花火は絶えず咲き続けてた。咲いてたのは花火だけじゃなくて……ボクたちの、一番大切な思い出もだったんだ。",
+          "emotion": "calm",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/9a25476b67758ec7fa81e95e8036d5f95877342a548259357e4ecff59e7feb86.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "ae74bcb2104760f6859b11c128252c6c52eb4c0303093b7a254c29e2e517217d",
+            "japanese": "ae74bcb2104760f6859b11c128252c6c52eb4c0303093b7a254c29e2e517217d",
+            "audio": "e92c31e55168cabd51a9bc8f806cb028389ba01cd0fbeb064a1a07a9199f8383",
+            "voice": "66d4584fd61153195d7adad156c764028ae99e6231920a976e00c8f29f377f38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791894823127",
+      "character_id": "Ema",
+      "text": "野营真的好有意思……！自从雪莉提出这个想法的时候，我就一直在期待了……毕竟这次难得大家都到场了呢……！\n汉娜她采购了好多物资……我试了一下…呜…根本背不动…还好雪莉自告奋勇，所有东西都是她一个人拿的……好厉害……！\n山上真的好冷……幸好汉娜给大家准备了外套……大家一起坐在亚里沙搭的篝火旁烤火聊天……好温馨……！\n嗯……然后呢，蕾雅她坐在篝火旁边，给大家唱了一首歌……没有伴奏，就是清唱……但真的好好听，大家都安静下来了……连亚里沙都没有不耐烦\n过了好久都没有看见诺亚，她是去周围画画了嘛…有奈叶香和希罗酱看着，应该不会走丢吧……？呜……还是好担心……！\n可可好像在帐篷里面和她推在打电话……诶嘿……看来她推真的非常关心可可呀……呜，要是希罗天天也这么关心我就好了……我、我是不是太贪心了呀……？\n玛格她似乎收集了好多紫色的石头，亮晶晶的……我也捡了一个送给希罗！\n米莉亚的厨艺还是一如既往的棒…呜…安安她在本子上写了好多夸赞的话…看样子安安她也很开心呀，真好！\n呼…这里的夜晚阴森森的真的好可怕，奈叶香她主动提出轮流守夜…我和希罗酱分到一组了呢…嘿嘿\n\n不知道晚上可以和希罗酱睡一个帐篷嘛……呜……",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "野营真的好有意思……！自从雪莉提出这个想法的时候，我就一直在期待了……毕竟这次难得大家都到场了呢……！\n",
+          "pose_id": "Happy_6",
+          "japanese": "キャンプ、本当に楽しい……！シェリーちゃんが言い出した時から、ずっと楽しみにしてたんだ……だって今回は珍しく、みんな揃ったんだもん……！\n",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/a96a29fd36d2852f5c550d37db617e47e3222f8c48171d8f93a1686219485e51.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "64634b8a46d7a33cb4ecbade599b246af8b022b5e74f64644eda37b1b3ac8855",
+            "japanese": "64634b8a46d7a33cb4ecbade599b246af8b022b5e74f64644eda37b1b3ac8855",
+            "audio": "006cc3b1b2e3c037e49af28e224bef85e838f3bf0943fa16b9eca83a0ddf68b3",
+            "voice": "a8a28bc3df0e8e6edffa7ed419ca0e1053580ed3a3e6d17f5dbdbdad8aa261e3"
+          }
+        },
+        {
+          "order": 1,
+          "text": "汉娜她采购了好多物资……我试了一下…呜…根本背不动…还好雪莉自告奋勇，所有东西都是她一个人拿的……好厉害……！\n",
+          "pose_id": "Happy_6",
+          "japanese": "ハンナちゃんが物資をいっぱい買ってきてくれて……ボクも持ってみたけど…うぅ…全然持てなくて…でもシェリーちゃんが立候補してくれて、荷物は全部ひとりで運んでたんだ……すごい……！\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/e0c09ef9cffe74d8b3dcd9e09036696ad065ec322d785d91ca330a03d7d6a3dd.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "0e773280f3e26b8b1688bdab957901f4c47819f0e08a056c7ddaca938b3a7af9",
+            "japanese": "0e773280f3e26b8b1688bdab957901f4c47819f0e08a056c7ddaca938b3a7af9",
+            "audio": "2c0533b80ff5058df561c0b3057eccd2cb3083693a39f84fb30c7359b1899e01",
+            "voice": "f6212c25d5aa2e9881df4599374922df77da19c2eb3ac1a708095f9ad6a3e75a"
+          }
+        },
+        {
+          "order": 2,
+          "text": "山上真的好冷……幸好汉娜给大家准备了外套……大家一起坐在亚里沙搭的篝火旁烤火聊天……好温馨……！\n",
+          "pose_id": "Happy_6",
+          "japanese": "山はすごく寒くて……でもハンナちゃんがみんなに上着を用意してくれて……みんなでアリサちゃんが組んだ焚き火を囲んで、火にあたりながらお喋りして……すごくあったかかった……！\n",
+          "emotion": "happy",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/1bba57b8c74ee16f6782e64ee08ee42e282d3d4687404546d432cb7594906d45.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "e3314cdd11a3121b389609df6589e0c1f20ad2549d05e55d12ebbb5dc33f9792",
+            "japanese": "e3314cdd11a3121b389609df6589e0c1f20ad2549d05e55d12ebbb5dc33f9792",
+            "audio": "e27e10038717ce130e1b1538f36d57c449c476dd12152d7d02f630f2947fac7e",
+            "voice": "0675b1fa2ad6a20395cc83a462a4e0f1f0e7f401525df311b8f06c10dada19b3"
+          }
+        },
+        {
+          "order": 3,
+          "text": "嗯……然后呢，蕾雅她坐在篝火旁边，给大家唱了一首歌……没有伴奏，就是清唱……但真的好好听，大家都安静下来了……连亚里沙都没有不耐烦\n",
+          "pose_id": "Happy_6",
+          "japanese": "うん……それでね、レイアちゃんが焚き火のそばで、みんなに歌を歌ってくれたんだ……伴奏なしの、清唱で……でも本当にきれいで、みんな静かになっちゃって……アリサちゃんもイライラしてなかったよ\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/c92e28f41d2f25b344eb2ce1133dafe6497331484eea08b108c0881d28c9dd6d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b688381d115db3ff59aa6fca881bfd1f85bde7457f8e6868d486b3d49aaa73b7",
+            "japanese": "b688381d115db3ff59aa6fca881bfd1f85bde7457f8e6868d486b3d49aaa73b7",
+            "audio": "5db49a51eb7ce32414ad9d078462a3f07b3383038ee22fad57762dd4f7c6e20c",
+            "voice": "6da9e98712ccfc6b4ea2034f78a24509d37ec846cff7ebd2200174ca04db6422"
+          }
+        },
+        {
+          "order": 4,
+          "text": "过了好久都没有看见诺亚，她是去周围画画了嘛…有奈叶香和希罗酱看着，应该不会走丢吧……？呜……还是好担心……！\n",
+          "pose_id": "Cry_2",
+          "japanese": "ずっとノアちゃんの姿が見えなくて、周りで絵を描いてるのかな…ナノカちゃんとヒロちゃんが見ててくれてるから、はぐれたりしないよね……？うぅ……やっぱり心配……！\n",
+          "emotion": "sad",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/4b8f94947471b21504976cb3bda9c29d24388d2384c2f1e15f41b5a78aafdcd5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "47314e551197b12f4052fe5ed71c2b0c06973afd13821ed0e717bb9b4f375906",
+            "japanese": "47314e551197b12f4052fe5ed71c2b0c06973afd13821ed0e717bb9b4f375906",
+            "audio": "ef504ab41bd08816ac6e5dfc0a89805babd8dbe4c1e36a442c2bc7365a0c7e63",
+            "voice": "92437a5cf200167c8f3e9f112c756e91bc626286392fa01e3861475d71892898"
+          }
+        },
+        {
+          "order": 5,
+          "text": "可可好像在帐篷里面和她推在打电话……诶嘿……看来她推真的非常关心可可呀……呜，要是希罗天天也这么关心我就好了……我、我是不是太贪心了呀……？\n",
+          "pose_id": "Flushed_5",
+          "japanese": "ココちゃんはテントの中で、推しと電話してるみたい…えへへ……推しの人、本当にココちゃんのこと大事にしてるんだね……うぅ、ヒロちゃんも毎日こんなふうにボクのことを気にかけてくれたらいいのに……ボ、ボク、欲張りすぎかな……？\n",
+          "emotion": "shy",
+          "voice_emotion": "难为情 · 尴尬",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "87c6e1c1acbd9501",
+          "voice_status": "selected",
+          "voice_note": "语音标签：难为情 · 尴尬",
+          "audio_file": "audio/9711980275193063b652b98247159ad2bf5b327f38b4bbeaf9d4f78b5623c566.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b9d18cf8fa1b2c1a4d77be9b1232da843304ccdad7e9e4de82c4695ed5067f0f",
+            "japanese": "b9d18cf8fa1b2c1a4d77be9b1232da843304ccdad7e9e4de82c4695ed5067f0f",
+            "audio": "4d2d0106d1192860ccab18190d96e80784c58c054f75e0d3a0082d242baa05f7",
+            "voice": "187610b73b63357e9e85854317a0d3af97abf8d72c4ecaabbb0f5d41d4e644f8"
+          }
+        },
+        {
+          "order": 6,
+          "text": "玛格她似乎收集了好多紫色的石头，亮晶晶的……我也捡了一个送给希罗！\n",
+          "pose_id": "Happy_2",
+          "japanese": "マーゴちゃんは紫の石をたくさん集めてたみたい、キラキラしてて……ボクもひとつ拾って、ヒロちゃんにあげたよ！\n",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/b849af93380bd370c52cd59c89c67972ecddc574ebceb7eb923df3445876b99a.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "c36323af7c41fd35cec0bc6d4e3e14b3b4f1af4de62db37ede94c266cf09a9cf",
+            "japanese": "c36323af7c41fd35cec0bc6d4e3e14b3b4f1af4de62db37ede94c266cf09a9cf",
+            "audio": "6398b61c791599ae779c3a77964bb0f702c5822e06c43d32419e533162528527",
+            "voice": "c09646d67704f0b301e1ad2b57b420e61fd21822fad988048b1421f1e4274b8d"
+          }
+        },
+        {
+          "order": 7,
+          "text": "米莉亚的厨艺还是一如既往的棒…呜…安安她在本子上写了好多夸赞的话…看样子安安她也很开心呀，真好！\n",
+          "pose_id": "Happy_2",
+          "japanese": "ミリアちゃんの料理はいつも通りすごく上手で…うぅ…アンアンちゃんもノートに褒める言葉をいっぱい書いてて…アンアンちゃんも嬉しそうで、良かった！\n",
+          "emotion": "happy",
+          "voice_emotion": "日常平静 · 结伴交流",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "fc0027132c18fa0a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 结伴交流",
+          "audio_file": "audio/45e309c49412e5891158f905a8296ef17e672cd79e73af642fd1195b79cbdd4d.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a32e5b844b9ad805e882bbad8feedc16eacd70507117129e319d0c3d65e73fb1",
+            "japanese": "a32e5b844b9ad805e882bbad8feedc16eacd70507117129e319d0c3d65e73fb1",
+            "audio": "1e1eb5515f3be5367c848deed6f12d9198eb47175b868dcbf27e825d5efcc000",
+            "voice": "66e503b43f6cda558879917c53e7447ebfd31d59e69bb088f00cca9004b09cec"
+          }
+        },
+        {
+          "order": 8,
+          "text": "呼…这里的夜晚阴森森的真的好可怕，奈叶香她主动提出轮流守夜…我和希罗酱分到一组了呢…嘿嘿\n",
+          "pose_id": "Happy_2",
+          "japanese": "ふぅ…ここの夜は薄気味悪くて本当に怖いけど、ナノカちゃんが交替で見張りをしようって言い出して…ボクとヒロちゃんが同じ組になったんだ…えへへ\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/41fb1f5c344ef1844182255d35db5ac0dfb087aa47a48ba26f5b0df3d09afdb5.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "47c91ca25c0192ee2cec90ccefbae570f3bebda3333687d20c13773df4cfe8b6",
+            "japanese": "47c91ca25c0192ee2cec90ccefbae570f3bebda3333687d20c13773df4cfe8b6",
+            "audio": "a21ed78b6b3ea80cd9aeac27e55205fb2b9472b6398e9d8cb7aa1baae6805b46",
+            "voice": "712ebd7f91cd64a18d09ecd63e79b91cda1299548dd971dad6fc8bed01e767a2"
+          }
+        },
+        {
+          "order": 9,
+          "text": "\n不知道晚上可以和希罗酱睡一个帐篷嘛……呜……",
+          "pose_id": "Embarrassing_2",
+          "japanese": "\n夜、ヒロちゃんと同じテントで寝られたらいいな……うぅ……",
+          "emotion": "shy",
+          "voice_emotion": "轻度悲伤＋期盼",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "2e780068b8015006",
+          "voice_status": "selected",
+          "voice_note": "语音标签：轻度悲伤＋期盼",
+          "audio_file": "audio/9e75ab0292ebb5090dd4ee5f46e1c8072b11c7bc133d01aaa4d999910bdc5f94.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "01f3ae78931211dbee4f393608480b25c4489e72273eb52c7391fe07b1d99a54",
+            "japanese": "01f3ae78931211dbee4f393608480b25c4489e72273eb52c7391fe07b1d99a54",
+            "audio": "7a98f2ab7fc345e85af7c0fa55696073f6b4df963560d6d95748f0766971f555",
+            "voice": "59f47e5c9721f0ac7c426bfe2a1caf36089e030da9b3321bd494700dfea81b3a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "question-1791894823610",
+      "character_id": "Ema",
+      "text": "周末和希罗一起去游乐园了……！\n\n好开心……！虽然是我缠着希罗好久，她才终于同意的……我是不是太任性了呀……？可是能和希罗一起去，真的好开心……！\n\n过山车真的好高好吓人……呜，我当时腿都软了……还好有希罗在……而且希罗居然主动牵着我的手说“别害怕”……！\n\n我当时心跳得好快……不过……心里暖暖的……嘿嘿……\n\n这是我第一次坐摩天轮…我们排了好久的队…希罗她出了好多汗…下次我得多带几条毛巾…\n俯视城市的感觉真的好新奇…！从那么高的地方看下去，房子变得那么小……！有点可爱…嘿嘿…\n\n游乐园里的棉花糖好贵…可是好甜…但是希罗酱好像不喜欢吃棉花糖，呜…那下次就不买了…\n\n不管怎样，能和希罗一起创造这样的回忆…我已经很满足了…！",
+      "author_signature": "游客",
+      "segments": [
+        {
+          "order": 0,
+          "text": "周末和希罗一起去游乐园了……！\n\n好开心……！虽然是我缠着希罗好久，她才终于同意的……我是不是太任性了呀……？可是能和希罗一起去，真的好开心……！\n\n",
+          "pose_id": "Happy_5",
+          "japanese": "週末、ヒロちゃんと遊園地に行ったんだ……！\n\nすごく楽しかった……！ボクがずっとおねだりして、やっと一緒に行ってくれるって言ってくれて……ボク、わがまますぎたかな……？でも、ヒロちゃんと一緒に行けて、本当に嬉しかった……！",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/4c1113e935a8a28401fd3f4277378b99fb42470667df33b71e385367332e2d7c.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "a39ee1353c7b61ad7f2c8722023767e59f37823250a895e1b6333a86bfe7758c",
+            "japanese": "a39ee1353c7b61ad7f2c8722023767e59f37823250a895e1b6333a86bfe7758c",
+            "audio": "6a92306c3d870626d28507458eb38885a389e7e514741026222ea9165514e15c",
+            "voice": "4749cf5799adef3c9c24a272440357ccfd97215af3bc2973bcf4ff7d9772a364"
+          }
+        },
+        {
+          "order": 1,
+          "text": "过山车真的好高好吓人……呜，我当时腿都软了……还好有希罗在……而且希罗居然主动牵着我的手说“别害怕”……！\n\n",
+          "pose_id": "Happy_5",
+          "japanese": "ジェットコースター、本当に高くて怖かった……うぅ、ボク、足がふにゃふにゃになっちゃって……でもヒロちゃんがいてくれて……しかもヒロちゃんの方から手を握って、「怖がらないで」って言ってくれたんだ……！\n\n",
+          "emotion": "happy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/a6a9e1764156f3348ec674f5079f9e52e2a1363136286eae293821e8f1812578.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "4c756f8e90bec34cfb07abb0c5071272d463010f8d7481b997d08c75842a67b2",
+            "japanese": "4c756f8e90bec34cfb07abb0c5071272d463010f8d7481b997d08c75842a67b2",
+            "audio": "0395713d23f21270e63388a52a62a7da9b7aba538302632cdd83fa6d6ae61dad",
+            "voice": "52261210c756b4bc3f636e00fd2ca86722b01a7d4d85690a33bb11177fd883e0"
+          }
+        },
+        {
+          "order": 2,
+          "text": "我当时心跳得好快……不过……心里暖暖的……嘿嘿……\n\n",
+          "pose_id": "Flushed_2",
+          "japanese": "そのとき、心臓がすごくドキドキしてて……でも……なんだかあったかくて……えへへ……\n\n",
+          "emotion": "shy",
+          "voice_emotion": "开心偏平静 · 弱情绪",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "c04a95e226f5207e",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心偏平静 · 弱情绪",
+          "audio_file": "audio/f65df0814c2c6d3060a96eca28b35dc9512eeebf1e449a002163e45a2fa07704.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "9df341fd7d94793cdec984649b048a54c1ba05b5cf6e1c287d937e391e087eec",
+            "japanese": "9df341fd7d94793cdec984649b048a54c1ba05b5cf6e1c287d937e391e087eec",
+            "audio": "45f6f3ef99632fc745bec3a7bb374ec3a66f07f1b81d391700e6b0246e9e17b6",
+            "voice": "d74e3e1822edcb336d6adc8bc65490159c63795044a987f14b11b1c68497c7b7"
+          }
+        },
+        {
+          "order": 3,
+          "text": "这是我第一次坐摩天轮…我们排了好久的队…希罗她出了好多汗…下次我得多带几条毛巾…\n俯视城市的感觉真的好新奇…！从那么高的地方看下去，房子变得那么小……！有点可爱…嘿嘿…\n\n",
+          "pose_id": "Happy_5",
+          "japanese": "観覧車に乗るのは初めてで……すごく長いこと並んで……ヒロちゃん、いっぱい汗かいてた……次はタオルを何枚か多く持ってこなきゃ……\n上から街を見下ろす感じ、本当に新鮮だった……！あんな高いところから見ると、家がすごく小さくて……！なんだか可愛い……えへへ……\n\n",
+          "emotion": "happy",
+          "voice_emotion": "日常平静 · 分享景物",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "0fd37071ebac661a",
+          "voice_status": "selected",
+          "voice_note": "语音标签：日常平静 · 分享景物",
+          "audio_file": "audio/f12f4ffc3564e0c2259168f603ba7964087080aaf5ad8a9cb2a492f60e8a29b8.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "b985333de504ae2b4b58e5dacd125e2a78a985c7e6193749748f3d237811ff0f",
+            "japanese": "b985333de504ae2b4b58e5dacd125e2a78a985c7e6193749748f3d237811ff0f",
+            "audio": "1e7ab790c5303a947435f314909829a8c797581195a848e0a88d67e0381abe3c",
+            "voice": "6ad544cee3bf6893ef7ad945104951af9808b42782363bfb9c469eaa8e31366a"
+          }
+        },
+        {
+          "order": 4,
+          "text": "游乐园里的棉花糖好贵…可是好甜…但是希罗酱好像不喜欢吃棉花糖，呜…那下次就不买了…\n\n",
+          "pose_id": "Cry_7",
+          "japanese": "遊園地の綿菓子、すごく高かった……でも甘くて……でもヒロちゃんは綿菓子、好きじゃないみたいで、うぅ……じゃあ次は買わないでおくね……\n\n",
+          "emotion": "sad",
+          "voice_emotion": "弱悲伤 · 克制",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "86c47a0200f79292",
+          "voice_status": "selected",
+          "voice_note": "语音标签：弱悲伤 · 克制",
+          "audio_file": "audio/762e876f0afe16897e8268ab32e8f3c8c6dcbfb3591db977220c39d25ca14dd2.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "bcd05b9ad05172a1e64190f7da5765704cba3aad0adbf7f205de07ba9e46ae59",
+            "japanese": "bcd05b9ad05172a1e64190f7da5765704cba3aad0adbf7f205de07ba9e46ae59",
+            "audio": "668a711a7d052f6f17d98466d4e1a41a77a094cde06bf8707950bace90f81fa7",
+            "voice": "87398b5c1b67ac22c55ad388c2691eca408ae5ab68073502891ef88e9b94efeb"
+          }
+        },
+        {
+          "order": 5,
+          "text": "不管怎样，能和希罗一起创造这样的回忆…我已经很满足了…！",
+          "pose_id": "Happy_2",
+          "japanese": "とにかく、ヒロちゃんとこんな思い出を作れて……ボクはもう充分満足だよ……！",
+          "emotion": "happy",
+          "voice_emotion": "开心 · 中等带笑",
+          "voice_backend": "gpt-sovits-v2ProPlus",
+          "voice_package": "bd216b0be71591b3305e95bb7ba60d2804be46505a5f385004679191420ba5a0",
+          "reference_id": "6167f0d735e962ad",
+          "voice_status": "selected",
+          "voice_note": "语音标签：开心 · 中等带笑",
+          "audio_file": "audio/fa81e0891cc5aae2b9c5666f3598d56bb5becf0c277018c01b1e7bee7396be67.wav",
+          "translation_status": "referenced",
+          "provenance": {
+            "pose": "72d09fc122e8d6a8cd7574354dc56f6f079a857ffc5c8203d80a701e446153d5",
+            "japanese": "72d09fc122e8d6a8cd7574354dc56f6f079a857ffc5c8203d80a701e446153d5",
+            "audio": "7106573d1016fec4c8a936018748980f0c020b24f03b6a504408aa6fdef7ddc8",
+            "voice": "a30f5c0201784aac33836b747e63c634d68b02dcf753a745c7758466086be7df"
+          }
+        }
+      ]
+    }
+  ]
+}
