@@ -20,11 +20,11 @@
 <!-- maho-current-application:start -->
 ## 客户端下载（当前稳定版）
 
-[Maho Trials Box v1.2.2 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.2.2)
+[Maho Trials Box v1.2.2 Hotfix 1 发布与下载](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/app-v1.2.2-hotfix1)
 
-[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.2.2/MahoTrialsBox-v1.2.2-win-x64.zip)
+[下载 Windows x64 免安装版](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.2.2-hotfix1/MahoTrialsBox-v1.2.2-hotfix1-win-x64.zip)
 
-完整解压后运行 MahoTrialsBox.exe。程序内更新会按需下载已签名的模块包；请保留用户选择的完整数据目录和独立语音环境目录。
+完整解压后运行 MahoTrialsBox.exe。已有 v1.2.2 用户可在程序内检查更新并重启安装 Hotfix 1，修复场景回复和 Embedding 的 Core HTTPS 初始化失败；版本号保持 1.2.2。程序内更新按需下载两个变化的签名模块；请保留用户选择的完整数据目录和独立语音环境目录。
 
 问题库使用独立更新渠道。v1.2.2 的一键部署使用 [GPT-SoVITS v3 双后端环境](https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/tag/gpt-sovits-runtime-v3)；已有旧环境不会自动覆盖。如需更换，请停止语音服务、选择新的空目录后执行一键部署，完成后自动切换。旧环境仍可留作回退。旧版客户端请先更新再部署语音。
 
@@ -234,3 +234,4 @@ questions-<timestamp>-<id>/
 ---
 
 **感谢每一位关注《魔法少女的魔女审判》与支持同人创作的朋友。愿你与艾玛的每一段交流，都有值得记住的小小瞬间。** 🌸
+

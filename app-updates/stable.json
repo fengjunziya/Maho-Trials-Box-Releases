@@ -2519,18 +2519,18 @@
     },
     {
       "id": "core",
-      "content_sha256": "e455a5a95320269d73a630a2ff26d2d0f61a50edba1d57966a97cecaca826c75",
+      "content_sha256": "2e9078b1f4350a42025475a2f42993f96690d53f08eabe2f197c292a60429776",
       "files": [
         {
           "path": "resources/app/runtime/core/maho-core.exe",
-          "size": 13491161,
-          "sha256": "4dbd2d2d4138af606b16802fa209b3e87a0eb230b3aea39191369aa580697ba4"
+          "size": 62499931,
+          "sha256": "606e8396e4a6e864a8dfff1cab999db5806bdd62fe5fd6942d842d5584f99e6f"
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.2.2/module-core-e455a5a95320269d73a630a2ff26d2d0f61a50edba1d57966a97cecaca826c75.zip",
-        "size": 13266842,
-        "sha256": "7a4c771bb5a449211711b8b0918254c648076880a056a7369e6278feea88e742"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.2.2-hotfix1/module-core-2e9078b1f4350a42025475a2f42993f96690d53f08eabe2f197c292a60429776.zip",
+        "size": 62110807,
+        "sha256": "d94389a3380325b2701d0fcd5702d548f7f0979f6f61437dc9e0c4dcc01d4a53"
       }
     },
     {
@@ -3982,7 +3982,7 @@
     },
     {
       "id": "client",
-      "content_sha256": "ca1a32f6c5f6875998f501c2916eeed6ac5b7a0d3564ff6ae09fdeec403b6e1d",
+      "content_sha256": "7bc3f757e5484d355c7e1b652523bac5a2998bb61c053c292c38ac5bc9acd5ea",
       "files": [
         {
           "path": "README-Release.txt",
@@ -3992,7 +3992,7 @@
         {
           "path": "build-inventory.json",
           "size": 224552,
-          "sha256": "5e90efed6a5f4206b76a1e5a1a6f757f8eb7f649574a0ed5a517bd5269be7bcb"
+          "sha256": "292148e6010d90ed506f0a5236da697980067c3e5823031715a513e352e1bca7"
         },
         {
           "path": "resources/app/core/maho_core/openai_models.json",
@@ -5291,9 +5291,9 @@
         }
       ],
       "archive": {
-        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.2.2/module-client-ca1a32f6c5f6875998f501c2916eeed6ac5b7a0d3564ff6ae09fdeec403b6e1d.zip",
-        "size": 941683,
-        "sha256": "b6435864e769e3e1097487a2c471255397f335a8358281d7066a234b9d8eb27a"
+        "url": "https://github.com/fengjunziya/Maho-Trials-Box-Releases/releases/download/app-v1.2.2-hotfix1/module-client-7bc3f757e5484d355c7e1b652523bac5a2998bb61c053c292c38ac5bc9acd5ea.zip",
+        "size": 941682,
+        "sha256": "8b8bc334b5163a179b6f36579f9032f00b5d94945949fc72c43911d2db2cb0a2"
       }
     },
     {
